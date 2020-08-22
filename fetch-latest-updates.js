@@ -43,7 +43,7 @@ async function run() {
   const data = require(RESULTS_FILE);
   data[shortDateString] = filteredResults;
 
-  fs.writeFileSync(RESULTS_FILE, JSON.stringify(data));
+  fs.writeFileSync(RESULTS_FILE, JSON.stringify(data, null, 2));
 
   const flattenedData = Object.keys(data)
     .map(date => {
