@@ -28,17 +28,19 @@ async function run() {
     throw err;
   }
 
-  const filteredResults = json.map(result => ({
-    available: result.available,
-    unitName: result.unitName,
-    floorPlanName: result.floorPlanName,
-    bedrooms: result.bedrooms,
-    bathrooms: result.bathrooms,
-    sqft: result.sqft,
-    minRent: result.minRent,
-    maxRent: result.maxRent,
-    diagrams: path.join(INDIGO_URL, result.diagrams),
-  }));
+  const filteredResults = json
+    .map(result => ({
+      available: result.available,
+      unitName: result.unitName,
+      floorPlanName: result.floorPlanName,
+      bedrooms: result.bedrooms,
+      bathrooms: result.bathrooms,
+      sqft: result.sqft,
+      minRent: result.minRent,
+      maxRent: result.maxRent,
+      diagrams: path.join(INDIGO_URL, result.diagrams),
+    }))
+    .sort(sortByApt);
 
   const data = require(RESULTS_FILE);
   data[shortDateString] = filteredResults;
@@ -47,7 +49,9 @@ async function run() {
 
   const flattenedData = Object.keys(data)
     .map(date => {
-      return data[date].map(result => ({ fetchDate: date, ...result }));
+      return data[date]
+        .map(result => ({ fetchDate: date, ...result }))
+        .sort(sortByApt);
     })
     .reduce((acc, result) => acc.concat(result), []);
 
@@ -67,6 +71,10 @@ function currentTimeInTimezone(timezone) {
   );
 
   return invdate;
+}
+
+function sortByApt(apt1, apt2) {
+  return parseInt(apt1.unitName, 10) - parseInt(apt2.unitName, 10);
 }
 
 run().catch(err => {
