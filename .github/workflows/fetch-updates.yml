@@ -19,10 +19,8 @@ jobs:
       - name: 'Setup Dependencies'
         run: yarn
       - name: 'Fetch'
-        run: node fetch-latest-updates.js
-      - name: 'Regenerate Update Mapping'
-        run: yarn run generate-mapping
-      - name: 'Print git statuss'
+        run: yarn fetch
+      - name: 'Print git status'
         run: git status
       - name: 'Print git diff'
         run: git diff
