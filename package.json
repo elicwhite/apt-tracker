@@ -1,0 +1,16 @@
+{
+  "name": "indigo-apts",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "query-string": "^6.11.0",
+    "raw.macro": "^0.3.0"
+  },
+  "scripts": {
+    "fetch": "node fetch-latest-updates.js"
+  },
+  "devDependencies": {
+    "node-fetch": "^2.6.0",
+    "prettier": "^1.19.1"
+  }
+}
