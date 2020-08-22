@@ -16,7 +16,7 @@ const INDIGO_JSON =
 const date = currentTimeInTimezone('America/New_York');
 const month = String(date.getMonth() + 1).padStart(2, '0');
 const day = String(date.getDate()).padStart(2, '0');
-const shortDateString = `20-${month}-${day}`;
+const shortDateString = `2020-${month}-${day}`;
 
 async function run() {
   const result = await fetch(INDIGO_JSON);
