@@ -3,6 +3,11 @@ const fs = require('fs');
 const path = require('path');
 
 const RESULTS_FILE = path.join(__dirname, 'results', 'data.json');
+const FLATTENED_RESULTS_FILE = path.join(
+  __dirname,
+  'results',
+  'flattened_data.json',
+);
 
 const INDIGO_URL = 'https://www.indigoapthomes.com';
 const INDIGO_JSON =
@@ -39,6 +44,17 @@ async function run() {
   data[shortDateString] = filteredResults;
 
   fs.writeFileSync(RESULTS_FILE, JSON.stringify(data));
+
+  const flattenedData = Object.keys(data)
+    .map(date => {
+      return data[date].map(result => ({ fetchDate: date, ...result }));
+    })
+    .reduce((acc, result) => acc.concat(result), []);
+
+  fs.writeFileSync(
+    FLATTENED_RESULTS_FILE,
+    JSON.stringify(flattenedData, null, 2),
+  );
 }
 
 function currentTimeInTimezone(timezone) {
