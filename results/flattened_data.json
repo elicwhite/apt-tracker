@@ -1537,18 +1537,6 @@
   },
   {
     "fetchDate": "2020-08-23",
-    "available": "Now",
-    "unitName": "224",
-    "floorPlanName": "Turquoise",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 552,
-    "minRent": 2552,
-    "maxRent": 4328,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_EB10Parent_50A_DIMS_BW-01.jpg"
-  },
-  {
-    "fetchDate": "2020-08-23",
     "available": "August 29",
     "unitName": "258",
     "floorPlanName": "Violet",
@@ -1675,8 +1663,8 @@
     "bedrooms": 1,
     "bathrooms": 1,
     "sqft": 775,
-    "minRent": 3116,
-    "maxRent": 9781,
+    "minRent": 3109,
+    "maxRent": 9772,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1T10Parent_039B_DIMS_BW-01.jpg"
   },
   {
@@ -1783,13 +1771,13 @@
     "bedrooms": 1,
     "bathrooms": 1,
     "sqft": 842,
-    "minRent": 3126,
-    "maxRent": 9812,
+    "minRent": 3119,
+    "maxRent": 9803,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1FF10Parent_55B-2_BW-01.jpg"
   },
   {
     "fetchDate": "2020-08-23",
-    "available": "August 30",
+    "available": "August 26",
     "unitName": "542",
     "floorPlanName": "Smalt",
     "bedrooms": 1,
@@ -1822,18 +1810,6 @@
     "minRent": 2921,
     "maxRent": 9614,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1V10Parent_41B_DIMS_BW-01.jpg"
-  },
-  {
-    "fetchDate": "2020-08-23",
-    "available": "Now",
-    "unitName": "586",
-    "floorPlanName": "Ultramarine",
-    "bedrooms": 3,
-    "bathrooms": 2,
-    "sqft": 1481,
-    "minRent": 5215,
-    "maxRent": 7805,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
   },
   {
     "fetchDate": "2020-08-23",
@@ -1897,7 +1873,7 @@
   },
   {
     "fetchDate": "2020-08-23",
-    "available": "August 23",
+    "available": "Now",
     "unitName": "670",
     "floorPlanName": "Ultramarine",
     "bedrooms": 3,
@@ -2047,8 +2023,8 @@
     "bedrooms": 0,
     "bathrooms": 1,
     "sqft": 558,
-    "minRent": 2764,
-    "maxRent": 4650,
+    "minRent": 2749,
+    "maxRent": 4646,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EC10Parent_24A_BW-01.jpg"
   },
   {
@@ -2215,8 +2191,8 @@
     "bedrooms": 2,
     "bathrooms": 1,
     "sqft": 885,
-    "minRent": 4218,
-    "maxRent": 8343,
+    "minRent": 4195,
+    "maxRent": 8336,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2C20Parent_10C_DIMS_BW-01.jpg"
   },
   {
