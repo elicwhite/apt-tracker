@@ -1446,6 +1446,17 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1B10Parent_02B_DIMS_BW-01.jpg"
     },
     {
+      "available": "Now",
+      "unitName": "322",
+      "floorPlanName": "Turquoise",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 552,
+      "minRent": 2552,
+      "maxRent": 4328,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_EB10Parent_50A_DIMS_BW-01.jpg"
+    },
+    {
       "available": "October 6",
       "unitName": "328",
       "floorPlanName": "Federal",
@@ -1765,6 +1776,17 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2D20Parent_15C-P_DIMS_BW-01.jpg"
     },
     {
+      "available": "September 6",
+      "unitName": "770",
+      "floorPlanName": "Ultramarine",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "sqft": 1481,
+      "minRent": 5227,
+      "maxRent": 7927,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
+    },
+    {
       "available": "October 18",
       "unitName": "774",
       "floorPlanName": "Sky",
@@ -1840,6 +1862,17 @@
       "minRent": 4344,
       "maxRent": 7077,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2D20Parent_15C-P_DIMS_BW-01.jpg"
+    },
+    {
+      "available": "Now",
+      "unitName": "834",
+      "floorPlanName": "Manatee",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 843,
+      "minRent": 3271,
+      "maxRent": 10174,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1K10Parent_21B_DIMS_BW-01.jpg"
     },
     {
       "available": "Now",
