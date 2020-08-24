@@ -2329,18 +2329,6 @@
   },
   {
     "fetchDate": "2020-08-24",
-    "available": "Now",
-    "unitName": "322",
-    "floorPlanName": "Turquoise",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 552,
-    "minRent": 2552,
-    "maxRent": 4328,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_EB10Parent_50A_DIMS_BW-01.jpg"
-  },
-  {
-    "fetchDate": "2020-08-24",
     "available": "October 6",
     "unitName": "328",
     "floorPlanName": "Federal",
@@ -2432,12 +2420,12 @@
     "bathrooms": 1,
     "sqft": 775,
     "minRent": 3109,
-    "maxRent": 9772,
+    "maxRent": 9762,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1T10Parent_039B_DIMS_BW-01.jpg"
   },
   {
     "fetchDate": "2020-08-24",
-    "available": "August 24",
+    "available": "Now",
     "unitName": "410",
     "floorPlanName": "Maya",
     "bedrooms": 2,
@@ -2470,18 +2458,6 @@
     "minRent": 2780,
     "maxRent": 9699,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1I10Parent_13B_DIMS_BW-01.jpg"
-  },
-  {
-    "fetchDate": "2020-08-24",
-    "available": "Now",
-    "unitName": "426",
-    "floorPlanName": "Maya",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1159,
-    "minRent": 3953,
-    "maxRent": 7868,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/2A20Parent_1C_BW-01.jpg"
   },
   {
     "fetchDate": "2020-08-24",
@@ -2540,7 +2516,7 @@
     "bathrooms": 1,
     "sqft": 842,
     "minRent": 3119,
-    "maxRent": 9803,
+    "maxRent": 9793,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1FF10Parent_55B-2_BW-01.jpg"
   },
   {
@@ -2578,18 +2554,6 @@
     "minRent": 2921,
     "maxRent": 9614,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1V10Parent_41B_DIMS_BW-01.jpg"
-  },
-  {
-    "fetchDate": "2020-08-24",
-    "available": "September 6",
-    "unitName": "629",
-    "floorPlanName": "Rackley",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1264,
-    "minRent": 4313,
-    "maxRent": 7151,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2C20Parent_10C_DIMS_BW-01.jpg"
   },
   {
     "fetchDate": "2020-08-24",
@@ -2815,8 +2779,8 @@
     "bedrooms": 0,
     "bathrooms": 1,
     "sqft": 558,
-    "minRent": 2749,
-    "maxRent": 4646,
+    "minRent": 2733,
+    "maxRent": 4642,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EC10Parent_24A_BW-01.jpg"
   },
   {
@@ -2983,8 +2947,8 @@
     "bedrooms": 2,
     "bathrooms": 1,
     "sqft": 885,
-    "minRent": 4195,
-    "maxRent": 8336,
+    "minRent": 4176,
+    "maxRent": 8329,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2C20Parent_10C_DIMS_BW-01.jpg"
   },
   {
