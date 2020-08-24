@@ -2108,6 +2108,28 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1HH10Parent_56B-2_BW-01.jpg"
     },
     {
+      "available": "August 30",
+      "unitName": "208",
+      "floorPlanName": "Zaffre",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 547,
+      "minRent": 2427,
+      "maxRent": 7537,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1MM10Parent_64B-2_BW-01.jpg"
+    },
+    {
+      "available": "Now",
+      "unitName": "224",
+      "floorPlanName": "Turquoise",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 552,
+      "minRent": 2552,
+      "maxRent": 4328,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_EB10Parent_50A_DIMS_BW-01.jpg"
+    },
+    {
       "available": "August 29",
       "unitName": "258",
       "floorPlanName": "Violet",
@@ -2348,6 +2370,17 @@
       "minRent": 2921,
       "maxRent": 9614,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1V10Parent_41B_DIMS_BW-01.jpg"
+    },
+    {
+      "available": "November 8",
+      "unitName": "614",
+      "floorPlanName": "Cyan",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 735,
+      "minRent": 3218,
+      "maxRent": 12051,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1C10Parent_3B_DIMS_BW-01.jpg"
     },
     {
       "available": "October 11",
@@ -2634,6 +2667,17 @@
       "minRent": 3411,
       "maxRent": 11908,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1DD10Parent_51B_DIMS_BW-01.jpg"
+    },
+    {
+      "available": "September 6",
+      "unitName": "1010",
+      "floorPlanName": "Maya",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1159,
+      "minRent": 4975,
+      "maxRent": 8229,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/2A20Parent_1C_BW-01.jpg"
     },
     {
       "available": "Now",
