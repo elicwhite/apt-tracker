@@ -3193,6 +3193,18 @@
   },
   {
     "fetchDate": "2020-08-25",
+    "available": "September 22",
+    "unitName": "387",
+    "floorPlanName": "Aquamarine",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 759,
+    "minRent": 2888,
+    "maxRent": 8800,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1S10Parent_36B_DIMS_BW-01.jpg"
+  },
+  {
+    "fetchDate": "2020-08-25",
     "available": "August 26",
     "unitName": "410",
     "floorPlanName": "Maya",
@@ -3226,6 +3238,18 @@
     "minRent": 2780,
     "maxRent": 8958,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1I10Parent_13B_DIMS_BW-01.jpg"
+  },
+  {
+    "fetchDate": "2020-08-25",
+    "available": "Now",
+    "unitName": "426",
+    "floorPlanName": "Maya",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1159,
+    "minRent": 3953,
+    "maxRent": 7868,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/2A20Parent_1C_BW-01.jpg"
   },
   {
     "fetchDate": "2020-08-25",
@@ -3514,6 +3538,18 @@
     "minRent": 3268,
     "maxRent": 9425,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1C10Parent_3B_DIMS_BW-01.jpg"
+  },
+  {
+    "fetchDate": "2020-08-25",
+    "available": "August 30",
+    "unitName": "829",
+    "floorPlanName": "Rackley",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1264,
+    "minRent": 4275,
+    "maxRent": 8473,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2C20Parent_10C_DIMS_BW-01.jpg"
   },
   {
     "fetchDate": "2020-08-25",
