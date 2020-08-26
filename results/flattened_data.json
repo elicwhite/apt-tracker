@@ -3961,7 +3961,7 @@
   },
   {
     "fetchDate": "2020-08-26",
-    "available": "August 26",
+    "available": "Now",
     "unitName": "410",
     "floorPlanName": "Maya",
     "bedrooms": 2,
@@ -3994,18 +3994,6 @@
     "minRent": 2780,
     "maxRent": 8958,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1I10Parent_13B_DIMS_BW-01.jpg"
-  },
-  {
-    "fetchDate": "2020-08-26",
-    "available": "Now",
-    "unitName": "426",
-    "floorPlanName": "Maya",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1159,
-    "minRent": 3953,
-    "maxRent": 7868,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/2A20Parent_1C_BW-01.jpg"
   },
   {
     "fetchDate": "2020-08-26",
@@ -4352,7 +4340,7 @@
     "bathrooms": 1,
     "sqft": 558,
     "minRent": 2722,
-    "maxRent": 4637,
+    "maxRent": 4633,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EC10Parent_24A_BW-01.jpg"
   },
   {
@@ -4508,7 +4496,7 @@
     "bathrooms": 1,
     "sqft": 885,
     "minRent": 4176,
-    "maxRent": 8322,
+    "maxRent": 8316,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2C20Parent_10C_DIMS_BW-01.jpg"
   },
   {
