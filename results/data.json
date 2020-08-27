@@ -4210,8 +4210,8 @@
       "bedrooms": 1,
       "bathrooms": 1,
       "sqft": 846,
-      "minRent": 3371,
-      "maxRent": 9723,
+      "minRent": 3352,
+      "maxRent": 9713,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1HH10Parent_56B-2_BW-01.jpg"
     },
     {
@@ -4246,17 +4246,6 @@
       "minRent": 3160,
       "maxRent": 9105,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1HH10Parent_56B-2_BW-01.jpg"
-    },
-    {
-      "available": "September 21",
-      "unitName": "308",
-      "floorPlanName": "Frost",
-      "bedrooms": 2,
-      "bathrooms": 1,
-      "sqft": 791,
-      "minRent": 3221,
-      "maxRent": 9815,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/2A10Parent_64C-P_BW-01.jpg"
     },
     {
       "available": "October 6",
@@ -4490,17 +4479,6 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1P10Parent_032B_DIMS_BW-01.jpg"
     },
     {
-      "available": "October 11",
-      "unitName": "635",
-      "floorPlanName": "Smalt",
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "sqft": 583,
-      "minRent": 2650,
-      "maxRent": 8539,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg"
-    },
-    {
       "available": "September 6",
       "unitName": "640",
       "floorPlanName": "Baltic",
@@ -4695,7 +4673,7 @@
       "bathrooms": 1,
       "sqft": 558,
       "minRent": 2722,
-      "maxRent": 4633,
+      "maxRent": 4628,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EC10Parent_24A_BW-01.jpg"
     },
     {
@@ -4860,7 +4838,7 @@
       "bathrooms": 1,
       "sqft": 885,
       "minRent": 4176,
-      "maxRent": 8316,
+      "maxRent": 8309,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2C20Parent_10C_DIMS_BW-01.jpg"
     },
     {
@@ -4884,17 +4862,6 @@
       "minRent": 3561,
       "maxRent": 11471,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1AA10Parent_47B_DIMS_BW-01.jpg"
-    },
-    {
-      "available": "October 11",
-      "unitName": "1087",
-      "floorPlanName": "Aquamarine",
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "sqft": 759,
-      "minRent": 3268,
-      "maxRent": 10527,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1S10Parent_36B_DIMS_BW-01.jpg"
     }
   ]
 }
