@@ -5401,6 +5401,18 @@
   },
   {
     "fetchDate": "2020-08-28",
+    "available": "October 12",
+    "unitName": "346",
+    "floorPlanName": "Klein",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 914,
+    "minRent": 3491,
+    "maxRent": 11246,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1FF10Parent_55B-2_BW-01.jpg"
+  },
+  {
+    "fetchDate": "2020-08-28",
     "available": "September 26",
     "unitName": "348",
     "floorPlanName": "Water",
@@ -5509,6 +5521,18 @@
   },
   {
     "fetchDate": "2020-08-28",
+    "available": "October 23",
+    "unitName": "473",
+    "floorPlanName": "Ocean",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 754,
+    "minRent": 2758,
+    "maxRent": 8894,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1X10Parent_43B_DIMS_BW-01.jpg"
+  },
+  {
+    "fetchDate": "2020-08-28",
     "available": "Now",
     "unitName": "515",
     "floorPlanName": "Aqua",
@@ -5542,6 +5566,18 @@
     "minRent": 3119,
     "maxRent": 9075,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1FF10Parent_55B-2_BW-01.jpg"
+  },
+  {
+    "fetchDate": "2020-08-28",
+    "available": "October 30",
+    "unitName": "531",
+    "floorPlanName": "Cobalt",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 838,
+    "minRent": 2911,
+    "maxRent": 9389,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1N10Parent_28B_DIMS_BW-01.jpg"
   },
   {
     "fetchDate": "2020-08-28",
@@ -5818,6 +5854,18 @@
     "minRent": 2722,
     "maxRent": 4624,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EC10Parent_24A_BW-01.jpg"
+  },
+  {
+    "fetchDate": "2020-08-28",
+    "available": "August 30",
+    "unitName": "842",
+    "floorPlanName": "Smalt",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 2818,
+    "maxRent": 8118,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg"
   },
   {
     "fetchDate": "2020-08-28",
