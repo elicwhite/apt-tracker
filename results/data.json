@@ -5737,6 +5737,17 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1B10Parent_02B_DIMS_BW-01.jpg"
     },
     {
+      "available": "September 19",
+      "unitName": "415",
+      "floorPlanName": "Aqua",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 815,
+      "minRent": 3101,
+      "maxRent": 9448,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/1920x1121/interior/750681.jpg"
+    },
+    {
       "available": "October 19",
       "unitName": "423",
       "floorPlanName": "Celeste",
@@ -5867,6 +5878,17 @@
       "minRent": 3218,
       "maxRent": 11107,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1C10Parent_3B_DIMS_BW-01.jpg"
+    },
+    {
+      "available": "September 6",
+      "unitName": "629",
+      "floorPlanName": "Rackley",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1264,
+      "minRent": 4313,
+      "maxRent": 7151,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2C20Parent_10C_DIMS_BW-01.jpg"
     },
     {
       "available": "October 11",
