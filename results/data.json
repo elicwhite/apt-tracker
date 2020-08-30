@@ -6344,6 +6344,17 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1N10Parent_28B_DIMS_BW-01.jpg"
     },
     {
+      "available": "September 6",
+      "unitName": "337",
+      "floorPlanName": "Smalt",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 583,
+      "minRent": 2780,
+      "maxRent": 8470,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg"
+    },
+    {
       "available": "Now",
       "unitName": "341",
       "floorPlanName": "Storm",
@@ -6672,6 +6683,17 @@
       "minRent": 5227,
       "maxRent": 7927,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
+    },
+    {
+      "available": "September 15",
+      "unitName": "772",
+      "floorPlanName": "Sea",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 833,
+      "minRent": 3321,
+      "maxRent": 10119,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1Z10Parent_46B_DIMS_BW-01.jpg"
     },
     {
       "available": "October 18",
