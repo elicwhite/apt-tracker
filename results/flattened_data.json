@@ -6907,8 +6907,8 @@
     "bedrooms": 0,
     "bathrooms": 1,
     "sqft": 559,
-    "minRent": 2704,
-    "maxRent": 4593,
+    "minRent": 2692,
+    "maxRent": 4588,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/ED10Parent_28A-P_BW-01.jpg"
   },
   {
@@ -6934,18 +6934,6 @@
     "minRent": 2888,
     "maxRent": 8760,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1LL10Parent_61B-2_BW-01.jpg"
-  },
-  {
-    "fetchDate": "2020-08-30",
-    "available": "August 30",
-    "unitName": "372",
-    "floorPlanName": "Sea",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 833,
-    "minRent": 3240,
-    "maxRent": 9335,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1Z10Parent_46B_DIMS_BW-01.jpg"
   },
   {
     "fetchDate": "2020-08-30",
@@ -7358,38 +7346,14 @@
   {
     "fetchDate": "2020-08-30",
     "available": "Now",
-    "unitName": "834",
-    "floorPlanName": "Manatee",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 843,
-    "minRent": 3271,
-    "maxRent": 9436,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1K10Parent_21B_DIMS_BW-01.jpg"
-  },
-  {
-    "fetchDate": "2020-08-30",
-    "available": "Now",
     "unitName": "840",
     "floorPlanName": "Baltic",
     "bedrooms": 0,
     "bathrooms": 1,
     "sqft": 558,
     "minRent": 2722,
-    "maxRent": 4619,
+    "maxRent": 4615,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EC10Parent_24A_BW-01.jpg"
-  },
-  {
-    "fetchDate": "2020-08-30",
-    "available": "August 30",
-    "unitName": "842",
-    "floorPlanName": "Smalt",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 583,
-    "minRent": 2818,
-    "maxRent": 8118,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg"
   },
   {
     "fetchDate": "2020-08-30",
