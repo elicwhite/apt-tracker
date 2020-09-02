@@ -9445,6 +9445,18 @@
   },
   {
     "fetchDate": "2020-09-02",
+    "available": "November 4",
+    "unitName": "636",
+    "floorPlanName": "Pacific",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 826,
+    "minRent": 3041,
+    "maxRent": 10497,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1LL10Parent_61B-2_BW-01.jpg"
+  },
+  {
+    "fetchDate": "2020-09-02",
     "available": "September 6",
     "unitName": "640",
     "floorPlanName": "Baltic",
