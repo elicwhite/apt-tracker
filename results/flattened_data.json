@@ -10633,6 +10633,18 @@
   },
   {
     "fetchDate": "2020-09-04",
+    "available": "November 4",
+    "unitName": "214",
+    "floorPlanName": "Aegean",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 496,
+    "minRent": 2664,
+    "maxRent": 4828,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EA10Parent_3A-2_BW-01.jpg"
+  },
+  {
+    "fetchDate": "2020-09-04",
     "available": "Now",
     "unitName": "224",
     "floorPlanName": "Turquoise",
@@ -10906,6 +10918,18 @@
     "minRent": 3081,
     "maxRent": 9926,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1P10Parent_032B_DIMS_BW-01.jpg"
+  },
+  {
+    "fetchDate": "2020-09-04",
+    "available": "September 6",
+    "unitName": "634",
+    "floorPlanName": "Manatee",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 843,
+    "minRent": 3181,
+    "maxRent": 9693,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1K10Parent_21B_DIMS_BW-01.jpg"
   },
   {
     "fetchDate": "2020-09-04",
@@ -11230,6 +11254,18 @@
     "minRent": 3266,
     "maxRent": 10020,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1B10Parent_02B_DIMS_BW-01.jpg"
+  },
+  {
+    "fetchDate": "2020-09-04",
+    "available": "October 2",
+    "unitName": "1016",
+    "floorPlanName": "Indigo",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 697,
+    "minRent": 3498,
+    "maxRent": 10610,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1D10Parent_04B_DIMS_BW-01.jpg"
   },
   {
     "fetchDate": "2020-09-04",
