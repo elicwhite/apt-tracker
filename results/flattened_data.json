@@ -12865,7 +12865,7 @@
   },
   {
     "fetchDate": "2020-09-07",
-    "available": "November 4",
+    "available": "November 5",
     "unitName": "214",
     "floorPlanName": "Aegean",
     "bedrooms": 0,
@@ -12937,7 +12937,7 @@
   },
   {
     "fetchDate": "2020-09-07",
-    "available": "November 5",
+    "available": "November 6",
     "unitName": "371",
     "floorPlanName": "Majorelle",
     "bedrooms": 2,
@@ -13045,7 +13045,7 @@
   },
   {
     "fetchDate": "2020-09-07",
-    "available": "October 23",
+    "available": "October 24",
     "unitName": "473",
     "floorPlanName": "Ocean",
     "bedrooms": 1,
@@ -13082,18 +13082,6 @@
   {
     "fetchDate": "2020-09-07",
     "available": "Now",
-    "unitName": "518",
-    "floorPlanName": "Indigo",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 697,
-    "minRent": 2976,
-    "maxRent": 9154,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1D10Parent_04B_DIMS_BW-01.jpg"
-  },
-  {
-    "fetchDate": "2020-09-07",
-    "available": "Now",
     "unitName": "520",
     "floorPlanName": "Admiral",
     "bedrooms": 1,
@@ -13117,7 +13105,7 @@
   },
   {
     "fetchDate": "2020-09-07",
-    "available": "October 30",
+    "available": "October 31",
     "unitName": "531",
     "floorPlanName": "Cobalt",
     "bedrooms": 1,
@@ -13189,7 +13177,7 @@
   },
   {
     "fetchDate": "2020-09-07",
-    "available": "November 4",
+    "available": "November 5",
     "unitName": "636",
     "floorPlanName": "Pacific",
     "bedrooms": 1,
@@ -13268,7 +13256,7 @@
     "bathrooms": 2,
     "sqft": 1245,
     "minRent": 4362,
-    "maxRent": 7473,
+    "maxRent": 7467,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2D20Parent_15C-P_DIMS_BW-01.jpg"
   },
   {
@@ -13351,8 +13339,8 @@
     "bedrooms": 1,
     "bathrooms": 1,
     "sqft": 735,
-    "minRent": 3232,
-    "maxRent": 9938,
+    "minRent": 3226,
+    "maxRent": 9929,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1C10Parent_3B_DIMS_BW-01.jpg"
   },
   {
@@ -13381,7 +13369,7 @@
   },
   {
     "fetchDate": "2020-09-07",
-    "available": "September 7",
+    "available": "Now",
     "unitName": "878",
     "floorPlanName": "Teal",
     "bedrooms": 1,
