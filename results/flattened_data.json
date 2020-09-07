@@ -13465,6 +13465,18 @@
   },
   {
     "fetchDate": "2020-09-07",
+    "available": "October 4",
+    "unitName": "978",
+    "floorPlanName": "Teal",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 857,
+    "minRent": 3391,
+    "maxRent": 10286,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1CC10Parent_49B_DIMS_BW-01.jpg"
+  },
+  {
+    "fetchDate": "2020-09-07",
     "available": "October 31",
     "unitName": "982",
     "floorPlanName": "Spindrift",
