@@ -13923,6 +13923,17 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1N10Parent_28B_DIMS_BW-01.jpg"
     },
     {
+      "available": "November 15",
+      "unitName": "332",
+      "floorPlanName": "Midnight",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1245,
+      "minRent": 4274,
+      "maxRent": 7586,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2D20Parent_15C-P_DIMS_BW-01.jpg"
+    },
+    {
       "available": "Now",
       "unitName": "339",
       "floorPlanName": "Tiffany",
