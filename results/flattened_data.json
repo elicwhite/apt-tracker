@@ -16687,8 +16687,8 @@
     "bedrooms": 2,
     "bathrooms": 2,
     "sqft": 1159,
-    "minRent": 4023,
-    "maxRent": 7073,
+    "minRent": 4003,
+    "maxRent": 7067,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/2A20Parent_1C_BW-01.jpg"
   },
   {
@@ -16822,18 +16822,6 @@
     "minRent": 3096,
     "maxRent": 9976,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1P10Parent_032B_DIMS_BW-01.jpg"
-  },
-  {
-    "fetchDate": "2020-09-12",
-    "available": "Now",
-    "unitName": "634",
-    "floorPlanName": "Manatee",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 843,
-    "minRent": 3196,
-    "maxRent": 9737,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1K10Parent_21B_DIMS_BW-01.jpg"
   },
   {
     "fetchDate": "2020-09-12",
@@ -16999,8 +16987,8 @@
     "bedrooms": 2,
     "bathrooms": 2,
     "sqft": 1264,
-    "minRent": 4273,
-    "maxRent": 7474,
+    "minRent": 4249,
+    "maxRent": 7467,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2C20Parent_10C_DIMS_BW-01.jpg"
   },
   {
@@ -17026,18 +17014,6 @@
     "minRent": 3276,
     "maxRent": 9982,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1DD10Parent_51B_DIMS_BW-01.jpg"
-  },
-  {
-    "fetchDate": "2020-09-12",
-    "available": "September 12",
-    "unitName": "886",
-    "floorPlanName": "Ultramarine",
-    "bedrooms": 3,
-    "bathrooms": 2,
-    "sqft": 1481,
-    "minRent": 5407,
-    "maxRent": 8200,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
   },
   {
     "fetchDate": "2020-09-12",
