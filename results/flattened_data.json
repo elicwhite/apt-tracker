@@ -17221,7 +17221,7 @@
   },
   {
     "fetchDate": "2020-09-13",
-    "available": "September 13",
+    "available": "Now",
     "unitName": "110",
     "floorPlanName": "Cambridge",
     "bedrooms": 1,
@@ -17242,18 +17242,6 @@
     "minRent": 2668,
     "maxRent": 4835,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EA10Parent_3A-2_BW-01.jpg"
-  },
-  {
-    "fetchDate": "2020-09-13",
-    "available": "Now",
-    "unitName": "224",
-    "floorPlanName": "Turquoise",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 552,
-    "minRent": 2396,
-    "maxRent": 4141,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_EB10Parent_50A_DIMS_BW-01.jpg"
   },
   {
     "fetchDate": "2020-09-13",
@@ -17485,7 +17473,7 @@
   },
   {
     "fetchDate": "2020-09-13",
-    "available": "September 13",
+    "available": "Now",
     "unitName": "522",
     "floorPlanName": "Turquoise",
     "bedrooms": 0,
@@ -17794,18 +17782,6 @@
     "minRent": 6045,
     "maxRent": 10520,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2H20Parent_26C_DIMS_BW-01.jpg"
-  },
-  {
-    "fetchDate": "2020-09-13",
-    "available": "September 29",
-    "unitName": "973",
-    "floorPlanName": "Ocean",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 754,
-    "minRent": 2853,
-    "maxRent": 8654,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1X10Parent_43B_DIMS_BW-01.jpg"
   },
   {
     "fetchDate": "2020-09-13",
