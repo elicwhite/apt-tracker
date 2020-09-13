@@ -15860,8 +15860,8 @@
       "bedrooms": 1,
       "bathrooms": 1,
       "sqft": 846,
-      "minRent": 3166,
-      "maxRent": 9646,
+      "minRent": 3148,
+      "maxRent": 9637,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1HH10Parent_56B-2_BW-01.jpg"
     },
     {
@@ -15982,7 +15982,7 @@
       "bathrooms": 2,
       "sqft": 1159,
       "minRent": 4003,
-      "maxRent": 7067,
+      "maxRent": 7060,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/2A20Parent_1C_BW-01.jpg"
     },
     {
@@ -16039,6 +16039,28 @@
       "minRent": 3124,
       "maxRent": 9604,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1Z10Parent_46B_DIMS_BW-01.jpg"
+    },
+    {
+      "available": "October 24",
+      "unitName": "473",
+      "floorPlanName": "Ocean",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 754,
+      "minRent": 2773,
+      "maxRent": 8944,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1X10Parent_43B_DIMS_BW-01.jpg"
+    },
+    {
+      "available": "October 5",
+      "unitName": "480",
+      "floorPlanName": "Turquoise",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 552,
+      "minRent": 2528,
+      "maxRent": 4367,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_EB10Parent_50A_DIMS_BW-01.jpg"
     },
     {
       "available": "September 23",
@@ -16278,8 +16300,8 @@
       "bedrooms": 2,
       "bathrooms": 2,
       "sqft": 1264,
-      "minRent": 4249,
-      "maxRent": 7467,
+      "minRent": 4231,
+      "maxRent": 7460,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2C20Parent_10C_DIMS_BW-01.jpg"
     },
     {
