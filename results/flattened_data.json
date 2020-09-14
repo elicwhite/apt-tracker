@@ -17959,8 +17959,8 @@
     "bedrooms": 1,
     "bathrooms": 1,
     "sqft": 846,
-    "minRent": 3148,
-    "maxRent": 9637,
+    "minRent": 3131,
+    "maxRent": 9628,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1HH10Parent_56B-2_BW-01.jpg"
   },
   {
@@ -17971,8 +17971,8 @@
     "bedrooms": 1,
     "bathrooms": 1,
     "sqft": 838,
-    "minRent": 3076,
-    "maxRent": 9372,
+    "minRent": 3059,
+    "maxRent": 9363,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1N10Parent_28B_DIMS_BW-01.jpg"
   },
   {
@@ -17986,18 +17986,6 @@
     "minRent": 4274,
     "maxRent": 7586,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2D20Parent_15C-P_DIMS_BW-01.jpg"
-  },
-  {
-    "fetchDate": "2020-09-14",
-    "available": "Now",
-    "unitName": "339",
-    "floorPlanName": "Tiffany",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 694,
-    "minRent": 2791,
-    "maxRent": 8590,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1O10Parent_029B_DIMS_BW-01.jpg"
   },
   {
     "fetchDate": "2020-09-14",
@@ -18049,18 +18037,6 @@
   },
   {
     "fetchDate": "2020-09-14",
-    "available": "October 29",
-    "unitName": "378",
-    "floorPlanName": "Teal",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 857,
-    "minRent": 3136,
-    "maxRent": 10113,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1CC10Parent_49B_DIMS_BW-01.jpg"
-  },
-  {
-    "fetchDate": "2020-09-14",
     "available": "Now",
     "unitName": "381",
     "floorPlanName": "Brandeis",
@@ -18073,14 +18049,14 @@
   },
   {
     "fetchDate": "2020-09-14",
-    "available": "September 24",
+    "available": "September 25",
     "unitName": "387",
     "floorPlanName": "Aquamarine",
     "bedrooms": 1,
     "bathrooms": 1,
     "sqft": 759,
     "minRent": 2903,
-    "maxRent": 8844,
+    "maxRent": 8804,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1S10Parent_36B_DIMS_BW-01.jpg"
   },
   {
@@ -18092,7 +18068,7 @@
     "bathrooms": 2,
     "sqft": 1159,
     "minRent": 4003,
-    "maxRent": 7060,
+    "maxRent": 7054,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/2A20Parent_1C_BW-01.jpg"
   },
   {
@@ -18325,18 +18301,6 @@
   },
   {
     "fetchDate": "2020-09-14",
-    "available": "Now",
-    "unitName": "721",
-    "floorPlanName": "Smalt",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 583,
-    "minRent": 2585,
-    "maxRent": 7877,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg"
-  },
-  {
-    "fetchDate": "2020-09-14",
     "available": "November 13",
     "unitName": "730",
     "floorPlanName": "Cornflower",
@@ -18440,7 +18404,7 @@
     "bathrooms": 2,
     "sqft": 1264,
     "minRent": 4231,
-    "maxRent": 7460,
+    "maxRent": 7453,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2C20Parent_10C_DIMS_BW-01.jpg"
   },
   {
@@ -18463,8 +18427,8 @@
     "bedrooms": 1,
     "bathrooms": 1,
     "sqft": 770,
-    "minRent": 3276,
-    "maxRent": 9982,
+    "minRent": 3258,
+    "maxRent": 9973,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1DD10Parent_51B_DIMS_BW-01.jpg"
   },
   {
@@ -18505,7 +18469,7 @@
   },
   {
     "fetchDate": "2020-09-14",
-    "available": "September 16",
+    "available": "September 20",
     "unitName": "944",
     "floorPlanName": "Marine",
     "bedrooms": 2,
@@ -18565,7 +18529,7 @@
   },
   {
     "fetchDate": "2020-09-14",
-    "available": "October 2",
+    "available": "October 4",
     "unitName": "1016",
     "floorPlanName": "Indigo",
     "bedrooms": 1,
