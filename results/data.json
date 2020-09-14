@@ -16736,6 +16736,17 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1N10Parent_28B_DIMS_BW-01.jpg"
     },
     {
+      "available": "Now",
+      "unitName": "542",
+      "floorPlanName": "Smalt",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 583,
+      "minRent": 2563,
+      "maxRent": 7900,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg"
+    },
+    {
       "available": "September 20",
       "unitName": "577",
       "floorPlanName": "Oxford",
@@ -16767,6 +16778,17 @@
       "minRent": 3096,
       "maxRent": 9976,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1P10Parent_032B_DIMS_BW-01.jpg"
+    },
+    {
+      "available": "Now",
+      "unitName": "634",
+      "floorPlanName": "Manatee",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 843,
+      "minRent": 3196,
+      "maxRent": 9737,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1K10Parent_21B_DIMS_BW-01.jpg"
     },
     {
       "available": "November 5",
