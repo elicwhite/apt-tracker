@@ -21385,6 +21385,18 @@
   },
   {
     "fetchDate": "2020-09-19",
+    "available": "September 26",
+    "unitName": "323",
+    "floorPlanName": "Celeste",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 662,
+    "minRent": 2970,
+    "maxRent": 9009,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1I10Parent_13B_DIMS_BW-01.jpg"
+  },
+  {
+    "fetchDate": "2020-09-19",
     "available": "Now",
     "unitName": "331",
     "floorPlanName": "Cobalt",
@@ -21572,7 +21584,7 @@
     "bathrooms": 2,
     "sqft": 1264,
     "minRent": 4483,
-    "maxRent": 7707,
+    "maxRent": 7728,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2C20Parent_10C_DIMS_BW-01.jpg"
   },
   {
@@ -21649,6 +21661,18 @@
   },
   {
     "fetchDate": "2020-09-19",
+    "available": "Now",
+    "unitName": "634",
+    "floorPlanName": "Manatee",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 843,
+    "minRent": 3129,
+    "maxRent": 9626,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1K10Parent_21B_DIMS_BW-01.jpg"
+  },
+  {
+    "fetchDate": "2020-09-19",
     "available": "November 5",
     "unitName": "636",
     "floorPlanName": "Pacific",
@@ -21691,8 +21715,8 @@
     "bedrooms": 2,
     "bathrooms": 1,
     "sqft": 885,
-    "minRent": 3677,
-    "maxRent": 6506,
+    "minRent": 3676,
+    "maxRent": 6500,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2C20Parent_10C_DIMS_BW-01.jpg"
   },
   {
@@ -21763,8 +21787,8 @@
     "bedrooms": 3,
     "bathrooms": 2,
     "sqft": 1481,
-    "minRent": 5277,
-    "maxRent": 8002,
+    "minRent": 5251,
+    "maxRent": 7985,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
   },
   {
@@ -21826,6 +21850,18 @@
     "minRent": 4354,
     "maxRent": 7490,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2D20Parent_15C-P_DIMS_BW-01.jpg"
+  },
+  {
+    "fetchDate": "2020-09-19",
+    "available": "October 6",
+    "unitName": "872",
+    "floorPlanName": "Sea",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 833,
+    "minRent": 3341,
+    "maxRent": 10763,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1Z10Parent_46B_DIMS_BW-01.jpg"
   },
   {
     "fetchDate": "2020-09-19",
