@@ -21955,6 +21955,17 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1C10Parent_3B_DIMS_BW-01.jpg"
     },
     {
+      "available": "October 9",
+      "unitName": "820",
+      "floorPlanName": "Admiral",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 842,
+      "minRent": 3151,
+      "maxRent": 10153,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1FF10Parent_55B-2_BW-01.jpg"
+    },
+    {
       "available": "Now",
       "unitName": "829",
       "floorPlanName": "Rackley",
@@ -22074,6 +22085,17 @@
       "minRent": 3488,
       "maxRent": 10580,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1D10Parent_04B_DIMS_BW-01.jpg"
+    },
+    {
+      "available": "October 6",
+      "unitName": "1023",
+      "floorPlanName": "Celeste",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 662,
+      "minRent": 3370,
+      "maxRent": 10856,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1I10Parent_13B_DIMS_BW-01.jpg"
     },
     {
       "available": "October 7",
