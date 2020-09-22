@@ -23461,7 +23461,7 @@
   },
   {
     "fetchDate": "2020-09-22",
-    "available": "September 26",
+    "available": "Now",
     "unitName": "323",
     "floorPlanName": "Celeste",
     "bedrooms": 1,
@@ -23755,8 +23755,8 @@
     "bedrooms": 0,
     "bathrooms": 1,
     "sqft": 558,
-    "minRent": 2628,
-    "maxRent": 4500,
+    "minRent": 2613,
+    "maxRent": 4496,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EC10Parent_24A_BW-01.jpg"
   },
   {
@@ -23768,7 +23768,7 @@
     "bathrooms": 1,
     "sqft": 885,
     "minRent": 3687,
-    "maxRent": 6488,
+    "maxRent": 6482,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2C20Parent_10C_DIMS_BW-01.jpg"
   },
   {
@@ -23926,18 +23926,6 @@
     "minRent": 3209,
     "maxRent": 9864,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1DD10Parent_51B_DIMS_BW-01.jpg"
-  },
-  {
-    "fetchDate": "2020-09-22",
-    "available": "Now",
-    "unitName": "923",
-    "floorPlanName": "Celeste",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 662,
-    "minRent": 3020,
-    "maxRent": 9201,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1I10Parent_13B_DIMS_BW-01.jpg"
   },
   {
     "fetchDate": "2020-09-22",
