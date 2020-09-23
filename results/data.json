@@ -22217,7 +22217,7 @@
       "bathrooms": 1,
       "sqft": 662,
       "minRent": 2970,
-      "maxRent": 9009,
+      "maxRent": 9050,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1I10Parent_13B_DIMS_BW-01.jpg"
     },
     {
@@ -22263,6 +22263,17 @@
       "minRent": 3481,
       "maxRent": 11215,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1FF10Parent_55B-2_BW-01.jpg"
+    },
+    {
+      "available": "September 26",
+      "unitName": "348",
+      "floorPlanName": "Water",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 759,
+      "minRent": 2878,
+      "maxRent": 8728,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1LL10Parent_61B-2_BW-01.jpg"
     },
     {
       "available": "November 6",
@@ -22458,8 +22469,8 @@
       "bedrooms": 0,
       "bathrooms": 1,
       "sqft": 558,
-      "minRent": 2613,
-      "maxRent": 4496,
+      "minRent": 2599,
+      "maxRent": 4492,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EC10Parent_24A_BW-01.jpg"
     },
     {
@@ -22470,7 +22481,7 @@
       "bathrooms": 1,
       "sqft": 885,
       "minRent": 3687,
-      "maxRent": 6482,
+      "maxRent": 6476,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2C20Parent_10C_DIMS_BW-01.jpg"
     },
     {
