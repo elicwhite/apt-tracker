@@ -25153,6 +25153,18 @@
   },
   {
     "fetchDate": "2020-09-24",
+    "available": "October 16",
+    "unitName": "744",
+    "floorPlanName": "Marine",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1554,
+    "minRent": 6065,
+    "maxRent": 10235,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2H20Parent_26C_DIMS_BW-01.jpg"
+  },
+  {
+    "fetchDate": "2020-09-24",
     "available": "September 26",
     "unitName": "746",
     "floorPlanName": "Cornflower",
