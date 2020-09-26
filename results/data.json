@@ -24251,6 +24251,17 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1C10Parent_3B_DIMS_BW-01.jpg"
     },
     {
+      "available": "September 27",
+      "unitName": "725",
+      "floorPlanName": "Aqua",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 815,
+      "minRent": 3261,
+      "maxRent": 9890,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/1920x1121/interior/750681.jpg"
+    },
+    {
       "available": "November 15",
       "unitName": "730",
       "floorPlanName": "Cornflower",
@@ -24337,6 +24348,17 @@
       "minRent": 3209,
       "maxRent": 9864,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1DD10Parent_51B_DIMS_BW-01.jpg"
+    },
+    {
+      "available": "October 4",
+      "unitName": "935",
+      "floorPlanName": "Smalt",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 583,
+      "minRent": 2800,
+      "maxRent": 8493,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg"
     },
     {
       "available": "Now",
