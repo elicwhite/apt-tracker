@@ -26059,8 +26059,8 @@
     "bedrooms": 1,
     "bathrooms": 1,
     "sqft": 850,
-    "minRent": 3238,
-    "maxRent": 9912,
+    "minRent": 3220,
+    "maxRent": 9903,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1A10Parent_1B-2_DIMS_BW-01.jpg"
   },
   {
@@ -26086,18 +26086,6 @@
     "minRent": 3099,
     "maxRent": 9528,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1HH10Parent_56B-2_BW-01.jpg"
-  },
-  {
-    "fetchDate": "2020-09-26",
-    "available": "October 9",
-    "unitName": "312",
-    "floorPlanName": "Royal",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 739,
-    "minRent": 2728,
-    "maxRent": 8789,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1B10Parent_02B_DIMS_BW-01.jpg"
   },
   {
     "fetchDate": "2020-09-26",
@@ -26161,7 +26149,7 @@
   },
   {
     "fetchDate": "2020-09-26",
-    "available": "September 26",
+    "available": "Now",
     "unitName": "348",
     "floorPlanName": "Water",
     "bedrooms": 1,
@@ -26209,19 +26197,7 @@
   },
   {
     "fetchDate": "2020-09-26",
-    "available": "September 26",
-    "unitName": "415",
-    "floorPlanName": "Aqua",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 815,
-    "minRent": 3091,
-    "maxRent": 9376,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/1920x1121/interior/750681.jpg"
-  },
-  {
-    "fetchDate": "2020-09-26",
-    "available": "September 26",
+    "available": "Now",
     "unitName": "470",
     "floorPlanName": "Ultramarine",
     "bedrooms": 3,
@@ -26305,7 +26281,7 @@
   },
   {
     "fetchDate": "2020-09-26",
-    "available": "September 26",
+    "available": "Now",
     "unitName": "577",
     "floorPlanName": "Oxford",
     "bedrooms": 1,
@@ -26341,18 +26317,6 @@
   },
   {
     "fetchDate": "2020-09-26",
-    "available": "September 26",
-    "unitName": "637",
-    "floorPlanName": "Smalt",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 583,
-    "minRent": 2640,
-    "maxRent": 8008,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg"
-  },
-  {
-    "fetchDate": "2020-09-26",
     "available": "Now",
     "unitName": "640",
     "floorPlanName": "Baltic",
@@ -26360,7 +26324,7 @@
     "bathrooms": 1,
     "sqft": 558,
     "minRent": 2586,
-    "maxRent": 4483,
+    "maxRent": 4479,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EC10Parent_24A_BW-01.jpg"
   },
   {
@@ -26383,8 +26347,8 @@
     "bedrooms": 1,
     "bathrooms": 1,
     "sqft": 906,
-    "minRent": 3253,
-    "maxRent": 9958,
+    "minRent": 3235,
+    "maxRent": 9949,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1W10Parent_42B_DIMS_BW-01.jpg"
   },
   {
@@ -26425,18 +26389,6 @@
   },
   {
     "fetchDate": "2020-09-26",
-    "available": "Now",
-    "unitName": "732",
-    "floorPlanName": "Midnight",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1245,
-    "minRent": 4385,
-    "maxRent": 7486,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2D20Parent_15C-P_DIMS_BW-01.jpg"
-  },
-  {
-    "fetchDate": "2020-09-26",
     "available": "October 16",
     "unitName": "744",
     "floorPlanName": "Marine",
@@ -26446,30 +26398,6 @@
     "minRent": 6065,
     "maxRent": 10235,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2H20Parent_26C_DIMS_BW-01.jpg"
-  },
-  {
-    "fetchDate": "2020-09-26",
-    "available": "Now",
-    "unitName": "770",
-    "floorPlanName": "Ultramarine",
-    "bedrooms": 3,
-    "bathrooms": 2,
-    "sqft": 1481,
-    "minRent": 5235,
-    "maxRent": 7960,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
-  },
-  {
-    "fetchDate": "2020-09-26",
-    "available": "Now",
-    "unitName": "777",
-    "floorPlanName": "Oxford",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 770,
-    "minRent": 2949,
-    "maxRent": 9071,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1V10Parent_41B_DIMS_BW-01.jpg"
   },
   {
     "fetchDate": "2020-09-26",
@@ -26497,18 +26425,6 @@
   },
   {
     "fetchDate": "2020-09-26",
-    "available": "October 9",
-    "unitName": "820",
-    "floorPlanName": "Admiral",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 842,
-    "minRent": 3151,
-    "maxRent": 10153,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1FF10Parent_55B-2_BW-01.jpg"
-  },
-  {
-    "fetchDate": "2020-09-26",
     "available": "Now",
     "unitName": "829",
     "floorPlanName": "Rackley",
@@ -26521,7 +26437,7 @@
   },
   {
     "fetchDate": "2020-09-26",
-    "available": "September 26",
+    "available": "Now",
     "unitName": "832",
     "floorPlanName": "Midnight",
     "bedrooms": 2,
@@ -26578,18 +26494,6 @@
     "minRent": 2828,
     "maxRent": 8577,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1X10Parent_43B_DIMS_BW-01.jpg"
-  },
-  {
-    "fetchDate": "2020-09-26",
-    "available": "September 26",
-    "unitName": "975",
-    "floorPlanName": "Mist",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 906,
-    "minRent": 3371,
-    "maxRent": 10224,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1W10Parent_42B_DIMS_BW-01.jpg"
   },
   {
     "fetchDate": "2020-09-26",
