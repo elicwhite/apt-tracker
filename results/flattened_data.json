@@ -26797,6 +26797,18 @@
   },
   {
     "fetchDate": "2020-09-27",
+    "available": "October 31",
+    "unitName": "531",
+    "floorPlanName": "Cobalt",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 838,
+    "minRent": 2901,
+    "maxRent": 9356,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1N10Parent_28B_DIMS_BW-01.jpg"
+  },
+  {
+    "fetchDate": "2020-09-27",
     "available": "Now",
     "unitName": "541",
     "floorPlanName": "Cobalt",
@@ -26914,6 +26926,18 @@
     "minRent": 3228,
     "maxRent": 10399,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1C10Parent_3B_DIMS_BW-01.jpg"
+  },
+  {
+    "fetchDate": "2020-09-27",
+    "available": "September 28",
+    "unitName": "717",
+    "floorPlanName": "Aqua",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 815,
+    "minRent": 3071,
+    "maxRent": 9315,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/1920x1121/interior/750681.jpg"
   },
   {
     "fetchDate": "2020-09-27",
