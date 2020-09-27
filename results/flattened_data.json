@@ -26623,8 +26623,8 @@
     "bedrooms": 1,
     "bathrooms": 1,
     "sqft": 850,
-    "minRent": 3220,
-    "maxRent": 9903,
+    "minRent": 3214,
+    "maxRent": 9894,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1A10Parent_1B-2_DIMS_BW-01.jpg"
   },
   {
@@ -26662,18 +26662,6 @@
     "minRent": 2970,
     "maxRent": 9050,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1I10Parent_13B_DIMS_BW-01.jpg"
-  },
-  {
-    "fetchDate": "2020-09-27",
-    "available": "Now",
-    "unitName": "331",
-    "floorPlanName": "Cobalt",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 838,
-    "minRent": 3051,
-    "maxRent": 9296,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1N10Parent_28B_DIMS_BW-01.jpg"
   },
   {
     "fetchDate": "2020-09-27",
@@ -26750,18 +26738,6 @@
   {
     "fetchDate": "2020-09-27",
     "available": "Now",
-    "unitName": "381",
-    "floorPlanName": "Brandeis",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 775,
-    "minRent": 3099,
-    "maxRent": 9528,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1T10Parent_039B_DIMS_BW-01.jpg"
-  },
-  {
-    "fetchDate": "2020-09-27",
-    "available": "Now",
     "unitName": "470",
     "floorPlanName": "Ultramarine",
     "bedrooms": 3,
@@ -26821,7 +26797,7 @@
   },
   {
     "fetchDate": "2020-09-27",
-    "available": "September 27",
+    "available": "Now",
     "unitName": "541",
     "floorPlanName": "Cobalt",
     "bedrooms": 1,
@@ -26888,7 +26864,7 @@
     "bathrooms": 1,
     "sqft": 558,
     "minRent": 2586,
-    "maxRent": 4479,
+    "maxRent": 4475,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EC10Parent_24A_BW-01.jpg"
   },
   {
@@ -26911,13 +26887,13 @@
     "bedrooms": 1,
     "bathrooms": 1,
     "sqft": 906,
-    "minRent": 3235,
-    "maxRent": 9949,
+    "minRent": 3229,
+    "maxRent": 9940,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1W10Parent_42B_DIMS_BW-01.jpg"
   },
   {
     "fetchDate": "2020-09-27",
-    "available": "November 26",
+    "available": "November 28",
     "unitName": "713",
     "floorPlanName": "Celeste",
     "bedrooms": 1,
@@ -26941,18 +26917,6 @@
   },
   {
     "fetchDate": "2020-09-27",
-    "available": "September 27",
-    "unitName": "725",
-    "floorPlanName": "Aqua",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 815,
-    "minRent": 3261,
-    "maxRent": 9890,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/1920x1121/interior/750681.jpg"
-  },
-  {
-    "fetchDate": "2020-09-27",
     "available": "November 15",
     "unitName": "730",
     "floorPlanName": "Cornflower",
@@ -26965,19 +26929,19 @@
   },
   {
     "fetchDate": "2020-09-27",
-    "available": "October 16",
+    "available": "October 19",
     "unitName": "744",
     "floorPlanName": "Marine",
     "bedrooms": 2,
     "bathrooms": 2,
     "sqft": 1554,
     "minRent": 6065,
-    "maxRent": 10235,
+    "maxRent": 10309,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2H20Parent_26C_DIMS_BW-01.jpg"
   },
   {
     "fetchDate": "2020-09-27",
-    "available": "September 27",
+    "available": "Now",
     "unitName": "781",
     "floorPlanName": "Brandeis",
     "bedrooms": 1,
@@ -27121,7 +27085,7 @@
   },
   {
     "fetchDate": "2020-09-27",
-    "available": "October 6",
+    "available": "October 10",
     "unitName": "1023",
     "floorPlanName": "Celeste",
     "bedrooms": 1,
