@@ -24988,7 +24988,7 @@
       "bathrooms": 1,
       "sqft": 850,
       "minRent": 3214,
-      "maxRent": 9894,
+      "maxRent": 9885,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1A10Parent_1B-2_DIMS_BW-01.jpg"
     },
     {
@@ -25201,6 +25201,17 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/2A20Parent_1C_BW-01.jpg"
     },
     {
+      "available": "October 6",
+      "unitName": "627",
+      "floorPlanName": "Aqua",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 815,
+      "minRent": 3141,
+      "maxRent": 10119,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/1920x1121/interior/750681.jpg"
+    },
+    {
       "available": "October 11",
       "unitName": "633",
       "floorPlanName": "Robin",
@@ -25219,7 +25230,7 @@
       "bathrooms": 1,
       "sqft": 558,
       "minRent": 2586,
-      "maxRent": 4475,
+      "maxRent": 4471,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EC10Parent_24A_BW-01.jpg"
     },
     {
@@ -25241,7 +25252,7 @@
       "bathrooms": 1,
       "sqft": 906,
       "minRent": 3229,
-      "maxRent": 9940,
+      "maxRent": 9931,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1W10Parent_42B_DIMS_BW-01.jpg"
     },
     {
