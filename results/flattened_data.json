@@ -27728,7 +27728,7 @@
     "bathrooms": 1,
     "sqft": 850,
     "minRent": 3214,
-    "maxRent": 9885,
+    "maxRent": 9879,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1A10Parent_1B-2_DIMS_BW-01.jpg"
   },
   {
@@ -27878,18 +27878,6 @@
   {
     "fetchDate": "2020-09-29",
     "available": "Now",
-    "unitName": "515",
-    "floorPlanName": "Aqua",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 815,
-    "minRent": 3029,
-    "maxRent": 9315,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/1920x1121/interior/750681.jpg"
-  },
-  {
-    "fetchDate": "2020-09-29",
-    "available": "Now",
     "unitName": "522",
     "floorPlanName": "Turquoise",
     "bedrooms": 0,
@@ -27992,7 +27980,7 @@
     "bathrooms": 1,
     "sqft": 558,
     "minRent": 2586,
-    "maxRent": 4471,
+    "maxRent": 4466,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EC10Parent_24A_BW-01.jpg"
   },
   {
@@ -28016,7 +28004,7 @@
     "bathrooms": 1,
     "sqft": 906,
     "minRent": 3229,
-    "maxRent": 9931,
+    "maxRent": 9926,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1W10Parent_42B_DIMS_BW-01.jpg"
   },
   {
@@ -28165,7 +28153,7 @@
   },
   {
     "fetchDate": "2020-09-29",
-    "available": "September 29",
+    "available": "Now",
     "unitName": "973",
     "floorPlanName": "Ocean",
     "bedrooms": 1,
@@ -28234,18 +28222,6 @@
     "minRent": 3491,
     "maxRent": 11246,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1LL10Parent_61B-2_BW-01.jpg"
-  },
-  {
-    "fetchDate": "2020-09-29",
-    "available": "Now",
-    "unitName": "1073",
-    "floorPlanName": "Ocean",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 754,
-    "minRent": 3106,
-    "maxRent": 9549,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1X10Parent_43B_DIMS_BW-01.jpg"
   },
   {
     "fetchDate": "2020-09-29",
