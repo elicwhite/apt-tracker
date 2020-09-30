@@ -26152,6 +26152,17 @@
     },
     {
       "available": "Now",
+      "unitName": "515",
+      "floorPlanName": "Aqua",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 815,
+      "minRent": 3029,
+      "maxRent": 9315,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/1920x1121/interior/750681.jpg"
+    },
+    {
+      "available": "Now",
       "unitName": "522",
       "floorPlanName": "Turquoise",
       "bedrooms": 0,
@@ -26457,6 +26468,17 @@
       "minRent": 3491,
       "maxRent": 11246,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1LL10Parent_61B-2_BW-01.jpg"
+    },
+    {
+      "available": "Now",
+      "unitName": "1040",
+      "floorPlanName": "Topaz Penthouse",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1778,
+      "minRent": 8313,
+      "maxRent": 14050,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/2O20_TopazPenthouse2_BW-01.jpg"
     },
     {
       "available": "October 6",
