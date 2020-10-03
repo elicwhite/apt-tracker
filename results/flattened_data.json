@@ -30253,6 +30253,18 @@
   },
   {
     "fetchDate": "2020-10-03",
+    "available": "Now",
+    "unitName": "629",
+    "floorPlanName": "Rackley",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1264,
+    "minRent": 4294,
+    "maxRent": 7067,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2C20Parent_10C_DIMS_BW-01.jpg"
+  },
+  {
+    "fetchDate": "2020-10-03",
     "available": "October 11",
     "unitName": "633",
     "floorPlanName": "Robin",
@@ -30262,6 +30274,18 @@
     "minRent": 3111,
     "maxRent": 10852,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1P10Parent_032B_DIMS_BW-01.jpg"
+  },
+  {
+    "fetchDate": "2020-10-03",
+    "available": "November 5",
+    "unitName": "636",
+    "floorPlanName": "Pacific",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 826,
+    "minRent": 3071,
+    "maxRent": 11502,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1LL10Parent_61B-2_BW-01.jpg"
   },
   {
     "fetchDate": "2020-10-03",
@@ -30454,6 +30478,30 @@
     "minRent": 3441,
     "maxRent": 12013,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1DD10Parent_51B_DIMS_BW-01.jpg"
+  },
+  {
+    "fetchDate": "2020-10-03",
+    "available": "January 8",
+    "unitName": "985",
+    "floorPlanName": "Aquamarine",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 759,
+    "minRent": 2928,
+    "maxRent": 12998,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1S10Parent_36B_DIMS_BW-01.jpg"
+  },
+  {
+    "fetchDate": "2020-10-03",
+    "available": "December 5",
+    "unitName": "986",
+    "floorPlanName": "Ultramarine",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "sqft": 1481,
+    "minRent": 5517,
+    "maxRent": 8862,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
   },
   {
     "fetchDate": "2020-10-03",
