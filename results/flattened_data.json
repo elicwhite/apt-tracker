@@ -30890,18 +30890,6 @@
   {
     "fetchDate": "2020-10-04",
     "available": "Now",
-    "unitName": "640",
-    "floorPlanName": "Baltic",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 558,
-    "minRent": 2586,
-    "maxRent": 4309,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EC10Parent_24A_BW-01.jpg"
-  },
-  {
-    "fetchDate": "2020-10-04",
-    "available": "Now",
     "unitName": "646",
     "floorPlanName": "Cornflower",
     "bedrooms": 2,
@@ -31033,18 +31021,6 @@
   },
   {
     "fetchDate": "2020-10-04",
-    "available": "October 4",
-    "unitName": "935",
-    "floorPlanName": "Smalt",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 583,
-    "minRent": 2840,
-    "maxRent": 9307,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg"
-  },
-  {
-    "fetchDate": "2020-10-04",
     "available": "Now",
     "unitName": "944",
     "floorPlanName": "Marine",
@@ -31117,7 +31093,7 @@
   },
   {
     "fetchDate": "2020-10-04",
-    "available": "October 4",
+    "available": "Now",
     "unitName": "1016",
     "floorPlanName": "Indigo",
     "bedrooms": 1,
