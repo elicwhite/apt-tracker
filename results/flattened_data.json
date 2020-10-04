@@ -30619,8 +30619,8 @@
     "bedrooms": 1,
     "bathrooms": 1,
     "sqft": 662,
-    "minRent": 2994,
-    "maxRent": 9899,
+    "minRent": 2978,
+    "maxRent": 9891,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1I10Parent_13B_DIMS_BW-01.jpg"
   },
   {
@@ -30775,8 +30775,8 @@
     "bedrooms": 0,
     "bathrooms": 1,
     "sqft": 552,
-    "minRent": 2557,
-    "maxRent": 4281,
+    "minRent": 2556,
+    "maxRent": 4275,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_EB10Parent_50A_DIMS_BW-01.jpg"
   },
   {
@@ -30877,6 +30877,18 @@
   },
   {
     "fetchDate": "2020-10-04",
+    "available": "October 11",
+    "unitName": "635",
+    "floorPlanName": "Smalt",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 2680,
+    "maxRent": 9351,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg"
+  },
+  {
+    "fetchDate": "2020-10-04",
     "available": "November 5",
     "unitName": "636",
     "floorPlanName": "Pacific",
@@ -30937,14 +30949,14 @@
   },
   {
     "fetchDate": "2020-10-04",
-    "available": "November 20",
+    "available": "November 23",
     "unitName": "737",
     "floorPlanName": "Smalt",
     "bedrooms": 1,
     "bathrooms": 1,
     "sqft": 583,
     "minRent": 2700,
-    "maxRent": 10116,
+    "maxRent": 10107,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg"
   },
   {
@@ -30994,6 +31006,18 @@
     "minRent": 4354,
     "maxRent": 7087,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2D20Parent_15C-P_DIMS_BW-01.jpg"
+  },
+  {
+    "fetchDate": "2020-10-04",
+    "available": "Now",
+    "unitName": "840",
+    "floorPlanName": "Baltic",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 558,
+    "minRent": 2726,
+    "maxRent": 4542,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EC10Parent_24A_BW-01.jpg"
   },
   {
     "fetchDate": "2020-10-04",
