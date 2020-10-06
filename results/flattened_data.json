@@ -32089,6 +32089,18 @@
   },
   {
     "fetchDate": "2020-10-06",
+    "available": "November 15",
+    "unitName": "730",
+    "floorPlanName": "Cornflower",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 885,
+    "minRent": 3258,
+    "maxRent": 5791,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2C20Parent_10C_DIMS_BW-01.jpg"
+  },
+  {
+    "fetchDate": "2020-10-06",
     "available": "November 23",
     "unitName": "737",
     "floorPlanName": "Smalt",
@@ -32197,6 +32209,18 @@
   },
   {
     "fetchDate": "2020-10-06",
+    "available": "Now",
+    "unitName": "978",
+    "floorPlanName": "Teal",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 857,
+    "minRent": 3421,
+    "maxRent": 11934,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1CC10Parent_49B_DIMS_BW-01.jpg"
+  },
+  {
+    "fetchDate": "2020-10-06",
     "available": "October 31",
     "unitName": "982",
     "floorPlanName": "Spindrift",
@@ -32242,6 +32266,18 @@
     "minRent": 3296,
     "maxRent": 11602,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1B10Parent_02B_DIMS_BW-01.jpg"
+  },
+  {
+    "fetchDate": "2020-10-06",
+    "available": "November 4",
+    "unitName": "1015",
+    "floorPlanName": "Aqua",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 815,
+    "minRent": 3531,
+    "maxRent": 13220,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/1920x1121/interior/750681.jpg"
   },
   {
     "fetchDate": "2020-10-06",
