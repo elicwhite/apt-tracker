@@ -31473,6 +31473,17 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1T10Parent_039B_DIMS_BW-01.jpg"
     },
     {
+      "available": "November 8",
+      "unitName": "385",
+      "floorPlanName": "Tufts",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1114,
+      "minRent": 3920,
+      "maxRent": 8253,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/2I20Parent_37C-P_BW-01.jpg"
+    },
+    {
       "available": "October 26",
       "unitName": "430",
       "floorPlanName": "Cornflower",
@@ -31790,6 +31801,17 @@
       "minRent": 2839,
       "maxRent": 9905,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1X10Parent_43B_DIMS_BW-01.jpg"
+    },
+    {
+      "available": "Now",
+      "unitName": "978",
+      "floorPlanName": "Teal",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 857,
+      "minRent": 3392,
+      "maxRent": 11833,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1CC10Parent_49B_DIMS_BW-01.jpg"
     },
     {
       "available": "October 31",
