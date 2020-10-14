@@ -33824,6 +33824,17 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_EB10Parent_50A_DIMS_BW-01.jpg"
     },
     {
+      "available": "December 3",
+      "unitName": "523",
+      "floorPlanName": "Celeste",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 662,
+      "minRent": 2931,
+      "maxRent": 10968,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1I10Parent_13B_DIMS_BW-01.jpg"
+    },
+    {
       "available": "October 31",
       "unitName": "531",
       "floorPlanName": "Cobalt",
@@ -33833,6 +33844,17 @@
       "minRent": 2912,
       "maxRent": 10169,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1N10Parent_28B_DIMS_BW-01.jpg"
+    },
+    {
+      "available": "January 15",
+      "unitName": "539",
+      "floorPlanName": "Tiffany",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 694,
+      "minRent": 2689,
+      "maxRent": 11943,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1O10Parent_029B_DIMS_BW-01.jpg"
     },
     {
       "available": "Now",
@@ -33932,6 +33954,17 @@
       "minRent": 3239,
       "maxRent": 11298,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1C10Parent_3B_DIMS_BW-01.jpg"
+    },
+    {
+      "available": "November 23",
+      "unitName": "737",
+      "floorPlanName": "Smalt",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 583,
+      "minRent": 2671,
+      "maxRent": 9999,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg"
     },
     {
       "available": "October 18",
