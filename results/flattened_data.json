@@ -38113,6 +38113,18 @@
   },
   {
     "fetchDate": "2020-10-16",
+    "available": "Now",
+    "unitName": "635",
+    "floorPlanName": "Smalt",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 2651,
+    "maxRent": 9249,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg"
+  },
+  {
+    "fetchDate": "2020-10-16",
     "available": "November 5",
     "unitName": "636",
     "floorPlanName": "Pacific",
@@ -38134,6 +38146,18 @@
     "minRent": 3696,
     "maxRent": 7393,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2C10Parent_34C_DIMS_BW-01.jpg"
+  },
+  {
+    "fetchDate": "2020-10-16",
+    "available": "January 15",
+    "unitName": "674",
+    "floorPlanName": "Sky",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 801,
+    "minRent": 3072,
+    "maxRent": 13635,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1AA10Parent_47B_DIMS_BW-01.jpg"
   },
   {
     "fetchDate": "2020-10-16",
