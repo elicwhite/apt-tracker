@@ -38569,6 +38569,18 @@
   },
   {
     "fetchDate": "2020-10-17",
+    "available": "October 24",
+    "unitName": "423",
+    "floorPlanName": "Celeste",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 662,
+    "minRent": 2781,
+    "maxRent": 9711,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1I10Parent_13B_DIMS_BW-01.jpg"
+  },
+  {
+    "fetchDate": "2020-10-17",
     "available": "October 26",
     "unitName": "430",
     "floorPlanName": "Cornflower",
@@ -38797,6 +38809,18 @@
   },
   {
     "fetchDate": "2020-10-17",
+    "available": "Now",
+    "unitName": "717",
+    "floorPlanName": "Aqua",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 815,
+    "minRent": 3082,
+    "maxRent": 10751,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/1920x1121/interior/750681.jpg"
+  },
+  {
+    "fetchDate": "2020-10-17",
     "available": "November 23",
     "unitName": "737",
     "floorPlanName": "Smalt",
@@ -39010,6 +39034,18 @@
     "minRent": 8289,
     "maxRent": 16509,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/2O20_TopazPenthouse2_BW-01.jpg"
+  },
+  {
+    "fetchDate": "2020-10-17",
+    "available": "Now",
+    "unitName": "1073",
+    "floorPlanName": "Ocean",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 754,
+    "minRent": 3117,
+    "maxRent": 10979,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1X10Parent_43B_DIMS_BW-01.jpg"
   },
   {
     "fetchDate": "2020-10-17",
