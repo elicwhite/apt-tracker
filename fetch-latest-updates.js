@@ -13,10 +13,16 @@ const INDIGO_URL = 'https://www.indigoapthomes.com';
 const INDIGO_JSON =
   'https://www.indigoapthomes.com/en/apartments/residences/_jcr_content.residences.json';
 
+function convertToDateString(date) {
+  const month = String(date.getMonth() + 1).padStart(2, '0');
+  const day = String(date.getDate()).padStart(2, '0');
+  const shortDateString = `2020-${month}-${day}`;
+
+  return shortDateString;
+}
+
 const date = currentTimeInTimezone('America/New_York');
-const month = String(date.getMonth() + 1).padStart(2, '0');
-const day = String(date.getDate()).padStart(2, '0');
-const shortDateString = `2020-${month}-${day}`;
+const shortDateString = convertToDateString(date);
 
 async function run() {
   const result = await fetch(INDIGO_JSON);
@@ -47,10 +53,35 @@ async function run() {
 
   fs.writeFileSync(RESULTS_FILE, JSON.stringify(data, null, 2));
 
-  const flattenedData = Object.keys(data)
-    .map(date => {
+  const dates = Object.keys(data);
+
+  const flattenedData = dates
+    .map((date, index) => {
+      const yesterdayDateString = dates[index - 1];
+      const tomorrowDateString = dates[index + 1];
+
       return data[date]
-        .map(result => ({ fetchDate: date, ...result }))
+        .map(result => {
+          const newToday =
+            yesterdayDateString == null
+              ? null
+              : !data[yesterdayDateString].some(
+                  listing => listing.unitName === result.unitName,
+                );
+
+          const todayIsLast =
+            tomorrowDateString == null
+              ? null
+              : !data[tomorrowDateString].some(
+                  listing => listing.unitName === result.unitName,
+                );
+
+          return {
+            fetchDate: date,
+            ...result,
+            status: newToday ? 'first-day' : todayIsLast ? 'last-day' : null,
+          };
+        })
         .sort(sortByApt);
     })
     .reduce((acc, result) => acc.concat(result), []);
