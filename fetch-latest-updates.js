@@ -79,7 +79,11 @@ async function run() {
           return {
             fetchDate: date,
             ...result,
-            status: newToday ? 'first-day' : todayIsLast ? 'last-day' : null,
+            status: newToday
+              ? 'first-day'
+              : todayIsLast
+              ? 'last-day'
+              : 'no-change',
           };
         })
         .sort(sortByApt);
