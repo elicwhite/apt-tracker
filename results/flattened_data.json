@@ -48673,6 +48673,19 @@
   },
   {
     "fetchDate": "2020-10-30",
+    "available": "Now",
+    "unitName": "430",
+    "floorPlanName": "Cornflower",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 885,
+    "minRent": 3498,
+    "maxRent": 7001,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2C10Parent_34C_DIMS_BW-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2020-10-30",
     "available": "January 15",
     "unitName": "441",
     "floorPlanName": "Cobalt",
