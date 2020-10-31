@@ -41647,17 +41647,6 @@
     },
     {
       "available": "Now",
-      "unitName": "331",
-      "floorPlanName": "Cobalt",
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "sqft": 838,
-      "minRent": 2870,
-      "maxRent": 10895,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1N10Parent_28B_DIMS_BW-01.jpg"
-    },
-    {
-      "available": "Now",
       "unitName": "341",
       "floorPlanName": "Storm",
       "bedrooms": 0,
@@ -41677,6 +41666,17 @@
       "minRent": 2697,
       "maxRent": 10245,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1LL10Parent_61B-2_BW-01.jpg"
+    },
+    {
+      "available": "Now",
+      "unitName": "378",
+      "floorPlanName": "Teal",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 857,
+      "minRent": 2972,
+      "maxRent": 11170,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1CC10Parent_49B_DIMS_BW-01.jpg"
     },
     {
       "available": "Now",
@@ -41778,6 +41778,17 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_EB10Parent_50A_DIMS_BW-01.jpg"
     },
     {
+      "available": "Now",
+      "unitName": "531",
+      "floorPlanName": "Cobalt",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 838,
+      "minRent": 2762,
+      "maxRent": 10383,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1N10Parent_28B_DIMS_BW-01.jpg"
+    },
+    {
       "available": "January 15",
       "unitName": "539",
       "floorPlanName": "Tiffany",
@@ -41817,8 +41828,8 @@
       "bedrooms": 1,
       "bathrooms": 1,
       "sqft": 583,
-      "minRent": 2488,
-      "maxRent": 9387,
+      "minRent": 2474,
+      "maxRent": 9381,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg"
     },
     {
@@ -41878,17 +41889,6 @@
     },
     {
       "available": "Now",
-      "unitName": "782",
-      "floorPlanName": "Spindrift",
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "sqft": 770,
-      "minRent": 3090,
-      "maxRent": 11719,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1DD10Parent_51B_DIMS_BW-01.jpg"
-    },
-    {
-      "available": "Now",
       "unitName": "832",
       "floorPlanName": "Midnight",
       "bedrooms": 2,
@@ -41930,6 +41930,17 @@
       "minRent": 5998,
       "maxRent": 11963,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2H20Parent_26C_DIMS_BW-01.jpg"
+    },
+    {
+      "available": "Now",
+      "unitName": "982",
+      "floorPlanName": "Spindrift",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 770,
+      "minRent": 3262,
+      "maxRent": 12258,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1DD10Parent_51B_DIMS_BW-01.jpg"
     },
     {
       "available": "January 8",
