@@ -49514,7 +49514,7 @@
     "minRent": 2697,
     "maxRent": 10245,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1LL10Parent_61B-2_BW-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2020-11-01",
@@ -49943,19 +49943,6 @@
     "minRent": 2696,
     "maxRent": 4685,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/ED10Parent_28A-P_BW-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2020-11-02",
-    "available": "Now",
-    "unitName": "348",
-    "floorPlanName": "Water",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 759,
-    "minRent": 2697,
-    "maxRent": 10245,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1LL10Parent_61B-2_BW-01.jpg",
     "status": "no-change"
   },
   {
