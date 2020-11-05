@@ -51126,7 +51126,7 @@
     "minRent": 3262,
     "maxRent": 13171,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1DD10Parent_51B_DIMS_BW-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2020-11-04",
@@ -51410,7 +51410,7 @@
     "bathrooms": 1,
     "sqft": 769,
     "minRent": 2890,
-    "maxRent": 11812,
+    "maxRent": 11805,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1P10Parent_032B_DIMS_BW-01.jpg",
     "status": "no-change"
   },
@@ -51423,7 +51423,7 @@
     "bathrooms": 1,
     "sqft": 583,
     "minRent": 2459,
-    "maxRent": 10062,
+    "maxRent": 10056,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg",
     "status": "no-change"
   },
@@ -51462,7 +51462,7 @@
     "bathrooms": 1,
     "sqft": 735,
     "minRent": 3047,
-    "maxRent": 12441,
+    "maxRent": 12434,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1C10Parent_3B_DIMS_BW-01.jpg",
     "status": "no-change"
   },
@@ -51488,7 +51488,7 @@
     "bathrooms": 1,
     "sqft": 775,
     "minRent": 2940,
-    "maxRent": 12013,
+    "maxRent": 12006,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1T10Parent_039B_DIMS_BW-01.jpg",
     "status": "no-change"
   },
@@ -51546,19 +51546,6 @@
   },
   {
     "fetchDate": "2020-11-05",
-    "available": "Now",
-    "unitName": "982",
-    "floorPlanName": "Spindrift",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 770,
-    "minRent": 3262,
-    "maxRent": 13171,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1DD10Parent_51B_DIMS_BW-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2020-11-05",
     "available": "January 8",
     "unitName": "985",
     "floorPlanName": "Aquamarine",
@@ -51605,7 +51592,7 @@
     "bathrooms": 1,
     "sqft": 697,
     "minRent": 3307,
-    "maxRent": 13488,
+    "maxRent": 13480,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1D10Parent_04B_DIMS_BW-01.jpg",
     "status": "no-change"
   },
