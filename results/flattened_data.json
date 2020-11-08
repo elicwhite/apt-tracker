@@ -52387,7 +52387,7 @@
     "minRent": 3047,
     "maxRent": 12431,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1C10Parent_3B_DIMS_BW-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2020-11-07",
@@ -52574,6 +52574,19 @@
   {
     "fetchDate": "2020-11-08",
     "available": "Now",
+    "unitName": "114",
+    "floorPlanName": "Aegean",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 496,
+    "minRent": 2508,
+    "maxRent": 4549,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EA10Parent_3A-2_BW-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2020-11-08",
+    "available": "Now",
     "unitName": "258",
     "floorPlanName": "Violet",
     "bedrooms": 1,
@@ -52605,7 +52618,7 @@
     "bedrooms": 2,
     "bathrooms": 1,
     "sqft": 1076,
-    "minRent": 3788,
+    "minRent": 3794,
     "maxRent": 7978,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2H10Parent_44C_DIMS_BW-01.jpg",
     "status": "no-change"
@@ -52639,12 +52652,25 @@
   {
     "fetchDate": "2020-11-08",
     "available": "Now",
+    "unitName": "385",
+    "floorPlanName": "Tufts",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1114,
+    "minRent": 3926,
+    "maxRent": 8253,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/2I20Parent_37C-P_BW-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2020-11-08",
+    "available": "Now",
     "unitName": "430",
     "floorPlanName": "Cornflower",
     "bedrooms": 2,
     "bathrooms": 1,
     "sqft": 885,
-    "minRent": 3498,
+    "minRent": 3504,
     "maxRent": 7369,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2C10Parent_34C_DIMS_BW-01.jpg",
     "status": "no-change"
@@ -52722,7 +52748,7 @@
     "bedrooms": 2,
     "bathrooms": 2,
     "sqft": 1264,
-    "minRent": 4461,
+    "minRent": 4468,
     "maxRent": 9436,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2C20Parent_10C_DIMS_BW-01.jpg",
     "status": "no-change"
@@ -52769,12 +52795,25 @@
   {
     "fetchDate": "2020-11-08",
     "available": "Now",
+    "unitName": "614",
+    "floorPlanName": "Cyan",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 735,
+    "minRent": 3069,
+    "maxRent": 12395,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1C10Parent_3B_DIMS_BW-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2020-11-08",
+    "available": "Now",
     "unitName": "626",
     "floorPlanName": "Maya",
     "bedrooms": 2,
     "bathrooms": 2,
     "sqft": 1159,
-    "minRent": 4198,
+    "minRent": 4205,
     "maxRent": 8884,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/2A20Parent_1C_BW-01.jpg",
     "status": "no-change"
@@ -52788,7 +52827,7 @@
     "bathrooms": 1,
     "sqft": 769,
     "minRent": 2890,
-    "maxRent": 11800,
+    "maxRent": 11799,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1P10Parent_032B_DIMS_BW-01.jpg",
     "status": "no-change"
   },
@@ -52847,19 +52886,6 @@
   {
     "fetchDate": "2020-11-08",
     "available": "Now",
-    "unitName": "714",
-    "floorPlanName": "Cyan",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 735,
-    "minRent": 3047,
-    "maxRent": 12431,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1C10Parent_3B_DIMS_BW-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2020-11-08",
-    "available": "Now",
     "unitName": "717",
     "floorPlanName": "Aqua",
     "bedrooms": 1,
@@ -52885,13 +52911,26 @@
   },
   {
     "fetchDate": "2020-11-08",
+    "available": "February 21",
+    "unitName": "815",
+    "floorPlanName": "Aqua",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 815,
+    "minRent": 3463,
+    "maxRent": 15971,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2020-11-08",
     "available": "Now",
     "unitName": "832",
     "floorPlanName": "Midnight",
     "bedrooms": 2,
     "bathrooms": 2,
     "sqft": 1245,
-    "minRent": 4332,
+    "minRent": 4339,
     "maxRent": 9164,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2D20Parent_15C-P_DIMS_BW-01.jpg",
     "status": "no-change"
@@ -52943,7 +52982,7 @@
     "bedrooms": 2,
     "bathrooms": 2,
     "sqft": 1554,
-    "minRent": 5998,
+    "minRent": 6008,
     "maxRent": 12658,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2H20Parent_26C_DIMS_BW-01.jpg",
     "status": "no-change"
@@ -53021,7 +53060,7 @@
     "bedrooms": 2,
     "bathrooms": 2,
     "sqft": 1778,
-    "minRent": 8289,
+    "minRent": 8302,
     "maxRent": 17460,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/2O20_TopazPenthouse2_BW-01.jpg",
     "status": "no-change"
