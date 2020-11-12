@@ -54692,6 +54692,19 @@
   },
   {
     "fetchDate": "2020-11-12",
+    "available": "Now",
+    "unitName": "430",
+    "floorPlanName": "Cornflower",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 885,
+    "minRent": 3448,
+    "maxRent": 7263,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2C10Parent_34C_DIMS_BW-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2020-11-12",
     "available": "January 15",
     "unitName": "435",
     "floorPlanName": "Smalt",
@@ -54715,6 +54728,19 @@
     "maxRent": 7862,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2020-11-12",
+    "available": "Now",
+    "unitName": "472",
+    "floorPlanName": "Sea",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 833,
+    "minRent": 2960,
+    "maxRent": 12084,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1Z10Parent_46B_DIMS_BW-01.jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2020-11-12",
@@ -54874,6 +54900,19 @@
   },
   {
     "fetchDate": "2020-11-12",
+    "available": "January 12",
+    "unitName": "641",
+    "floorPlanName": "Cobalt",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 838,
+    "minRent": 2812,
+    "maxRent": 13517,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1N10Parent_28B_DIMS_BW-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2020-11-12",
     "available": "January 15",
     "unitName": "674",
     "floorPlanName": "Sky",
@@ -54910,6 +54949,19 @@
     "maxRent": 11721,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2020-11-12",
+    "available": "Now",
+    "unitName": "740",
+    "floorPlanName": "Baltic",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 558,
+    "minRent": 2726,
+    "maxRent": 4975,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EC10Parent_24A_BW-01.jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2020-11-12",
