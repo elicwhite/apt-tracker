@@ -49350,6 +49350,17 @@
     },
     {
       "available": "Now",
+      "unitName": "624",
+      "floorPlanName": "Turquoise",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 552,
+      "minRent": 2377,
+      "maxRent": 4347,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_EB10Parent_50A_DIMS_BW-01.jpg"
+    },
+    {
+      "available": "Now",
       "unitName": "626",
       "floorPlanName": "Maya",
       "bedrooms": 2,
@@ -49512,6 +49523,17 @@
       "minRent": 5948,
       "maxRent": 12552,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2H20Parent_26C_DIMS_BW-01.jpg"
+    },
+    {
+      "available": "February 28",
+      "unitName": "976",
+      "floorPlanName": "Powder",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 684,
+      "minRent": 2719,
+      "maxRent": 14570,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1BB10Parent_48B_DIMS_BW-01.jpg"
     },
     {
       "available": "January 8",
