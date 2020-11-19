@@ -50023,17 +50023,6 @@
     },
     {
       "available": "Now",
-      "unitName": "987",
-      "floorPlanName": "Aquamarine",
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "sqft": 759,
-      "minRent": 2717,
-      "maxRent": 11101,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1S10Parent_36B_DIMS_BW-01.jpg"
-    },
-    {
-      "available": "Now",
       "unitName": "1012",
       "floorPlanName": "Royal",
       "bedrooms": 1,
@@ -50086,6 +50075,17 @@
       "minRent": 3172,
       "maxRent": 16981,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1U10Parent_40B_DIMS_BW-01.jpg"
+    },
+    {
+      "available": "Now",
+      "unitName": "1087",
+      "floorPlanName": "Aquamarine",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 759,
+      "minRent": 3059,
+      "maxRent": 12352,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1S10Parent_36B_DIMS_BW-01.jpg"
     }
   ]
 }
