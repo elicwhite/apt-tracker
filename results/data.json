@@ -50588,17 +50588,6 @@
     },
     {
       "available": "Now",
-      "unitName": "258",
-      "floorPlanName": "Violet",
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "sqft": 846,
-      "minRent": 2900,
-      "maxRent": 11842,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1HH10Parent_56B-2_BW-01.jpg"
-    },
-    {
-      "available": "Now",
       "unitName": "341",
       "floorPlanName": "Storm",
       "bedrooms": 0,
@@ -50824,8 +50813,8 @@
       "bedrooms": 1,
       "bathrooms": 1,
       "sqft": 826,
-      "minRent": 2818,
-      "maxRent": 11433,
+      "minRent": 2803,
+      "maxRent": 11426,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1LL10Parent_61B-2_BW-01.jpg"
     },
     {
@@ -50973,17 +50962,6 @@
     },
     {
       "available": "Now",
-      "unitName": "1012",
-      "floorPlanName": "Royal",
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "sqft": 739,
-      "minRent": 3057,
-      "maxRent": 12474,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1B10Parent_02B_DIMS_BW-01.jpg"
-    },
-    {
-      "available": "Now",
       "unitName": "1016",
       "floorPlanName": "Indigo",
       "bedrooms": 1,
@@ -51033,8 +51011,8 @@
       "bedrooms": 1,
       "bathrooms": 1,
       "sqft": 759,
-      "minRent": 3043,
-      "maxRent": 12345,
+      "minRent": 3028,
+      "maxRent": 12338,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1S10Parent_36B_DIMS_BW-01.jpg"
     }
   ]
