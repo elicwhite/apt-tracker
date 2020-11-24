@@ -60863,7 +60863,7 @@
     "minRent": 4155,
     "maxRent": 8778,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/2A20Parent_1C_BW-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2020-11-23",
@@ -60876,7 +60876,7 @@
     "minRent": 2840,
     "maxRent": 11599,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1P10Parent_032B_DIMS_BW-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2020-11-23",
@@ -61071,7 +61071,7 @@
     "minRent": 2689,
     "maxRent": 12929,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1S10Parent_36B_DIMS_BW-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2020-11-23",
@@ -61388,39 +61388,13 @@
   {
     "fetchDate": "2020-11-24",
     "available": "Now",
-    "unitName": "626",
-    "floorPlanName": "Maya",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1159,
-    "minRent": 4155,
-    "maxRent": 8778,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/2A20Parent_1C_BW-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2020-11-24",
-    "available": "Now",
-    "unitName": "633",
-    "floorPlanName": "Robin",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 769,
-    "minRent": 2840,
-    "maxRent": 11599,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1P10Parent_032B_DIMS_BW-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2020-11-24",
-    "available": "Now",
     "unitName": "636",
     "floorPlanName": "Pacific",
     "bedrooms": 1,
     "bathrooms": 1,
     "sqft": 826,
     "minRent": 2790,
-    "maxRent": 11413,
+    "maxRent": 11407,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1LL10Parent_61B-2_BW-01.jpg",
     "status": "no-change"
   },
@@ -61595,19 +61569,6 @@
   },
   {
     "fetchDate": "2020-11-24",
-    "available": "January 8",
-    "unitName": "985",
-    "floorPlanName": "Aquamarine",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 759,
-    "minRent": 2689,
-    "maxRent": 12929,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1S10Parent_36B_DIMS_BW-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2020-11-24",
     "available": "Now",
     "unitName": "1016",
     "floorPlanName": "Indigo",
@@ -61667,7 +61628,7 @@
     "bathrooms": 1,
     "sqft": 759,
     "minRent": 3017,
-    "maxRent": 12324,
+    "maxRent": 12317,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1S10Parent_36B_DIMS_BW-01.jpg",
     "status": "no-change"
   }
