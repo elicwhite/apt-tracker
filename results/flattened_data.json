@@ -64045,8 +64045,8 @@
     "bedrooms": 0,
     "bathrooms": 1,
     "sqft": 496,
-    "minRent": 2277,
-    "maxRent": 4163,
+    "minRent": 2266,
+    "maxRent": 4159,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EA10Parent_3A-2_BW-01.jpg",
     "status": "no-change"
   },
@@ -64085,7 +64085,7 @@
     "bathrooms": 1,
     "sqft": 1076,
     "minRent": 3702,
-    "maxRent": 7837,
+    "maxRent": 7830,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2H10Parent_44C_DIMS_BW-01.jpg",
     "status": "no-change"
   },
@@ -64124,7 +64124,7 @@
     "bathrooms": 1,
     "sqft": 885,
     "minRent": 3411,
-    "maxRent": 7231,
+    "maxRent": 7223,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2C10Parent_34C_DIMS_BW-01.jpg",
     "status": "no-change"
   },
@@ -64215,7 +64215,7 @@
     "bathrooms": 1,
     "sqft": 838,
     "minRent": 2660,
-    "maxRent": 10885,
+    "maxRent": 10879,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1N10Parent_28B_DIMS_BW-01.jpg",
     "status": "no-change"
   },
@@ -64241,7 +64241,7 @@
     "bathrooms": 1,
     "sqft": 735,
     "minRent": 2967,
-    "maxRent": 12124,
+    "maxRent": 12117,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1C10Parent_3B_DIMS_BW-01.jpg",
     "status": "no-change"
   },
@@ -64397,7 +64397,7 @@
     "bathrooms": 1,
     "sqft": 801,
     "minRent": 2890,
-    "maxRent": 11821,
+    "maxRent": 11814,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1AA10Parent_47B_DIMS_BW-01.jpg",
     "status": "no-change"
   },
@@ -64423,7 +64423,7 @@
     "bathrooms": 1,
     "sqft": 754,
     "minRent": 2587,
-    "maxRent": 10596,
+    "maxRent": 10589,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1X10Parent_43B_DIMS_BW-01.jpg",
     "status": "no-change"
   },
