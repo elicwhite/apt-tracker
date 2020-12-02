@@ -64672,7 +64672,7 @@
     "minRent": 2660,
     "maxRent": 10875,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1N10Parent_28B_DIMS_BW-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2020-12-01",
@@ -64841,7 +64841,7 @@
     "minRent": 3648,
     "maxRent": 8692,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2C10Parent_34C_DIMS_BW-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2020-12-01",
@@ -64969,7 +64969,7 @@
     "bathrooms": 1,
     "sqft": 496,
     "minRent": 2257,
-    "maxRent": 4154,
+    "maxRent": 4149,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EA10Parent_3A-2_BW-01.jpg",
     "status": "no-change"
   },
@@ -64985,6 +64985,19 @@
     "maxRent": 10651,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2C20Parent_10C_DIMS_BW-01.jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2020-12-02",
+    "available": "Now",
+    "unitName": "331",
+    "floorPlanName": "Cobalt",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 838,
+    "minRent": 2810,
+    "maxRent": 11479,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1N10Parent_28B_DIMS_BW-01.jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2020-12-02",
@@ -65059,7 +65072,7 @@
     "bedrooms": 2,
     "bathrooms": 1,
     "sqft": 885,
-    "minRent": 3411,
+    "minRent": 3412,
     "maxRent": 7221,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2C10Parent_34C_DIMS_BW-01.jpg",
     "status": "no-change"
@@ -65114,19 +65127,6 @@
     "minRent": 2942,
     "maxRent": 14153,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2020-12-02",
-    "available": "Now",
-    "unitName": "531",
-    "floorPlanName": "Cobalt",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 838,
-    "minRent": 2660,
-    "maxRent": 10875,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1N10Parent_28B_DIMS_BW-01.jpg",
     "status": "no-change"
   },
   {
@@ -65287,19 +65287,6 @@
   },
   {
     "fetchDate": "2020-12-02",
-    "available": "January 16",
-    "unitName": "846",
-    "floorPlanName": "Cornflower",
-    "bedrooms": 2,
-    "bathrooms": 1,
-    "sqft": 885,
-    "minRent": 3648,
-    "maxRent": 8692,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2C10Parent_34C_DIMS_BW-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2020-12-02",
     "available": "Now",
     "unitName": "874",
     "floorPlanName": "Sky",
@@ -65307,7 +65294,7 @@
     "bathrooms": 1,
     "sqft": 801,
     "minRent": 2890,
-    "maxRent": 11807,
+    "maxRent": 11800,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1AA10Parent_47B_DIMS_BW-01.jpg",
     "status": "no-change"
   },
@@ -65333,7 +65320,7 @@
     "bathrooms": 1,
     "sqft": 754,
     "minRent": 2587,
-    "maxRent": 10583,
+    "maxRent": 10578,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1X10Parent_43B_DIMS_BW-01.jpg",
     "status": "no-change"
   },
@@ -65371,7 +65358,7 @@
     "bedrooms": 2,
     "bathrooms": 2,
     "sqft": 1778,
-    "minRent": 8252,
+    "minRent": 8253,
     "maxRent": 17358,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/2O20_TopazPenthouse2_BW-01.jpg",
     "status": "no-change"
