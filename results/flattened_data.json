@@ -65205,7 +65205,7 @@
     "minRent": 2721,
     "maxRent": 10982,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1I10Parent_13B_DIMS_BW-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2020-12-02",
@@ -65411,7 +65411,7 @@
     "bathrooms": 1,
     "sqft": 496,
     "minRent": 2257,
-    "maxRent": 4149,
+    "maxRent": 4144,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EA10Parent_3A-2_BW-01.jpg",
     "status": "no-change"
   },
@@ -65639,19 +65639,6 @@
   {
     "fetchDate": "2020-12-03",
     "available": "Now",
-    "unitName": "713",
-    "floorPlanName": "Celeste",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 662,
-    "minRent": 2721,
-    "maxRent": 10982,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1I10Parent_13B_DIMS_BW-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2020-12-03",
-    "available": "Now",
     "unitName": "717",
     "floorPlanName": "Aqua",
     "bedrooms": 1,
@@ -65736,7 +65723,7 @@
     "bathrooms": 1,
     "sqft": 801,
     "minRent": 2890,
-    "maxRent": 11800,
+    "maxRent": 11799,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1AA10Parent_47B_DIMS_BW-01.jpg",
     "status": "no-change"
   },
