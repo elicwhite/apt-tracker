@@ -65417,6 +65417,19 @@
   },
   {
     "fetchDate": "2020-12-03",
+    "available": "February 8",
+    "unitName": "260",
+    "floorPlanName": "Violet",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 846,
+    "minRent": 3112,
+    "maxRent": 16677,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1HH10Parent_56B-2_BW-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2020-12-03",
     "available": "January 29",
     "unitName": "329",
     "floorPlanName": "Rackley",
@@ -65557,6 +65570,19 @@
     "maxRent": 11842,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1Z10Parent_46B_DIMS_BW-01.jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2020-12-03",
+    "available": "Now",
+    "unitName": "523",
+    "floorPlanName": "Celeste",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 662,
+    "minRent": 2721,
+    "maxRent": 10982,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1I10Parent_13B_DIMS_BW-01.jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2020-12-03",
