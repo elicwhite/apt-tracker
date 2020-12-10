@@ -68641,6 +68641,19 @@
   },
   {
     "fetchDate": "2020-12-10",
+    "available": "Now",
+    "unitName": "317",
+    "floorPlanName": "Aqua",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 815,
+    "minRent": 2840,
+    "maxRent": 12577,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2020-12-10",
     "available": "January 29",
     "unitName": "329",
     "floorPlanName": "Rackley",
@@ -69015,6 +69028,19 @@
     "maxRent": 18268,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/2O20_TopazPenthouse2_BW-01.jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2020-12-10",
+    "available": "Now",
+    "unitName": "1074",
+    "floorPlanName": "Sky",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 801,
+    "minRent": 3310,
+    "maxRent": 14626,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1AA10Parent_47B_DIMS_BW-01.jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2020-12-10",
