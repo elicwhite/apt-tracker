@@ -58535,24 +58535,13 @@
     },
     {
       "available": "Now",
-      "unitName": "717",
-      "floorPlanName": "Aqua",
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "sqft": 815,
-      "minRent": 2810,
-      "maxRent": 12446,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg"
-    },
-    {
-      "available": "Now",
       "unitName": "737",
       "floorPlanName": "Smalt",
       "bedrooms": 1,
       "bathrooms": 1,
       "sqft": 583,
-      "minRent": 2405,
-      "maxRent": 10679,
+      "minRent": 2399,
+      "maxRent": 10674,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg"
     },
     {
@@ -58598,17 +58587,6 @@
       "minRent": 2511,
       "maxRent": 13474,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg"
-    },
-    {
-      "available": "Now",
-      "unitName": "874",
-      "floorPlanName": "Sky",
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "sqft": 801,
-      "minRent": 2890,
-      "maxRent": 12794,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1AA10Parent_47B_DIMS_BW-01.jpg"
     },
     {
       "available": "Now",
