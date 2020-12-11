@@ -69122,6 +69122,19 @@
   },
   {
     "fetchDate": "2020-12-11",
+    "available": "February 12",
+    "unitName": "318",
+    "floorPlanName": "Indigo",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 697,
+    "minRent": 2779,
+    "maxRent": 14903,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1D10Parent_04B_DIMS_BW-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2020-12-11",
     "available": "January 29",
     "unitName": "329",
     "floorPlanName": "Rackley",
@@ -69396,6 +69409,19 @@
   {
     "fetchDate": "2020-12-11",
     "available": "Now",
+    "unitName": "732",
+    "floorPlanName": "Midnight",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1245,
+    "minRent": 4322,
+    "maxRent": 9634,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2D20Parent_15C-P_DIMS_BW-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2020-12-11",
+    "available": "Now",
     "unitName": "737",
     "floorPlanName": "Smalt",
     "bedrooms": 1,
@@ -69444,6 +69470,19 @@
     "maxRent": 13474,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2020-12-11",
+    "available": "March 12",
+    "unitName": "934",
+    "floorPlanName": "Manatee",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 843,
+    "minRent": 3062,
+    "maxRent": 16398,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1K10Parent_21B_DIMS_BW-01.jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2020-12-11",
