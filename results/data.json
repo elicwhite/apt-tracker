@@ -59418,6 +59418,17 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg"
     },
     {
+      "available": "Now",
+      "unitName": "840",
+      "floorPlanName": "Baltic",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 558,
+      "minRent": 2537,
+      "maxRent": 5031,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EC10Parent_24A_BW-01.jpg"
+    },
+    {
       "available": "March 12",
       "unitName": "934",
       "floorPlanName": "Manatee",
@@ -59449,6 +59460,17 @@
       "minRent": 8239,
       "maxRent": 18268,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/2O20_TopazPenthouse2_BW-01.jpg"
+    },
+    {
+      "available": "Now",
+      "unitName": "1044",
+      "floorPlanName": "Marine",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1554,
+      "minRent": 5903,
+      "maxRent": 13120,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2H20Parent_26C_DIMS_BW-01.jpg"
     },
     {
       "available": "Now",
