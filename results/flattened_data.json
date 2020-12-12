@@ -69443,7 +69443,7 @@
     "minRent": 2517,
     "maxRent": 4994,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EC10Parent_24A_BW-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2020-12-11",
@@ -69495,7 +69495,7 @@
     "minRent": 5948,
     "maxRent": 13217,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2H20Parent_26C_DIMS_BW-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2020-12-11",
@@ -69922,21 +69922,8 @@
     "bathrooms": 1,
     "sqft": 583,
     "minRent": 2399,
-    "maxRent": 10669,
+    "maxRent": 10664,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2020-12-12",
-    "available": "Now",
-    "unitName": "740",
-    "floorPlanName": "Baltic",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 558,
-    "minRent": 2517,
-    "maxRent": 4994,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EC10Parent_24A_BW-01.jpg",
     "status": "no-change"
   },
   {
@@ -69976,19 +69963,6 @@
     "minRent": 3062,
     "maxRent": 16398,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1K10Parent_21B_DIMS_BW-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2020-12-12",
-    "available": "Now",
-    "unitName": "944",
-    "floorPlanName": "Marine",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1554,
-    "minRent": 5948,
-    "maxRent": 13217,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2H20Parent_26C_DIMS_BW-01.jpg",
     "status": "no-change"
   },
   {
