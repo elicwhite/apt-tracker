@@ -70379,7 +70379,7 @@
     "minRent": 2790,
     "maxRent": 12358,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1LL10Parent_61B-2_BW-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2020-12-13",
@@ -70457,7 +70457,7 @@
     "minRent": 2537,
     "maxRent": 5031,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EC10Parent_24A_BW-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2020-12-13",
@@ -70865,19 +70865,6 @@
   {
     "fetchDate": "2020-12-14",
     "available": "Now",
-    "unitName": "636",
-    "floorPlanName": "Pacific",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 826,
-    "minRent": 2790,
-    "maxRent": 12358,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1LL10Parent_61B-2_BW-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2020-12-14",
-    "available": "Now",
     "unitName": "675",
     "floorPlanName": "Mist",
     "bedrooms": 1,
@@ -70910,7 +70897,7 @@
     "bathrooms": 1,
     "sqft": 583,
     "minRent": 2399,
-    "maxRent": 10664,
+    "maxRent": 10654,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg",
     "status": "no-change"
   },
@@ -70938,19 +70925,6 @@
     "minRent": 2511,
     "maxRent": 13474,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2020-12-14",
-    "available": "Now",
-    "unitName": "840",
-    "floorPlanName": "Baltic",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 558,
-    "minRent": 2537,
-    "maxRent": 5031,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EC10Parent_24A_BW-01.jpg",
     "status": "no-change"
   },
   {
