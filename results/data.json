@@ -60436,6 +60436,17 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1W10Parent_42B_DIMS_BW-01.jpg"
     },
     {
+      "available": "February 28",
+      "unitName": "376",
+      "floorPlanName": "Powder",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 684,
+      "minRent": 2549,
+      "maxRent": 13664,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1BB10Parent_48B_DIMS_BW-01.jpg"
+    },
+    {
       "available": "Now",
       "unitName": "377",
       "floorPlanName": "Oxford",
@@ -60591,6 +60602,17 @@
     },
     {
       "available": "Now",
+      "unitName": "740",
+      "floorPlanName": "Baltic",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 558,
+      "minRent": 2517,
+      "maxRent": 4994,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EC10Parent_24A_BW-01.jpg"
+    },
+    {
+      "available": "Now",
       "unitName": "781",
       "floorPlanName": "Brandeis",
       "bedrooms": 1,
@@ -60599,6 +60621,17 @@
       "minRent": 2870,
       "maxRent": 12709,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1T10Parent_039B_DIMS_BW-01.jpg"
+    },
+    {
+      "available": "February 21",
+      "unitName": "815",
+      "floorPlanName": "Aqua",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 815,
+      "minRent": 2942,
+      "maxRent": 15759,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg"
     },
     {
       "available": "February 7",
@@ -60632,6 +60665,17 @@
       "minRent": 3247,
       "maxRent": 14352,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1D10Parent_04B_DIMS_BW-01.jpg"
+    },
+    {
+      "available": "Now",
+      "unitName": "1036",
+      "floorPlanName": "Pacific",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 826,
+      "minRent": 3235,
+      "maxRent": 14301,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1LL10Parent_61B-2_BW-01.jpg"
     },
     {
       "available": "Now",
