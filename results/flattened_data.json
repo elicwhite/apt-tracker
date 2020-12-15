@@ -70626,7 +70626,7 @@
     "minRent": 4463,
     "maxRent": 10651,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2C20Parent_10C_DIMS_BW-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2020-12-14",
@@ -70691,7 +70691,7 @@
     "minRent": 2792,
     "maxRent": 13435,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1AA10Parent_47B_DIMS_BW-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2020-12-14",
@@ -70821,7 +70821,7 @@
     "minRent": 2942,
     "maxRent": 14153,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2020-12-14",
@@ -71085,19 +71085,6 @@
   },
   {
     "fetchDate": "2020-12-15",
-    "available": "January 29",
-    "unitName": "329",
-    "floorPlanName": "Rackley",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1264,
-    "minRent": 4463,
-    "maxRent": 10651,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2C20Parent_10C_DIMS_BW-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2020-12-15",
     "available": "Now",
     "unitName": "331",
     "floorPlanName": "Cobalt",
@@ -71146,19 +71133,6 @@
     "minRent": 2757,
     "maxRent": 12215,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1X10Parent_43B_DIMS_BW-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2020-12-15",
-    "available": "January 29",
-    "unitName": "374",
-    "floorPlanName": "Sky",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 801,
-    "minRent": 2792,
-    "maxRent": 13435,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1AA10Parent_47B_DIMS_BW-01.jpg",
     "status": "no-change"
   },
   {
@@ -71280,19 +71254,6 @@
   },
   {
     "fetchDate": "2020-12-15",
-    "available": "January 29",
-    "unitName": "527",
-    "floorPlanName": "Aqua",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 815,
-    "minRent": 2942,
-    "maxRent": 14153,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2020-12-15",
     "available": "February 14",
     "unitName": "580",
     "floorPlanName": "Turquoise",
@@ -71365,7 +71326,7 @@
     "bathrooms": 1,
     "sqft": 583,
     "minRent": 2399,
-    "maxRent": 10654,
+    "maxRent": 10653,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg",
     "status": "no-change"
   },
