@@ -71709,6 +71709,19 @@
   },
   {
     "fetchDate": "2020-12-16",
+    "available": "March 5",
+    "unitName": "439",
+    "floorPlanName": "Tiffany",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 694,
+    "minRent": 2429,
+    "maxRent": 13025,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1O10Parent_029B_DIMS_BW-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2020-12-16",
     "available": "Now",
     "unitName": "470",
     "floorPlanName": "Ultramarine",
