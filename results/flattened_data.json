@@ -72295,6 +72295,19 @@
   {
     "fetchDate": "2020-12-17",
     "available": "Now",
+    "unitName": "633",
+    "floorPlanName": "Robin",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 769,
+    "minRent": 2840,
+    "maxRent": 12577,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1P10Parent_032B_DIMS_BW-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2020-12-17",
+    "available": "Now",
     "unitName": "675",
     "floorPlanName": "Mist",
     "bedrooms": 1,
