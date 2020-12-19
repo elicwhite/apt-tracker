@@ -73425,6 +73425,19 @@
   },
   {
     "fetchDate": "2020-12-19",
+    "available": "February 23",
+    "unitName": "938",
+    "floorPlanName": "Carolina",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 813,
+    "minRent": 2862,
+    "maxRent": 15332,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1M10Parent_23A_BW-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2020-12-19",
     "available": "Now",
     "unitName": "1016",
     "floorPlanName": "Indigo",
