@@ -80380,6 +80380,19 @@
   },
   {
     "fetchDate": "2020-01-03",
+    "available": "February 19",
+    "unitName": "632",
+    "floorPlanName": "Midnight",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1245,
+    "minRent": 4280,
+    "maxRent": 11810,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2D20Parent_15C-P_DIMS_BW-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2020-01-03",
     "available": "Now",
     "unitName": "675",
     "floorPlanName": "Mist",
@@ -80471,7 +80484,7 @@
   },
   {
     "fetchDate": "2020-01-03",
-    "available": "March 17",
+    "available": "March 18",
     "unitName": "940",
     "floorPlanName": "Baltic",
     "bedrooms": 0,
