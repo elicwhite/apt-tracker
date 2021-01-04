@@ -16,7 +16,7 @@ const INDIGO_JSON =
 function convertToDateString(date) {
   const month = String(date.getMonth() + 1).padStart(2, '0');
   const day = String(date.getDate()).padStart(2, '0');
-  const shortDateString = `2020-${month}-${day}`;
+  const shortDateString = `2021-${month}-${day}`;
 
   return shortDateString;
 }
