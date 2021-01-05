@@ -81325,7 +81325,7 @@
     "minRent": 4280,
     "maxRent": 11810,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2D20Parent_15C-P_DIMS_BW-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-01-04",
@@ -81780,19 +81780,6 @@
     "minRent": 2377,
     "maxRent": 4721,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_EB10Parent_50A_DIMS_BW-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-01-05",
-    "available": "February 19",
-    "unitName": "632",
-    "floorPlanName": "Midnight",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1245,
-    "minRent": 4280,
-    "maxRent": 11810,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2D20Parent_15C-P_DIMS_BW-01.jpg",
     "status": "no-change"
   },
   {
