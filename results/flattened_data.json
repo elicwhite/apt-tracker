@@ -83301,7 +83301,7 @@
     "minRent": 2902,
     "maxRent": 17064,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1M10Parent_23A_DIMS_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-01-08",
@@ -83769,19 +83769,6 @@
     "minRent": 3032,
     "maxRent": 17827,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-01-09",
-    "available": "February 23",
-    "unitName": "938",
-    "floorPlanName": "Carolina",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 813,
-    "minRent": 2902,
-    "maxRent": 17064,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1M10Parent_23A_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
   },
   {
