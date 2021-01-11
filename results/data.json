@@ -71447,6 +71447,17 @@
     },
     {
       "available": "Now",
+      "unitName": "586",
+      "floorPlanName": "Ultramarine",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "sqft": 1481,
+      "minRent": 5100,
+      "maxRent": 8659,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
+    },
+    {
+      "available": "Now",
       "unitName": "614",
       "floorPlanName": "Cyan",
       "bedrooms": 1,
