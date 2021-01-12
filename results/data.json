@@ -72150,7 +72150,7 @@
       "bathrooms": 1,
       "sqft": 583,
       "minRent": 2419,
-      "maxRent": 12970,
+      "maxRent": 12965,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10Parent_57B-G_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
@@ -72174,6 +72174,17 @@
       "minRent": 3007,
       "maxRent": 16032,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1C10Parent_3B_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "Now",
+      "unitName": "641",
+      "floorPlanName": "Cobalt",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 838,
+      "minRent": 2792,
+      "maxRent": 14726,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1NN10Parent_66B-2_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "Now",
@@ -72253,7 +72264,7 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1U10Parent_40B_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
-      "available": "March 18",
+      "available": "March 19",
       "unitName": "940",
       "floorPlanName": "Baltic",
       "bedrooms": 0,
@@ -72295,6 +72306,17 @@
       "minRent": 3287,
       "maxRent": 17500,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1D10Parent_04B_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "March 4",
+      "unitName": "1025",
+      "floorPlanName": "Aqua",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 815,
+      "minRent": 3452,
+      "maxRent": 20283,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg"
     },
     {
       "available": "Now",
