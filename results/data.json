@@ -72730,17 +72730,6 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1E10Parent_6B-2_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
-      "available": "March 16",
-      "unitName": "246",
-      "floorPlanName": "Klein",
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "sqft": 914,
-      "minRent": 3359,
-      "maxRent": 19735,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1FF10Parent_55B-2_DIMS_BW_SKETCH_500x500-01.jpg"
-    },
-    {
       "available": "Now",
       "unitName": "317",
       "floorPlanName": "Aqua",
@@ -72918,17 +72907,6 @@
     },
     {
       "available": "Now",
-      "unitName": "713",
-      "floorPlanName": "Celeste",
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "sqft": 662,
-      "minRent": 2679,
-      "maxRent": 14309,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1L10Parent_22B_DIMS_BW_SKETCH_500x500-01.jpg"
-    },
-    {
-      "available": "Now",
       "unitName": "732",
       "floorPlanName": "Midnight",
       "bedrooms": 2,
@@ -73047,17 +73025,6 @@
       "minRent": 5933,
       "maxRent": 15011,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2H20Parent_26C_DIMS_BW_SKETCH_500x500-01.jpg"
-    },
-    {
-      "available": "Now",
-      "unitName": "1087",
-      "floorPlanName": "Aquamarine",
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "sqft": 759,
-      "minRent": 3037,
-      "maxRent": 16189,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01.jpg"
     }
   ]
 }
