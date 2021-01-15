@@ -72703,7 +72703,7 @@
       "bedrooms": 1,
       "bathrooms": 1,
       "sqft": 589,
-      "minRent": 3207,
+      "minRent": 2331,
       "maxRent": 13725,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1E10Parent_6B-2_DIMS_BW_SKETCH_500x500-01.jpg"
     },
@@ -72764,17 +72764,6 @@
     },
     {
       "available": "Now",
-      "unitName": "377",
-      "floorPlanName": "Oxford",
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "sqft": 770,
-      "minRent": 2807,
-      "maxRent": 14980,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1V10Parent_41B_DIMS_BW_SKETCH_500x500-01.jpg"
-    },
-    {
-      "available": "Now",
       "unitName": "385",
       "floorPlanName": "Tufts",
       "bedrooms": 2,
@@ -72805,6 +72794,17 @@
       "minRent": 4054,
       "maxRent": 11210,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2D20Parent_15C-P_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "Now",
+      "unitName": "435",
+      "floorPlanName": "Smalt",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 583,
+      "minRent": 2441,
+      "maxRent": 12882,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10Parent_57B-G_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "Now",
@@ -72849,6 +72849,17 @@
       "minRent": 3107,
       "maxRent": 16555,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1W10Parent_42B_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "May 21",
+      "unitName": "676",
+      "floorPlanName": "Powder",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 684,
+      "minRent": 2599,
+      "maxRent": 6332,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1BB10Parent_48B_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "Now",
