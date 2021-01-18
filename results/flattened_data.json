@@ -86434,7 +86434,7 @@
     "minRent": 2855,
     "maxRent": 15187,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1NN10Parent_66B-2_DIMS_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-01-17",
@@ -86863,19 +86863,6 @@
     "minRent": 2231,
     "maxRent": 4772,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EA10Parent_3A-2_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-01-18",
-    "available": "Now",
-    "unitName": "204",
-    "floorPlanName": "Air",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 836,
-    "minRent": 2855,
-    "maxRent": 15187,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1NN10Parent_66B-2_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
   },
   {
