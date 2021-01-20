@@ -87895,6 +87895,19 @@
   {
     "fetchDate": "2021-01-20",
     "available": "Now",
+    "unitName": "586",
+    "floorPlanName": "Ultramarine",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "sqft": 1481,
+    "minRent": 5099,
+    "maxRent": 8657,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-01-20",
+    "available": "Now",
     "unitName": "614",
     "floorPlanName": "Cyan",
     "bedrooms": 1,
@@ -87998,6 +88011,19 @@
   },
   {
     "fetchDate": "2021-01-20",
+    "available": "April 9",
+    "unitName": "871",
+    "floorPlanName": "Majorelle",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 1076,
+    "minRent": 4021,
+    "maxRent": 8207,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2H10Parent_44C_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-01-20",
     "available": "March 12",
     "unitName": "879",
     "floorPlanName": "Moonstone",
@@ -88008,6 +88034,19 @@
     "maxRent": 16599,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1U10Parent_40B_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2021-01-20",
+    "available": "March 9",
+    "unitName": "927",
+    "floorPlanName": "Aqua",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 815,
+    "minRent": 3022,
+    "maxRent": 17766,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2021-01-20",
