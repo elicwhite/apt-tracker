@@ -89208,6 +89208,19 @@
   {
     "fetchDate": "2021-01-23",
     "available": "Now",
+    "unitName": "586",
+    "floorPlanName": "Ultramarine",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "sqft": 1481,
+    "minRent": 5141,
+    "maxRent": 8732,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-01-23",
+    "available": "Now",
     "unitName": "614",
     "floorPlanName": "Cyan",
     "bedrooms": 1,
@@ -89217,6 +89230,19 @@
     "maxRent": 15768,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1C10Parent_3B_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2021-01-23",
+    "available": "March 19",
+    "unitName": "619",
+    "floorPlanName": "Aqua",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 815,
+    "minRent": 3363,
+    "maxRent": 15485,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2021-01-23",
