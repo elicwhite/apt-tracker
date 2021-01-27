@@ -77122,6 +77122,17 @@
     },
     {
       "available": "Now",
+      "unitName": "327",
+      "floorPlanName": "Aqua",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 815,
+      "minRent": 2728,
+      "maxRent": 14579,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg"
+    },
+    {
+      "available": "Now",
       "unitName": "341",
       "floorPlanName": "Storm",
       "bedrooms": 0,
@@ -77308,6 +77319,17 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1L10Parent_22B_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
+      "available": "April 23",
+      "unitName": "731",
+      "floorPlanName": "Cobalt",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 838,
+      "minRent": 3400,
+      "maxRent": 6768,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1NN10Parent_66B-2_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
       "available": "Now",
       "unitName": "732",
       "floorPlanName": "Midnight",
@@ -77372,6 +77394,17 @@
       "minRent": 3199,
       "maxRent": 6817,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1M10Parent_23A_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "March 21",
+      "unitName": "929",
+      "floorPlanName": "Rackley",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1264,
+      "minRent": 5030,
+      "maxRent": 12192,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C20Parent_10C_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "March 19",
