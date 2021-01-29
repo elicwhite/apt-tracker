@@ -91638,6 +91638,19 @@
   },
   {
     "fetchDate": "2021-01-29",
+    "available": "April 9",
+    "unitName": "240",
+    "floorPlanName": "Smalt",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 2933,
+    "maxRent": 6200,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-01-29",
     "available": "March 16",
     "unitName": "246",
     "floorPlanName": "Klein",
@@ -91661,6 +91674,19 @@
     "maxRent": 14798,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2021-01-29",
+    "available": "Now",
+    "unitName": "329",
+    "floorPlanName": "Rackley",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1264,
+    "minRent": 4413,
+    "maxRent": 11215,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C20Parent_10C_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2021-01-29",
