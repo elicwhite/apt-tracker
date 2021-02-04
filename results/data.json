@@ -80316,6 +80316,17 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2I20Parent_37C-P_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
+      "available": "April 23",
+      "unitName": "389",
+      "floorPlanName": "Dolphin",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "sqft": 1032,
+      "minRent": 4340,
+      "maxRent": 9032,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2F10Parent_35C_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
       "available": "Now",
       "unitName": "430",
       "floorPlanName": "Cornflower",
