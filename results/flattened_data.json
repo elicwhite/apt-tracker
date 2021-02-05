@@ -94967,6 +94967,19 @@
   {
     "fetchDate": "2021-02-05",
     "available": "Now",
+    "unitName": "413",
+    "floorPlanName": "Celeste",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 662,
+    "minRent": 2559,
+    "maxRent": 15328,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1L10Parent_22B_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-02-05",
+    "available": "Now",
     "unitName": "430",
     "floorPlanName": "Cornflower",
     "bedrooms": 2,
@@ -94986,7 +94999,7 @@
     "bathrooms": 1,
     "sqft": 583,
     "minRent": 2267,
-    "maxRent": 13811,
+    "maxRent": 13808,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
   },
@@ -94999,7 +95012,7 @@
     "bathrooms": 1,
     "sqft": 838,
     "minRent": 2648,
-    "maxRent": 16076,
+    "maxRent": 16072,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1NN10Parent_66B-2_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
   },
@@ -95012,7 +95025,7 @@
     "bathrooms": 1,
     "sqft": 770,
     "minRent": 2533,
-    "maxRent": 15401,
+    "maxRent": 15396,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1V10Parent_41B_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
   },
