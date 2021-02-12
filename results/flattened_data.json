@@ -97800,6 +97800,32 @@
   },
   {
     "fetchDate": "2021-02-12",
+    "available": "April 16",
+    "unitName": "304",
+    "floorPlanName": "Electric",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1283,
+    "minRent": 4584,
+    "maxRent": 10423,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2M20Parent_66C-P_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-02-12",
+    "available": "Now",
+    "unitName": "318",
+    "floorPlanName": "Indigo",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 697,
+    "minRent": 2668,
+    "maxRent": 15987,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1D10Parent_04B_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-02-12",
     "available": "April 9",
     "unitName": "320",
     "floorPlanName": "Admiral",
@@ -98044,6 +98070,19 @@
     "maxRent": 4625,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EE10Parent_38A_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2021-02-12",
+    "available": "April 11",
+    "unitName": "831",
+    "floorPlanName": "Cobalt",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 838,
+    "minRent": 3499,
+    "maxRent": 6664,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1NN10Parent_66B-2_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2021-02-12",
