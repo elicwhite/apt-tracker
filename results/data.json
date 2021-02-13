@@ -83579,6 +83579,17 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1NN10Parent_66B-2_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
+      "available": "April 23",
+      "unitName": "475",
+      "floorPlanName": "Mist",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 906,
+      "minRent": 3599,
+      "maxRent": 7318,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1W10Parent_42B_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
       "available": "Now",
       "unitName": "477",
       "floorPlanName": "Oxford",
@@ -83608,7 +83619,7 @@
       "bathrooms": 2,
       "sqft": 1481,
       "minRent": 5099,
-      "maxRent": 9267,
+      "maxRent": 9259,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
     },
     {
