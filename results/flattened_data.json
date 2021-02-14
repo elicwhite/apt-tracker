@@ -98394,7 +98394,7 @@
     "minRent": 2900,
     "maxRent": 4914,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-02-13",
@@ -98736,14 +98736,14 @@
   },
   {
     "fetchDate": "2021-02-14",
-    "available": "April 1",
+    "available": "May 1",
     "unitName": "413",
     "floorPlanName": "Celeste",
     "bedrooms": 1,
     "bathrooms": 1,
     "sqft": 662,
     "minRent": 2569,
-    "maxRent": 15362,
+    "maxRent": 6346,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1L10Parent_22B_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
   },
@@ -98801,16 +98801,16 @@
   },
   {
     "fetchDate": "2021-02-14",
-    "available": "May 2",
-    "unitName": "524",
+    "available": "May 1",
+    "unitName": "580",
     "floorPlanName": "Turquoise",
     "bedrooms": 0,
     "bathrooms": 1,
     "sqft": 552,
-    "minRent": 2900,
-    "maxRent": 4914,
+    "minRent": 2299,
+    "maxRent": 5043,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
+    "status": "first-day"
   },
   {
     "fetchDate": "2021-02-14",
@@ -98821,7 +98821,7 @@
     "bathrooms": 2,
     "sqft": 1481,
     "minRent": 5099,
-    "maxRent": 9259,
+    "maxRent": 9251,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg",
     "status": "no-change"
   },
