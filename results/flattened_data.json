@@ -98654,7 +98654,7 @@
     "minRent": 3514,
     "maxRent": 7100,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1F10Parent_6B_DIMS_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-02-14",
@@ -98823,7 +98823,7 @@
     "minRent": 5099,
     "maxRent": 9251,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-02-14",
@@ -99061,19 +99061,6 @@
   },
   {
     "fetchDate": "2021-02-15",
-    "available": "April 9",
-    "unitName": "320",
-    "floorPlanName": "Admiral",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 842,
-    "minRent": 3514,
-    "maxRent": 7100,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1F10Parent_6B_DIMS_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-02-15",
     "available": "Now",
     "unitName": "327",
     "floorPlanName": "Aqua",
@@ -99226,19 +99213,6 @@
     "minRent": 2299,
     "maxRent": 5043,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-02-15",
-    "available": "Now",
-    "unitName": "586",
-    "floorPlanName": "Ultramarine",
-    "bedrooms": 3,
-    "bathrooms": 2,
-    "sqft": 1481,
-    "minRent": 5099,
-    "maxRent": 9251,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg",
     "status": "no-change"
   },
   {
