@@ -84548,8 +84548,8 @@
       "bedrooms": 2,
       "bathrooms": 2,
       "sqft": 1264,
-      "minRent": 4398,
-      "maxRent": 14549,
+      "minRent": 4381,
+      "maxRent": 14542,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C20Parent_10C_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
@@ -84685,17 +84685,6 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1D10Parent_04B_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
-      "available": "April 2",
-      "unitName": "630",
-      "floorPlanName": "Cornflower",
-      "bedrooms": 2,
-      "bathrooms": 1,
-      "sqft": 885,
-      "minRent": 3482,
-      "maxRent": 7664,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01.jpg"
-    },
-    {
       "available": "Now",
       "unitName": "675",
       "floorPlanName": "Mist",
@@ -84738,17 +84727,6 @@
       "minRent": 3499,
       "maxRent": 6664,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1NN10Parent_66B-2_DIMS_BW_SKETCH_500x500-01.jpg"
-    },
-    {
-      "available": "April 2",
-      "unitName": "838",
-      "floorPlanName": "Carolina",
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "sqft": 813,
-      "minRent": 2720,
-      "maxRent": 6687,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1M10Parent_23A_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "Now",
