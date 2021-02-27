@@ -103884,19 +103884,6 @@
   },
   {
     "fetchDate": "2021-02-27",
-    "available": "April 28",
-    "unitName": "936",
-    "floorPlanName": "Pacific",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 826,
-    "minRent": 2860,
-    "maxRent": 7041,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1L10Parent_22B_DIMS_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-02-27",
     "available": "Now",
     "unitName": "1040",
     "floorPlanName": "Topaz Penthouse",
