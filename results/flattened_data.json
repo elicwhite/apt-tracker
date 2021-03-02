@@ -104794,6 +104794,19 @@
   },
   {
     "fetchDate": "2021-03-02",
+    "available": "April 25",
+    "unitName": "380",
+    "floorPlanName": "Turquoise",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 552,
+    "minRent": 2269,
+    "maxRent": 5000,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-03-02",
     "available": "Now",
     "unitName": "385",
     "floorPlanName": "Tufts",
@@ -104947,6 +104960,19 @@
     "maxRent": 4691,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2021-03-02",
+    "available": "May 7",
+    "unitName": "819",
+    "floorPlanName": "Aqua",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 815,
+    "minRent": 2921,
+    "maxRent": 7704,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2021-03-02",
