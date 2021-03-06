@@ -90222,6 +90222,17 @@
     },
     {
       "available": "Now",
+      "unitName": "337",
+      "floorPlanName": "Smalt",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 583,
+      "minRent": 2617,
+      "maxRent": 6663,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "Now",
       "unitName": "341",
       "floorPlanName": "Storm",
       "bedrooms": 0,
@@ -90307,6 +90318,17 @@
       "minRent": 2683,
       "maxRent": 13730,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Cobalt_DIMS_BW_SKETCH_500X500-01.jpg"
+    },
+    {
+      "available": "May 14",
+      "unitName": "574",
+      "floorPlanName": "Sky",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 801,
+      "minRent": 2745,
+      "maxRent": 8304,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1AA10Parent_47B_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "Now",
