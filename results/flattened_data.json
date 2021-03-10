@@ -107525,6 +107525,19 @@
   {
     "fetchDate": "2021-03-10",
     "available": "Now",
+    "unitName": "337",
+    "floorPlanName": "Smalt",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 2617,
+    "maxRent": 6663,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-03-10",
+    "available": "Now",
     "unitName": "341",
     "floorPlanName": "Storm",
     "bedrooms": 0,
@@ -107589,6 +107602,19 @@
   },
   {
     "fetchDate": "2021-03-10",
+    "available": "Now",
+    "unitName": "415",
+    "floorPlanName": "Aqua",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 815,
+    "minRent": 2793,
+    "maxRent": 14283,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-03-10",
     "available": "June 1",
     "unitName": "427",
     "floorPlanName": "Aqua",
@@ -107612,6 +107638,19 @@
     "maxRent": 13831,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Cobalt_DIMS_BW_SKETCH_500X500-01.jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2021-03-10",
+    "available": "May 14",
+    "unitName": "570",
+    "floorPlanName": "Ultramarine",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "sqft": 1481,
+    "minRent": 5051,
+    "maxRent": 10238,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2021-03-10",
