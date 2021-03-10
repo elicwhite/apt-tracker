@@ -91561,17 +91561,6 @@
     },
     {
       "available": "Now",
-      "unitName": "1040",
-      "floorPlanName": "Topaz Penthouse",
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "sqft": 1778,
-      "minRent": 8129,
-      "maxRent": 25922,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2O20_TopazPenthouse2_DIMS_BW_SKETCH_500X500-01.jpg"
-    },
-    {
-      "available": "Now",
       "unitName": "1044",
       "floorPlanName": "Marine",
       "bedrooms": 2,

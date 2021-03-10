@@ -107442,7 +107442,7 @@
     "minRent": 8129,
     "maxRent": 25922,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2O20_TopazPenthouse2_DIMS_BW_SKETCH_500X500-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-03-09",
@@ -107728,19 +107728,6 @@
     "minRent": 3046,
     "maxRent": 15551,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1D10Parent_04B_DIMS_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-03-10",
-    "available": "Now",
-    "unitName": "1040",
-    "floorPlanName": "Topaz Penthouse",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1778,
-    "minRent": 8129,
-    "maxRent": 25922,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2O20_TopazPenthouse2_DIMS_BW_SKETCH_500X500-01.jpg",
     "status": "no-change"
   },
   {
