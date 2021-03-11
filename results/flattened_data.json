@@ -107966,6 +107966,19 @@
   },
   {
     "fetchDate": "2021-03-11",
+    "available": "May 1",
+    "unitName": "580",
+    "floorPlanName": "Turquoise",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 552,
+    "minRent": 2299,
+    "maxRent": 5831,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-03-11",
     "available": "Now",
     "unitName": "614",
     "floorPlanName": "Cyan",
