@@ -108687,8 +108687,8 @@
     "bedrooms": 1,
     "bathrooms": 1,
     "sqft": 739,
-    "minRent": 2978,
-    "maxRent": 6635,
+    "minRent": 2498,
+    "maxRent": 6646,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1B10Parent_02B_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
   },
@@ -108717,6 +108717,19 @@
     "maxRent": 14239,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C20Parent_10C_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2021-03-14",
+    "available": "Now",
+    "unitName": "337",
+    "floorPlanName": "Smalt",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 2799,
+    "maxRent": 7493,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2021-03-14",
@@ -108766,7 +108779,7 @@
     "bathrooms": 1,
     "sqft": 662,
     "minRent": 2609,
-    "maxRent": 6946,
+    "maxRent": 6988,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Celeste_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
   },
@@ -108818,7 +108831,7 @@
     "bathrooms": 1,
     "sqft": 801,
     "minRent": 3416,
-    "maxRent": 8036,
+    "maxRent": 8049,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1AA10Parent_47B_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
   },
@@ -108935,7 +108948,7 @@
     "bathrooms": 1,
     "sqft": 815,
     "minRent": 3595,
-    "maxRent": 8868,
+    "maxRent": 8883,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg",
     "status": "no-change"
   },
