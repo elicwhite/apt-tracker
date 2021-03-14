@@ -108573,7 +108573,7 @@
     "minRent": 2668,
     "maxRent": 7729,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1D10Parent_04B_DIMS_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-03-13",
@@ -108850,19 +108850,6 @@
   },
   {
     "fetchDate": "2021-03-14",
-    "available": "May 27",
-    "unitName": "618",
-    "floorPlanName": "Indigo",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 697,
-    "minRent": 2668,
-    "maxRent": 7729,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1D10Parent_04B_DIMS_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-03-14",
     "available": "Now",
     "unitName": "675",
     "floorPlanName": "Mist",
@@ -108912,6 +108899,19 @@
     "maxRent": 11519,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2021-03-14",
+    "available": "Now",
+    "unitName": "879",
+    "floorPlanName": "Moonstone",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 814,
+    "minRent": 2735,
+    "maxRent": 13224,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1U10Parent_40B_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2021-03-14",
