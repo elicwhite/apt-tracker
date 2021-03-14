@@ -108708,6 +108708,19 @@
   {
     "fetchDate": "2021-03-14",
     "available": "Now",
+    "unitName": "252",
+    "floorPlanName": "Palatinate",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 638,
+    "minRent": 2594,
+    "maxRent": 6951,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1LL10Parent_61B-2_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-03-14",
+    "available": "Now",
     "unitName": "329",
     "floorPlanName": "Rackley",
     "bedrooms": 2,
@@ -108795,6 +108808,19 @@
     "maxRent": 13271,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Cobalt_DIMS_BW_SKETCH_500X500-01.jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2021-03-14",
+    "available": "April 28",
+    "unitName": "481",
+    "floorPlanName": "Brandeis",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 775,
+    "minRent": 2619,
+    "maxRent": 6975,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2021-03-14",
@@ -108912,6 +108938,19 @@
     "maxRent": 11519,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2021-03-14",
+    "available": "Now",
+    "unitName": "879",
+    "floorPlanName": "Moonstone",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 814,
+    "minRent": 2735,
+    "maxRent": 13224,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1U10Parent_40B_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2021-03-14",
