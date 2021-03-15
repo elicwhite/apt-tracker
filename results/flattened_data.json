@@ -109241,19 +109241,6 @@
   {
     "fetchDate": "2021-03-15",
     "available": "Now",
-    "unitName": "879",
-    "floorPlanName": "Moonstone",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 814,
-    "minRent": 2735,
-    "maxRent": 13224,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1U10Parent_40B_DIMS_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-03-15",
-    "available": "Now",
     "unitName": "1016",
     "floorPlanName": "Indigo",
     "bedrooms": 1,
