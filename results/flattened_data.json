@@ -109275,7 +109275,7 @@
     "minRent": 5845,
     "maxRent": 18608,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/1920x1121/interior/marine/08_Indigo_Marine944_S4A7636.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-03-16",
@@ -109574,19 +109574,6 @@
     "minRent": 3595,
     "maxRent": 9915,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-03-16",
-    "available": "Now",
-    "unitName": "1044",
-    "floorPlanName": "Marine",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1554,
-    "minRent": 4430,
-    "maxRent": 13143,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/1920x1121/interior/marine/08_Indigo_Marine944_S4A7636.jpg",
     "status": "no-change"
   }
 ]
