@@ -92904,28 +92904,6 @@
     },
     {
       "available": "Now",
-      "unitName": "210",
-      "floorPlanName": "Cambridge",
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "sqft": 850,
-      "minRent": 3778,
-      "maxRent": 18228,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1A10Parent_1B-2_DIMS_BW_SKETCH_500x500-01.jpg"
-    },
-    {
-      "available": "Now",
-      "unitName": "246",
-      "floorPlanName": "Klein",
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "sqft": 914,
-      "minRent": 3435,
-      "maxRent": 16583,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1FF10Parent_55B-2_BW_SKETCH_500x500-01.jpg"
-    },
-    {
-      "available": "Now",
       "unitName": "252",
       "floorPlanName": "Palatinate",
       "bedrooms": 0,
@@ -92978,17 +92956,6 @@
       "minRent": 3325,
       "maxRent": 16054,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1Z10Parent_46B_DIMS_BW_SKETCH_500x500-01.jpg"
-    },
-    {
-      "available": "Now",
-      "unitName": "381",
-      "floorPlanName": "Brandeis",
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "sqft": 775,
-      "minRent": 3155,
-      "maxRent": 15240,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "Now",
