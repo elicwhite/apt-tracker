@@ -109747,6 +109747,19 @@
   },
   {
     "fetchDate": "2021-03-17",
+    "available": "May 2",
+    "unitName": "524",
+    "floorPlanName": "Turquoise",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 552,
+    "minRent": 2239,
+    "maxRent": 5671,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-03-17",
     "available": "May 14",
     "unitName": "570",
     "floorPlanName": "Ultramarine",
@@ -109787,6 +109800,19 @@
   {
     "fetchDate": "2021-03-17",
     "available": "Now",
+    "unitName": "646",
+    "floorPlanName": "Cornflower",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 885,
+    "minRent": 3750,
+    "maxRent": 11148,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-03-17",
+    "available": "Now",
     "unitName": "675",
     "floorPlanName": "Mist",
     "bedrooms": 1,
@@ -109796,6 +109822,19 @@
     "maxRent": 15408,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1W10Parent_42B_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2021-03-17",
+    "available": "June 19",
+    "unitName": "738",
+    "floorPlanName": "Carolina",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 813,
+    "minRent": 2829,
+    "maxRent": 6774,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1M10Parent_23A_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2021-03-17",
@@ -109809,6 +109848,19 @@
     "maxRent": 6592,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2021-03-17",
+    "available": "May 9",
+    "unitName": "913",
+    "floorPlanName": "Celeste",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 662,
+    "minRent": 2698,
+    "maxRent": 7853,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Celeste_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2021-03-17",
