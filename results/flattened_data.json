@@ -109955,6 +109955,19 @@
   },
   {
     "fetchDate": "2021-03-18",
+    "available": "May 21",
+    "unitName": "333",
+    "floorPlanName": "Robin",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 769,
+    "minRent": 3289,
+    "maxRent": 8967,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1P10Parent_032B_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-03-18",
     "available": "Now",
     "unitName": "337",
     "floorPlanName": "Smalt",
@@ -110151,6 +110164,19 @@
   {
     "fetchDate": "2021-03-18",
     "available": "Now",
+    "unitName": "934",
+    "floorPlanName": "Manatee",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 843,
+    "minRent": 3235,
+    "maxRent": 15622,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1K10Parent_21B_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-03-18",
+    "available": "Now",
     "unitName": "1016",
     "floorPlanName": "Indigo",
     "bedrooms": 1,
@@ -110173,5 +110199,18 @@
     "maxRent": 9498,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2021-03-18",
+    "available": "Now",
+    "unitName": "1044",
+    "floorPlanName": "Marine",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1554,
+    "minRent": 5893,
+    "maxRent": 5893,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2H20Parent_26C_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
   }
 ]
