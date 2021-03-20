@@ -110735,19 +110735,6 @@
   },
   {
     "fetchDate": "2021-03-20",
-    "available": "May 28",
-    "unitName": "615",
-    "floorPlanName": "Aqua",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 815,
-    "minRent": 3412,
-    "maxRent": 8924,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-03-20",
     "available": "Now",
     "unitName": "646",
     "floorPlanName": "Cornflower",
