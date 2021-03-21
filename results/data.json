@@ -94266,6 +94266,17 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1A10Parent_1B-2_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
+      "available": "May 30",
+      "unitName": "236",
+      "floorPlanName": "Pacific",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 826,
+      "minRent": 3290,
+      "maxRent": 9526,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1L10Parent_22B_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
       "available": "Now",
       "unitName": "246",
       "floorPlanName": "Klein",
@@ -94429,6 +94440,17 @@
       "minRent": 3190,
       "maxRent": 15408,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1W10Parent_42B_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "May 7",
+      "unitName": "678",
+      "floorPlanName": "Teal",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 857,
+      "minRent": 3090,
+      "maxRent": 8984,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1CC10Parent_49B_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "Now",
