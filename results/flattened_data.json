@@ -111542,19 +111542,6 @@
   {
     "fetchDate": "2021-03-22",
     "available": "Now",
-    "unitName": "940",
-    "floorPlanName": "Baltic",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 558,
-    "minRent": 2459,
-    "maxRent": 6604,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EC10Parent_24A_BW_SKETCH_500x500-01.jpg",
-    "status": "first-day"
-  },
-  {
-    "fetchDate": "2021-03-22",
-    "available": "Now",
     "unitName": "1016",
     "floorPlanName": "Indigo",
     "bedrooms": 1,
