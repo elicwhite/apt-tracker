@@ -95196,6 +95196,17 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1FF10Parent_55B-2_BW_SKETCH_500x500-01.jpg"
     },
     {
+      "available": "May 21",
+      "unitName": "254",
+      "floorPlanName": "Bondi",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 677,
+      "minRent": 2688,
+      "maxRent": 6789,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EH10Parent_58A-2_BW_SKETCH_500x500-01.jpg"
+    },
+    {
       "available": "Now",
       "unitName": "329",
       "floorPlanName": "Rackley",
