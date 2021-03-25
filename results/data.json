@@ -95737,6 +95737,17 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EC10Parent_24A_BW_SKETCH_500x500-01.jpg"
     },
     {
+      "available": "May 11",
+      "unitName": "1013",
+      "floorPlanName": "Celeste",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 662,
+      "minRent": 3199,
+      "maxRent": 9295,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Celeste_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
       "available": "Now",
       "unitName": "1016",
       "floorPlanName": "Indigo",
