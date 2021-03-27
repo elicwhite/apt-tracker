@@ -96093,6 +96093,17 @@
   ],
   "2021-03-27": [
     {
+      "available": "May 21",
+      "unitName": "108",
+      "floorPlanName": "Cadet",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 495,
+      "minRent": 2459,
+      "maxRent": 5794,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EG10Parent_54A-2_BW_SKETCH_500x500-01.jpg"
+    },
+    {
       "available": "Now",
       "unitName": "114",
       "floorPlanName": "Aegean",
@@ -96314,6 +96325,17 @@
     },
     {
       "available": "May 28",
+      "unitName": "785",
+      "floorPlanName": "Aquamarine",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 759,
+      "minRent": 3143,
+      "maxRent": 8958,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "May 28",
       "unitName": "817",
       "floorPlanName": "Aqua",
       "bedrooms": 1,
@@ -96355,17 +96377,6 @@
       "minRent": 2628,
       "maxRent": 7053,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EC10Parent_24A_BW_SKETCH_500x500-01.jpg"
-    },
-    {
-      "available": "May 11",
-      "unitName": "1013",
-      "floorPlanName": "Celeste",
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "sqft": 662,
-      "minRent": 3199,
-      "maxRent": 9295,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Celeste_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "Now",
