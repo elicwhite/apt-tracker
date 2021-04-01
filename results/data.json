@@ -97760,7 +97760,7 @@
       "bathrooms": 1,
       "sqft": 769,
       "minRent": 3306,
-      "maxRent": 9857,
+      "maxRent": 9621,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1P10Parent_032B_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
@@ -97848,8 +97848,19 @@
       "bathrooms": 1,
       "sqft": 662,
       "minRent": 3123,
-      "maxRent": 8802,
+      "maxRent": 8592,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Celeste_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "Now",
+      "unitName": "630",
+      "floorPlanName": "Cornflower",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "sqft": 885,
+      "minRent": 3911,
+      "maxRent": 11601,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "Now",
@@ -97892,7 +97903,7 @@
       "bathrooms": 1,
       "sqft": 759,
       "minRent": 3143,
-      "maxRent": 9223,
+      "maxRent": 9002,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
@@ -97903,7 +97914,7 @@
       "bathrooms": 1,
       "sqft": 815,
       "minRent": 3393,
-      "maxRent": 9694,
+      "maxRent": 9462,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg"
     },
     {
