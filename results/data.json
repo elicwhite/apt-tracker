@@ -98130,6 +98130,17 @@
     },
     {
       "available": "Now",
+      "unitName": "630",
+      "floorPlanName": "Cornflower",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "sqft": 885,
+      "minRent": 3911,
+      "maxRent": 11601,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "Now",
       "unitName": "675",
       "floorPlanName": "Mist",
       "bedrooms": 1,
