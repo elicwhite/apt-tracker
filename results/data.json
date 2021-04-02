@@ -98130,6 +98130,17 @@
     },
     {
       "available": "Now",
+      "unitName": "630",
+      "floorPlanName": "Cornflower",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "sqft": 885,
+      "minRent": 3911,
+      "maxRent": 11601,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "Now",
       "unitName": "675",
       "floorPlanName": "Mist",
       "bedrooms": 1,
@@ -98193,17 +98204,6 @@
       "minRent": 2957,
       "maxRent": 6597,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg"
-    },
-    {
-      "available": "Now",
-      "unitName": "934",
-      "floorPlanName": "Manatee",
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "sqft": 843,
-      "minRent": 3456,
-      "maxRent": 16915,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1K10Parent_21B_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "Now",
