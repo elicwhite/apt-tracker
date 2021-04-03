@@ -115610,6 +115610,19 @@
   },
   {
     "fetchDate": "2021-04-03",
+    "available": "June 11",
+    "unitName": "226",
+    "floorPlanName": "Cerulean",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 899,
+    "minRent": 3689,
+    "maxRent": 10053,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1G10Parent_9B-2_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-04-03",
     "available": "Now",
     "unitName": "246",
     "floorPlanName": "Klein",
@@ -115633,6 +115646,19 @@
     "maxRent": 6574,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EH10Parent_58A-2_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2021-04-03",
+    "available": "June 27",
+    "unitName": "262",
+    "floorPlanName": "Bleu",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 682,
+    "minRent": 2688,
+    "maxRent": 7089,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EG10Parent_54A-2_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2021-04-03",
