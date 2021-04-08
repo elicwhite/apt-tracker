@@ -117131,6 +117131,19 @@
   },
   {
     "fetchDate": "2021-04-08",
+    "available": "July 2",
+    "unitName": "218",
+    "floorPlanName": "Indigo",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 697,
+    "minRent": 3145,
+    "maxRent": 8267,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1D10Parent_04B_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-04-08",
     "available": "June 11",
     "unitName": "226",
     "floorPlanName": "Cerulean",
@@ -117138,9 +117151,22 @@
     "bathrooms": 1,
     "sqft": 899,
     "minRent": 3689,
-    "maxRent": 9966,
+    "maxRent": 9950,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1G10Parent_9B-2_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2021-04-08",
+    "available": "Now",
+    "unitName": "240",
+    "floorPlanName": "Smalt",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 2918,
+    "maxRent": 6709,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2021-04-08",
@@ -117190,7 +117216,7 @@
     "bathrooms": 1,
     "sqft": 670,
     "minRent": 2999,
-    "maxRent": 8332,
+    "maxRent": 8319,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1Q10Parent_34B-P_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "first-day"
   },
@@ -117203,7 +117229,7 @@
     "bathrooms": 1,
     "sqft": 769,
     "minRent": 3276,
-    "maxRent": 9534,
+    "maxRent": 9519,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1P10Parent_032B_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
   },
@@ -117294,7 +117320,7 @@
     "bathrooms": 1,
     "sqft": 662,
     "minRent": 2989,
-    "maxRent": 8706,
+    "maxRent": 8691,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Celeste_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
   },
@@ -117326,6 +117352,19 @@
   },
   {
     "fetchDate": "2021-04-08",
+    "available": "July 2",
+    "unitName": "685",
+    "floorPlanName": "Aquamarine",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 759,
+    "minRent": 3254,
+    "maxRent": 8557,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-04-08",
     "available": "Now",
     "unitName": "722",
     "floorPlanName": "Turquoise",
@@ -117339,6 +117378,19 @@
   },
   {
     "fetchDate": "2021-04-08",
+    "available": "Now",
+    "unitName": "786",
+    "floorPlanName": "Ultramarine",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "sqft": 1481,
+    "minRent": 5814,
+    "maxRent": 12562,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-04-08",
     "available": "May 28",
     "unitName": "817",
     "floorPlanName": "Aqua",
@@ -117346,7 +117398,7 @@
     "bathrooms": 1,
     "sqft": 815,
     "minRent": 3393,
-    "maxRent": 9375,
+    "maxRent": 9360,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg",
     "status": "no-change"
   },
@@ -117375,6 +117427,19 @@
     "maxRent": 6088,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2021-04-08",
+    "available": "June 11",
+    "unitName": "830",
+    "floorPlanName": "Cornflower",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 885,
+    "minRent": 4021,
+    "maxRent": 9206,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2021-04-08",
