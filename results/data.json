@@ -100512,6 +100512,17 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1A10Parent_1B-2_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
+      "available": "July 2",
+      "unitName": "218",
+      "floorPlanName": "Indigo",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 697,
+      "minRent": 3145,
+      "maxRent": 8182,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1D10Parent_04B_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
       "available": "May 31",
       "unitName": "224",
       "floorPlanName": "Turquoise",
@@ -100653,6 +100664,17 @@
       "minRent": 3881,
       "maxRent": 9776,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "June 12",
+      "unitName": "633",
+      "floorPlanName": "Robin",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 769,
+      "minRent": 3101,
+      "maxRent": 9015,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1P10Parent_032B_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "May 28",
