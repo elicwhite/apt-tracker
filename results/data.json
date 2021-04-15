@@ -101841,6 +101841,17 @@
     },
     {
       "available": "Now",
+      "unitName": "413",
+      "floorPlanName": "Celeste",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 662,
+      "minRent": 2879,
+      "maxRent": 7688,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Celeste_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "Now",
       "unitName": "415",
       "floorPlanName": "Aqua",
       "bedrooms": 1,
@@ -101849,6 +101860,17 @@
       "minRent": 3216,
       "maxRent": 8580,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg"
+    },
+    {
+      "available": "June 17",
+      "unitName": "512",
+      "floorPlanName": "Royal",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 739,
+      "minRent": 2884,
+      "maxRent": 8378,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1B10Parent_02B_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "Now",
@@ -101932,6 +101954,17 @@
       "unitName": "821",
       "floorPlanName": "Smalt",
       "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 583,
+      "minRent": 2868,
+      "maxRent": 6593,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "Now",
+      "unitName": "821",
+      "floorPlanName": "Smalt - ARCHIVE",
+      "bedrooms": 1,
       "bathrooms": 1,
       "sqft": 583,
       "minRent": 2868,
