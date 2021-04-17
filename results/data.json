@@ -102357,7 +102357,7 @@
       "bathrooms": 1,
       "sqft": 697,
       "minRent": 3145,
-      "maxRent": 8182,
+      "maxRent": 8169,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1D10Parent_04B_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
@@ -102436,17 +102436,6 @@
       "minRent": 2999,
       "maxRent": 8219,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1Q10Parent_34B-P_DIMS_BW_SKETCH_500x500-01.jpg"
-    },
-    {
-      "available": "Now",
-      "unitName": "341",
-      "floorPlanName": "Storm",
-      "bedrooms": 0,
-      "bathrooms": 1,
-      "sqft": 559,
-      "minRent": 2378,
-      "maxRent": 5473,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/ED10Parent_28A-P_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "Now",
@@ -102566,7 +102555,7 @@
       "bathrooms": 1,
       "sqft": 759,
       "minRent": 3254,
-      "maxRent": 8486,
+      "maxRent": 8472,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
@@ -102596,17 +102585,6 @@
       "unitName": "821",
       "floorPlanName": "Smalt",
       "bedrooms": 0,
-      "bathrooms": 1,
-      "sqft": 583,
-      "minRent": 2868,
-      "maxRent": 6593,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
-    },
-    {
-      "available": "Now",
-      "unitName": "821",
-      "floorPlanName": "Smalt - ARCHIVE",
-      "bedrooms": 1,
       "bathrooms": 1,
       "sqft": 583,
       "minRent": 2868,
