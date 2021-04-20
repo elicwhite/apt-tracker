@@ -103269,6 +103269,17 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Aegean_BW_SKETCH_500x500-01.jpg"
     },
     {
+      "available": "August 27",
+      "unitName": "170",
+      "floorPlanName": "Capri",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1067,
+      "minRent": 4309,
+      "maxRent": 8505,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2J20Parent_45C-G_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
       "available": "Now",
       "unitName": "210",
       "floorPlanName": "Cambridge",
@@ -103423,6 +103434,17 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1B10Parent_02B_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
+      "available": "June 25",
+      "unitName": "571",
+      "floorPlanName": "Majorelle",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "sqft": 1076,
+      "minRent": 3905,
+      "maxRent": 8610,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2H10Parent_44C_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
       "available": "Now",
       "unitName": "614",
       "floorPlanName": "Cyan",
@@ -103504,6 +103526,17 @@
       "unitName": "821",
       "floorPlanName": "Smalt",
       "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 583,
+      "minRent": 2868,
+      "maxRent": 6593,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "Now",
+      "unitName": "821",
+      "floorPlanName": "Smalt - ARCHIVE",
+      "bedrooms": 1,
       "bathrooms": 1,
       "sqft": 583,
       "minRent": 2868,
