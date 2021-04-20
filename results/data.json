@@ -103287,19 +103287,8 @@
       "bathrooms": 1,
       "sqft": 697,
       "minRent": 3145,
-      "maxRent": 8169,
+      "maxRent": 8073,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1D10Parent_04B_DIMS_BW_SKETCH_500x500-01.jpg"
-    },
-    {
-      "available": "July 2",
-      "unitName": "222",
-      "floorPlanName": "Turquoise",
-      "bedrooms": 0,
-      "bathrooms": 1,
-      "sqft": 552,
-      "minRent": 2587,
-      "maxRent": 6268,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "June 11",
@@ -103485,7 +103474,7 @@
       "bathrooms": 1,
       "sqft": 759,
       "minRent": 3254,
-      "maxRent": 8472,
+      "maxRent": 8372,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
