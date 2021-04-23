@@ -122591,6 +122591,19 @@
   },
   {
     "fetchDate": "2021-04-23",
+    "available": "Now",
+    "unitName": "212",
+    "floorPlanName": "Royal",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 739,
+    "minRent": 3315,
+    "maxRent": 8856,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1B10Parent_02B_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-04-23",
     "available": "July 2",
     "unitName": "218",
     "floorPlanName": "Indigo",
@@ -122835,6 +122848,32 @@
     "maxRent": 6186,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2021-04-23",
+    "available": "Now",
+    "unitName": "731",
+    "floorPlanName": "Cobalt",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 838,
+    "minRent": 3601,
+    "maxRent": 9614,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Cobalt_DIMS_BW_SKETCH_500X500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-04-23",
+    "available": "Now",
+    "unitName": "783",
+    "floorPlanName": "Lapis",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 495,
+    "minRent": 2560,
+    "maxRent": 5888,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EE10Parent_38A_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2021-04-23",
