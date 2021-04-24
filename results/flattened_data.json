@@ -122955,6 +122955,19 @@
   },
   {
     "fetchDate": "2021-04-24",
+    "available": "June 25",
+    "unitName": "162",
+    "floorPlanName": "Iris",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 762,
+    "minRent": 3292,
+    "maxRent": 8034,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1EE10Parent_54A-G_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-04-24",
     "available": "August 27",
     "unitName": "170",
     "floorPlanName": "Capri",
@@ -123276,6 +123289,19 @@
     "minRent": 6854,
     "maxRent": 14782,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg",
+    "status": "no-change"
+  },
+  {
+    "fetchDate": "2021-04-24",
+    "available": "Now",
+    "unitName": "821",
+    "floorPlanName": "Smalt - ARCHIVE",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 3120,
+    "maxRent": 7173,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
   },
   {
