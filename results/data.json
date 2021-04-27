@@ -105694,8 +105694,8 @@
     {
       "available": "July 2",
       "unitName": "340",
-      "floorPlanName": "Smalt",
-      "bedrooms": 0,
+      "floorPlanName": "Smalt - ARCHIVE",
+      "bedrooms": 1,
       "bathrooms": 1,
       "sqft": 583,
       "minRent": 3167,
@@ -105705,8 +105705,8 @@
     {
       "available": "July 2",
       "unitName": "340",
-      "floorPlanName": "Smalt - ARCHIVE",
-      "bedrooms": 1,
+      "floorPlanName": "Smalt",
+      "bedrooms": 0,
       "bathrooms": 1,
       "sqft": 583,
       "minRent": 3167,
@@ -105914,8 +105914,8 @@
     {
       "available": "Now",
       "unitName": "821",
-      "floorPlanName": "Smalt",
-      "bedrooms": 0,
+      "floorPlanName": "Smalt - ARCHIVE",
+      "bedrooms": 1,
       "bathrooms": 1,
       "sqft": 583,
       "minRent": 2827,
@@ -105925,8 +105925,8 @@
     {
       "available": "Now",
       "unitName": "821",
-      "floorPlanName": "Smalt - ARCHIVE",
-      "bedrooms": 1,
+      "floorPlanName": "Smalt",
+      "bedrooms": 0,
       "bathrooms": 1,
       "sqft": 583,
       "minRent": 2827,
