@@ -126452,6 +126452,19 @@
   },
   {
     "fetchDate": "2021-05-02",
+    "available": "June 26",
+    "unitName": "521",
+    "floorPlanName": "Smalt - ARCHIVE",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 2884,
+    "maxRent": 6956,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "no-change"
+  },
+  {
+    "fetchDate": "2021-05-02",
     "available": "June 25",
     "unitName": "571",
     "floorPlanName": "Majorelle",
@@ -126517,6 +126530,19 @@
   },
   {
     "fetchDate": "2021-05-02",
+    "available": "June 30",
+    "unitName": "683",
+    "floorPlanName": "Lapis",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 495,
+    "minRent": 2528,
+    "maxRent": 5752,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EE10Parent_38A_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-05-02",
     "available": "July 2",
     "unitName": "685",
     "floorPlanName": "Aquamarine",
@@ -126566,6 +126592,19 @@
     "maxRent": 14619,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2021-05-02",
+    "available": "July 20",
+    "unitName": "812",
+    "floorPlanName": "Royal",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 739,
+    "minRent": 2990,
+    "maxRent": 8495,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1B10Parent_02B_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2021-05-02",
