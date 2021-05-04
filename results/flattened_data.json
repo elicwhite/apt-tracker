@@ -126760,7 +126760,7 @@
     "minRent": 3119,
     "maxRent": 9094,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1P10Parent_032B_DIMS_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-05-03",
@@ -127154,19 +127154,6 @@
   },
   {
     "fetchDate": "2021-05-04",
-    "available": "June 18",
-    "unitName": "333",
-    "floorPlanName": "Robin",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 769,
-    "minRent": 3119,
-    "maxRent": 9094,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1P10Parent_032B_DIMS_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-05-04",
     "available": "Now",
     "unitName": "385",
     "floorPlanName": "Tufts",
@@ -127206,14 +127193,14 @@
   },
   {
     "fetchDate": "2021-05-04",
-    "available": "Now",
+    "available": "June 30",
     "unitName": "481",
     "floorPlanName": "Brandeis",
     "bedrooms": 1,
     "bathrooms": 1,
     "sqft": 775,
     "minRent": 2884,
-    "maxRent": 7710,
+    "maxRent": 8419,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
   },
@@ -127249,19 +127236,6 @@
     "unitName": "521",
     "floorPlanName": "Smalt",
     "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 583,
-    "minRent": 2884,
-    "maxRent": 6956,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-05-04",
-    "available": "June 26",
-    "unitName": "521",
-    "floorPlanName": "Smalt - ARCHIVE",
-    "bedrooms": 1,
     "bathrooms": 1,
     "sqft": 583,
     "minRent": 2884,
