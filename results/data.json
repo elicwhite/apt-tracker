@@ -109112,6 +109112,17 @@
     },
     {
       "available": "Now",
+      "unitName": "337",
+      "floorPlanName": "Smalt - ARCHIVE",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 583,
+      "minRent": 2679,
+      "maxRent": 6166,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "Now",
       "unitName": "381",
       "floorPlanName": "Brandeis",
       "bedrooms": 1,
@@ -109170,6 +109181,17 @@
       "unitName": "521",
       "floorPlanName": "Smalt",
       "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 583,
+      "minRent": 2629,
+      "maxRent": 6496,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "June 26",
+      "unitName": "521",
+      "floorPlanName": "Smalt - ARCHIVE",
+      "bedrooms": 1,
       "bathrooms": 1,
       "sqft": 583,
       "minRent": 2629,
@@ -109263,6 +109285,17 @@
       "minRent": 3265,
       "maxRent": 8424,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1B10Parent_02B_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "July 16",
+      "unitName": "829",
+      "floorPlanName": "Rackley",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1264,
+      "minRent": 4459,
+      "maxRent": 9860,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C20Parent_10C_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "Now",
