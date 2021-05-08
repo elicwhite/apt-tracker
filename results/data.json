@@ -109489,8 +109489,8 @@
     {
       "available": "June 26",
       "unitName": "521",
-      "floorPlanName": "Smalt - ARCHIVE",
-      "bedrooms": 1,
+      "floorPlanName": "Smalt",
+      "bedrooms": 0,
       "bathrooms": 1,
       "sqft": 583,
       "minRent": 2629,
@@ -109500,8 +109500,8 @@
     {
       "available": "June 26",
       "unitName": "521",
-      "floorPlanName": "Smalt",
-      "bedrooms": 0,
+      "floorPlanName": "Smalt - ARCHIVE",
+      "bedrooms": 1,
       "bathrooms": 1,
       "sqft": 583,
       "minRent": 2629,
