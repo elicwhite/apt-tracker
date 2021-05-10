@@ -110219,8 +110219,8 @@
     {
       "available": "Now",
       "unitName": "935",
-      "floorPlanName": "Smalt - ARCHIVE",
-      "bedrooms": 1,
+      "floorPlanName": "Smalt",
+      "bedrooms": 0,
       "bathrooms": 1,
       "sqft": 583,
       "minRent": 2789,
@@ -110230,8 +110230,8 @@
     {
       "available": "Now",
       "unitName": "935",
-      "floorPlanName": "Smalt",
-      "bedrooms": 0,
+      "floorPlanName": "Smalt - ARCHIVE",
+      "bedrooms": 1,
       "bathrooms": 1,
       "sqft": 583,
       "minRent": 2789,
