@@ -110252,6 +110252,17 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Aegean_BW_SKETCH_500x500-01.jpg"
     },
     {
+      "available": "July 14",
+      "unitName": "160",
+      "floorPlanName": "Violet",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 846,
+      "minRent": 3490,
+      "maxRent": 9550,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1HH10Parent_56B-2_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
       "available": "August 27",
       "unitName": "170",
       "floorPlanName": "Capri",
@@ -110364,6 +110375,17 @@
     {
       "available": "June 26",
       "unitName": "521",
+      "floorPlanName": "Smalt - ARCHIVE",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 583,
+      "minRent": 2629,
+      "maxRent": 6507,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "June 26",
+      "unitName": "521",
       "floorPlanName": "Smalt",
       "bedrooms": 0,
       "bathrooms": 1,
@@ -110382,6 +110404,28 @@
       "minRent": 2847,
       "maxRent": 6627,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EC10Parent_24A_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "July 18",
+      "unitName": "570",
+      "floorPlanName": "Ultramarine",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "sqft": 1481,
+      "minRent": 6484,
+      "maxRent": 10356,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
+    },
+    {
+      "available": "July 18",
+      "unitName": "574",
+      "floorPlanName": "Sky",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 801,
+      "minRent": 3109,
+      "maxRent": 8770,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1AA10Parent_47B_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "Now",
@@ -110404,6 +110448,17 @@
       "minRent": 3641,
       "maxRent": 8936,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1DD10Parent_51B_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "Now",
+      "unitName": "724",
+      "floorPlanName": "Turquoise",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 552,
+      "minRent": 2419,
+      "maxRent": 5580,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "Now",
@@ -110470,6 +110525,28 @@
       "minRent": 2789,
       "maxRent": 6426,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "Now",
+      "unitName": "935",
+      "floorPlanName": "Smalt - ARCHIVE",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 583,
+      "minRent": 2789,
+      "maxRent": 6426,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "Now",
+      "unitName": "1013",
+      "floorPlanName": "Celeste",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 662,
+      "minRent": 3070,
+      "maxRent": 9583,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Celeste_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "Now",
