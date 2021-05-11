@@ -129334,7 +129334,7 @@
     "minRent": 2769,
     "maxRent": 6851,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1EE10Parent_54A-G_DIMS_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-05-10",
@@ -129503,7 +129503,7 @@
     "minRent": 3679,
     "maxRent": 8431,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2H10Parent_44C_DIMS_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-05-10",
@@ -129542,7 +129542,7 @@
     "minRent": 2419,
     "maxRent": 5580,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-05-10",
@@ -129676,19 +129676,6 @@
   },
   {
     "fetchDate": "2021-05-11",
-    "available": "June 25",
-    "unitName": "162",
-    "floorPlanName": "Iris",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 762,
-    "minRent": 2769,
-    "maxRent": 6851,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1EE10Parent_54A-G_DIMS_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-05-11",
     "available": "August 27",
     "unitName": "170",
     "floorPlanName": "Capri",
@@ -129845,19 +129832,6 @@
   },
   {
     "fetchDate": "2021-05-11",
-    "available": "June 25",
-    "unitName": "571",
-    "floorPlanName": "Majorelle",
-    "bedrooms": 2,
-    "bathrooms": 1,
-    "sqft": 1076,
-    "minRent": 3679,
-    "maxRent": 8431,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2H10Parent_44C_DIMS_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-05-11",
     "available": "Now",
     "unitName": "675",
     "floorPlanName": "Mist",
@@ -129880,19 +129854,6 @@
     "minRent": 3641,
     "maxRent": 8936,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1DD10Parent_51B_DIMS_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-05-11",
-    "available": "Now",
-    "unitName": "722",
-    "floorPlanName": "Turquoise",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 552,
-    "minRent": 2419,
-    "maxRent": 5580,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
   },
   {
