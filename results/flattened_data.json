@@ -130153,7 +130153,7 @@
     "minRent": 2619,
     "maxRent": 6484,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EG10Parent_54A-2_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-05-12",
@@ -130348,7 +130348,7 @@
     "minRent": 2219,
     "maxRent": 5122,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EE10Parent_38A_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-05-12",
@@ -130413,7 +130413,7 @@
     "minRent": 3105,
     "maxRent": 9691,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Celeste_DIMS_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-05-12",
@@ -130534,19 +130534,6 @@
   },
   {
     "fetchDate": "2021-05-13",
-    "available": "June 27",
-    "unitName": "262",
-    "floorPlanName": "Bleu",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 682,
-    "minRent": 2619,
-    "maxRent": 6484,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EG10Parent_54A-2_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-05-13",
     "available": "Now",
     "unitName": "329",
     "floorPlanName": "Rackley",
@@ -130562,38 +130549,12 @@
     "fetchDate": "2021-05-13",
     "available": "Now",
     "unitName": "337",
-    "floorPlanName": "Smalt - ARCHIVE",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 583,
-    "minRent": 2679,
-    "maxRent": 6176,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-05-13",
-    "available": "Now",
-    "unitName": "337",
     "floorPlanName": "Smalt",
     "bedrooms": 0,
     "bathrooms": 1,
     "sqft": 583,
     "minRent": 2679,
     "maxRent": 6176,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-05-13",
-    "available": "July 2",
-    "unitName": "340",
-    "floorPlanName": "Smalt - ARCHIVE",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 583,
-    "minRent": 3167,
-    "maxRent": 6801,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
   },
@@ -130730,19 +130691,6 @@
   {
     "fetchDate": "2021-05-13",
     "available": "Now",
-    "unitName": "783",
-    "floorPlanName": "Lapis",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 495,
-    "minRent": 2219,
-    "maxRent": 5122,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EE10Parent_38A_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-05-13",
-    "available": "Now",
     "unitName": "786",
     "floorPlanName": "Ultramarine",
     "bedrooms": 3,
@@ -130790,19 +130738,6 @@
     "minRent": 3894,
     "maxRent": 9713,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-05-13",
-    "available": "Now",
-    "unitName": "1013",
-    "floorPlanName": "Celeste",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 662,
-    "minRent": 3105,
-    "maxRent": 9691,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Celeste_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
   },
   {
