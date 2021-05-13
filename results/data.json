@@ -110917,6 +110917,17 @@
   "2021-05-13": [
     {
       "available": "Now",
+      "unitName": "106",
+      "floorPlanName": "Cadet",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 495,
+      "minRent": 2269,
+      "maxRent": 5237,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EG10Parent_54A-2_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "Now",
       "unitName": "114",
       "floorPlanName": "Aegean",
       "bedrooms": 0,
