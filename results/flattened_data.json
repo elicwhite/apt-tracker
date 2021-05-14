@@ -130887,6 +130887,19 @@
     "fetchDate": "2021-05-14",
     "available": "Now",
     "unitName": "337",
+    "floorPlanName": "Smalt - ARCHIVE",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 2679,
+    "maxRent": 6176,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "no-change"
+  },
+  {
+    "fetchDate": "2021-05-14",
+    "available": "Now",
+    "unitName": "337",
     "floorPlanName": "Smalt",
     "bedrooms": 0,
     "bathrooms": 1,
@@ -130902,6 +130915,19 @@
     "unitName": "340",
     "floorPlanName": "Smalt",
     "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 2749,
+    "maxRent": 6801,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "no-change"
+  },
+  {
+    "fetchDate": "2021-05-14",
+    "available": "July 2",
+    "unitName": "340",
+    "floorPlanName": "Smalt - ARCHIVE",
+    "bedrooms": 1,
     "bathrooms": 1,
     "sqft": 583,
     "minRent": 2749,
@@ -130947,6 +130973,19 @@
     "maxRent": 5893,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2H20Parent_26C_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2021-05-14",
+    "available": "July 17",
+    "unitName": "487",
+    "floorPlanName": "Aquamarine",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 759,
+    "minRent": 3223,
+    "maxRent": 8165,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2021-05-14",
@@ -131015,6 +131054,19 @@
   },
   {
     "fetchDate": "2021-05-14",
+    "available": "July 24",
+    "unitName": "720",
+    "floorPlanName": "Admiral",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 842,
+    "minRent": 3627,
+    "maxRent": 8865,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1F10Parent_6B_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-05-14",
     "available": "Now",
     "unitName": "724",
     "floorPlanName": "Turquoise",
@@ -131067,6 +131119,19 @@
   },
   {
     "fetchDate": "2021-05-14",
+    "available": "July 16",
+    "unitName": "883",
+    "floorPlanName": "Lapis",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 495,
+    "minRent": 2299,
+    "maxRent": 6203,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EE10Parent_38A_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-05-14",
     "available": "Now",
     "unitName": "930",
     "floorPlanName": "Cornflower",
@@ -131077,6 +131142,32 @@
     "maxRent": 9713,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2021-05-14",
+    "available": "Now",
+    "unitName": "974",
+    "floorPlanName": "Sky",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 801,
+    "minRent": 3239,
+    "maxRent": 10103,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1AA10Parent_47B_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-05-14",
+    "available": "Now",
+    "unitName": "1013",
+    "floorPlanName": "Celeste",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 662,
+    "minRent": 3105,
+    "maxRent": 9691,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Celeste_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2021-05-14",
