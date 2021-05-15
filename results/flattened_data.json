@@ -131509,6 +131509,19 @@
   },
   {
     "fetchDate": "2021-05-15",
+    "available": "July 17",
+    "unitName": "1076",
+    "floorPlanName": "Turquoise",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 552,
+    "minRent": 3365,
+    "maxRent": 7638,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-05-15",
     "available": "Now",
     "unitName": "1085",
     "floorPlanName": "Aquamarine",
