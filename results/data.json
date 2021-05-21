@@ -113385,6 +113385,17 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C20Parent_10C_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
+      "available": "July 23",
+      "unitName": "334",
+      "floorPlanName": "Glaucous",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "sqft": 1055,
+      "minRent": 4293,
+      "maxRent": 9262,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2G10Parent_21C-P_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
       "available": "Now",
       "unitName": "337",
       "floorPlanName": "Smalt",
@@ -113537,6 +113548,17 @@
       "minRent": 3290,
       "maxRent": 10121,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1AA10Parent_47B_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "Now",
+      "unitName": "1013",
+      "floorPlanName": "Celeste",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 662,
+      "minRent": 3155,
+      "maxRent": 9712,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Celeste_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "Now",
