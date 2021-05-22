@@ -113630,17 +113630,6 @@
     },
     {
       "available": "Now",
-      "unitName": "212",
-      "floorPlanName": "Royal",
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "sqft": 739,
-      "minRent": 3025,
-      "maxRent": 9313,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1B10Parent_02B_DIMS_BW_SKETCH_500x500-01.jpg"
-    },
-    {
-      "available": "Now",
       "unitName": "329",
       "floorPlanName": "Rackley",
       "bedrooms": 2,
@@ -113657,8 +113646,8 @@
       "bedrooms": 2,
       "bathrooms": 1,
       "sqft": 1055,
-      "minRent": 4293,
-      "maxRent": 9262,
+      "minRent": 4314,
+      "maxRent": 9761,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2G10Parent_21C-P_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
@@ -113702,7 +113691,7 @@
       "bathrooms": 1,
       "sqft": 1032,
       "minRent": 4410,
-      "maxRent": 9330,
+      "maxRent": 9271,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2F10Parent_35C_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
@@ -113748,17 +113737,6 @@
       "minRent": 3641,
       "maxRent": 9048,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1DD10Parent_51B_DIMS_BW_SKETCH_500x500-01.jpg"
-    },
-    {
-      "available": "July 6",
-      "unitName": "711",
-      "floorPlanName": "Rackley",
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "sqft": 1264,
-      "minRent": 4699,
-      "maxRent": 10689,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C20Parent_10C_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "Now",
