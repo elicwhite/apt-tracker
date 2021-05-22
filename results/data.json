@@ -113741,8 +113741,8 @@
     {
       "available": "July 17",
       "unitName": "637",
-      "floorPlanName": "Smalt - ARCHIVE",
-      "bedrooms": 1,
+      "floorPlanName": "Smalt",
+      "bedrooms": 0,
       "bathrooms": 1,
       "sqft": 583,
       "minRent": 2670,
@@ -113752,8 +113752,8 @@
     {
       "available": "July 17",
       "unitName": "637",
-      "floorPlanName": "Smalt",
-      "bedrooms": 0,
+      "floorPlanName": "Smalt - ARCHIVE",
+      "bedrooms": 1,
       "bathrooms": 1,
       "sqft": 583,
       "minRent": 2670,
