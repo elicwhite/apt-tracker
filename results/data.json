@@ -114061,6 +114061,17 @@
     },
     {
       "available": "Now",
+      "unitName": "922",
+      "floorPlanName": "Turquoise",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 552,
+      "minRent": 2650,
+      "maxRent": 6110,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "Now",
       "unitName": "930",
       "floorPlanName": "Cornflower",
       "bedrooms": 2,
@@ -114113,6 +114124,17 @@
       "minRent": 3365,
       "maxRent": 7750,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "October 2",
+      "unitName": "1079",
+      "floorPlanName": "Moonstone",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 814,
+      "minRent": 3375,
+      "maxRent": 4715,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1U10Parent_40B_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "July 23",
