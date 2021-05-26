@@ -114633,7 +114633,7 @@
       "bedrooms": 1,
       "bathrooms": 1,
       "sqft": 846,
-      "minRent": 3490,
+      "minRent": 3470,
       "maxRent": 9744,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1HH10Parent_56B-2_DIMS_BW_SKETCH_500x500-01.jpg"
     },
@@ -114660,6 +114660,28 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1HH10Parent_56B-2_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
+      "available": "July 31",
+      "unitName": "306",
+      "floorPlanName": "Frost",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "sqft": 791,
+      "minRent": 3684,
+      "maxRent": 8354,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2A10Parent_64C-P_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "July 30",
+      "unitName": "322",
+      "floorPlanName": "Turquoise",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 552,
+      "minRent": 2497,
+      "maxRent": 6499,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
       "available": "Now",
       "unitName": "329",
       "floorPlanName": "Rackley",
@@ -114680,6 +114702,28 @@
       "minRent": 4314,
       "maxRent": 9761,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2G10Parent_21C-P_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "Now",
+      "unitName": "337",
+      "floorPlanName": "Smalt - ARCHIVE",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 583,
+      "minRent": 2720,
+      "maxRent": 6269,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "Now",
+      "unitName": "337",
+      "floorPlanName": "Smalt",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 583,
+      "minRent": 2720,
+      "maxRent": 6269,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "Now",
