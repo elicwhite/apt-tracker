@@ -114959,6 +114959,17 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
     },
     {
+      "available": "August 14",
+      "unitName": "612",
+      "floorPlanName": "Royal",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 739,
+      "minRent": 3104,
+      "maxRent": 4275,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1B10Parent_02B_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
       "available": "July 23",
       "unitName": "682",
       "floorPlanName": "Spindrift",
@@ -114979,6 +114990,17 @@
       "minRent": 6854,
       "maxRent": 14195,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
+    },
+    {
+      "available": "July 30",
+      "unitName": "833",
+      "floorPlanName": "Robin",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 769,
+      "minRent": 3259,
+      "maxRent": 9142,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1P10Parent_032B_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "July 24",
