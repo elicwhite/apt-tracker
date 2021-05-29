@@ -115304,17 +115304,6 @@
   ],
   "2021-05-29": [
     {
-      "available": "Now",
-      "unitName": "106",
-      "floorPlanName": "Cadet",
-      "bedrooms": 0,
-      "bathrooms": 1,
-      "sqft": 495,
-      "minRent": 2345,
-      "maxRent": 5412,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EG10Parent_54A-2_BW_SKETCH_500x500-01.jpg"
-    },
-    {
       "available": "July 14",
       "unitName": "160",
       "floorPlanName": "Violet",
@@ -115383,23 +115372,12 @@
     {
       "available": "Now",
       "unitName": "337",
-      "floorPlanName": "Smalt - ARCHIVE",
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "sqft": 583,
-      "minRent": 2755,
-      "maxRent": 6349,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
-    },
-    {
-      "available": "Now",
-      "unitName": "337",
       "floorPlanName": "Smalt",
       "bedrooms": 0,
       "bathrooms": 1,
       "sqft": 583,
       "minRent": 2755,
-      "maxRent": 6349,
+      "maxRent": 6339,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
@@ -115542,7 +115520,7 @@
       "bathrooms": 1,
       "sqft": 495,
       "minRent": 2605,
-      "maxRent": 7016,
+      "maxRent": 7003,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EE10Parent_38A_BW_SKETCH_500x500-01.jpg"
     },
     {
