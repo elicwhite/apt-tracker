@@ -115304,6 +115304,17 @@
   ],
   "2021-05-29": [
     {
+      "available": "Now",
+      "unitName": "112",
+      "floorPlanName": "Royal",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 739,
+      "minRent": 3114,
+      "maxRent": 9421,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1B10Parent_02B_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
       "available": "July 14",
       "unitName": "160",
       "floorPlanName": "Violet",
@@ -115324,6 +115335,17 @@
       "minRent": 4186,
       "maxRent": 8288,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2J20Parent_45C-G_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "August 20",
+      "unitName": "232",
+      "floorPlanName": "Midnight",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1245,
+      "minRent": 4752,
+      "maxRent": 9392,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2D20_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "Now",
