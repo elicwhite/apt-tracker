@@ -116687,7 +116687,7 @@
       "bathrooms": 1,
       "sqft": 739,
       "minRent": 3114,
-      "maxRent": 9406,
+      "maxRent": 9436,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1B10Parent_02B_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
@@ -116764,7 +116764,7 @@
       "bathrooms": 2,
       "sqft": 1264,
       "minRent": 4539,
-      "maxRent": 9584,
+      "maxRent": 10417,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C20Parent_10C_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
@@ -116786,8 +116786,19 @@
       "bathrooms": 2,
       "sqft": 1114,
       "minRent": 4274,
-      "maxRent": 9029,
+      "maxRent": 9816,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2I20Parent_37C-P_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "August 8",
+      "unitName": "414",
+      "floorPlanName": "Cyan",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 735,
+      "minRent": 2949,
+      "maxRent": 5723,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1C10Parent_3B_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "August 7",
@@ -116829,7 +116840,7 @@
       "bedrooms": 1,
       "bathrooms": 1,
       "sqft": 759,
-      "minRent": 3629,
+      "minRent": 3253,
       "maxRent": 9080,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01.jpg"
     },
