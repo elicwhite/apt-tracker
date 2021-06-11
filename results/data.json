@@ -118124,6 +118124,17 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2J20Parent_45C-G_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
+      "available": "Now",
+      "unitName": "226",
+      "floorPlanName": "Cerulean",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 899,
+      "minRent": 3625,
+      "maxRent": 12350,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1G10Parent_9B-2_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
       "available": "August 7",
       "unitName": "244",
       "floorPlanName": "Marine",
@@ -118181,6 +118192,17 @@
     {
       "available": "August 7",
       "unitName": "442",
+      "floorPlanName": "Smalt - ARCHIVE",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 583,
+      "minRent": 2799,
+      "maxRent": 7100,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "August 7",
+      "unitName": "442",
       "floorPlanName": "Smalt",
       "bedrooms": 0,
       "bathrooms": 1,
@@ -118188,6 +118210,17 @@
       "minRent": 2799,
       "maxRent": 7100,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "August 14",
+      "unitName": "478",
+      "floorPlanName": "Teal",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 857,
+      "minRent": 3320,
+      "maxRent": 6434,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1CC10Parent_49B_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "August 7",
