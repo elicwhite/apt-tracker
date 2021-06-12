@@ -118390,6 +118390,17 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2I20Parent_37C-P_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
+      "available": "August 13",
+      "unitName": "440",
+      "floorPlanName": "Baltic",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 558,
+      "minRent": 2999,
+      "maxRent": 6896,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EC10Parent_24A_BW_SKETCH_500x500-01.jpg"
+    },
+    {
       "available": "August 7",
       "unitName": "442",
       "floorPlanName": "Smalt",
@@ -118443,6 +118454,17 @@
       "minRent": 3639,
       "maxRent": 6481,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1B10Parent_02B_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "August 6",
+      "unitName": "876",
+      "floorPlanName": "Powder",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 684,
+      "minRent": 3624,
+      "maxRent": 6291,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1BB10Parent_48B_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "August 6",
