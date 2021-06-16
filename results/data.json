@@ -119223,6 +119223,28 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1CC10Parent_49B_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
+      "available": "August 5",
+      "unitName": "542",
+      "floorPlanName": "Smalt - ARCHIVE",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 583,
+      "minRent": 2870,
+      "maxRent": 7351,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "August 5",
+      "unitName": "542",
+      "floorPlanName": "Smalt",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 583,
+      "minRent": 2870,
+      "maxRent": 7351,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
       "available": "Now",
       "unitName": "686",
       "floorPlanName": "Ultramarine",
@@ -119243,6 +119265,17 @@
       "minRent": 3639,
       "maxRent": 6481,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1B10Parent_02B_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "August 21",
+      "unitName": "873",
+      "floorPlanName": "Ocean",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 754,
+      "minRent": 3431,
+      "maxRent": 6177,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1X10Parent_43B_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "August 6",
