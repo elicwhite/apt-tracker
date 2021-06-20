@@ -57,7 +57,7 @@ async function run() {
 
       return {
         available: result.available_on,
-        unitName: result.unitName,
+        unitName: result.unit_number,
         floorPlanName: floorPlan.name,
         bedrooms: floorPlan.bedroom_count,
         bathrooms: floorPlan.bathroom_count,
