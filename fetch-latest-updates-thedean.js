@@ -46,6 +46,14 @@ async function run() {
   const filteredResults = units
     .map(result => {
       const floorPlan = floorPlans[result.floor_plan_id];
+      const price = parseInt(
+        result.display_price
+          .split('')
+          .map(n => parseInt(n, 10))
+          .filter(n => !isNaN(n))
+          .join(''),
+        10,
+      );
 
       return {
         available: result.available_on,
@@ -54,7 +62,7 @@ async function run() {
         bedrooms: floorPlan.bedroom_count,
         bathrooms: floorPlan.bathroom_count,
         sqft: result.area,
-        minRent: result.display_price,
+        minRent: price,
         diagrams: floorPlan.image_url,
       };
     })
