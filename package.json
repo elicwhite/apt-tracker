@@ -7,7 +7,7 @@
     "raw.macro": "^0.3.0"
   },
   "scripts": {
-    "fetch": "node fetch-latest-updates.js"
+    "fetch": "node fetch-latest-updates.js && node fetch-latest-updates-thedean.js"
   },
   "devDependencies": {
     "node-fetch": "^2.6.0",
