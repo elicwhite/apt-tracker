@@ -121212,6 +121212,17 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1HH10Parent_56B-2_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
+      "available": "Now",
+      "unitName": "162",
+      "floorPlanName": "Iris",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 762,
+      "minRent": 3100,
+      "maxRent": 7314,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1EE10Parent_54A-G_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
       "available": "August 27",
       "unitName": "170",
       "floorPlanName": "Capri",
@@ -121234,6 +121245,17 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1HH10Parent_56B-2_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
+      "available": "September 3",
+      "unitName": "308",
+      "floorPlanName": "Frost",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "sqft": 791,
+      "minRent": 3584,
+      "maxRent": 6426,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2A10Parent_64C-P_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
       "available": "Now",
       "unitName": "311",
       "floorPlanName": "Rackley",
@@ -121254,6 +121276,28 @@
       "minRent": 3180,
       "maxRent": 6729,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1C10Parent_3B_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "August 29",
+      "unitName": "319",
+      "floorPlanName": "Steel",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1144,
+      "minRent": 4199,
+      "maxRent": 7157,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2B20Parent_9C_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "August 28",
+      "unitName": "362",
+      "floorPlanName": "Bleu",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 682,
+      "minRent": 3099,
+      "maxRent": 7731,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EG10Parent_54A-2_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "Now",
@@ -121375,6 +121419,17 @@
       "minRent": 2630,
       "maxRent": 6744,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EE10Parent_38A_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "September 24",
+      "unitName": "917",
+      "floorPlanName": "Aqua",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 815,
+      "minRent": 3525,
+      "maxRent": 7117,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg"
     },
     {
       "available": "Now",
