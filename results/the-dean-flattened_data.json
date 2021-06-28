@@ -4809,7 +4809,7 @@
     "sqft": 677,
     "minRent": 3764,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/c9/66/c9660382af4f8044b20521df54a10f0d.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-06-27",
@@ -5319,18 +5319,6 @@
     "fetchDate": "2021-06-28",
     "available": "2021-06-28",
     "unitName": "4406",
-    "floorPlanName": "1D",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 677,
-    "minRent": 3764,
-    "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/c9/66/c9660382af4f8044b20521df54a10f0d.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-06-28",
-    "available": "2021-06-28",
-    "unitName": "4410",
     "floorPlanName": "1D",
     "bedrooms": 1,
     "bathrooms": 1,
