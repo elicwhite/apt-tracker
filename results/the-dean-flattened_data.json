@@ -5613,7 +5613,7 @@
     "sqft": 1196,
     "minRent": 5985,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/db/d1/dbd1d65e6f163d23bc79c009e90f4ed3.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-06-29",
@@ -6093,18 +6093,6 @@
     "sqft": 667,
     "minRent": 4084,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/bc/26/bc2642c2dd0b489c8d5160680a5567f9.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-06-30",
-    "available": "2021-06-30",
-    "unitName": "3402",
-    "floorPlanName": "3A",
-    "bedrooms": 3,
-    "bathrooms": 2,
-    "sqft": 1196,
-    "minRent": 5985,
-    "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/db/d1/dbd1d65e6f163d23bc79c009e90f4ed3.jpg",
     "status": "no-change"
   },
   {
