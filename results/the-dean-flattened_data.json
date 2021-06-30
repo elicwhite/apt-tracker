@@ -5817,7 +5817,7 @@
     "sqft": 689,
     "minRent": 4297,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/9f/77/9f77440b0f4d3a32adabb3da3b22fe1b.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-06-29",
@@ -6285,18 +6285,6 @@
     "sqft": 667,
     "minRent": 4104,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/bc/26/bc2642c2dd0b489c8d5160680a5567f9.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-06-30",
-    "available": "2021-06-30",
-    "unitName": "4425",
-    "floorPlanName": "1E",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 689,
-    "minRent": 4297,
-    "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/9f/77/9f77440b0f4d3a32adabb3da3b22fe1b.jpg",
     "status": "no-change"
   },
   {
