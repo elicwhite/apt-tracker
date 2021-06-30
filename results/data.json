@@ -122140,7 +122140,7 @@
       "bathrooms": 1,
       "sqft": 739,
       "minRent": 3215,
-      "maxRent": 10844,
+      "maxRent": 10828,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1B10Parent_02B_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
@@ -122243,17 +122243,6 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
-      "available": "August 14",
-      "unitName": "478",
-      "floorPlanName": "Teal",
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "sqft": 857,
-      "minRent": 3395,
-      "maxRent": 6589,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1CC10Parent_49B_DIMS_BW_SKETCH_500x500-01.jpg"
-    },
-    {
       "available": "September 8",
       "unitName": "674",
       "floorPlanName": "Sky",
@@ -122349,7 +122338,7 @@
       "bathrooms": 1,
       "sqft": 815,
       "minRent": 3695,
-      "maxRent": 12448,
+      "maxRent": 12431,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg"
     }
   ]
