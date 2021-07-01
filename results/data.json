@@ -122454,6 +122454,17 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2I20Parent_37C-P_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
+      "available": "September 3",
+      "unitName": "416",
+      "floorPlanName": "Indigo",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 697,
+      "minRent": 3260,
+      "maxRent": 6009,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1D10Parent_04B_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
       "available": "August 24",
       "unitName": "446",
       "floorPlanName": "Cornflower",
@@ -122463,6 +122474,28 @@
       "minRent": 3864,
       "maxRent": 7450,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "August 27",
+      "unitName": "644",
+      "floorPlanName": "Marine",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1554,
+      "minRent": 5893,
+      "maxRent": 5893,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2H20Parent_26C_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "Now",
+      "unitName": "671",
+      "floorPlanName": "Majorelle",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "sqft": 1076,
+      "minRent": 3789,
+      "maxRent": 8591,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2H10Parent_44C_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "September 8",
