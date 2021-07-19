@@ -13281,7 +13281,7 @@
     "sqft": 1060,
     "minRent": 5039,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/62/14/621458b88511af36df03175a49ec0511.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-07-18",
@@ -13617,18 +13617,6 @@
     "sqft": 1067,
     "minRent": 5206,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/0c/ca/0cca6463b1b7358978503bd329a79243.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-07-19",
-    "available": "2021-07-19",
-    "unitName": "1532",
-    "floorPlanName": "2G",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1060,
-    "minRent": 5039,
-    "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/62/14/621458b88511af36df03175a49ec0511.jpg",
     "status": "no-change"
   },
   {
