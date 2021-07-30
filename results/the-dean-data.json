@@ -13611,16 +13611,6 @@
   ],
   "2021-07-30": [
     {
-      "available": "2021-07-30",
-      "unitName": "1201",
-      "floorPlanName": "3A",
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "sqft": 1196,
-      "minRent": 5475,
-      "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/db/d1/dbd1d65e6f163d23bc79c009e90f4ed3.jpg"
-    },
-    {
       "available": "2021-08-17",
       "unitName": "1210",
       "floorPlanName": "2G",
@@ -13699,6 +13689,16 @@
       "sqft": 519,
       "minRent": 3454,
       "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/44/2c/442cc56e28283d5c2f0842ae6ca861cf.jpg"
+    },
+    {
+      "available": "2021-07-30",
+      "unitName": "1523",
+      "floorPlanName": "2B",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1067,
+      "minRent": 5736,
+      "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/0c/ca/0cca6463b1b7358978503bd329a79243.jpg"
     },
     {
       "available": "2021-08-20",
