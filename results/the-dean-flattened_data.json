@@ -17253,7 +17253,7 @@
     "sqft": 779,
     "minRent": 4066,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/65/da/65daefae811d936963f6cda8bd2255b9.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-08-03",
@@ -17493,18 +17493,6 @@
     "sqft": 667,
     "minRent": 3958,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/bc/26/bc2642c2dd0b489c8d5160680a5567f9.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-08-04",
-    "available": "2021-08-04",
-    "unitName": "1334",
-    "floorPlanName": "1I",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 779,
-    "minRent": 4066,
-    "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/65/da/65daefae811d936963f6cda8bd2255b9.jpg",
     "status": "no-change"
   },
   {
