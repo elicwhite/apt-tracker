@@ -17305,6 +17305,18 @@
   },
   {
     "fetchDate": "2021-08-03",
+    "available": "2021-09-10",
+    "unitName": "1724",
+    "floorPlanName": "2A",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 951,
+    "minRent": 4526,
+    "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/fe/c5/fec5b18f8377df54674d663bc186f492.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-08-03",
     "available": "2021-09-15",
     "unitName": "3114",
     "floorPlanName": "A",
