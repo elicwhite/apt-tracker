@@ -15022,5 +15022,207 @@
       "minRent": 3835,
       "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/bc/26/bc2642c2dd0b489c8d5160680a5567f9.jpg"
     }
+  ],
+  "2021-08-06": [
+    {
+      "available": "2021-08-06",
+      "unitName": "1201",
+      "floorPlanName": "3A",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "sqft": 1196,
+      "minRent": 5475,
+      "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/db/d1/dbd1d65e6f163d23bc79c009e90f4ed3.jpg"
+    },
+    {
+      "available": "2021-08-17",
+      "unitName": "1210",
+      "floorPlanName": "2G",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1060,
+      "minRent": 5025,
+      "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/62/14/621458b88511af36df03175a49ec0511.jpg"
+    },
+    {
+      "available": "2021-08-28",
+      "unitName": "1231",
+      "floorPlanName": "1C",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 667,
+      "minRent": 3823,
+      "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/bc/26/bc2642c2dd0b489c8d5160680a5567f9.jpg"
+    },
+    {
+      "available": "2021-08-06",
+      "unitName": "1321",
+      "floorPlanName": "A",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 519,
+      "minRent": 3414,
+      "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/44/2c/442cc56e28283d5c2f0842ae6ca861cf.jpg"
+    },
+    {
+      "available": "2021-08-06",
+      "unitName": "1331",
+      "floorPlanName": "1C",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 667,
+      "minRent": 3958,
+      "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/bc/26/bc2642c2dd0b489c8d5160680a5567f9.jpg"
+    },
+    {
+      "available": "2021-08-06",
+      "unitName": "1415",
+      "floorPlanName": "A",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 519,
+      "minRent": 3347,
+      "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/44/2c/442cc56e28283d5c2f0842ae6ca861cf.jpg"
+    },
+    {
+      "available": "2021-08-06",
+      "unitName": "1510",
+      "floorPlanName": "2G",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1060,
+      "minRent": 5050,
+      "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/62/14/621458b88511af36df03175a49ec0511.jpg"
+    },
+    {
+      "available": "2021-08-06",
+      "unitName": "1523",
+      "floorPlanName": "2B",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1067,
+      "minRent": 5186,
+      "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/0c/ca/0cca6463b1b7358978503bd329a79243.jpg"
+    },
+    {
+      "available": "2021-08-20",
+      "unitName": "1710",
+      "floorPlanName": "1J",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 781,
+      "minRent": 4324,
+      "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/9d/06/9d066d5e5cb9bf236bcdd11367af7d35.jpg"
+    },
+    {
+      "available": "2021-09-10",
+      "unitName": "1724",
+      "floorPlanName": "2A",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 951,
+      "minRent": 4526,
+      "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/fe/c5/fec5b18f8377df54674d663bc186f492.jpg"
+    },
+    {
+      "available": "2021-08-06",
+      "unitName": "3202",
+      "floorPlanName": "3A",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "sqft": 1196,
+      "minRent": 5294,
+      "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/db/d1/dbd1d65e6f163d23bc79c009e90f4ed3.jpg"
+    },
+    {
+      "available": "2021-08-06",
+      "unitName": "3211",
+      "floorPlanName": "2G",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1060,
+      "minRent": 4818,
+      "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/62/14/621458b88511af36df03175a49ec0511.jpg"
+    },
+    {
+      "available": "2021-08-06",
+      "unitName": "3301",
+      "floorPlanName": "3A",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "sqft": 1196,
+      "minRent": 5403,
+      "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/db/d1/dbd1d65e6f163d23bc79c009e90f4ed3.jpg"
+    },
+    {
+      "available": "2021-08-06",
+      "unitName": "3508",
+      "floorPlanName": "A",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 519,
+      "minRent": 3477,
+      "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/44/2c/442cc56e28283d5c2f0842ae6ca861cf.jpg"
+    },
+    {
+      "available": "2021-08-06",
+      "unitName": "3510",
+      "floorPlanName": "A",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 519,
+      "minRent": 3460,
+      "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/44/2c/442cc56e28283d5c2f0842ae6ca861cf.jpg"
+    },
+    {
+      "available": "2021-08-06",
+      "unitName": "3514",
+      "floorPlanName": "A",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 519,
+      "minRent": 3460,
+      "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/44/2c/442cc56e28283d5c2f0842ae6ca861cf.jpg"
+    },
+    {
+      "available": "2021-08-06",
+      "unitName": "4201",
+      "floorPlanName": "3A",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "sqft": 1196,
+      "minRent": 5562,
+      "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/db/d1/dbd1d65e6f163d23bc79c009e90f4ed3.jpg"
+    },
+    {
+      "available": "2021-08-06",
+      "unitName": "4303",
+      "floorPlanName": "1C",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 667,
+      "minRent": 3878,
+      "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/bc/26/bc2642c2dd0b489c8d5160680a5567f9.jpg"
+    },
+    {
+      "available": "2021-08-06",
+      "unitName": "4306",
+      "floorPlanName": "1D",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 677,
+      "minRent": 3832,
+      "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/c9/66/c9660382af4f8044b20521df54a10f0d.jpg"
+    },
+    {
+      "available": "2021-08-06",
+      "unitName": "4412",
+      "floorPlanName": "1C",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 667,
+      "minRent": 3835,
+      "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/bc/26/bc2642c2dd0b489c8d5160680a5567f9.jpg"
+    }
   ]
 }
