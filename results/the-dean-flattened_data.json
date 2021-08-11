@@ -18921,7 +18921,7 @@
     "sqft": 781,
     "minRent": 4324,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/9d/06/9d066d5e5cb9bf236bcdd11367af7d35.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-08-10",
@@ -19125,18 +19125,6 @@
     "sqft": 1067,
     "minRent": 5186,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/0c/ca/0cca6463b1b7358978503bd329a79243.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-08-11",
-    "available": "2021-08-20",
-    "unitName": "1710",
-    "floorPlanName": "1J",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 781,
-    "minRent": 4324,
-    "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/9d/06/9d066d5e5cb9bf236bcdd11367af7d35.jpg",
     "status": "no-change"
   },
   {
