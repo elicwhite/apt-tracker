@@ -21165,7 +21165,7 @@
     "sqft": 1060,
     "minRent": 5025,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/62/14/621458b88511af36df03175a49ec0511.jpg",
-    "status": "last-day"
+    "status": "no-change"
   },
   {
     "fetchDate": "2021-08-21",
@@ -21345,6 +21345,18 @@
     "sqft": 1196,
     "minRent": 5475,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/db/d1/dbd1d65e6f163d23bc79c009e90f4ed3.jpg",
+    "status": "no-change"
+  },
+  {
+    "fetchDate": "2021-08-22",
+    "available": "2021-08-22",
+    "unitName": "1210",
+    "floorPlanName": "2G",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1060,
+    "minRent": 5025,
+    "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/62/14/621458b88511af36df03175a49ec0511.jpg",
     "status": "no-change"
   },
   {
