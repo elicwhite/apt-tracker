@@ -18049,7 +18049,7 @@
       "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/30/9c/309cf72409c403fde56161060cb3043e.jpg"
     },
     {
-      "available": "2021-08-23",
+      "available": "2021-08-24",
       "unitName": "1201",
       "floorPlanName": "3A",
       "bedrooms": 3,
@@ -18059,7 +18059,7 @@
       "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/db/d1/dbd1d65e6f163d23bc79c009e90f4ed3.jpg"
     },
     {
-      "available": "2021-08-23",
+      "available": "2021-08-24",
       "unitName": "1210",
       "floorPlanName": "2G",
       "bedrooms": 2,
@@ -18067,6 +18067,26 @@
       "sqft": 1060,
       "minRent": 5063,
       "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/62/14/621458b88511af36df03175a49ec0511.jpg"
+    },
+    {
+      "available": "2021-09-30",
+      "unitName": "1226",
+      "floorPlanName": "3A",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "sqft": 1196,
+      "minRent": 5383,
+      "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/db/d1/dbd1d65e6f163d23bc79c009e90f4ed3.jpg"
+    },
+    {
+      "available": "2021-09-30",
+      "unitName": "1236",
+      "floorPlanName": "3A",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "sqft": 1196,
+      "minRent": 5496,
+      "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/db/d1/dbd1d65e6f163d23bc79c009e90f4ed3.jpg"
     },
     {
       "available": "2021-09-25",
@@ -18079,7 +18099,7 @@
       "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/44/2c/442cc56e28283d5c2f0842ae6ca861cf.jpg"
     },
     {
-      "available": "2021-08-23",
+      "available": "2021-08-24",
       "unitName": "1523",
       "floorPlanName": "2B",
       "bedrooms": 2,
@@ -18089,7 +18109,7 @@
       "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/0c/ca/0cca6463b1b7358978503bd329a79243.jpg"
     },
     {
-      "available": "2021-08-23",
+      "available": "2021-08-24",
       "unitName": "3301",
       "floorPlanName": "3A",
       "bedrooms": 3,
@@ -18099,7 +18119,7 @@
       "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/db/d1/dbd1d65e6f163d23bc79c009e90f4ed3.jpg"
     },
     {
-      "available": "2021-08-23",
+      "available": "2021-08-24",
       "unitName": "3508",
       "floorPlanName": "A",
       "bedrooms": 0,
@@ -18109,7 +18129,7 @@
       "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/44/2c/442cc56e28283d5c2f0842ae6ca861cf.jpg"
     },
     {
-      "available": "2021-08-23",
+      "available": "2021-08-24",
       "unitName": "3510",
       "floorPlanName": "A",
       "bedrooms": 0,
@@ -18119,7 +18139,7 @@
       "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/44/2c/442cc56e28283d5c2f0842ae6ca861cf.jpg"
     },
     {
-      "available": "2021-08-23",
+      "available": "2021-08-24",
       "unitName": "3514",
       "floorPlanName": "A",
       "bedrooms": 0,
@@ -18129,7 +18149,7 @@
       "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/44/2c/442cc56e28283d5c2f0842ae6ca861cf.jpg"
     },
     {
-      "available": "2021-08-23",
+      "available": "2021-08-24",
       "unitName": "4201",
       "floorPlanName": "3A",
       "bedrooms": 3,
@@ -18139,7 +18159,7 @@
       "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/db/d1/dbd1d65e6f163d23bc79c009e90f4ed3.jpg"
     },
     {
-      "available": "2021-08-23",
+      "available": "2021-08-24",
       "unitName": "4306",
       "floorPlanName": "1D",
       "bedrooms": 1,
@@ -18159,7 +18179,7 @@
       "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/bc/26/bc2642c2dd0b489c8d5160680a5567f9.jpg"
     },
     {
-      "available": "2021-08-23",
+      "available": "2021-08-24",
       "unitName": "4412",
       "floorPlanName": "1C",
       "bedrooms": 1,
@@ -18169,7 +18189,7 @@
       "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/bc/26/bc2642c2dd0b489c8d5160680a5567f9.jpg"
     },
     {
-      "available": "2021-08-23",
+      "available": "2021-08-24",
       "unitName": "4425",
       "floorPlanName": "1E",
       "bedrooms": 1,
