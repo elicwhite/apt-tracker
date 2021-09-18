@@ -26469,7 +26469,7 @@
     "sqft": 1196,
     "minRent": 5527,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/db/d1/dbd1d65e6f163d23bc79c009e90f4ed3.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-09-16",
@@ -26649,18 +26649,6 @@
     "sqft": 519,
     "minRent": 3240,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/44/2c/442cc56e28283d5c2f0842ae6ca861cf.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-09-17",
-    "available": "2021-09-18",
-    "unitName": "4201",
-    "floorPlanName": "3A",
-    "bedrooms": 3,
-    "bathrooms": 2,
-    "sqft": 1196,
-    "minRent": 5527,
-    "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/db/d1/dbd1d65e6f163d23bc79c009e90f4ed3.jpg",
     "status": "no-change"
   },
   {
