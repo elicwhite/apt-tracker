@@ -32665,6 +32665,18 @@
   },
   {
     "fetchDate": "2021-10-25",
+    "available": "2021-11-30",
+    "unitName": "1707",
+    "floorPlanName": "2G",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1060,
+    "minRent": 5339,
+    "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/62/14/621458b88511af36df03175a49ec0511.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-10-25",
     "available": "2021-11-11",
     "unitName": "1733",
     "floorPlanName": "1O",
