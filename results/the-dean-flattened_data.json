@@ -32865,7 +32865,7 @@
     "sqft": 877,
     "minRent": 4902,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/2d/43/2d43c3eba1ec57ccef8369ad9d10f5e1.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-10-26",
@@ -33033,18 +33033,6 @@
     "sqft": 1060,
     "minRent": 5339,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/62/14/621458b88511af36df03175a49ec0511.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-10-27",
-    "available": "2021-11-11",
-    "unitName": "1733",
-    "floorPlanName": "1O",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 877,
-    "minRent": 4902,
-    "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/2d/43/2d43c3eba1ec57ccef8369ad9d10f5e1.jpg",
     "status": "no-change"
   },
   {
