@@ -35071,7 +35071,7 @@
     "bedrooms": 3,
     "bathrooms": 2,
     "sqft": 1196,
-    "minRent": 5603,
+    "minRent": 5579,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/db/d1/dbd1d65e6f163d23bc79c009e90f4ed3.jpg",
     "status": "no-change"
   },
@@ -35167,7 +35167,7 @@
     "bedrooms": 3,
     "bathrooms": 2,
     "sqft": 1196,
-    "minRent": 5626,
+    "minRent": 5602,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/db/d1/dbd1d65e6f163d23bc79c009e90f4ed3.jpg",
     "status": "no-change"
   },
@@ -35191,7 +35191,7 @@
     "bedrooms": 0,
     "bathrooms": 1,
     "sqft": 519,
-    "minRent": 3363,
+    "minRent": 3331,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/44/2c/442cc56e28283d5c2f0842ae6ca861cf.jpg",
     "status": "no-change"
   },
@@ -35203,7 +35203,7 @@
     "bedrooms": 0,
     "bathrooms": 1,
     "sqft": 519,
-    "minRent": 3347,
+    "minRent": 3316,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/44/2c/442cc56e28283d5c2f0842ae6ca861cf.jpg",
     "status": "no-change"
   },
@@ -35227,7 +35227,7 @@
     "bedrooms": 1,
     "bathrooms": 1,
     "sqft": 677,
-    "minRent": 4047,
+    "minRent": 4011,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/c9/66/c9660382af4f8044b20521df54a10f0d.jpg",
     "status": "no-change"
   },
@@ -35239,7 +35239,7 @@
     "bedrooms": 1,
     "bathrooms": 1,
     "sqft": 667,
-    "minRent": 4050,
+    "minRent": 4014,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/bc/26/bc2642c2dd0b489c8d5160680a5567f9.jpg",
     "status": "no-change"
   },
@@ -35251,7 +35251,7 @@
     "bedrooms": 1,
     "bathrooms": 1,
     "sqft": 689,
-    "minRent": 4232,
+    "minRent": 4194,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/9f/77/9f77440b0f4d3a32adabb3da3b22fe1b.jpg",
     "status": "no-change"
   }
