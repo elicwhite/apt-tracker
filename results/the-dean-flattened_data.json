@@ -35449,6 +35449,18 @@
   },
   {
     "fetchDate": "2021-11-07",
+    "available": "2021-12-15",
+    "unitName": "4114",
+    "floorPlanName": "2J",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1189,
+    "minRent": 5204,
+    "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/30/9c/309cf72409c403fde56161060cb3043e.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-11-07",
     "available": "2021-12-11",
     "unitName": "4126",
     "floorPlanName": "2G",
