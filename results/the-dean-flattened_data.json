@@ -36549,7 +36549,7 @@
     "sqft": 1189,
     "minRent": 6268,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/30/9c/309cf72409c403fde56161060cb3043e.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-11-12",
@@ -36765,18 +36765,6 @@
     "sqft": 1060,
     "minRent": 5339,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/62/14/621458b88511af36df03175a49ec0511.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-11-13",
-    "available": "2021-11-13",
-    "unitName": "1737",
-    "floorPlanName": "2J",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1189,
-    "minRent": 6268,
-    "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/30/9c/309cf72409c403fde56161060cb3043e.jpg",
     "status": "no-change"
   },
   {
