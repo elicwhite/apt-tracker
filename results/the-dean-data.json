@@ -31379,23 +31379,23 @@
       "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/5e/08/5e0877ba1e62a7b8dbb139e08e8882ef.jpg"
     },
     {
-      "available": "2021-11-16",
+      "available": "2021-11-17",
       "unitName": "1137",
       "floorPlanName": "2J",
       "bedrooms": 2,
       "bathrooms": 2,
       "sqft": 1189,
-      "minRent": 5623,
+      "minRent": 5701,
       "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/30/9c/309cf72409c403fde56161060cb3043e.jpg"
     },
     {
-      "available": "2021-11-16",
+      "available": "2021-11-17",
       "unitName": "1236",
       "floorPlanName": "3A",
       "bedrooms": 3,
       "bathrooms": 2,
       "sqft": 1196,
-      "minRent": 5579,
+      "minRent": 5679,
       "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/db/d1/dbd1d65e6f163d23bc79c009e90f4ed3.jpg"
     },
     {
@@ -31415,17 +31415,17 @@
       "bedrooms": 2,
       "bathrooms": 2,
       "sqft": 1060,
-      "minRent": 5164,
+      "minRent": 5237,
       "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/62/14/621458b88511af36df03175a49ec0511.jpg"
     },
     {
-      "available": "2021-11-16",
+      "available": "2021-11-17",
       "unitName": "1626",
       "floorPlanName": "3A",
       "bedrooms": 3,
       "bathrooms": 2,
       "sqft": 1196,
-      "minRent": 5728,
+      "minRent": 5828,
       "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/db/d1/dbd1d65e6f163d23bc79c009e90f4ed3.jpg"
     },
     {
@@ -31445,8 +31445,18 @@
       "bedrooms": 2,
       "bathrooms": 2,
       "sqft": 1060,
-      "minRent": 4774,
+      "minRent": 4846,
       "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/62/14/621458b88511af36df03175a49ec0511.jpg"
+    },
+    {
+      "available": "2021-12-23",
+      "unitName": "3406",
+      "floorPlanName": "1C",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 667,
+      "minRent": 3971,
+      "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/bc/26/bc2642c2dd0b489c8d5160680a5567f9.jpg"
     },
     {
       "available": "2021-12-10",
@@ -31459,23 +31469,23 @@
       "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/9d/06/9d066d5e5cb9bf236bcdd11367af7d35.jpg"
     },
     {
-      "available": "2021-11-16",
+      "available": "2021-11-17",
       "unitName": "3508",
       "floorPlanName": "A",
       "bedrooms": 0,
       "bathrooms": 1,
       "sqft": 519,
-      "minRent": 3331,
+      "minRent": 3431,
       "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/44/2c/442cc56e28283d5c2f0842ae6ca861cf.jpg"
     },
     {
-      "available": "2021-11-16",
+      "available": "2021-11-17",
       "unitName": "3510",
       "floorPlanName": "A",
       "bedrooms": 0,
       "bathrooms": 1,
       "sqft": 519,
-      "minRent": 3316,
+      "minRent": 3416,
       "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/44/2c/442cc56e28283d5c2f0842ae6ca861cf.jpg"
     },
     {
@@ -31485,7 +31495,7 @@
       "bedrooms": 2,
       "bathrooms": 2,
       "sqft": 1189,
-      "minRent": 5204,
+      "minRent": 5276,
       "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/30/9c/309cf72409c403fde56161060cb3043e.jpg"
     },
     {
@@ -31495,11 +31505,11 @@
       "bedrooms": 2,
       "bathrooms": 2,
       "sqft": 1060,
-      "minRent": 4839,
+      "minRent": 4911,
       "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/62/14/621458b88511af36df03175a49ec0511.jpg"
     },
     {
-      "available": "2021-11-16",
+      "available": "2021-11-17",
       "unitName": "4306",
       "floorPlanName": "1D",
       "bedrooms": 1,
@@ -31509,7 +31519,7 @@
       "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/c9/66/c9660382af4f8044b20521df54a10f0d.jpg"
     },
     {
-      "available": "2021-11-16",
+      "available": "2021-11-17",
       "unitName": "4412",
       "floorPlanName": "1C",
       "bedrooms": 1,
@@ -31519,7 +31529,7 @@
       "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/bc/26/bc2642c2dd0b489c8d5160680a5567f9.jpg"
     },
     {
-      "available": "2021-11-16",
+      "available": "2021-11-17",
       "unitName": "4425",
       "floorPlanName": "1E",
       "bedrooms": 1,
