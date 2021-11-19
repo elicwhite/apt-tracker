@@ -37833,7 +37833,7 @@
     "sqft": 1060,
     "minRent": 4846,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/62/14/621458b88511af36df03175a49ec0511.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-11-18",
@@ -38025,18 +38025,6 @@
     "sqft": 667,
     "minRent": 3854,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/bc/26/bc2642c2dd0b489c8d5160680a5567f9.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-11-19",
-    "available": "2021-12-23",
-    "unitName": "3107",
-    "floorPlanName": "2G",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1060,
-    "minRent": 4846,
-    "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/62/14/621458b88511af36df03175a49ec0511.jpg",
     "status": "no-change"
   },
   {
