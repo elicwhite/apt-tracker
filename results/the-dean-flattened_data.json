@@ -37809,7 +37809,7 @@
     "sqft": 1196,
     "minRent": 5828,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/db/d1/dbd1d65e6f163d23bc79c009e90f4ed3.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-11-18",
@@ -38013,18 +38013,6 @@
     "sqft": 1060,
     "minRent": 5237,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/62/14/621458b88511af36df03175a49ec0511.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-11-19",
-    "available": "2021-11-19",
-    "unitName": "1626",
-    "floorPlanName": "3A",
-    "bedrooms": 3,
-    "bathrooms": 2,
-    "sqft": 1196,
-    "minRent": 5828,
-    "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/db/d1/dbd1d65e6f163d23bc79c009e90f4ed3.jpg",
     "status": "no-change"
   },
   {
