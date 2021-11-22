@@ -38373,7 +38373,7 @@
     "sqft": 1060,
     "minRent": 5237,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/62/14/621458b88511af36df03175a49ec0511.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-11-21",
@@ -38553,18 +38553,6 @@
     "sqft": 677,
     "minRent": 4145,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/c9/66/c9660382af4f8044b20521df54a10f0d.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-11-22",
-    "available": "2022-01-15",
-    "unitName": "1328",
-    "floorPlanName": "2G",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1060,
-    "minRent": 5237,
-    "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/62/14/621458b88511af36df03175a49ec0511.jpg",
     "status": "no-change"
   },
   {
