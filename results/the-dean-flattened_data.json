@@ -43573,7 +43573,7 @@
   },
   {
     "fetchDate": "2021-12-18",
-    "available": "2021-12-18",
+    "available": "2021-12-19",
     "unitName": "1114",
     "floorPlanName": "1G",
     "bedrooms": 1,
@@ -43597,7 +43597,7 @@
   },
   {
     "fetchDate": "2021-12-18",
-    "available": "2021-12-18",
+    "available": "2021-12-19",
     "unitName": "1137",
     "floorPlanName": "2J",
     "bedrooms": 2,
@@ -43621,7 +43621,7 @@
   },
   {
     "fetchDate": "2021-12-18",
-    "available": "2021-12-18",
+    "available": "2021-12-19",
     "unitName": "1216",
     "floorPlanName": "1G",
     "bedrooms": 1,
@@ -43633,7 +43633,7 @@
   },
   {
     "fetchDate": "2021-12-18",
-    "available": "2021-12-18",
+    "available": "2021-12-19",
     "unitName": "1320",
     "floorPlanName": "1D",
     "bedrooms": 1,
@@ -43642,6 +43642,18 @@
     "minRent": 4108,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/c9/66/c9660382af4f8044b20521df54a10f0d.jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2021-12-18",
+    "available": "2022-01-06",
+    "unitName": "1605",
+    "floorPlanName": "1D",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 677,
+    "minRent": 4230,
+    "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/c9/66/c9660382af4f8044b20521df54a10f0d.jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2021-12-18",
@@ -43693,7 +43705,7 @@
   },
   {
     "fetchDate": "2021-12-18",
-    "available": "2021-12-18",
+    "available": "2021-12-19",
     "unitName": "3106",
     "floorPlanName": "1C",
     "bedrooms": 1,
@@ -43705,7 +43717,7 @@
   },
   {
     "fetchDate": "2021-12-18",
-    "available": "2021-12-18",
+    "available": "2021-12-19",
     "unitName": "3406",
     "floorPlanName": "1C",
     "bedrooms": 1,
@@ -43717,7 +43729,7 @@
   },
   {
     "fetchDate": "2021-12-18",
-    "available": "2021-12-18",
+    "available": "2021-12-19",
     "unitName": "3507",
     "floorPlanName": "1J",
     "bedrooms": 1,
@@ -43729,7 +43741,7 @@
   },
   {
     "fetchDate": "2021-12-18",
-    "available": "2021-12-18",
+    "available": "2021-12-19",
     "unitName": "4114",
     "floorPlanName": "2J",
     "bedrooms": 2,
@@ -43753,7 +43765,7 @@
   },
   {
     "fetchDate": "2021-12-18",
-    "available": "2021-12-18",
+    "available": "2021-12-19",
     "unitName": "4306",
     "floorPlanName": "1D",
     "bedrooms": 1,
@@ -43777,7 +43789,7 @@
   },
   {
     "fetchDate": "2021-12-18",
-    "available": "2021-12-18",
+    "available": "2021-12-19",
     "unitName": "4425",
     "floorPlanName": "1E",
     "bedrooms": 1,
