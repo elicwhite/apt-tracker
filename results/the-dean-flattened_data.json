@@ -45970,5 +45970,17 @@
     "minRent": 4128,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/c9/66/c9660382af4f8044b20521df54a10f0d.jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2021-12-27",
+    "available": "2022-02-04",
+    "unitName": "4514",
+    "floorPlanName": "2J",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1189,
+    "minRent": 5779,
+    "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/30/9c/309cf72409c403fde56161060cb3043e.jpg",
+    "status": "first-day"
   }
 ]
