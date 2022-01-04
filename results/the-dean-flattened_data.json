@@ -47893,6 +47893,18 @@
   },
   {
     "fetchDate": "2021-01-04",
+    "available": "2022-01-22",
+    "unitName": "1115",
+    "floorPlanName": "A",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 519,
+    "minRent": 3364,
+    "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/44/2c/442cc56e28283d5c2f0842ae6ca861cf.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-01-04",
     "available": "2022-03-05",
     "unitName": "1116",
     "floorPlanName": "1G",
