@@ -48097,6 +48097,18 @@
   },
   {
     "fetchDate": "2021-01-04",
+    "available": "2022-02-26",
+    "unitName": "4420",
+    "floorPlanName": "1L",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 876,
+    "minRent": 4266,
+    "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/81/70/8170f323b1647bc096e91bb3aa328123.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-01-04",
     "available": "2022-01-04",
     "unitName": "4425",
     "floorPlanName": "1E",
