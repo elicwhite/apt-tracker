@@ -50917,6 +50917,18 @@
   },
   {
     "fetchDate": "2021-01-13",
+    "available": "2022-02-19",
+    "unitName": "1307",
+    "floorPlanName": "2G",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1060,
+    "minRent": 5308,
+    "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/62/14/621458b88511af36df03175a49ec0511.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-01-13",
     "available": "2022-01-13",
     "unitName": "1320",
     "floorPlanName": "1D",
