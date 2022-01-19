@@ -52401,7 +52401,7 @@
     "sqft": 781,
     "minRent": 4423,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/9d/06/9d066d5e5cb9bf236bcdd11367af7d35.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-01-17",
@@ -52585,7 +52585,7 @@
   },
   {
     "fetchDate": "2021-01-18",
-    "available": "2022-01-18",
+    "available": "2022-01-19",
     "unitName": "1114",
     "floorPlanName": "1G",
     "bedrooms": 1,
@@ -52633,7 +52633,7 @@
   },
   {
     "fetchDate": "2021-01-18",
-    "available": "2022-01-18",
+    "available": "2022-01-19",
     "unitName": "1137",
     "floorPlanName": "2J",
     "bedrooms": 2,
@@ -52645,13 +52645,13 @@
   },
   {
     "fetchDate": "2021-01-18",
-    "available": "2022-02-23",
+    "available": "2022-02-12",
     "unitName": "1201",
     "floorPlanName": "3A",
     "bedrooms": 3,
     "bathrooms": 2,
     "sqft": 1196,
-    "minRent": 6252,
+    "minRent": 6300,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/db/d1/dbd1d65e6f163d23bc79c009e90f4ed3.jpg",
     "status": "no-change"
   },
@@ -52693,7 +52693,7 @@
   },
   {
     "fetchDate": "2021-01-18",
-    "available": "2022-01-18",
+    "available": "2022-01-19",
     "unitName": "1320",
     "floorPlanName": "1D",
     "bedrooms": 1,
@@ -52705,7 +52705,7 @@
   },
   {
     "fetchDate": "2021-01-18",
-    "available": "2022-01-18",
+    "available": "2022-01-19",
     "unitName": "1605",
     "floorPlanName": "1D",
     "bedrooms": 1,
@@ -52717,7 +52717,7 @@
   },
   {
     "fetchDate": "2021-01-18",
-    "available": "2022-01-18",
+    "available": "2022-01-19",
     "unitName": "1614",
     "floorPlanName": "1G",
     "bedrooms": 1,
@@ -52737,18 +52737,6 @@
     "sqft": 677,
     "minRent": 4312,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/c9/66/c9660382af4f8044b20521df54a10f0d.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-01-18",
-    "available": "2022-02-01",
-    "unitName": "1706",
-    "floorPlanName": "1J",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 781,
-    "minRent": 4423,
-    "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/9d/06/9d066d5e5cb9bf236bcdd11367af7d35.jpg",
     "status": "no-change"
   },
   {
@@ -52777,7 +52765,7 @@
   },
   {
     "fetchDate": "2021-01-18",
-    "available": "2022-01-18",
+    "available": "2022-01-19",
     "unitName": "3106",
     "floorPlanName": "1C",
     "bedrooms": 1,
@@ -52813,7 +52801,7 @@
   },
   {
     "fetchDate": "2021-01-18",
-    "available": "2022-01-18",
+    "available": "2022-01-19",
     "unitName": "3507",
     "floorPlanName": "1J",
     "bedrooms": 1,
@@ -52825,7 +52813,7 @@
   },
   {
     "fetchDate": "2021-01-18",
-    "available": "2022-01-18",
+    "available": "2022-01-19",
     "unitName": "4108",
     "floorPlanName": "1C",
     "bedrooms": 1,
@@ -52837,7 +52825,7 @@
   },
   {
     "fetchDate": "2021-01-18",
-    "available": "2022-01-18",
+    "available": "2022-01-19",
     "unitName": "4114",
     "floorPlanName": "2J",
     "bedrooms": 2,
@@ -52861,7 +52849,7 @@
   },
   {
     "fetchDate": "2021-01-18",
-    "available": "2022-01-18",
+    "available": "2022-01-19",
     "unitName": "4301",
     "floorPlanName": "3A",
     "bedrooms": 3,
@@ -52873,7 +52861,7 @@
   },
   {
     "fetchDate": "2021-01-18",
-    "available": "2022-01-18",
+    "available": "2022-01-19",
     "unitName": "4306",
     "floorPlanName": "1D",
     "bedrooms": 1,
@@ -52885,7 +52873,7 @@
   },
   {
     "fetchDate": "2021-01-18",
-    "available": "2022-02-08",
+    "available": "2022-02-05",
     "unitName": "4312",
     "floorPlanName": "1C",
     "bedrooms": 1,
@@ -52909,7 +52897,7 @@
   },
   {
     "fetchDate": "2021-01-18",
-    "available": "2022-01-18",
+    "available": "2022-01-19",
     "unitName": "4425",
     "floorPlanName": "1E",
     "bedrooms": 1,
@@ -52921,7 +52909,7 @@
   },
   {
     "fetchDate": "2021-01-18",
-    "available": "2022-01-18",
+    "available": "2022-01-19",
     "unitName": "4510",
     "floorPlanName": "1D",
     "bedrooms": 1,
