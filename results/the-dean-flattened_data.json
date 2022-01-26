@@ -55305,7 +55305,7 @@
     "sqft": 876,
     "minRent": 4266,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/81/70/8170f323b1647bc096e91bb3aa328123.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-01-25",
@@ -55629,18 +55629,6 @@
     "sqft": 667,
     "minRent": 3994,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/bc/26/bc2642c2dd0b489c8d5160680a5567f9.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-01-26",
-    "available": "2022-02-26",
-    "unitName": "4420",
-    "floorPlanName": "1L",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 876,
-    "minRent": 4266,
-    "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/81/70/8170f323b1647bc096e91bb3aa328123.jpg",
     "status": "no-change"
   },
   {
