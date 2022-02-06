@@ -58777,7 +58777,7 @@
   },
   {
     "fetchDate": "2021-02-05",
-    "available": "2022-02-05",
+    "available": "2022-02-06",
     "unitName": "1114",
     "floorPlanName": "1G",
     "bedrooms": 1,
@@ -58789,7 +58789,7 @@
   },
   {
     "fetchDate": "2021-02-05",
-    "available": "2022-02-05",
+    "available": "2022-02-06",
     "unitName": "1115",
     "floorPlanName": "A",
     "bedrooms": 0,
@@ -58825,7 +58825,7 @@
   },
   {
     "fetchDate": "2021-02-05",
-    "available": "2022-02-05",
+    "available": "2022-02-06",
     "unitName": "1201",
     "floorPlanName": "3A",
     "bedrooms": 3,
@@ -58837,7 +58837,7 @@
   },
   {
     "fetchDate": "2021-02-05",
-    "available": "2022-02-05",
+    "available": "2022-02-06",
     "unitName": "1202",
     "floorPlanName": "1C",
     "bedrooms": 1,
@@ -58849,7 +58849,7 @@
   },
   {
     "fetchDate": "2021-02-05",
-    "available": "2022-02-05",
+    "available": "2022-02-06",
     "unitName": "1209",
     "floorPlanName": "1G",
     "bedrooms": 1,
@@ -58873,7 +58873,7 @@
   },
   {
     "fetchDate": "2021-02-05",
-    "available": "2022-02-05",
+    "available": "2022-02-06",
     "unitName": "1320",
     "floorPlanName": "1D",
     "bedrooms": 1,
@@ -58897,7 +58897,7 @@
   },
   {
     "fetchDate": "2021-02-05",
-    "available": "2022-02-05",
+    "available": "2022-02-06",
     "unitName": "1605",
     "floorPlanName": "1D",
     "bedrooms": 1,
@@ -58909,7 +58909,7 @@
   },
   {
     "fetchDate": "2021-02-05",
-    "available": "2022-02-05",
+    "available": "2022-02-06",
     "unitName": "1614",
     "floorPlanName": "1G",
     "bedrooms": 1,
@@ -58921,7 +58921,7 @@
   },
   {
     "fetchDate": "2021-02-05",
-    "available": "2022-02-05",
+    "available": "2022-02-06",
     "unitName": "1619",
     "floorPlanName": "1D",
     "bedrooms": 1,
@@ -58957,7 +58957,7 @@
   },
   {
     "fetchDate": "2021-02-05",
-    "available": "2022-02-05",
+    "available": "2022-02-06",
     "unitName": "3106",
     "floorPlanName": "1C",
     "bedrooms": 1,
@@ -59005,7 +59005,7 @@
   },
   {
     "fetchDate": "2021-02-05",
-    "available": "2022-02-05",
+    "available": "2022-02-06",
     "unitName": "3507",
     "floorPlanName": "1J",
     "bedrooms": 1,
@@ -59017,7 +59017,7 @@
   },
   {
     "fetchDate": "2021-02-05",
-    "available": "2022-02-05",
+    "available": "2022-02-06",
     "unitName": "4108",
     "floorPlanName": "1C",
     "bedrooms": 1,
@@ -59053,7 +59053,7 @@
   },
   {
     "fetchDate": "2021-02-05",
-    "available": "2022-02-05",
+    "available": "2022-02-06",
     "unitName": "4301",
     "floorPlanName": "3A",
     "bedrooms": 3,
@@ -59065,7 +59065,7 @@
   },
   {
     "fetchDate": "2021-02-05",
-    "available": "2022-02-05",
+    "available": "2022-02-06",
     "unitName": "4306",
     "floorPlanName": "1D",
     "bedrooms": 1,
@@ -59077,7 +59077,7 @@
   },
   {
     "fetchDate": "2021-02-05",
-    "available": "2022-02-05",
+    "available": "2022-02-06",
     "unitName": "4312",
     "floorPlanName": "1C",
     "bedrooms": 1,
@@ -59089,7 +59089,7 @@
   },
   {
     "fetchDate": "2021-02-05",
-    "available": "2022-02-05",
+    "available": "2022-02-06",
     "unitName": "4425",
     "floorPlanName": "1E",
     "bedrooms": 1,
@@ -59101,7 +59101,19 @@
   },
   {
     "fetchDate": "2021-02-05",
-    "available": "2022-02-05",
+    "available": "2022-03-19",
+    "unitName": "4431",
+    "floorPlanName": "1G",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 775,
+    "minRent": 4250,
+    "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/5e/08/5e0877ba1e62a7b8dbb139e08e8882ef.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-02-05",
+    "available": "2022-02-06",
     "unitName": "4510",
     "floorPlanName": "1D",
     "bedrooms": 1,
