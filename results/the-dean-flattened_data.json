@@ -62485,6 +62485,18 @@
   },
   {
     "fetchDate": "2021-02-15",
+    "available": "2022-03-22",
+    "unitName": "1708",
+    "floorPlanName": "1J",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 781,
+    "minRent": 4462,
+    "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/9d/06/9d066d5e5cb9bf236bcdd11367af7d35.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-02-15",
     "available": "2022-02-26",
     "unitName": "1729",
     "floorPlanName": "1G",
@@ -62530,6 +62542,18 @@
     "minRent": 3349,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/44/2c/442cc56e28283d5c2f0842ae6ca861cf.jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2021-02-15",
+    "available": "2022-04-08",
+    "unitName": "3218",
+    "floorPlanName": "1C",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 667,
+    "minRent": 3948,
+    "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/bc/26/bc2642c2dd0b489c8d5160680a5567f9.jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2021-02-15",
