@@ -64809,7 +64809,7 @@
     "sqft": 781,
     "minRent": 4462,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/9d/06/9d066d5e5cb9bf236bcdd11367af7d35.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-02-21",
@@ -65193,18 +65193,6 @@
     "sqft": 677,
     "minRent": 4316,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/c9/66/c9660382af4f8044b20521df54a10f0d.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-02-22",
-    "available": "2022-03-22",
-    "unitName": "1708",
-    "floorPlanName": "1J",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 781,
-    "minRent": 4462,
-    "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/9d/06/9d066d5e5cb9bf236bcdd11367af7d35.jpg",
     "status": "no-change"
   },
   {
