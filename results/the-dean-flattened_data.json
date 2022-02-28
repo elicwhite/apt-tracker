@@ -67017,7 +67017,7 @@
     "sqft": 667,
     "minRent": 4130,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/bc/26/bc2642c2dd0b489c8d5160680a5567f9.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-02-27",
@@ -67389,18 +67389,6 @@
     "sqft": 1196,
     "minRent": 6733,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/db/d1/dbd1d65e6f163d23bc79c009e90f4ed3.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-02-28",
-    "available": "2022-02-28",
-    "unitName": "1202",
-    "floorPlanName": "1C",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 667,
-    "minRent": 4130,
-    "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/bc/26/bc2642c2dd0b489c8d5160680a5567f9.jpg",
     "status": "no-change"
   },
   {
