@@ -68017,6 +68017,18 @@
   },
   {
     "fetchDate": "2021-03-01",
+    "available": "2022-04-08",
+    "unitName": "4134",
+    "floorPlanName": "2G",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1060,
+    "minRent": 5125,
+    "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/62/14/621458b88511af36df03175a49ec0511.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-03-01",
     "available": "2022-03-23",
     "unitName": "4208",
     "floorPlanName": "1C",
