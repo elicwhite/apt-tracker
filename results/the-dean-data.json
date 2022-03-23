@@ -64573,6 +64573,16 @@
       "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/bc/26/bc2642c2dd0b489c8d5160680a5567f9.jpg"
     },
     {
+      "available": "2022-04-01",
+      "unitName": "1134",
+      "floorPlanName": "1I",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 779,
+      "minRent": 4184,
+      "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/65/da/65daefae811d936963f6cda8bd2255b9.jpg"
+    },
+    {
       "available": "2022-03-23",
       "unitName": "1201",
       "floorPlanName": "3A",
@@ -64821,6 +64831,16 @@
       "sqft": 1196,
       "minRent": 6742,
       "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/db/d1/dbd1d65e6f163d23bc79c009e90f4ed3.jpg"
+    },
+    {
+      "available": "2022-04-16",
+      "unitName": "4414",
+      "floorPlanName": "2J",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1189,
+      "minRent": 6088,
+      "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/30/9c/309cf72409c403fde56161060cb3043e.jpg"
     },
     {
       "available": "2022-04-20",
