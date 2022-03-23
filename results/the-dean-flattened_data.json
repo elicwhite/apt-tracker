@@ -76641,7 +76641,7 @@
     "sqft": 781,
     "minRent": 4743,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/9d/06/9d066d5e5cb9bf236bcdd11367af7d35.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-03-22",
@@ -76897,7 +76897,7 @@
   },
   {
     "fetchDate": "2021-03-23",
-    "available": "2022-03-30",
+    "available": "2022-03-23",
     "unitName": "1322",
     "floorPlanName": "A",
     "bedrooms": 0,
@@ -77042,18 +77042,6 @@
   {
     "fetchDate": "2021-03-23",
     "available": "2022-03-23",
-    "unitName": "3507",
-    "floorPlanName": "1J",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 781,
-    "minRent": 4743,
-    "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/9d/06/9d066d5e5cb9bf236bcdd11367af7d35.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-03-23",
-    "available": "2022-03-23",
     "unitName": "4108",
     "floorPlanName": "1C",
     "bedrooms": 1,
@@ -77113,7 +77101,7 @@
   },
   {
     "fetchDate": "2021-03-23",
-    "available": "2022-03-26",
+    "available": "2022-03-23",
     "unitName": "4208",
     "floorPlanName": "1C",
     "bedrooms": 1,
