@@ -67268,6 +67268,16 @@
     },
     {
       "available": "2022-04-20",
+      "unitName": "4420",
+      "floorPlanName": "1L",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 876,
+      "minRent": 4421,
+      "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/81/70/8170f323b1647bc096e91bb3aa328123.jpg"
+    },
+    {
+      "available": "2022-04-20",
       "unitName": "4434",
       "floorPlanName": "2G",
       "bedrooms": 2,
