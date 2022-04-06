@@ -69422,6 +69422,16 @@
     },
     {
       "available": "2022-04-06",
+      "unitName": "1201",
+      "floorPlanName": "3A",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "sqft": 1196,
+      "minRent": 6559,
+      "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/db/d1/dbd1d65e6f163d23bc79c009e90f4ed3.jpg"
+    },
+    {
+      "available": "2022-04-06",
       "unitName": "1209",
       "floorPlanName": "1G",
       "bedrooms": 1,
