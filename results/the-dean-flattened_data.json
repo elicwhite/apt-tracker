@@ -85105,6 +85105,18 @@
   },
   {
     "fetchDate": "2021-04-12",
+    "available": "2022-05-19",
+    "unitName": "3208",
+    "floorPlanName": "A",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 519,
+    "minRent": 3567,
+    "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/44/2c/442cc56e28283d5c2f0842ae6ca861cf.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2021-04-12",
     "available": "2022-05-11",
     "unitName": "3210",
     "floorPlanName": "A",
