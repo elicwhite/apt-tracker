@@ -84585,7 +84585,7 @@
     "sqft": 1060,
     "minRent": 5748,
     "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/62/14/621458b88511af36df03175a49ec0511.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2021-04-11",
@@ -84987,18 +84987,6 @@
     "fetchDate": "2021-04-12",
     "available": "2022-04-12",
     "unitName": "1304",
-    "floorPlanName": "2G",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1060,
-    "minRent": 5748,
-    "diagrams": "https://cdn.sightmap.com/assets/l8/xv/l8xvr5jmwjk/62/14/621458b88511af36df03175a49ec0511.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2021-04-12",
-    "available": "2022-04-12",
-    "unitName": "1310",
     "floorPlanName": "2G",
     "bedrooms": 2,
     "bathrooms": 2,
