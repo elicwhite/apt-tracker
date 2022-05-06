@@ -1,6 +1,7 @@
 const fetch = require('node-fetch');
 const fs = require('fs');
 const path = require('path');
+const https = require('https');
 
 const RESULTS_FILE = path.join(__dirname, 'results', 'data.json');
 const FLATTENED_RESULTS_FILE = path.join(
@@ -12,6 +13,10 @@ const FLATTENED_RESULTS_FILE = path.join(
 const INDIGO_URL = 'https://www.indigoapthomes.com';
 const INDIGO_JSON =
   'https://www.indigoapthomes.com/en/apartments/residences/_jcr_content.residences.json';
+
+  const httpsAgent = new https.Agent({
+    rejectUnauthorized: false,
+  });
 
 function convertToDateString(date) {
   const month = String(date.getMonth() + 1).padStart(2, '0');
@@ -25,7 +30,9 @@ const date = currentTimeInTimezone('America/New_York');
 const shortDateString = convertToDateString(date);
 
 async function run() {
-  const result = await fetch(INDIGO_JSON);
+  const result = await fetch(INDIGO_JSON, {
+    agent: httpsAgent,
+  });
   let json;
   try {
     json = await result.json();

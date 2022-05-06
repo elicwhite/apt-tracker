@@ -4,10 +4,11 @@
   "private": true,
   "dependencies": {
     "query-string": "^6.11.0",
-    "raw.macro": "^0.3.0"
+    "raw.macro": "^0.3.0",
+    "ssl-root-cas": "^1.3.1"
   },
   "scripts": {
-    "fetch": "node fetch-latest-updates.js && node fetch-latest-updates-thedean.js"
+    "fetch": "node fetch-latest-updates.js"
   },
   "devDependencies": {
     "node-fetch": "^2.6.0",
