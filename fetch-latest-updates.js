@@ -51,7 +51,7 @@ async function run() {
       sqft: result.sqft,
       minRent: result.minRent,
       maxRent: result.maxRent,
-      diagrams: path.join(INDIGO_URL, result.diagrams),
+      diagrams: result.diagrams ? path.join(INDIGO_URL, result.diagrams) : '',
     }))
     .sort(sortByApt);
 
