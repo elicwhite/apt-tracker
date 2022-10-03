@@ -126,7 +126,7 @@ const listingRanges = connectedRanges.map(connectedRange => {
 		diagrams: firstEntry.diagrams,
 	}
 }).filter(Boolean).sort((item1, item2) => {
-	return new Date(item2.firstListed) - new Date(item1.firstListed);
+	return new Date(item2.available) - new Date(item1.available);
 });
 
 fs.writeFileSync(
