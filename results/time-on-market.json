@@ -1,5 +1,19 @@
 [
   {
+    "firstListed": "2022-09-15",
+    "lastListed": "2022-10-03",
+    "available": "2022-11-18",
+    "daysListed": 18,
+    "daysAvailable": -46,
+    "unitName": "510",
+    "floorPlanName": "Maya",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1159,
+    "minRent": 5027,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2A20Parent_1C_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
     "firstListed": "2022-09-07",
     "lastListed": "2022-09-26",
     "available": "2022-11-10",
@@ -110,6 +124,20 @@
     "sqft": 770,
     "minRent": 3426,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1V10Parent_41B_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2022-09-22",
+    "lastListed": "2022-10-03",
+    "available": "2022-09-22",
+    "daysListed": 11,
+    "daysAvailable": 11,
+    "unitName": "789",
+    "floorPlanName": "Dolphin",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 1032,
+    "minRent": 4674,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2F10Parent_35C_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2022-06-30",
