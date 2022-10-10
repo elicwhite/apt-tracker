@@ -53921,7 +53921,7 @@
     "minRent": 3208,
     "maxRent": 6363,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1Z10Parent_46B_DIMS_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2022-10-09",
@@ -54038,7 +54038,7 @@
     "minRent": 3588,
     "maxRent": 7536,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Cobalt_DIMS_BW_SKETCH_500X500-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2022-10-10",
@@ -54107,19 +54107,6 @@
   },
   {
     "fetchDate": "2022-10-10",
-    "available": "Now",
-    "unitName": "372",
-    "floorPlanName": "Sea",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 833,
-    "minRent": 3208,
-    "maxRent": 6363,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1Z10Parent_46B_DIMS_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2022-10-10",
     "available": "November 27",
     "unitName": "425",
     "floorPlanName": "Aqua",
@@ -54220,19 +54207,6 @@
     "minRent": 3770,
     "maxRent": 7475,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1D10Parent_04B_DIMS_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2022-10-10",
-    "available": "November 24",
-    "unitName": "1041",
-    "floorPlanName": "Cobalt",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 838,
-    "minRent": 3588,
-    "maxRent": 7536,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Cobalt_DIMS_BW_SKETCH_500X500-01.jpg",
     "status": "no-change"
   }
 ]

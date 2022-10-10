@@ -1,5 +1,19 @@
 [
   {
+    "firstListed": "2022-09-28",
+    "lastListed": "2022-10-09",
+    "available": "2022-11-24",
+    "daysListed": 11,
+    "daysAvailable": -46,
+    "unitName": "1041",
+    "floorPlanName": "Cobalt",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 838,
+    "minRent": 3638,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Cobalt_DIMS_BW_SKETCH_500X500-01.jpg"
+  },
+  {
     "firstListed": "2022-09-15",
     "lastListed": "2022-10-03",
     "available": "2022-11-18",
@@ -292,6 +306,20 @@
     "sqft": 1159,
     "minRent": 5058,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2A20Parent_1C_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2022-06-24",
+    "lastListed": "2022-10-09",
+    "available": "2022-09-05",
+    "daysListed": 107,
+    "daysAvailable": 34,
+    "unitName": "372",
+    "floorPlanName": "Sea",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 833,
+    "minRent": 3805,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1Z10Parent_46B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2022-04-25",
