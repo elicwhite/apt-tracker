@@ -1,19 +1,5 @@
 [
   {
-    "firstListed": "2022-09-24",
-    "lastListed": "2022-10-12",
-    "available": "2022-11-27",
-    "daysListed": 18,
-    "daysAvailable": -46,
-    "unitName": "425",
-    "floorPlanName": "Aqua",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 815,
-    "minRent": 3293,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1CC10_Aqua_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2022-09-28",
     "lastListed": "2022-10-09",
     "available": "2022-11-24",
@@ -5306,6 +5292,20 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg"
   },
   {
+    "firstListed": "2020-10-14",
+    "lastListed": "2020-11-24",
+    "available": "2021-01-15",
+    "daysListed": 41,
+    "daysAvailable": -52,
+    "unitName": "539",
+    "floorPlanName": "Tiffany",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 694,
+    "minRent": 2689,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1O10Parent_029B_DIMS_BW-01.jpg"
+  },
+  {
     "firstListed": "2020-10-23",
     "lastListed": "2020-12-01",
     "available": "2021-01-15",
@@ -5374,20 +5374,6 @@
     "sqft": 583,
     "minRent": 2799,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg"
-  },
-  {
-    "firstListed": "2020-10-14",
-    "lastListed": "2020-11-24",
-    "available": "2021-01-15",
-    "daysListed": 41,
-    "daysAvailable": -52,
-    "unitName": "539",
-    "floorPlanName": "Tiffany",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 694,
-    "minRent": 2689,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1O10Parent_029B_DIMS_BW-01.jpg"
   },
   {
     "firstListed": "2020-11-13",

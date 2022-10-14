@@ -54757,6 +54757,32 @@
   },
   {
     "fetchDate": "2022-10-14",
+    "available": "December 17",
+    "unitName": "346",
+    "floorPlanName": "Klein",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 914,
+    "minRent": 3768,
+    "maxRent": 8447,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1FF10Parent_55B-2_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2022-10-14",
+    "available": "November 29",
+    "unitName": "425",
+    "floorPlanName": "Aqua",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 815,
+    "minRent": 3298,
+    "maxRent": 6929,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1CC10_Aqua_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2022-10-14",
     "available": "Now",
     "unitName": "444",
     "floorPlanName": "Marine",
@@ -54767,6 +54793,19 @@
     "maxRent": 5893,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2H20Parent_26C_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2022-10-14",
+    "available": "December 15",
+    "unitName": "539",
+    "floorPlanName": "Tiffany",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 694,
+    "minRent": 3020,
+    "maxRent": 6783,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_1O10Child_29B-T-01_DIMS_BW_SKETCH_500X500-01.jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2022-10-14",
