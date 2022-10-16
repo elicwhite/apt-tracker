@@ -47201,8 +47201,8 @@
       "bedrooms": 1,
       "bathrooms": 1,
       "sqft": 914,
-      "minRent": 3768,
-      "maxRent": 9546,
+      "minRent": 3783,
+      "maxRent": 9588,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1FF10Parent_55B-2_BW_SKETCH_500x500-01.jpg"
     },
     {
@@ -47226,17 +47226,6 @@
       "minRent": 3020,
       "maxRent": 7663,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_1O10Child_29B-T-01_DIMS_BW_SKETCH_500X500-01.jpg"
-    },
-    {
-      "available": "Now",
-      "unitName": "640",
-      "floorPlanName": "Baltic",
-      "bedrooms": 0,
-      "bathrooms": 1,
-      "sqft": 558,
-      "minRent": 3114,
-      "maxRent": 7538,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EC10Parent_24A_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "Now",
