@@ -1,5 +1,19 @@
 [
   {
+    "firstListed": "2022-10-14",
+    "lastListed": "2022-10-21",
+    "available": "2022-12-15",
+    "daysListed": 7,
+    "daysAvailable": -55,
+    "unitName": "539",
+    "floorPlanName": "Tiffany",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 694,
+    "minRent": 3020,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_1O10Child_29B-T-01_DIMS_BW_SKETCH_500X500-01.jpg"
+  },
+  {
     "firstListed": "2022-09-28",
     "lastListed": "2022-10-09",
     "available": "2022-11-24",
