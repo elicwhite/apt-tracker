@@ -1,6 +1,20 @@
 [
   {
     "firstListed": "2022-10-14",
+    "lastListed": "2022-11-01",
+    "available": "2022-12-17",
+    "daysListed": 18,
+    "daysAvailable": -46,
+    "unitName": "346",
+    "floorPlanName": "Klein",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 914,
+    "minRent": 3768,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1FF10Parent_55B-2_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2022-10-14",
     "lastListed": "2022-10-21",
     "available": "2022-12-15",
     "daysListed": 7,
