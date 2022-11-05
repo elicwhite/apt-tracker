@@ -49523,6 +49523,28 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EG10Parent_54A-2_BW-01.jpg"
     },
     {
+      "available": "March 4",
+      "unitName": "319",
+      "floorPlanName": "Steel",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1144,
+      "minRent": 3433,
+      "maxRent": 7025,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2B20Parent_9C_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "November 11",
+      "unitName": "683",
+      "floorPlanName": "Lapis",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 495,
+      "minRent": 2689,
+      "maxRent": 6873,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EE10Parent_38A_BW_SKETCH_500x500-01.jpg"
+    },
+    {
       "available": "Now",
       "unitName": "782",
       "floorPlanName": "Spindrift",
