@@ -58124,6 +58124,19 @@
   },
   {
     "fetchDate": "2022-11-07",
+    "available": "Now",
+    "unitName": "326",
+    "floorPlanName": "Maya",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1159,
+    "minRent": 4249,
+    "maxRent": 10465,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2A20Parent_1C_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2022-11-07",
     "available": "November 11",
     "unitName": "683",
     "floorPlanName": "Lapis",
