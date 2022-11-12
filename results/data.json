@@ -50538,6 +50538,28 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2A20Parent_1C_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
+      "available": "December 16",
+      "unitName": "346",
+      "floorPlanName": "Klein",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 914,
+      "minRent": 3708,
+      "maxRent": 9210,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1FF10Parent_55B-2_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "November 21",
+      "unitName": "489",
+      "floorPlanName": "Dolphin",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "sqft": 1032,
+      "minRent": 3843,
+      "maxRent": 9469,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2F10Parent_35C_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
       "available": "Now",
       "unitName": "683",
       "floorPlanName": "Lapis",
@@ -50558,6 +50580,17 @@
       "minRent": 3348,
       "maxRent": 7767,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1DD10Parent_51B_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "November 26",
+      "unitName": "842",
+      "floorPlanName": "Smalt",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 583,
+      "minRent": 3014,
+      "maxRent": 7689,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "Now",
