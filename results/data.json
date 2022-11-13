@@ -50662,17 +50662,6 @@
     },
     {
       "available": "Now",
-      "unitName": "224",
-      "floorPlanName": "Turquoise",
-      "bedrooms": 0,
-      "bathrooms": 1,
-      "sqft": 552,
-      "minRent": 2634,
-      "maxRent": 6732,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg"
-    },
-    {
-      "available": "Now",
       "unitName": "262",
       "floorPlanName": "Bleu",
       "bedrooms": 0,
@@ -50689,12 +50678,12 @@
       "bedrooms": 2,
       "bathrooms": 2,
       "sqft": 1159,
-      "minRent": 4248,
-      "maxRent": 10463,
+      "minRent": 4299,
+      "maxRent": 10588,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2A20Parent_1C_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
-      "available": "December 16",
+      "available": "December 17",
       "unitName": "346",
       "floorPlanName": "Klein",
       "bedrooms": 1,
@@ -50705,14 +50694,14 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1FF10Parent_55B-2_BW_SKETCH_500x500-01.jpg"
     },
     {
-      "available": "November 21",
+      "available": "November 22",
       "unitName": "489",
       "floorPlanName": "Dolphin",
       "bedrooms": 2,
       "bathrooms": 1,
       "sqft": 1032,
-      "minRent": 3843,
-      "maxRent": 9469,
+      "minRent": 3893,
+      "maxRent": 9594,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2F10Parent_35C_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
@@ -50738,7 +50727,7 @@
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1DD10Parent_51B_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
-      "available": "November 26",
+      "available": "November 27",
       "unitName": "842",
       "floorPlanName": "Smalt",
       "bedrooms": 0,
