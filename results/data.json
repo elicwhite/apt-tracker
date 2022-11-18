@@ -51442,7 +51442,7 @@
     },
     {
       "available": "Now",
-      "unitName": "222",
+      "unitName": "224",
       "floorPlanName": "Turquoise",
       "bedrooms": 0,
       "bathrooms": 1,
@@ -51505,17 +51505,6 @@
       "minRent": 2499,
       "maxRent": 6392,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EE10Parent_38A_BW_SKETCH_500x500-01.jpg"
-    },
-    {
-      "available": "Now",
-      "unitName": "782",
-      "floorPlanName": "Spindrift",
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "sqft": 770,
-      "minRent": 3278,
-      "maxRent": 7608,
-      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1DD10Parent_51B_DIMS_BW_SKETCH_500x500-01.jpg"
     },
     {
       "available": "November 27",
