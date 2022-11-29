@@ -61621,6 +61621,19 @@
   },
   {
     "fetchDate": "2022-11-29",
+    "available": "January 13",
+    "unitName": "674",
+    "floorPlanName": "Sky",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 801,
+    "minRent": 3198,
+    "maxRent": 8575,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1AA10Parent_47B_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2022-11-29",
     "available": "January 5",
     "unitName": "812",
     "floorPlanName": "Royal",
