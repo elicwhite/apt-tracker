@@ -61907,6 +61907,19 @@
   },
   {
     "fetchDate": "2022-12-01",
+    "available": "December 3",
+    "unitName": "489",
+    "floorPlanName": "Dolphin",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 1032,
+    "minRent": 3854,
+    "maxRent": 9209,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2F10Parent_35C_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2022-12-01",
     "available": "January 13",
     "unitName": "674",
     "floorPlanName": "Sky",
