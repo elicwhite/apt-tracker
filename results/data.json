@@ -53197,6 +53197,17 @@
     },
     {
       "available": "Now",
+      "unitName": "842",
+      "floorPlanName": "Smalt",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 583,
+      "minRent": 2914,
+      "maxRent": 5851,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "Now",
       "unitName": "1016",
       "floorPlanName": "Indigo",
       "bedrooms": 1,
