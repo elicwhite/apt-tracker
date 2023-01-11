@@ -64997,7 +64997,7 @@
     "minRent": 5893,
     "maxRent": 5893,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2H20Parent_26C_DIMS_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2023-01-10",
@@ -65028,19 +65028,6 @@
   {
     "fetchDate": "2023-01-11",
     "available": "Now",
-    "unitName": "224",
-    "floorPlanName": "Turquoise",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 552,
-    "minRent": 2694,
-    "maxRent": 6480,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2023-01-11",
-    "available": "Now",
     "unitName": "262",
     "floorPlanName": "Bleu",
     "bedrooms": 0,
@@ -65062,19 +65049,6 @@
     "minRent": 4629,
     "maxRent": 12516,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2M20Parent_66C-P_DIMS_BW_SKETCH_500x500-01.jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2023-01-11",
-    "available": "February 11",
-    "unitName": "544",
-    "floorPlanName": "Marine",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1554,
-    "minRent": 5893,
-    "maxRent": 5893,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2H20Parent_26C_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
   },
   {
