@@ -65118,6 +65118,32 @@
   },
   {
     "fetchDate": "2023-01-12",
+    "available": "January 16",
+    "unitName": "531",
+    "floorPlanName": "Cobalt",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 838,
+    "minRent": 3173,
+    "maxRent": 7645,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Cobalt_DIMS_BW_SKETCH_500X500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2023-01-12",
+    "available": "Now",
+    "unitName": "812",
+    "floorPlanName": "Royal",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 739,
+    "minRent": 3314,
+    "maxRent": 7984,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1B10Parent_02B_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2023-01-12",
     "available": "January 29",
     "unitName": "1019",
     "floorPlanName": "Aqua",
@@ -65128,5 +65154,18 @@
     "maxRent": 8024,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1CC10_Aqua_BW_SKETCH_500x500_Edit.jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2023-01-12",
+    "available": "Now",
+    "unitName": "1070",
+    "floorPlanName": "Ultramarine",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "sqft": 1481,
+    "minRent": 5739,
+    "maxRent": 17678,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg",
+    "status": "first-day"
   }
 ]
