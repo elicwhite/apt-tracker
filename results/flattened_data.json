@@ -65912,6 +65912,19 @@
   {
     "fetchDate": "2023-01-21",
     "available": "Now",
+    "unitName": "112",
+    "floorPlanName": "Royal",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 739,
+    "minRent": 2999,
+    "maxRent": 7230,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1B10Parent_02B_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2023-01-21",
+    "available": "Now",
     "unitName": "222",
     "floorPlanName": "Turquoise",
     "bedrooms": 0,
@@ -65947,6 +65960,19 @@
     "maxRent": 12516,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2M20Parent_66C-P_DIMS_BW_SKETCH_500x500-01.jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2023-01-21",
+    "available": "March 7",
+    "unitName": "319",
+    "floorPlanName": "Steel",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1144,
+    "minRent": 3889,
+    "maxRent": 7777,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2B20Parent_9C_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2023-01-21",
