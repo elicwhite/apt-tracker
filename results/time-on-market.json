@@ -1,5 +1,19 @@
 [
   {
+    "firstListed": "2023-01-18",
+    "lastListed": "2023-01-27",
+    "available": "2023-03-04",
+    "daysListed": 9,
+    "daysAvailable": -36,
+    "unitName": "319",
+    "floorPlanName": "Steel",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1144,
+    "minRent": 3889,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2B20Parent_9C_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
     "firstListed": "2022-11-05",
     "lastListed": "2022-11-11",
     "available": "2023-03-04",
