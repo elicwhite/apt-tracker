@@ -68134,6 +68134,19 @@
   },
   {
     "fetchDate": "2023-02-11",
+    "available": "March 28",
+    "unitName": "777",
+    "floorPlanName": "Oxford",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 770,
+    "minRent": 3303,
+    "maxRent": 7977,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1V10Parent_41B_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2023-02-11",
     "available": "Now",
     "unitName": "1070",
     "floorPlanName": "Ultramarine",
