@@ -68667,6 +68667,19 @@
   },
   {
     "fetchDate": "2023-02-16",
+    "available": "April 2",
+    "unitName": "541",
+    "floorPlanName": "Cobalt",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 838,
+    "minRent": 3288,
+    "maxRent": 7461,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Cobalt_DIMS_BW_SKETCH_500X500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2023-02-16",
     "available": "March 10",
     "unitName": "544",
     "floorPlanName": "Marine",
