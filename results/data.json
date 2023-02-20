@@ -59349,6 +59349,17 @@
       "minRent": 3403,
       "maxRent": 8245,
       "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01.jpg"
+    },
+    {
+      "available": "Now",
+      "unitName": "1070",
+      "floorPlanName": "Ultramarine",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "sqft": 1481,
+      "minRent": 5999,
+      "maxRent": 18523,
+      "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
     }
   ]
 }
