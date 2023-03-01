@@ -1,5 +1,19 @@
 [
   {
+    "firstListed": "2023-02-22",
+    "lastListed": "2023-02-28",
+    "available": "2023-04-08",
+    "daysListed": 6,
+    "daysAvailable": -39,
+    "unitName": "579",
+    "floorPlanName": "Moonstone",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 814,
+    "minRent": 3243,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1U10Parent_40B_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
     "firstListed": "2023-02-11",
     "lastListed": "2023-02-13",
     "available": "2023-03-28",
