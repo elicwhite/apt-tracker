@@ -2170,20 +2170,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Cobalt_DIMS_BW_SKETCH_500X500-01.jpg"
   },
   {
-    "firstListed": "2021-12-29",
-    "lastListed": "2022-02-15",
-    "available": "2022-04-01",
-    "daysListed": 48,
-    "daysAvailable": -45,
-    "unitName": "214",
-    "floorPlanName": "Aegean",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 496,
-    "minRent": 2685,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Aegean_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2022-01-27",
     "lastListed": "2022-02-15",
     "available": "2022-04-01",
@@ -2196,6 +2182,20 @@
     "sqft": 694,
     "minRent": 3120,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_1O10Child_29B-T-01_DIMS_BW_SKETCH_500X500-01.jpg"
+  },
+  {
+    "firstListed": "2021-12-29",
+    "lastListed": "2022-02-15",
+    "available": "2022-04-01",
+    "daysListed": 48,
+    "daysAvailable": -45,
+    "unitName": "214",
+    "floorPlanName": "Aegean",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 496,
+    "minRent": 2685,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Aegean_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2022-02-03",
@@ -2618,20 +2618,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1L10Parent_22B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
-    "firstListed": "2021-10-28",
-    "lastListed": "2022-01-17",
-    "available": "2021-12-29",
-    "daysListed": 81,
-    "daysAvailable": 19,
-    "unitName": "333",
-    "floorPlanName": "Robin",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 769,
-    "minRent": 3558,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1P10Parent_032B_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2021-10-27",
     "lastListed": "2022-01-12",
     "available": "2021-12-29",
@@ -2644,6 +2630,20 @@
     "sqft": 1055,
     "minRent": 4270,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2G10Parent_21C-P_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2021-10-28",
+    "lastListed": "2022-01-17",
+    "available": "2021-12-29",
+    "daysListed": 81,
+    "daysAvailable": 19,
+    "unitName": "333",
+    "floorPlanName": "Robin",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 769,
+    "minRent": 3558,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1P10Parent_032B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2021-10-22",
@@ -3668,6 +3668,20 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
+    "firstListed": "2021-05-21",
+    "lastListed": "2021-06-07",
+    "available": "2021-07-23",
+    "daysListed": 17,
+    "daysAvailable": -46,
+    "unitName": "334",
+    "floorPlanName": "Glaucous",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 1055,
+    "minRent": 4293,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2G10Parent_21C-P_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
     "firstListed": "2021-05-08",
     "lastListed": "2021-05-27",
     "available": "2021-07-23",
@@ -3694,20 +3708,6 @@
     "sqft": 662,
     "minRent": 3140,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Celeste_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
-    "firstListed": "2021-05-21",
-    "lastListed": "2021-06-07",
-    "available": "2021-07-23",
-    "daysListed": 17,
-    "daysAvailable": -46,
-    "unitName": "334",
-    "floorPlanName": "Glaucous",
-    "bedrooms": 2,
-    "bathrooms": 1,
-    "sqft": 1055,
-    "minRent": 4293,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2G10Parent_21C-P_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2021-05-08",
@@ -4354,6 +4354,20 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
+    "firstListed": "2021-03-18",
+    "lastListed": "2021-05-03",
+    "available": "2021-05-21",
+    "daysListed": 46,
+    "daysAvailable": -18,
+    "unitName": "333",
+    "floorPlanName": "Robin",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 769,
+    "minRent": 3289,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1P10Parent_032B_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
     "firstListed": "2021-03-27",
     "lastListed": "2021-04-05",
     "available": "2021-05-21",
@@ -4380,20 +4394,6 @@
     "sqft": 552,
     "minRent": 2957,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
-    "firstListed": "2021-03-18",
-    "lastListed": "2021-05-03",
-    "available": "2021-05-21",
-    "daysListed": 46,
-    "daysAvailable": -18,
-    "unitName": "333",
-    "floorPlanName": "Robin",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 769,
-    "minRent": 3289,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1P10Parent_032B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2021-03-24",
