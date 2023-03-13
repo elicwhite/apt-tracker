@@ -72841,6 +72841,19 @@
   {
     "fetchDate": "2023-03-13",
     "available": "Now",
+    "unitName": "981",
+    "floorPlanName": "Brandeis",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 775,
+    "minRent": 3375,
+    "maxRent": 8113,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01.jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2023-03-13",
+    "available": "Now",
     "unitName": "1070",
     "floorPlanName": "Ultramarine",
     "bedrooms": 3,
