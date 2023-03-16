@@ -62892,8 +62892,8 @@
       "bedrooms": 0,
       "bathrooms": 1,
       "sqft": 552,
-      "minRent": 2765,
-      "maxRent": 6601,
+      "minRent": 2795,
+      "maxRent": 6671,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
@@ -62925,20 +62925,9 @@
       "bedrooms": 0,
       "bathrooms": 1,
       "sqft": 583,
-      "minRent": 2820,
-      "maxRent": 6771,
+      "minRent": 2850,
+      "maxRent": 6843,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1JJ10_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
-    },
-    {
-      "available": "Now",
-      "unitName": "981",
-      "floorPlanName": "Brandeis",
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "sqft": 775,
-      "minRent": 3375,
-      "maxRent": 8113,
-      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
       "available": "Now",
