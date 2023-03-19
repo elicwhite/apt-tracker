@@ -6426,20 +6426,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1Z10Parent_46B_DIMS_BW-01.jpg"
   },
   {
-    "firstListed": "2020-10-06",
-    "lastListed": "2020-10-21",
-    "available": "2020-11-04",
-    "daysListed": 15,
-    "daysAvailable": -14,
-    "unitName": "1015",
-    "floorPlanName": "Aqua",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 815,
-    "minRent": 3531,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/1920x1121/interior/750681.jpg"
-  },
-  {
     "firstListed": "2020-09-02",
     "lastListed": "2020-12-13",
     "available": "2020-11-04",
@@ -6452,6 +6438,20 @@
     "sqft": 826,
     "minRent": 3041,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1LL10Parent_61B-2_BW-01.jpg"
+  },
+  {
+    "firstListed": "2020-10-06",
+    "lastListed": "2020-10-21",
+    "available": "2020-11-04",
+    "daysListed": 15,
+    "daysAvailable": -14,
+    "unitName": "1015",
+    "floorPlanName": "Aqua",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 815,
+    "minRent": 3531,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/1920x1121/interior/750681.jpg"
   },
   {
     "firstListed": "2020-08-27",
