@@ -74894,6 +74894,19 @@
   },
   {
     "fetchDate": "2023-03-24",
+    "available": "May 8",
+    "unitName": "334",
+    "floorPlanName": "Glaucous",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 1055,
+    "minRent": 4194,
+    "maxRent": 8192,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2G10Parent_21C-P_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2023-03-24",
     "available": "April 22",
     "unitName": "339",
     "floorPlanName": "Tiffany",
@@ -75047,5 +75060,18 @@
     "maxRent": 6843,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1JJ10_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2023-03-24",
+    "available": "Now",
+    "unitName": "981",
+    "floorPlanName": "Brandeis",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 775,
+    "minRent": 3405,
+    "maxRent": 8185,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
+    "status": "first-day"
   }
 ]
