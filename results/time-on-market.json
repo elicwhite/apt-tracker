@@ -1,5 +1,19 @@
 [
   {
+    "firstListed": "2023-03-22",
+    "lastListed": "2023-03-23",
+    "available": "2023-05-06",
+    "daysListed": 1,
+    "daysAvailable": -44,
+    "unitName": "1014",
+    "floorPlanName": "Cyan",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 735,
+    "minRent": 3736,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1C10Parent_3B_DIMS_BW_SKETCH_500x500-01-1?qlt=85&fmt=jpg"
+  },
+  {
     "firstListed": "2023-03-08",
     "lastListed": "2023-03-09",
     "available": "2023-04-08",
@@ -152,6 +166,20 @@
     "sqft": 1554,
     "minRent": 5893,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2H20Parent_26C_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2023-02-10",
+    "lastListed": "2023-03-23",
+    "available": "2023-02-10",
+    "daysListed": 41,
+    "daysAvailable": 41,
+    "unitName": "262",
+    "floorPlanName": "Bleu",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 682,
+    "minRent": 2984,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EG10Parent_54A-2_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2023-01-02",
@@ -376,6 +404,20 @@
     "sqft": 1159,
     "minRent": 5076,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2A20Parent_1C_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2022-11-04",
+    "lastListed": "2023-03-23",
+    "available": "2022-11-04",
+    "daysListed": 139,
+    "daysAvailable": 139,
+    "unitName": "1070",
+    "floorPlanName": "Ultramarine",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "sqft": 1481,
+    "minRent": 5699,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
   },
   {
     "firstListed": "2022-11-02",
