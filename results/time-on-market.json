@@ -1134,20 +1134,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EE10Parent_38A_BW_SKETCH_500x500-01.jpg"
   },
   {
-    "firstListed": "2022-05-23",
-    "lastListed": "2022-06-11",
-    "available": "2022-08-05",
-    "daysListed": 19,
-    "daysAvailable": -55,
-    "unitName": "304",
-    "floorPlanName": "Electric",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1283,
-    "minRent": 4890,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2M20Parent_66C-P_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2022-06-15",
     "lastListed": "2022-08-12",
     "available": "2022-08-05",
@@ -1160,6 +1146,20 @@
     "sqft": 583,
     "minRent": 3475,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2022-05-23",
+    "lastListed": "2022-06-11",
+    "available": "2022-08-05",
+    "daysListed": 19,
+    "daysAvailable": -55,
+    "unitName": "304",
+    "floorPlanName": "Electric",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1283,
+    "minRent": 4890,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2M20Parent_66C-P_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2022-08-02",
