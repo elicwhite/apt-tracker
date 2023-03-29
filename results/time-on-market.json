@@ -1,19 +1,5 @@
 [
   {
-    "firstListed": "2023-03-22",
-    "lastListed": "2023-03-23",
-    "available": "2023-05-06",
-    "daysListed": 1,
-    "daysAvailable": -44,
-    "unitName": "1014",
-    "floorPlanName": "Cyan",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 735,
-    "minRent": 3736,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1C10Parent_3B_DIMS_BW_SKETCH_500x500-01-1?qlt=85&fmt=jpg"
-  },
-  {
     "firstListed": "2023-03-15",
     "lastListed": "2023-03-24",
     "available": "2023-04-29",
@@ -54,6 +40,20 @@
     "sqft": 814,
     "minRent": 3243,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1U10Parent_40B_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2023-03-28",
+    "lastListed": "2023-03-28",
+    "available": "2023-03-28",
+    "daysListed": 0,
+    "daysAvailable": 0,
+    "unitName": "304",
+    "floorPlanName": "Electric",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1283,
+    "minRent": 4724,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2M20Parent_66C-P_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
     "firstListed": "2023-02-11",
@@ -1134,20 +1134,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EE10Parent_38A_BW_SKETCH_500x500-01.jpg"
   },
   {
-    "firstListed": "2022-06-15",
-    "lastListed": "2022-08-12",
-    "available": "2022-08-05",
-    "daysListed": 58,
-    "daysAvailable": 7,
-    "unitName": "1021",
-    "floorPlanName": "Smalt",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 583,
-    "minRent": 3475,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2022-05-23",
     "lastListed": "2022-06-11",
     "available": "2022-08-05",
@@ -1160,6 +1146,20 @@
     "sqft": 1283,
     "minRent": 4890,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2M20Parent_66C-P_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2022-06-15",
+    "lastListed": "2022-08-12",
+    "available": "2022-08-05",
+    "daysListed": 58,
+    "daysAvailable": 7,
+    "unitName": "1021",
+    "floorPlanName": "Smalt",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 3475,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2022-08-02",
@@ -5740,20 +5740,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2D20_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
-    "firstListed": "2020-11-25",
-    "lastListed": "2020-12-14",
-    "available": "2021-01-29",
-    "daysListed": 19,
-    "daysAvailable": -46,
-    "unitName": "527",
-    "floorPlanName": "Aqua",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 815,
-    "minRent": 2942,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg"
-  },
-  {
     "firstListed": "2020-12-01",
     "lastListed": "2021-02-09",
     "available": "2021-01-29",
@@ -5766,6 +5752,20 @@
     "sqft": 801,
     "minRent": 2792,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1AA10Parent_47B_DIMS_BW-01.jpg"
+  },
+  {
+    "firstListed": "2020-11-25",
+    "lastListed": "2020-12-14",
+    "available": "2021-01-29",
+    "daysListed": 19,
+    "daysAvailable": -46,
+    "unitName": "527",
+    "floorPlanName": "Aqua",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 815,
+    "minRent": 2942,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg"
   },
   {
     "firstListed": "2021-01-28",
