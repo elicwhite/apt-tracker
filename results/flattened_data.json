@@ -76632,7 +76632,7 @@
     "minRent": 4039,
     "maxRent": 7818,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2023-03-31",
@@ -76710,7 +76710,7 @@
     "minRent": 2750,
     "maxRent": 6561,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/EE10Parent_38A_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2023-03-31",
@@ -76870,7 +76870,7 @@
   },
   {
     "fetchDate": "2023-04-01",
-    "available": "April 1",
+    "available": "Now",
     "unitName": "541",
     "floorPlanName": "Cobalt",
     "bedrooms": 1,
@@ -76879,19 +76879,6 @@
     "minRent": 3493,
     "maxRent": 8494,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Cobalt_DIMS_BW_SKETCH_500X500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2023-04-01",
-    "available": "May 6",
-    "unitName": "546",
-    "floorPlanName": "Cornflower",
-    "bedrooms": 2,
-    "bathrooms": 1,
-    "sqft": 885,
-    "minRent": 4039,
-    "maxRent": 7818,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   },
   {
@@ -76957,19 +76944,6 @@
     "minRent": 2850,
     "maxRent": 6843,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1JJ10_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2023-04-01",
-    "available": "May 14",
-    "unitName": "883",
-    "floorPlanName": "Lapis",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 495,
-    "minRent": 2750,
-    "maxRent": 6561,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/EE10Parent_38A_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   },
   {
