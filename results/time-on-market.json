@@ -6319,20 +6319,6 @@
     "available": "2020-11-20",
     "daysListed": 0,
     "daysAvailable": 0,
-    "unitName": "1012",
-    "floorPlanName": "Royal",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 739,
-    "minRent": 3057,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1B10Parent_02B_DIMS_BW-01.jpg"
-  },
-  {
-    "firstListed": "2020-11-20",
-    "lastListed": "2020-11-20",
-    "available": "2020-11-20",
-    "daysListed": 0,
-    "daysAvailable": 0,
     "unitName": "258",
     "floorPlanName": "Violet",
     "bedrooms": 1,
@@ -6340,6 +6326,20 @@
     "sqft": 846,
     "minRent": 2900,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1HH10Parent_56B-2_BW-01.jpg"
+  },
+  {
+    "firstListed": "2020-11-20",
+    "lastListed": "2020-11-20",
+    "available": "2020-11-20",
+    "daysListed": 0,
+    "daysAvailable": 0,
+    "unitName": "1012",
+    "floorPlanName": "Royal",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 739,
+    "minRent": 3057,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1B10Parent_02B_DIMS_BW-01.jpg"
   },
   {
     "firstListed": "2020-10-04",
