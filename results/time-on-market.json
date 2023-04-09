@@ -14,6 +14,34 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/EE10Parent_38A_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
+    "firstListed": "2023-03-29",
+    "lastListed": "2023-04-08",
+    "available": "2023-05-13",
+    "daysListed": 10,
+    "daysAvailable": -35,
+    "unitName": "919",
+    "floorPlanName": "Aqua",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 815,
+    "minRent": 3348,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1CC10_Aqua_BW_SKETCH_500x500_Edit?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2023-03-22",
+    "lastListed": "2023-04-08",
+    "available": "2023-05-06",
+    "daysListed": 17,
+    "daysAvailable": -28,
+    "unitName": "473",
+    "floorPlanName": "Ocean",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 754,
+    "minRent": 3203,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1X10Parent_43B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
     "firstListed": "2023-03-22",
     "lastListed": "2023-03-31",
     "available": "2023-05-06",
@@ -56,6 +84,20 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1Z10Parent_46B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
+    "firstListed": "2023-03-26",
+    "lastListed": "2023-04-08",
+    "available": "2023-04-28",
+    "daysListed": 13,
+    "daysAvailable": -20,
+    "unitName": "1021",
+    "floorPlanName": "Smalt",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 3130,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1JJ10_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
     "firstListed": "2023-04-01",
     "lastListed": "2023-04-07",
     "available": "2023-04-27",
@@ -82,6 +124,20 @@
     "sqft": 552,
     "minRent": 2749,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2023-02-22",
+    "lastListed": "2023-04-08",
+    "available": "2023-04-08",
+    "daysListed": 45,
+    "daysAvailable": 0,
+    "unitName": "476",
+    "floorPlanName": "Powder",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 684,
+    "minRent": 3240,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1BB10Parent_48B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2023-03-08",
@@ -1218,20 +1274,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EE10Parent_38A_BW_SKETCH_500x500-01.jpg"
   },
   {
-    "firstListed": "2022-05-23",
-    "lastListed": "2022-06-11",
-    "available": "2022-08-05",
-    "daysListed": 19,
-    "daysAvailable": -55,
-    "unitName": "304",
-    "floorPlanName": "Electric",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1283,
-    "minRent": 4890,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2M20Parent_66C-P_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2022-06-15",
     "lastListed": "2022-08-12",
     "available": "2022-08-05",
@@ -1244,6 +1286,20 @@
     "sqft": 583,
     "minRent": 3475,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2022-05-23",
+    "lastListed": "2022-06-11",
+    "available": "2022-08-05",
+    "daysListed": 19,
+    "daysAvailable": -55,
+    "unitName": "304",
+    "floorPlanName": "Electric",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1283,
+    "minRent": 4890,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2M20Parent_66C-P_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2022-08-02",
