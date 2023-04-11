@@ -68252,6 +68252,17 @@
     },
     {
       "available": "Now",
+      "unitName": "981",
+      "floorPlanName": "Brandeis",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 775,
+      "minRent": 3405,
+      "maxRent": 8071,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
+      "available": "Now",
       "unitName": "987",
       "floorPlanName": "Aquamarine",
       "bedrooms": 1,
@@ -68260,6 +68271,17 @@
       "minRent": 3473,
       "maxRent": 6508,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
+      "available": "May 6",
+      "unitName": "1014",
+      "floorPlanName": "Cyan",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 735,
+      "minRent": 3736,
+      "maxRent": 7031,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1C10Parent_3B_DIMS_BW_SKETCH_500x500-01-1?qlt=85&fmt=jpg"
     }
   ]
 }
