@@ -81264,6 +81264,19 @@
   },
   {
     "fetchDate": "2023-04-18",
+    "available": "June 2",
+    "unitName": "841",
+    "floorPlanName": "Cobalt",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 838,
+    "minRent": 3658,
+    "maxRent": 6918,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Cobalt_DIMS_BW_SKETCH_500X500-01?qlt=85&fmt=jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2023-04-18",
     "available": "May 20",
     "unitName": "876",
     "floorPlanName": "Powder",
