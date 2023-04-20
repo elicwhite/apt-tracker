@@ -81648,7 +81648,7 @@
     "bathrooms": 1,
     "sqft": 638,
     "minRent": 3170,
-    "maxRent": 7579,
+    "maxRent": 7564,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1II10Parent_57A-2_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   },
@@ -81739,20 +81739,20 @@
     "bathrooms": 1,
     "sqft": 583,
     "minRent": 2850,
-    "maxRent": 6829,
+    "maxRent": 6816,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1JJ10_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   },
   {
     "fetchDate": "2023-04-20",
-    "available": "April 20",
+    "available": "Now",
     "unitName": "624",
     "floorPlanName": "Turquoise",
     "bedrooms": 0,
     "bathrooms": 1,
     "sqft": 552,
     "minRent": 2895,
-    "maxRent": 6917,
+    "maxRent": 6904,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   },
@@ -81793,19 +81793,6 @@
     "minRent": 4164,
     "maxRent": 8054,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2H10Parent_44C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2023-04-20",
-    "available": "June 3",
-    "unitName": "785",
-    "floorPlanName": "Aquamarine",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 759,
-    "minRent": 3578,
-    "maxRent": 6774,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   },
   {
@@ -81856,7 +81843,7 @@
     "bathrooms": 1,
     "sqft": 552,
     "minRent": 3085,
-    "maxRent": 7377,
+    "maxRent": 7363,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   },
