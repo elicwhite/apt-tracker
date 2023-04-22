@@ -70545,8 +70545,8 @@
       "bedrooms": 2,
       "bathrooms": 2,
       "sqft": 1264,
-      "minRent": 4514,
-      "maxRent": 8789,
+      "minRent": 4314,
+      "maxRent": 8402,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2C20Parent_10C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
@@ -70561,7 +70561,7 @@
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1B10Parent_02B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
-      "available": "April 22",
+      "available": "Now",
       "unitName": "333",
       "floorPlanName": "Robin",
       "bedrooms": 1,
@@ -70592,17 +70592,6 @@
       "minRent": 3548,
       "maxRent": 6701,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1AA10Parent_47B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
-    },
-    {
-      "available": "May 27",
-      "unitName": "437",
-      "floorPlanName": "Smalt",
-      "bedrooms": 0,
-      "bathrooms": 1,
-      "sqft": 583,
-      "minRent": 2850,
-      "maxRent": 6816,
-      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1JJ10_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
       "available": "Now",
@@ -70737,14 +70726,14 @@
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1D10Parent_04B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
-      "available": "April 25",
+      "available": "April 26",
       "unitName": "1030",
       "floorPlanName": "Cornflower",
       "bedrooms": 2,
       "bathrooms": 1,
       "sqft": 885,
       "minRent": 4244,
-      "maxRent": 8210,
+      "maxRent": 8189,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
