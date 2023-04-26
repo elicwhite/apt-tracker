@@ -2198,6 +2198,20 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1CC10_Aqua_BW_SKETCH_500x500-01.jpg"
   },
   {
+    "firstListed": "2022-03-02",
+    "lastListed": "2022-03-14",
+    "available": "2022-04-29",
+    "daysListed": 12,
+    "daysAvailable": -46,
+    "unitName": "411",
+    "floorPlanName": "Rackley",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1264,
+    "minRent": 4759,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C20Parent_10C_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
     "firstListed": "2022-01-13",
     "lastListed": "2022-02-08",
     "available": "2022-04-29",
@@ -2252,20 +2266,6 @@
     "sqft": 906,
     "minRent": 3520,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1W10Parent_42B_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
-    "firstListed": "2022-03-02",
-    "lastListed": "2022-03-14",
-    "available": "2022-04-29",
-    "daysListed": 12,
-    "daysAvailable": -46,
-    "unitName": "411",
-    "floorPlanName": "Rackley",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1264,
-    "minRent": 4759,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C20Parent_10C_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2022-02-24",
@@ -3500,20 +3500,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg"
   },
   {
-    "firstListed": "2021-07-23",
-    "lastListed": "2021-10-05",
-    "available": "2021-09-23",
-    "daysListed": 74,
-    "daysAvailable": 12,
-    "unitName": "983",
-    "floorPlanName": "Lapis",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 495,
-    "minRent": 2800,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EE10Parent_38A_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2021-09-23",
     "lastListed": "2021-09-23",
     "available": "2021-09-23",
@@ -3526,6 +3512,20 @@
     "sqft": 583,
     "minRent": 3150,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2021-07-23",
+    "lastListed": "2021-10-05",
+    "available": "2021-09-23",
+    "daysListed": 74,
+    "daysAvailable": 12,
+    "unitName": "983",
+    "floorPlanName": "Lapis",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 495,
+    "minRent": 2800,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EE10Parent_38A_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2021-07-15",
