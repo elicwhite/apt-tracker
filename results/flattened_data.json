@@ -83643,6 +83643,19 @@
   },
   {
     "fetchDate": "2023-04-27",
+    "available": "June 11",
+    "unitName": "206",
+    "floorPlanName": "Cadet",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 495,
+    "minRent": 2790,
+    "maxRent": 6674,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/EG10Parent_54A-2_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2023-04-27",
     "available": "June 3",
     "unitName": "252",
     "floorPlanName": "Palatinate",
