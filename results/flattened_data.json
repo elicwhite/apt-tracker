@@ -83795,7 +83795,7 @@
     "minRent": 2915,
     "maxRent": 6953,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2023-04-27",
@@ -84072,7 +84072,7 @@
   },
   {
     "fetchDate": "2023-04-28",
-    "available": "June 10",
+    "available": "June 11",
     "unitName": "616",
     "floorPlanName": "Indigo",
     "bedrooms": 1,
@@ -84081,19 +84081,6 @@
     "minRent": 3356,
     "maxRent": 6355,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1D10Parent_04B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2023-04-28",
-    "available": "Now",
-    "unitName": "624",
-    "floorPlanName": "Turquoise",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 552,
-    "minRent": 2915,
-    "maxRent": 6953,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   },
   {
@@ -84222,7 +84209,7 @@
     "bathrooms": 1,
     "sqft": 885,
     "minRent": 4244,
-    "maxRent": 8210,
+    "maxRent": 8230,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   },
