@@ -210,20 +210,6 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1Z10Parent_46B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
-    "firstListed": "2023-03-26",
-    "lastListed": "2023-04-25",
-    "available": "2023-04-28",
-    "daysListed": 30,
-    "daysAvailable": -3,
-    "unitName": "1021",
-    "floorPlanName": "Smalt",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 583,
-    "minRent": 3130,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1JJ10_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
-  },
-  {
     "firstListed": "2023-04-25",
     "lastListed": "2023-04-25",
     "available": "2023-04-25",
@@ -5026,20 +5012,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Celeste_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
-    "firstListed": "2021-05-09",
-    "lastListed": "2021-05-11",
-    "available": "2021-05-09",
-    "daysListed": 2,
-    "daysAvailable": 2,
-    "unitName": "935",
-    "floorPlanName": "Smalt - ARCHIVE",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 583,
-    "minRent": 2789,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2021-03-17",
     "lastListed": "2021-03-24",
     "available": "2021-05-09",
@@ -5052,6 +5024,20 @@
     "sqft": 662,
     "minRent": 2698,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Celeste_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2021-05-09",
+    "lastListed": "2021-05-11",
+    "available": "2021-05-09",
+    "daysListed": 2,
+    "daysAvailable": 2,
+    "unitName": "935",
+    "floorPlanName": "Smalt - ARCHIVE",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 2789,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2021-03-02",
@@ -7840,6 +7826,20 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg"
   },
   {
+    "firstListed": "2020-08-25",
+    "lastListed": "2020-10-02",
+    "available": "2020-08-30",
+    "daysListed": 38,
+    "daysAvailable": 33,
+    "unitName": "829",
+    "floorPlanName": "Rackley",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1264,
+    "minRent": 4275,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2C20Parent_10C_DIMS_BW-01.jpg"
+  },
+  {
     "firstListed": "2020-08-28",
     "lastListed": "2020-08-29",
     "available": "2020-08-30",
@@ -7894,20 +7894,6 @@
     "sqft": 583,
     "minRent": 2597,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg"
-  },
-  {
-    "firstListed": "2020-08-25",
-    "lastListed": "2020-10-02",
-    "available": "2020-08-30",
-    "daysListed": 38,
-    "daysAvailable": 33,
-    "unitName": "829",
-    "floorPlanName": "Rackley",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1264,
-    "minRent": 4275,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2C20Parent_10C_DIMS_BW-01.jpg"
   },
   {
     "firstListed": "2020-08-28",
