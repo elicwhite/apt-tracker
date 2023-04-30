@@ -84774,6 +84774,19 @@
   },
   {
     "fetchDate": "2023-04-30",
+    "available": "June 3",
+    "unitName": "1018",
+    "floorPlanName": "Indigo",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 697,
+    "minRent": 3766,
+    "maxRent": 7159,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1D10Parent_04B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2023-04-30",
     "available": "May 5",
     "unitName": "1021",
     "floorPlanName": "Smalt",
