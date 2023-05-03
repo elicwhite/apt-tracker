@@ -85225,7 +85225,7 @@
     "minRent": 3095,
     "maxRent": 7392,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1JJ10_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2023-05-02",
@@ -85368,7 +85368,7 @@
     "minRent": 3341,
     "maxRent": 6363,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Celeste_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2023-05-02",
@@ -85528,19 +85528,6 @@
   },
   {
     "fetchDate": "2023-05-03",
-    "available": "June 10",
-    "unitName": "340",
-    "floorPlanName": "Smalt",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 583,
-    "minRent": 3095,
-    "maxRent": 7392,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1JJ10_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2023-05-03",
     "available": "May 13",
     "unitName": "374",
     "floorPlanName": "Sky",
@@ -85576,19 +85563,6 @@
     "minRent": 4164,
     "maxRent": 8312,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2H10Parent_44C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2023-05-03",
-    "available": "June 16",
-    "unitName": "817",
-    "floorPlanName": "Aqua",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 815,
-    "minRent": 3578,
-    "maxRent": 6808,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1CC10_Aqua_BW_SKETCH_500x500_Edit?qlt=85&fmt=jpg",
     "status": "no-change"
   },
   {
@@ -85671,19 +85645,6 @@
   },
   {
     "fetchDate": "2023-05-03",
-    "available": "June 10",
-    "unitName": "913",
-    "floorPlanName": "Celeste",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 662,
-    "minRent": 3341,
-    "maxRent": 6363,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Celeste_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2023-05-03",
     "available": "May 6",
     "unitName": "1014",
     "floorPlanName": "Cyan",
@@ -85717,7 +85678,7 @@
     "bathrooms": 1,
     "sqft": 583,
     "minRent": 3250,
-    "maxRent": 7709,
+    "maxRent": 7740,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1JJ10_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   },
