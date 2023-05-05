@@ -252,6 +252,20 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1D10Parent_04B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
+    "firstListed": "2023-03-08",
+    "lastListed": "2023-05-04",
+    "available": "2023-04-22",
+    "daysListed": 57,
+    "daysAvailable": 12,
+    "unitName": "333",
+    "floorPlanName": "Robin",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 769,
+    "minRent": 3448,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1P10Parent_032B_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
     "firstListed": "2023-03-06",
     "lastListed": "2023-04-27",
     "available": "2023-04-20",
@@ -3052,20 +3066,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1L10Parent_22B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
-    "firstListed": "2021-10-27",
-    "lastListed": "2022-01-12",
-    "available": "2021-12-29",
-    "daysListed": 77,
-    "daysAvailable": 14,
-    "unitName": "334",
-    "floorPlanName": "Glaucous",
-    "bedrooms": 2,
-    "bathrooms": 1,
-    "sqft": 1055,
-    "minRent": 4270,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2G10Parent_21C-P_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2021-10-28",
     "lastListed": "2022-01-17",
     "available": "2021-12-29",
@@ -3078,6 +3078,20 @@
     "sqft": 769,
     "minRent": 3558,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1P10Parent_032B_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2021-10-27",
+    "lastListed": "2022-01-12",
+    "available": "2021-12-29",
+    "daysListed": 77,
+    "daysAvailable": 14,
+    "unitName": "334",
+    "floorPlanName": "Glaucous",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 1055,
+    "minRent": 4270,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2G10Parent_21C-P_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2021-10-22",
