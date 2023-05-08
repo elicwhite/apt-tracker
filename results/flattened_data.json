@@ -87140,6 +87140,19 @@
   },
   {
     "fetchDate": "2023-05-08",
+    "available": "June 10",
+    "unitName": "411",
+    "floorPlanName": "Rackley",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1264,
+    "minRent": 4404,
+    "maxRent": 8512,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2C20Parent_10C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2023-05-08",
     "available": "June 17",
     "unitName": "413",
     "floorPlanName": "Celeste",
@@ -87241,6 +87254,19 @@
     "maxRent": 6935,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Cobalt_DIMS_BW_SKETCH_500X500-01?qlt=85&fmt=jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2023-05-08",
+    "available": "June 21",
+    "unitName": "871",
+    "floorPlanName": "Majorelle",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 1076,
+    "minRent": 4184,
+    "maxRent": 8096,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2H10Parent_44C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2023-05-08",
