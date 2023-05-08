@@ -86876,7 +86876,7 @@
     "minRent": 4334,
     "maxRent": 8526,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2C20Parent_10C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2023-05-07",
@@ -87056,7 +87056,7 @@
     "bathrooms": 1,
     "sqft": 791,
     "minRent": 3934,
-    "maxRent": 7641,
+    "maxRent": 7622,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2A10Parent_64C-P_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   },
@@ -87069,7 +87069,7 @@
     "bathrooms": 2,
     "sqft": 1264,
     "minRent": 4314,
-    "maxRent": 8484,
+    "maxRent": 8423,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2C20Parent_10C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   },
@@ -87199,21 +87199,8 @@
     "bathrooms": 1,
     "sqft": 1076,
     "minRent": 4164,
-    "maxRent": 8193,
+    "maxRent": 8134,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2H10Parent_44C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2023-05-08",
-    "available": "May 14",
-    "unitName": "829",
-    "floorPlanName": "Rackley",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1264,
-    "minRent": 4334,
-    "maxRent": 8526,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2C20Parent_10C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   },
   {
@@ -87302,8 +87289,8 @@
     "bedrooms": 0,
     "bathrooms": 1,
     "sqft": 583,
-    "minRent": 3045,
-    "maxRent": 7285,
+    "minRent": 3060,
+    "maxRent": 7325,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1JJ10_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   },
@@ -87315,8 +87302,8 @@
     "bedrooms": 1,
     "bathrooms": 1,
     "sqft": 759,
-    "minRent": 3613,
-    "maxRent": 6838,
+    "minRent": 3628,
+    "maxRent": 6862,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   },
