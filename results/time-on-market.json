@@ -154,20 +154,6 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1JJ10_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
-    "firstListed": "2023-04-29",
-    "lastListed": "2023-05-07",
-    "available": "2023-05-15",
-    "daysListed": 8,
-    "daysAvailable": -8,
-    "unitName": "829",
-    "floorPlanName": "Rackley",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1264,
-    "minRent": 4334,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2C20Parent_10C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
-  },
-  {
     "firstListed": "2023-03-30",
     "lastListed": "2023-03-31",
     "available": "2023-05-14",
@@ -3948,20 +3934,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1C10Parent_3B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
-    "firstListed": "2021-06-01",
-    "lastListed": "2021-06-22",
-    "available": "2021-08-07",
-    "daysListed": 21,
-    "daysAvailable": -46,
-    "unitName": "244",
-    "floorPlanName": "Marine",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1554,
-    "minRent": 5893,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2H20Parent_26C_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2021-05-28",
     "lastListed": "2021-06-15",
     "available": "2021-08-07",
@@ -3974,6 +3946,20 @@
     "sqft": 815,
     "minRent": 3717,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg"
+  },
+  {
+    "firstListed": "2021-06-01",
+    "lastListed": "2021-06-22",
+    "available": "2021-08-07",
+    "daysListed": 21,
+    "daysAvailable": -46,
+    "unitName": "244",
+    "floorPlanName": "Marine",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1554,
+    "minRent": 5893,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2H20Parent_26C_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2021-06-09",
