@@ -75002,7 +75002,7 @@
       "bathrooms": 1,
       "sqft": 914,
       "minRent": 3733,
-      "maxRent": 7062,
+      "maxRent": 7027,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1FF10Parent_55B-2_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
@@ -75015,17 +75015,6 @@
       "minRent": 3548,
       "maxRent": 6718,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1AA10Parent_47B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
-    },
-    {
-      "available": "June 10",
-      "unitName": "411",
-      "floorPlanName": "Rackley",
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "sqft": 1264,
-      "minRent": 4404,
-      "maxRent": 8512,
-      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2C20Parent_10C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
       "available": "June 17",
@@ -75048,17 +75037,6 @@
       "minRent": 3246,
       "maxRent": 6170,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1D10Parent_04B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
-    },
-    {
-      "available": "June 17",
-      "unitName": "519",
-      "floorPlanName": "Aqua",
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "sqft": 815,
-      "minRent": 3278,
-      "maxRent": 6230,
-      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1CC10_Aqua_BW_SKETCH_500x500_Edit?qlt=85&fmt=jpg"
     },
     {
       "available": "Now",
@@ -75127,7 +75105,7 @@
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2H10Parent_44C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
-      "available": "May 10",
+      "available": "Now",
       "unitName": "876",
       "floorPlanName": "Powder",
       "bedrooms": 1,
@@ -75167,11 +75145,11 @@
       "bathrooms": 1,
       "sqft": 583,
       "minRent": 3060,
-      "maxRent": 7325,
+      "maxRent": 7296,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1JJ10_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
-      "available": "May 10",
+      "available": "May 11",
       "unitName": "985",
       "floorPlanName": "Aquamarine",
       "bedrooms": 1,
