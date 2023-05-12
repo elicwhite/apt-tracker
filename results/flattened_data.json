@@ -88293,7 +88293,7 @@
     "minRent": 3618,
     "maxRent": 6864,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Cobalt_DIMS_BW_SKETCH_500X500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2023-05-11",
@@ -88319,7 +88319,7 @@
     "minRent": 3351,
     "maxRent": 6347,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1BB10Parent_48B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2023-05-11",
@@ -88492,7 +88492,7 @@
   },
   {
     "fetchDate": "2023-05-12",
-    "available": "May 12",
+    "available": "Now",
     "unitName": "346",
     "floorPlanName": "Klein",
     "bedrooms": 1,
@@ -88609,19 +88609,6 @@
   },
   {
     "fetchDate": "2023-05-12",
-    "available": "June 6",
-    "unitName": "841",
-    "floorPlanName": "Cobalt",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 838,
-    "minRent": 3618,
-    "maxRent": 6864,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Cobalt_DIMS_BW_SKETCH_500X500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2023-05-12",
     "available": "June 21",
     "unitName": "871",
     "floorPlanName": "Majorelle",
@@ -88631,19 +88618,6 @@
     "minRent": 4154,
     "maxRent": 8038,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2H10Parent_44C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2023-05-12",
-    "available": "Now",
-    "unitName": "876",
-    "floorPlanName": "Powder",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 684,
-    "minRent": 3351,
-    "maxRent": 6347,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1BB10Parent_48B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   },
   {
@@ -88674,7 +88648,7 @@
   },
   {
     "fetchDate": "2023-05-12",
-    "available": "May 12",
+    "available": "Now",
     "unitName": "935",
     "floorPlanName": "Smalt",
     "bedrooms": 0,
