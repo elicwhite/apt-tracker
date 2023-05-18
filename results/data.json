@@ -77555,28 +77555,6 @@
     },
     {
       "available": "July 1",
-      "unitName": "773",
-      "floorPlanName": "Ocean",
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "sqft": 754,
-      "minRent": 3273,
-      "maxRent": 6191,
-      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1X10Parent_43B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
-    },
-    {
-      "available": "July 1",
-      "unitName": "781",
-      "floorPlanName": "Brandeis",
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "sqft": 775,
-      "minRent": 3485,
-      "maxRent": 8328,
-      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
-    },
-    {
-      "available": "July 1",
       "unitName": "781",
       "floorPlanName": "Brandeis",
       "bedrooms": 0,
@@ -77585,17 +77563,6 @@
       "minRent": 3485,
       "maxRent": 8328,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
-    },
-    {
-      "available": "July 1",
-      "unitName": "783",
-      "floorPlanName": "Lapis",
-      "bedrooms": 0,
-      "bathrooms": 1,
-      "sqft": 495,
-      "minRent": 2800,
-      "maxRent": 6708,
-      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/EE10Parent_38A_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
       "available": "Now",
