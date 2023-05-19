@@ -90832,6 +90832,19 @@
   },
   {
     "fetchDate": "2023-05-19",
+    "available": "July 1",
+    "unitName": "781",
+    "floorPlanName": "Brandeis",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 775,
+    "minRent": 3485,
+    "maxRent": 8328,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
+    "status": "no-change"
+  },
+  {
+    "fetchDate": "2023-05-19",
     "available": "Now",
     "unitName": "834",
     "floorPlanName": "Manatee",
