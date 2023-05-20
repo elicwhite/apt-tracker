@@ -90789,7 +90789,7 @@
     "minRent": 3468,
     "maxRent": 6549,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1CC10_Aqua_BW_SKETCH_500x500_Edit?qlt=85&fmt=jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2023-05-19",
@@ -90988,7 +90988,7 @@
   },
   {
     "fetchDate": "2023-05-20",
-    "available": "May 20",
+    "available": "Now",
     "unitName": "312",
     "floorPlanName": "Royal",
     "bedrooms": 1,
@@ -91118,19 +91118,6 @@
   },
   {
     "fetchDate": "2023-05-20",
-    "available": "June 17",
-    "unitName": "617",
-    "floorPlanName": "Aqua",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 815,
-    "minRent": 3468,
-    "maxRent": 6549,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1CC10_Aqua_BW_SKETCH_500x500_Edit?qlt=85&fmt=jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2023-05-20",
     "available": "Now",
     "unitName": "624",
     "floorPlanName": "Turquoise",
@@ -91161,19 +91148,6 @@
     "unitName": "781",
     "floorPlanName": "Brandeis",
     "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 775,
-    "minRent": 3485,
-    "maxRent": 8328,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2023-05-20",
-    "available": "July 1",
-    "unitName": "781",
-    "floorPlanName": "Brandeis",
-    "bedrooms": 1,
     "bathrooms": 1,
     "sqft": 775,
     "minRent": 3485,
