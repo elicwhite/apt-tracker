@@ -90936,6 +90936,19 @@
   },
   {
     "fetchDate": "2023-05-20",
+    "available": "May 27",
+    "unitName": "244",
+    "floorPlanName": "Marine",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1554,
+    "minRent": 5893,
+    "maxRent": 5893,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2H20Parent_26C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2023-05-20",
     "available": "June 3",
     "unitName": "252",
     "floorPlanName": "Palatinate",
@@ -91105,6 +91118,19 @@
   },
   {
     "fetchDate": "2023-05-20",
+    "available": "June 17",
+    "unitName": "519",
+    "floorPlanName": "Aqua",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 815,
+    "minRent": 3238,
+    "maxRent": 6119,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1CC10_Aqua_BW_SKETCH_500x500_Edit?qlt=85&fmt=jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2023-05-20",
     "available": "July 1",
     "unitName": "577",
     "floorPlanName": "Oxford",
@@ -91141,6 +91167,19 @@
     "maxRent": 6828,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1L10Parent_22B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2023-05-20",
+    "available": "Now",
+    "unitName": "771",
+    "floorPlanName": "Majorelle",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 1076,
+    "minRent": 4154,
+    "maxRent": 8196,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2H10Parent_44C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2023-05-20",
