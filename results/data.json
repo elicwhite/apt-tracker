@@ -78895,6 +78895,17 @@
   ],
   "2023-05-23": [
     {
+      "available": "July 7",
+      "unitName": "106",
+      "floorPlanName": "Cadet",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 495,
+      "minRent": 2775,
+      "maxRent": 5578,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/EG10Parent_54A-2_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
       "available": "May 27",
       "unitName": "244",
       "floorPlanName": "Marine",
@@ -79071,6 +79082,17 @@
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1L10Parent_22B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
+      "available": "July 7",
+      "unitName": "729",
+      "floorPlanName": "Rackley",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1264,
+      "minRent": 4304,
+      "maxRent": 7873,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2C20Parent_10C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
       "available": "Now",
       "unitName": "771",
       "floorPlanName": "Majorelle",
@@ -79086,6 +79108,17 @@
       "unitName": "781",
       "floorPlanName": "Brandeis",
       "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 775,
+      "minRent": 3485,
+      "maxRent": 8361,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
+      "available": "July 1",
+      "unitName": "781",
+      "floorPlanName": "Brandeis",
+      "bedrooms": 1,
       "bathrooms": 1,
       "sqft": 775,
       "minRent": 3485,
@@ -79146,6 +79179,17 @@
       "minRent": 3588,
       "maxRent": 6841,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
+      "available": "June 3",
+      "unitName": "1018",
+      "floorPlanName": "Indigo",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 697,
+      "minRent": 3746,
+      "maxRent": 7154,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1D10Parent_04B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
       "available": "Now",
