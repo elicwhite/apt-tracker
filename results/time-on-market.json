@@ -29,6 +29,20 @@
   },
   {
     "firstListed": "2023-05-23",
+    "lastListed": "2023-05-31",
+    "available": "2023-07-07",
+    "daysListed": 8,
+    "daysAvailable": -37,
+    "unitName": "106",
+    "floorPlanName": "Cadet",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 495,
+    "minRent": 2775,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/EG10Parent_54A-2_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2023-05-23",
     "lastListed": "2023-05-25",
     "available": "2023-07-07",
     "daysListed": 2,
@@ -180,6 +194,20 @@
     "sqft": 1481,
     "minRent": 5829,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/3A20Parent_45D_BW-01?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2023-05-31",
+    "lastListed": "2023-05-31",
+    "available": "2023-05-31",
+    "daysListed": 0,
+    "daysAvailable": 0,
+    "unitName": "636",
+    "floorPlanName": "Pacific",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 826,
+    "minRent": 3628,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1L10Parent_22B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
     "firstListed": "2023-04-12",
