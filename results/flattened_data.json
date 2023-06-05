@@ -96548,7 +96548,7 @@
     "minRent": 2775,
     "maxRent": 5578,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/EG10Parent_54A-2_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2023-06-04",
@@ -96756,7 +96756,7 @@
     "minRent": 2925,
     "maxRent": 5874,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2023-06-04",
@@ -96943,19 +96943,6 @@
   {
     "fetchDate": "2023-06-05",
     "available": "July 8",
-    "unitName": "108",
-    "floorPlanName": "Cadet",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 495,
-    "minRent": 2775,
-    "maxRent": 5578,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/EG10Parent_54A-2_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2023-06-05",
-    "available": "July 8",
     "unitName": "226",
     "floorPlanName": "Cerulean",
     "bedrooms": 1,
@@ -97150,19 +97137,6 @@
   },
   {
     "fetchDate": "2023-06-05",
-    "available": "July 8",
-    "unitName": "622",
-    "floorPlanName": "Turquoise",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 552,
-    "minRent": 2925,
-    "maxRent": 5874,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2023-06-05",
     "available": "Now",
     "unitName": "671",
     "floorPlanName": "Majorelle",
@@ -97219,19 +97193,6 @@
     "unitName": "781",
     "floorPlanName": "Brandeis",
     "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 775,
-    "minRent": 3485,
-    "maxRent": 8411,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2023-06-05",
-    "available": "July 1",
-    "unitName": "781",
-    "floorPlanName": "Brandeis",
-    "bedrooms": 1,
     "bathrooms": 1,
     "sqft": 775,
     "minRent": 3485,
