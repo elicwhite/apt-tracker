@@ -2114,6 +2114,20 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
+    "firstListed": "2022-03-12",
+    "lastListed": "2022-07-03",
+    "available": "2022-07-01",
+    "daysListed": 113,
+    "daysAvailable": 2,
+    "unitName": "114",
+    "floorPlanName": "Aegean",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 496,
+    "minRent": 2495,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Aegean_BW_SKETCH_500x500-01.jpg"
+  },
+  {
     "firstListed": "2022-07-01",
     "lastListed": "2022-08-19",
     "available": "2022-07-01",
@@ -2140,20 +2154,6 @@
     "sqft": 1481,
     "minRent": 6545,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
-  },
-  {
-    "firstListed": "2022-03-12",
-    "lastListed": "2022-07-03",
-    "available": "2022-07-01",
-    "daysListed": 113,
-    "daysAvailable": 2,
-    "unitName": "114",
-    "floorPlanName": "Aegean",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 496,
-    "minRent": 2495,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Aegean_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2022-05-06",
@@ -5237,20 +5237,6 @@
   },
   {
     "firstListed": "2021-05-13",
-    "lastListed": "2021-05-28",
-    "available": "2021-05-13",
-    "daysListed": 15,
-    "daysAvailable": 15,
-    "unitName": "106",
-    "floorPlanName": "Cadet",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 495,
-    "minRent": 2269,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EG10Parent_54A-2_BW_SKETCH_500x500-01.jpg"
-  },
-  {
-    "firstListed": "2021-05-13",
     "lastListed": "2021-05-13",
     "available": "2021-05-13",
     "daysListed": 0,
@@ -5262,6 +5248,20 @@
     "sqft": 496,
     "minRent": 2114,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Aegean_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2021-05-13",
+    "lastListed": "2021-05-28",
+    "available": "2021-05-13",
+    "daysListed": 15,
+    "daysAvailable": 15,
+    "unitName": "106",
+    "floorPlanName": "Cadet",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 495,
+    "minRent": 2269,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EG10Parent_54A-2_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2021-05-12",
@@ -7000,20 +7000,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EC10Parent_24A_BW-01.jpg"
   },
   {
-    "firstListed": "2020-08-24",
-    "lastListed": "2020-12-31",
-    "available": "2020-11-08",
-    "daysListed": 129,
-    "daysAvailable": 53,
-    "unitName": "614",
-    "floorPlanName": "Cyan",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 735,
-    "minRent": 3218,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1C10Parent_3B_DIMS_BW-01.jpg"
-  },
-  {
     "firstListed": "2020-09-21",
     "lastListed": "2020-12-31",
     "available": "2020-11-08",
@@ -7026,6 +7012,20 @@
     "sqft": 496,
     "minRent": 2508,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EA10Parent_3A-2_BW-01.jpg"
+  },
+  {
+    "firstListed": "2020-08-24",
+    "lastListed": "2020-12-31",
+    "available": "2020-11-08",
+    "daysListed": 129,
+    "daysAvailable": 53,
+    "unitName": "614",
+    "floorPlanName": "Cyan",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 735,
+    "minRent": 3218,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1C10Parent_3B_DIMS_BW-01.jpg"
   },
   {
     "firstListed": "2020-11-07",
