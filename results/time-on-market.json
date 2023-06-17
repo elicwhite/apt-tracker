@@ -1,5 +1,19 @@
 [
   {
+    "firstListed": "2023-06-14",
+    "lastListed": "2023-06-16",
+    "available": "2023-07-29",
+    "daysListed": 2,
+    "daysAvailable": -43,
+    "unitName": "989",
+    "floorPlanName": "Dolphin",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 1032,
+    "minRent": 4379,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2F10Parent_35C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
     "firstListed": "2023-06-07",
     "lastListed": "2023-06-13",
     "available": "2023-07-22",
@@ -54,6 +68,20 @@
     "sqft": 814,
     "minRent": 3468,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1U10Parent_40B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2023-05-24",
+    "lastListed": "2023-06-16",
+    "available": "2023-07-08",
+    "daysListed": 23,
+    "daysAvailable": -22,
+    "unitName": "530",
+    "floorPlanName": "Cornflower",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 885,
+    "minRent": 3804,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
     "firstListed": "2023-05-24",
