@@ -101800,7 +101800,7 @@
     "minRent": 2729,
     "maxRent": 4540,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/EG10Parent_54A-2_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2023-06-17",
@@ -102164,20 +102164,7 @@
     "minRent": 3274,
     "maxRent": 5446,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1JJ10_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2023-06-18",
-    "available": "July 8",
-    "unitName": "108",
-    "floorPlanName": "Cadet",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 495,
-    "minRent": 2729,
-    "maxRent": 4540,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/EG10Parent_54A-2_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2023-06-18",
@@ -102389,19 +102376,6 @@
   },
   {
     "fetchDate": "2023-06-18",
-    "available": "July 29",
-    "unitName": "570",
-    "floorPlanName": "Ultramarine",
-    "bedrooms": 3,
-    "bathrooms": 2,
-    "sqft": 1481,
-    "minRent": 5374,
-    "maxRent": 9015,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/3A20Parent_45D_BW-01?qlt=85&fmt=jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2023-06-18",
     "available": "July 22",
     "unitName": "610",
     "floorPlanName": "Maya",
@@ -102506,7 +102480,7 @@
   },
   {
     "fetchDate": "2023-06-18",
-    "available": "June 18",
+    "available": "Now",
     "unitName": "1013",
     "floorPlanName": "Celeste",
     "bedrooms": 1,
@@ -102528,19 +102502,6 @@
     "minRent": 3674,
     "maxRent": 5946,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1D10Parent_04B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2023-06-18",
-    "available": "June 24",
-    "unitName": "1037",
-    "floorPlanName": "Smalt",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 583,
-    "minRent": 3274,
-    "maxRent": 5446,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1JJ10_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   }
 ]
