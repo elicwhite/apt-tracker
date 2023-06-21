@@ -88424,6 +88424,17 @@
   ],
   "2023-06-21": [
     {
+      "available": "July 8",
+      "unitName": "108",
+      "floorPlanName": "Cadet",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 495,
+      "minRent": 2729,
+      "maxRent": 4521,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/EG10Parent_54A-2_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
       "available": "July 1",
       "unitName": "162",
       "floorPlanName": "Iris",
@@ -88444,6 +88455,17 @@
       "minRent": 3631,
       "maxRent": 6020,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1A10Parent_1B-2_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
+      "available": "August 5",
+      "unitName": "212",
+      "floorPlanName": "Royal",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 739,
+      "minRent": 3194,
+      "maxRent": 5305,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1B10Parent_02B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
       "available": "July 8",
@@ -88545,6 +88567,17 @@
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_1O10Child_29B-T-01_DIMS_BW_SKETCH_500X500-01?qlt=85&fmt=jpg"
     },
     {
+      "available": "August 5",
+      "unitName": "362",
+      "floorPlanName": "Bleu",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 682,
+      "minRent": 2854,
+      "maxRent": 4737,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/EG10Parent_54A-2_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
       "available": "July 1",
       "unitName": "371",
       "floorPlanName": "Majorelle",
@@ -88622,6 +88655,17 @@
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1CC10_Aqua_BW_SKETCH_500x500_Edit?qlt=85&fmt=jpg"
     },
     {
+      "available": "August 5",
+      "unitName": "720",
+      "floorPlanName": "Admiral",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 842,
+      "minRent": 3516,
+      "maxRent": 5840,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1F10Parent_6B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
       "available": "July 29",
       "unitName": "732",
       "floorPlanName": "Midnight",
@@ -88631,6 +88675,17 @@
       "minRent": 4963,
       "maxRent": 8256,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2D20_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
+      "available": "August 5",
+      "unitName": "770",
+      "floorPlanName": "Ultramarine",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "sqft": 1481,
+      "minRent": 5559,
+      "maxRent": 9322,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/3A20Parent_45D_BW-01?qlt=85&fmt=jpg"
     },
     {
       "available": "July 1",
@@ -88644,6 +88699,17 @@
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
+      "available": "July 15",
+      "unitName": "823",
+      "floorPlanName": "Celeste",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 662,
+      "minRent": 3404,
+      "maxRent": 5643,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Celeste_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
       "available": "Now",
       "unitName": "880",
       "floorPlanName": "Turquoise",
@@ -88653,6 +88719,39 @@
       "minRent": 3069,
       "maxRent": 4954,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
+      "available": "July 22",
+      "unitName": "884",
+      "floorPlanName": "Turquoise",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 552,
+      "minRent": 3139,
+      "maxRent": 5200,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
+      "available": "August 5",
+      "unitName": "885",
+      "floorPlanName": "Aquamarine",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 759,
+      "minRent": 3506,
+      "maxRent": 5823,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
+      "available": "July 8",
+      "unitName": "916",
+      "floorPlanName": "Indigo",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 697,
+      "minRent": 3424,
+      "maxRent": 5676,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1D10Parent_04B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
       "available": "Now",
