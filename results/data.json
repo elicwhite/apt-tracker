@@ -88767,6 +88767,17 @@
   ],
   "2023-06-22": [
     {
+      "available": "July 7",
+      "unitName": "106",
+      "floorPlanName": "Cadet",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 495,
+      "minRent": 2729,
+      "maxRent": 4521,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/EG10Parent_54A-2_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
       "available": "July 1",
       "unitName": "162",
       "floorPlanName": "Iris",
@@ -88965,6 +88976,17 @@
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1CC10_Aqua_BW_SKETCH_500x500_Edit?qlt=85&fmt=jpg"
     },
     {
+      "available": "August 6",
+      "unitName": "622",
+      "floorPlanName": "Turquoise",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 552,
+      "minRent": 2879,
+      "maxRent": 4779,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
       "available": "Now",
       "unitName": "671",
       "floorPlanName": "Majorelle",
@@ -89024,6 +89046,17 @@
       "unitName": "781",
       "floorPlanName": "Brandeis",
       "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 775,
+      "minRent": 3433,
+      "maxRent": 5691,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
+      "available": "July 1",
+      "unitName": "781",
+      "floorPlanName": "Brandeis",
+      "bedrooms": 1,
       "bathrooms": 1,
       "sqft": 775,
       "minRent": 3433,
