@@ -364,6 +364,20 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1CC10_Aqua_BW_SKETCH_500x500_Edit?qlt=85&fmt=jpg"
   },
   {
+    "firstListed": "2023-05-10",
+    "lastListed": "2023-06-24",
+    "available": "2023-06-04",
+    "daysListed": 45,
+    "daysAvailable": 20,
+    "unitName": "382",
+    "floorPlanName": "Spindrift",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 770,
+    "minRent": 3463,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1DD10Parent_51B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
     "firstListed": "2023-05-25",
     "lastListed": "2023-06-23",
     "available": "2023-06-03",
@@ -1918,20 +1932,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
-    "firstListed": "2022-08-20",
-    "lastListed": "2022-08-25",
-    "available": "2022-08-20",
-    "daysListed": 5,
-    "daysAvailable": 5,
-    "unitName": "770",
-    "floorPlanName": "Ultramarine",
-    "bedrooms": 3,
-    "bathrooms": 2,
-    "sqft": 1481,
-    "minRent": 5925,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
-  },
-  {
     "firstListed": "2022-06-15",
     "lastListed": "2022-06-29",
     "available": "2022-08-20",
@@ -1944,6 +1944,20 @@
     "sqft": 770,
     "minRent": 3645,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1DD10Parent_51B_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2022-08-20",
+    "lastListed": "2022-08-25",
+    "available": "2022-08-20",
+    "daysListed": 5,
+    "daysAvailable": 5,
+    "unitName": "770",
+    "floorPlanName": "Ultramarine",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "sqft": 1481,
+    "minRent": 5925,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
   },
   {
     "firstListed": "2022-06-23",
