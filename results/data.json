@@ -90139,6 +90139,17 @@
   ],
   "2023-06-26": [
     {
+      "available": "July 7",
+      "unitName": "106",
+      "floorPlanName": "Cadet",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 495,
+      "minRent": 2729,
+      "maxRent": 4521,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/EG10Parent_54A-2_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
       "available": "July 1",
       "unitName": "162",
       "floorPlanName": "Iris",
