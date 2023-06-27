@@ -90467,7 +90467,7 @@
       "bathrooms": 1,
       "sqft": 495,
       "minRent": 2729,
-      "maxRent": 4521,
+      "maxRent": 4514,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/EG10Parent_54A-2_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
@@ -90478,7 +90478,7 @@
       "bathrooms": 1,
       "sqft": 762,
       "minRent": 3279,
-      "maxRent": 5409,
+      "maxRent": 5377,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1EE10Parent_54A-G_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
@@ -90522,7 +90522,7 @@
       "bathrooms": 1,
       "sqft": 638,
       "minRent": 3154,
-      "maxRent": 5069,
+      "maxRent": 5061,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1II10Parent_57A-2_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
@@ -90599,7 +90599,18 @@
       "bathrooms": 1,
       "sqft": 583,
       "minRent": 2914,
-      "maxRent": 4684,
+      "maxRent": 4676,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1JJ10_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
+      "available": "August 11",
+      "unitName": "340",
+      "floorPlanName": "Smalt",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 583,
+      "minRent": 3059,
+      "maxRent": 5069,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1JJ10_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
@@ -90610,7 +90621,7 @@
       "bathrooms": 1,
       "sqft": 682,
       "minRent": 2854,
-      "maxRent": 4737,
+      "maxRent": 4729,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/EG10Parent_54A-2_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
@@ -90720,7 +90731,18 @@
       "bathrooms": 1,
       "sqft": 775,
       "minRent": 3433,
-      "maxRent": 5665,
+      "maxRent": 5632,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
+      "available": "July 1",
+      "unitName": "781",
+      "floorPlanName": "Brandeis",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 775,
+      "minRent": 3433,
+      "maxRent": 5632,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
