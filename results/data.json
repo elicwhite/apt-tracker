@@ -90803,6 +90803,17 @@
   ],
   "2023-06-28": [
     {
+      "available": "July 8",
+      "unitName": "108",
+      "floorPlanName": "Cadet",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 495,
+      "minRent": 2699,
+      "maxRent": 4079,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/EG10Parent_54A-2_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
       "available": "July 1",
       "unitName": "162",
       "floorPlanName": "Iris",
@@ -90935,6 +90946,17 @@
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1JJ10_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
+      "available": "Now",
+      "unitName": "339",
+      "floorPlanName": "Tiffany",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 694,
+      "minRent": 3174,
+      "maxRent": 4638,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_1O10Child_29B-T-01_DIMS_BW_SKETCH_500X500-01?qlt=85&fmt=jpg"
+    },
+    {
       "available": "August 11",
       "unitName": "340",
       "floorPlanName": "Smalt",
@@ -90979,6 +91001,28 @@
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2F10Parent_35C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
+      "available": "August 12",
+      "unitName": "471",
+      "floorPlanName": "Majorelle",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "sqft": 1076,
+      "minRent": 3849,
+      "maxRent": 5738,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2H10Parent_44C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
+      "available": "August 12",
+      "unitName": "570",
+      "floorPlanName": "Ultramarine",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "sqft": 1481,
+      "minRent": 5429,
+      "maxRent": 8320,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/3A20Parent_45D_BW-01?qlt=85&fmt=jpg"
+    },
+    {
       "available": "Now",
       "unitName": "617",
       "floorPlanName": "Aqua",
@@ -90988,6 +91032,17 @@
       "minRent": 3386,
       "maxRent": 4948,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1CC10_Aqua_BW_SKETCH_500x500_Edit?qlt=85&fmt=jpg"
+    },
+    {
+      "available": "August 12",
+      "unitName": "626",
+      "floorPlanName": "Maya",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1159,
+      "minRent": 4488,
+      "maxRent": 6690,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2A20Parent_1C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
       "available": "July 15",
@@ -91045,6 +91100,17 @@
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Celeste_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
+      "available": "August 12",
+      "unitName": "875",
+      "floorPlanName": "Mist",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 906,
+      "minRent": 3616,
+      "maxRent": 5474,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1W10Parent_42B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
       "available": "August 5",
       "unitName": "885",
       "floorPlanName": "Aquamarine",
@@ -91065,6 +91131,17 @@
       "minRent": 3394,
       "maxRent": 5127,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1D10Parent_04B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
+      "available": "Now",
+      "unitName": "980",
+      "floorPlanName": "Turquoise",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 552,
+      "minRent": 3169,
+      "maxRent": 4633,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
       "available": "Now",
