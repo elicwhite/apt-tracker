@@ -15,6 +15,20 @@
   },
   {
     "firstListed": "2023-06-21",
+    "lastListed": "2023-06-28",
+    "available": "2023-08-05",
+    "daysListed": 7,
+    "daysAvailable": -38,
+    "unitName": "720",
+    "floorPlanName": "Admiral",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 842,
+    "minRent": 3516,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1F10Parent_6B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2023-06-21",
     "lastListed": "2023-06-27",
     "available": "2023-08-05",
     "daysListed": 6,
@@ -26,6 +40,20 @@
     "sqft": 1481,
     "minRent": 5559,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/3A20Parent_45D_BW-01?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2023-06-14",
+    "lastListed": "2023-06-28",
+    "available": "2023-07-29",
+    "daysListed": 14,
+    "daysAvailable": -31,
+    "unitName": "732",
+    "floorPlanName": "Midnight",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1245,
+    "minRent": 4933,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2D20_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
     "firstListed": "2023-06-14",
