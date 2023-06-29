@@ -106731,10 +106731,36 @@
   },
   {
     "fetchDate": "2023-06-29",
+    "available": "August 5",
+    "unitName": "770",
+    "floorPlanName": "Ultramarine",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "sqft": 1481,
+    "minRent": 5559,
+    "maxRent": 8520,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/3A20Parent_45D_BW-01?qlt=85&fmt=jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2023-06-29",
     "available": "July 1",
     "unitName": "781",
     "floorPlanName": "Brandeis",
     "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 775,
+    "minRent": 3403,
+    "maxRent": 5044,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
+    "status": "no-change"
+  },
+  {
+    "fetchDate": "2023-06-29",
+    "available": "July 1",
+    "unitName": "781",
+    "floorPlanName": "Brandeis",
+    "bedrooms": 1,
     "bathrooms": 1,
     "sqft": 775,
     "minRent": 3403,
@@ -106819,5 +106845,18 @@
     "maxRent": 5121,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2023-06-29",
+    "available": "July 21",
+    "unitName": "1032",
+    "floorPlanName": "Midnight",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1245,
+    "minRent": 5023,
+    "maxRent": 7608,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2D20_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
+    "status": "first-day"
   }
 ]
