@@ -106861,6 +106861,19 @@
   },
   {
     "fetchDate": "2023-06-30",
+    "available": "July 7",
+    "unitName": "106",
+    "floorPlanName": "Cadet",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 495,
+    "minRent": 2699,
+    "maxRent": 4079,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/EG10Parent_54A-2_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2023-06-30",
     "available": "July 1",
     "unitName": "162",
     "floorPlanName": "Iris",
@@ -107131,6 +107144,19 @@
     "maxRent": 5190,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1CC10_Aqua_BW_SKETCH_500x500_Edit?qlt=85&fmt=jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2023-06-30",
+    "available": "July 29",
+    "unitName": "732",
+    "floorPlanName": "Midnight",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1245,
+    "minRent": 5033,
+    "maxRent": 7623,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2D20_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2023-06-30",
