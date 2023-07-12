@@ -1,6 +1,20 @@
 [
   {
     "firstListed": "2023-06-28",
+    "lastListed": "2023-07-11",
+    "available": "2023-08-12",
+    "daysListed": 13,
+    "daysAvailable": -32,
+    "unitName": "471",
+    "floorPlanName": "Majorelle",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 1076,
+    "minRent": 3849,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2H10Parent_44C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2023-06-28",
     "lastListed": "2023-07-08",
     "available": "2023-08-12",
     "daysListed": 10,
@@ -81,6 +95,20 @@
     "bathrooms": 1,
     "sqft": 1032,
     "minRent": 4119,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2F10Parent_35C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2023-06-14",
+    "lastListed": "2023-07-11",
+    "available": "2023-07-29",
+    "daysListed": 27,
+    "daysAvailable": -18,
+    "unitName": "989",
+    "floorPlanName": "Dolphin",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 1032,
+    "minRent": 4379,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2F10Parent_35C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
