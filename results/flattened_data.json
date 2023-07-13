@@ -111238,7 +111238,7 @@
     "minRent": 3601,
     "maxRent": 5513,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1A10Parent_1B-2_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2023-07-12",
@@ -111563,7 +111563,7 @@
     "minRent": 3479,
     "maxRent": 5326,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Celeste_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2023-07-12",
@@ -111606,19 +111606,6 @@
   },
   {
     "fetchDate": "2023-07-13",
-    "available": "July 22",
-    "unitName": "210",
-    "floorPlanName": "Cambridge",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 850,
-    "minRent": 3601,
-    "maxRent": 5513,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1A10Parent_1B-2_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2023-07-13",
     "available": "Now",
     "unitName": "226",
     "floorPlanName": "Cerulean",
@@ -111853,19 +111840,6 @@
   },
   {
     "fetchDate": "2023-07-13",
-    "available": "Now",
-    "unitName": "781",
-    "floorPlanName": "Brandeis",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 775,
-    "minRent": 3403,
-    "maxRent": 5043,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2023-07-13",
     "available": "July 15",
     "unitName": "823",
     "floorPlanName": "Celeste",
@@ -111927,19 +111901,6 @@
     "minRent": 3446,
     "maxRent": 5107,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2023-07-13",
-    "available": "July 19",
-    "unitName": "1023",
-    "floorPlanName": "Celeste",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 662,
-    "minRent": 3479,
-    "maxRent": 5326,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Celeste_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   },
   {

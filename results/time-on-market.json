@@ -99,6 +99,20 @@
   },
   {
     "firstListed": "2023-06-07",
+    "lastListed": "2023-07-12",
+    "available": "2023-07-22",
+    "daysListed": 35,
+    "daysAvailable": -10,
+    "unitName": "210",
+    "floorPlanName": "Cambridge",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 850,
+    "minRent": 3658,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1A10Parent_1B-2_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2023-06-07",
     "lastListed": "2023-06-10",
     "available": "2023-07-22",
     "daysListed": 3,
@@ -110,6 +124,20 @@
     "sqft": 496,
     "minRent": 2520,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Aegean_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2023-07-09",
+    "lastListed": "2023-07-12",
+    "available": "2023-07-19",
+    "daysListed": 3,
+    "daysAvailable": -7,
+    "unitName": "1023",
+    "floorPlanName": "Celeste",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 662,
+    "minRent": 3479,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Celeste_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
     "firstListed": "2023-06-11",
