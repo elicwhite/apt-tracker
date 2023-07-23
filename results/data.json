@@ -98967,7 +98967,7 @@
       "bathrooms": 1,
       "sqft": 850,
       "minRent": 3576,
-      "maxRent": 5357,
+      "maxRent": 5332,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1A10Parent_1B-2_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
@@ -99011,7 +99011,7 @@
       "bathrooms": 1,
       "sqft": 638,
       "minRent": 3074,
-      "maxRent": 4538,
+      "maxRent": 4537,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1II10Parent_57A-2_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
@@ -99044,7 +99044,7 @@
       "bathrooms": 1,
       "sqft": 552,
       "minRent": 2849,
-      "maxRent": 4345,
+      "maxRent": 4344,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
@@ -99137,6 +99137,17 @@
     },
     {
       "available": "September 2",
+      "unitName": "481",
+      "floorPlanName": "Brandeis",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 775,
+      "minRent": 3238,
+      "maxRent": 4718,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
+      "available": "September 2",
       "unitName": "585",
       "floorPlanName": "Aquamarine",
       "bedrooms": 1,
@@ -99154,7 +99165,7 @@
       "bathrooms": 2,
       "sqft": 1159,
       "minRent": 4579,
-      "maxRent": 6823,
+      "maxRent": 6791,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2A20Parent_1C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
@@ -99246,6 +99257,17 @@
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2A20Parent_1C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
+      "available": "July 29",
+      "unitName": "989",
+      "floorPlanName": "Dolphin",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "sqft": 1032,
+      "minRent": 4229,
+      "maxRent": 6479,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2F10Parent_35C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
       "available": "Now",
       "unitName": "1037",
       "floorPlanName": "Smalt",
@@ -99253,7 +99275,7 @@
       "bathrooms": 1,
       "sqft": 583,
       "minRent": 3194,
-      "maxRent": 4716,
+      "maxRent": 4714,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1JJ10_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
@@ -99266,6 +99288,17 @@
       "minRent": 5893,
       "maxRent": 5893,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2H20Parent_26C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
+      "available": "September 2",
+      "unitName": "1076",
+      "floorPlanName": "Turquoise",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 552,
+      "minRent": 3319,
+      "maxRent": 5061,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
       "available": "September 2",
