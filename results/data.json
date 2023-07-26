@@ -100176,6 +100176,17 @@
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2A20Parent_1C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
+      "available": "September 9",
+      "unitName": "322",
+      "floorPlanName": "Turquoise",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 552,
+      "minRent": 2864,
+      "maxRent": 4346,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
       "available": "September 2",
       "unitName": "336",
       "floorPlanName": "Pacific",
@@ -100196,6 +100207,39 @@
       "minRent": 2839,
       "maxRent": 4308,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/ED10Parent_28A-P_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
+      "available": "September 9",
+      "unitName": "385",
+      "floorPlanName": "Tufts",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1114,
+      "minRent": 4379,
+      "maxRent": 6706,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2I20Parent_37C-P_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
+      "available": "August 1",
+      "unitName": "389",
+      "floorPlanName": "Dolphin",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "sqft": 1032,
+      "minRent": 4019,
+      "maxRent": 6050,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2F10Parent_35C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
+      "available": "September 9",
+      "unitName": "429",
+      "floorPlanName": "Rackley",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1264,
+      "minRent": 4199,
+      "maxRent": 6430,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2C20Parent_10C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
       "available": "September 2",
