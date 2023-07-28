@@ -239,20 +239,6 @@
   },
   {
     "firstListed": "2023-06-07",
-    "lastListed": "2023-07-24",
-    "available": "2023-07-22",
-    "daysListed": 47,
-    "daysAvailable": 2,
-    "unitName": "610",
-    "floorPlanName": "Maya",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1159,
-    "minRent": 4603,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2A20Parent_1C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
-  },
-  {
-    "firstListed": "2023-06-07",
     "lastListed": "2023-07-22",
     "available": "2023-07-22",
     "daysListed": 45,
@@ -2758,20 +2744,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2D20_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
-    "firstListed": "2022-05-13",
-    "lastListed": "2022-05-26",
-    "available": "2022-07-16",
-    "daysListed": 13,
-    "daysAvailable": -51,
-    "unitName": "324",
-    "floorPlanName": "Turquoise",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 552,
-    "minRent": 2870,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2022-05-16",
     "lastListed": "2022-07-15",
     "available": "2022-07-16",
@@ -2784,6 +2756,20 @@
     "sqft": 1159,
     "minRent": 4590,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2A20Parent_1C_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2022-05-13",
+    "lastListed": "2022-05-26",
+    "available": "2022-07-16",
+    "daysListed": 13,
+    "daysAvailable": -51,
+    "unitName": "324",
+    "floorPlanName": "Turquoise",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 552,
+    "minRent": 2870,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2022-03-15",

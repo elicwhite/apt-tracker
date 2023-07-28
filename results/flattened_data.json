@@ -117898,6 +117898,19 @@
   },
   {
     "fetchDate": "2023-07-28",
+    "available": "September 8",
+    "unitName": "330",
+    "floorPlanName": "Denim",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 670,
+    "minRent": 2889,
+    "maxRent": 4205,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1Q10Parent_34B-P_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2023-07-28",
     "available": "September 2",
     "unitName": "336",
     "floorPlanName": "Pacific",
@@ -118025,6 +118038,19 @@
     "maxRent": 4833,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2023-07-28",
+    "available": "Now",
+    "unitName": "610",
+    "floorPlanName": "Maya",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1159,
+    "minRent": 4589,
+    "maxRent": 6773,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2A20Parent_1C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2023-07-28",
