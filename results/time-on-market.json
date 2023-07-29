@@ -1,6 +1,20 @@
 [
   {
     "firstListed": "2023-07-19",
+    "lastListed": "2023-07-28",
+    "available": "2023-09-02",
+    "daysListed": 9,
+    "daysAvailable": -36,
+    "unitName": "341",
+    "floorPlanName": "Storm",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 559,
+    "minRent": 2824,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/ED10Parent_28A-P_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2023-07-19",
     "lastListed": "2023-07-26",
     "available": "2023-09-02",
     "daysListed": 7,
@@ -82,6 +96,20 @@
     "sqft": 1159,
     "minRent": 4919,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2A20Parent_1C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2023-06-28",
+    "lastListed": "2023-07-28",
+    "available": "2023-08-12",
+    "daysListed": 30,
+    "daysAvailable": -15,
+    "unitName": "471",
+    "floorPlanName": "Majorelle",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 1076,
+    "minRent": 3849,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2H10Parent_44C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
     "firstListed": "2023-07-17",
@@ -222,6 +250,20 @@
     "sqft": 552,
     "minRent": 2929,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2023-07-28",
+    "lastListed": "2023-07-28",
+    "available": "2023-07-28",
+    "daysListed": 0,
+    "daysAvailable": 0,
+    "unitName": "226",
+    "floorPlanName": "Cerulean",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 899,
+    "minRent": 3586,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1G10Parent_9B-2_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
     "firstListed": "2023-07-25",
