@@ -3449,6 +3449,20 @@
     "available": "2022-04-25",
     "daysListed": 3,
     "daysAvailable": 3,
+    "unitName": "214",
+    "floorPlanName": "Aegean",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 496,
+    "minRent": 2800,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Aegean_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2022-04-25",
+    "lastListed": "2022-04-28",
+    "available": "2022-04-25",
+    "daysListed": 3,
+    "daysAvailable": 3,
     "unitName": "787",
     "floorPlanName": "Aquamarine",
     "bedrooms": 1,
@@ -3470,20 +3484,6 @@
     "sqft": 552,
     "minRent": 2815,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
-    "firstListed": "2022-04-25",
-    "lastListed": "2022-04-28",
-    "available": "2022-04-25",
-    "daysListed": 3,
-    "daysAvailable": 3,
-    "unitName": "214",
-    "floorPlanName": "Aegean",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 496,
-    "minRent": 2800,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Aegean_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2022-04-25",
@@ -3654,6 +3654,20 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Cobalt_DIMS_BW_SKETCH_500X500-01.jpg"
   },
   {
+    "firstListed": "2021-12-29",
+    "lastListed": "2022-02-15",
+    "available": "2022-04-01",
+    "daysListed": 48,
+    "daysAvailable": -45,
+    "unitName": "214",
+    "floorPlanName": "Aegean",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 496,
+    "minRent": 2685,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Aegean_BW_SKETCH_500x500-01.jpg"
+  },
+  {
     "firstListed": "2022-01-27",
     "lastListed": "2022-02-15",
     "available": "2022-04-01",
@@ -3680,20 +3694,6 @@
     "sqft": 754,
     "minRent": 3085,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1X10Parent_43B_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
-    "firstListed": "2021-12-29",
-    "lastListed": "2022-02-15",
-    "available": "2022-04-01",
-    "daysListed": 48,
-    "daysAvailable": -45,
-    "unitName": "214",
-    "floorPlanName": "Aegean",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 496,
-    "minRent": 2685,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Aegean_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2022-02-03",
