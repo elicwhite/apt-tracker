@@ -1,5 +1,19 @@
 [
   {
+    "firstListed": "2023-07-28",
+    "lastListed": "2023-07-29",
+    "available": "2023-09-08",
+    "daysListed": 1,
+    "daysAvailable": -41,
+    "unitName": "330",
+    "floorPlanName": "Denim",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 670,
+    "minRent": 2889,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1Q10Parent_34B-P_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
     "firstListed": "2023-07-19",
     "lastListed": "2023-07-28",
     "available": "2023-09-02",
@@ -278,6 +292,34 @@
     "sqft": 638,
     "minRent": 3074,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1II10Parent_57A-2_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2023-06-07",
+    "lastListed": "2023-07-29",
+    "available": "2023-07-22",
+    "daysListed": 52,
+    "daysAvailable": 7,
+    "unitName": "610",
+    "floorPlanName": "Maya",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1159,
+    "minRent": 4603,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2A20Parent_1C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2023-06-07",
+    "lastListed": "2023-07-29",
+    "available": "2023-07-22",
+    "daysListed": 52,
+    "daysAvailable": 7,
+    "unitName": "210",
+    "floorPlanName": "Cambridge",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 850,
+    "minRent": 3658,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1A10Parent_1B-2_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
     "firstListed": "2023-06-07",
