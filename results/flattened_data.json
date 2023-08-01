@@ -119484,6 +119484,19 @@
   },
   {
     "fetchDate": "2023-08-01",
+    "available": "September 7",
+    "unitName": "310",
+    "floorPlanName": "Maya",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1159,
+    "minRent": 4539,
+    "maxRent": 6906,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2A20Parent_1C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2023-08-01",
     "available": "September 9",
     "unitName": "322",
     "floorPlanName": "Turquoise",
@@ -119627,6 +119640,19 @@
   },
   {
     "fetchDate": "2023-08-01",
+    "available": "Now",
+    "unitName": "732",
+    "floorPlanName": "Midnight",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1245,
+    "minRent": 4979,
+    "maxRent": 7345,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2D20_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2023-08-01",
     "available": "August 19",
     "unitName": "740",
     "floorPlanName": "Baltic",
@@ -119676,6 +119702,19 @@
     "maxRent": 4711,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_1O10Child_29B-T-01_DIMS_BW_SKETCH_500X500-01?qlt=85&fmt=jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2023-08-01",
+    "available": "Now",
+    "unitName": "989",
+    "floorPlanName": "Dolphin",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 1032,
+    "minRent": 4235,
+    "maxRent": 6234,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2F10Parent_35C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2023-08-01",
