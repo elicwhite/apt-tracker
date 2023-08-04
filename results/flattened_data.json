@@ -120182,7 +120182,7 @@
     "minRent": 3681,
     "maxRent": 5655,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1HH10Parent_56B-2_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2023-08-03",
@@ -120550,19 +120550,6 @@
   },
   {
     "fetchDate": "2023-08-04",
-    "available": "August 26",
-    "unitName": "156",
-    "floorPlanName": "Violet",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 846,
-    "minRent": 3681,
-    "maxRent": 5655,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1HH10Parent_56B-2_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2023-08-04",
     "available": "September 12",
     "unitName": "214",
     "floorPlanName": "Aegean",
@@ -120583,7 +120570,7 @@
     "bathrooms": 2,
     "sqft": 1351,
     "minRent": 5124,
-    "maxRent": 7718,
+    "maxRent": 7686,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2F20Parent_21C-2_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   },
@@ -120830,7 +120817,7 @@
     "bathrooms": 1,
     "sqft": 759,
     "minRent": 3451,
-    "maxRent": 5229,
+    "maxRent": 5204,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   },
