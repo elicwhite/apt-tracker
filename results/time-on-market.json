@@ -8905,20 +8905,6 @@
   },
   {
     "firstListed": "2020-09-05",
-    "lastListed": "2021-02-01",
-    "available": "2020-09-05",
-    "daysListed": 149,
-    "daysAvailable": 149,
-    "unitName": "840",
-    "floorPlanName": "Baltic",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 558,
-    "minRent": 2722,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EC10Parent_24A_BW-01.jpg"
-  },
-  {
-    "firstListed": "2020-09-05",
     "lastListed": "2020-09-05",
     "available": "2020-09-05",
     "daysListed": 0,
@@ -8930,6 +8916,20 @@
     "sqft": 885,
     "minRent": 4176,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2C20Parent_10C_DIMS_BW-01.jpg"
+  },
+  {
+    "firstListed": "2020-09-05",
+    "lastListed": "2021-02-01",
+    "available": "2020-09-05",
+    "daysListed": 149,
+    "daysAvailable": 149,
+    "unitName": "840",
+    "floorPlanName": "Baltic",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 558,
+    "minRent": 2722,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EC10Parent_24A_BW-01.jpg"
   },
   {
     "firstListed": "2020-08-31",
