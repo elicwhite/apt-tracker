@@ -122526,6 +122526,19 @@
   },
   {
     "fetchDate": "2023-08-09",
+    "available": "September 23",
+    "unitName": "431",
+    "floorPlanName": "Cobalt",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 838,
+    "minRent": 3411,
+    "maxRent": 4975,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Cobalt_DIMS_BW_SKETCH_500X500-01?qlt=85&fmt=jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2023-08-09",
     "available": "September 2",
     "unitName": "446",
     "floorPlanName": "Cornflower",
