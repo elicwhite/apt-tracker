@@ -2464,20 +2464,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1X10Parent_43B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
-    "firstListed": "2022-06-23",
-    "lastListed": "2022-07-12",
-    "available": "2022-08-27",
-    "daysListed": 19,
-    "daysAvailable": -46,
-    "unitName": "1070",
-    "floorPlanName": "Ultramarine",
-    "bedrooms": 3,
-    "bathrooms": 2,
-    "sqft": 1481,
-    "minRent": 6730,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
-  },
-  {
     "firstListed": "2022-06-12",
     "lastListed": "2022-06-29",
     "available": "2022-08-27",
@@ -2490,6 +2476,20 @@
     "sqft": 759,
     "minRent": 3329,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2022-06-23",
+    "lastListed": "2022-07-12",
+    "available": "2022-08-27",
+    "daysListed": 19,
+    "daysAvailable": -46,
+    "unitName": "1070",
+    "floorPlanName": "Ultramarine",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "sqft": 1481,
+    "minRent": 6730,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
   },
   {
     "firstListed": "2022-08-20",
