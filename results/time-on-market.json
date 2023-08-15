@@ -2129,20 +2129,6 @@
   },
   {
     "firstListed": "2022-09-22",
-    "lastListed": "2022-10-05",
-    "available": "2022-09-22",
-    "daysListed": 13,
-    "daysAvailable": 13,
-    "unitName": "1077",
-    "floorPlanName": "Oxford",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 770,
-    "minRent": 3613,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1V10Parent_41B_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
-    "firstListed": "2022-09-22",
     "lastListed": "2022-10-03",
     "available": "2022-09-22",
     "daysListed": 11,
@@ -2154,6 +2140,20 @@
     "sqft": 1032,
     "minRent": 4674,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2F10Parent_35C_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2022-09-22",
+    "lastListed": "2022-10-05",
+    "available": "2022-09-22",
+    "daysListed": 13,
+    "daysAvailable": 13,
+    "unitName": "1077",
+    "floorPlanName": "Oxford",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 770,
+    "minRent": 3613,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1V10Parent_41B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2022-06-30",

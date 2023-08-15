@@ -124892,6 +124892,19 @@
   },
   {
     "fetchDate": "2023-08-15",
+    "available": "September 23",
+    "unitName": "678",
+    "floorPlanName": "Teal",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 857,
+    "minRent": 3516,
+    "maxRent": 5120,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1CC10Parent_49B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2023-08-15",
     "available": "Now",
     "unitName": "717",
     "floorPlanName": "Aqua",
@@ -124954,6 +124967,19 @@
     "maxRent": 5041,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1V10Parent_41B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2023-08-15",
+    "available": "September 29",
+    "unitName": "789",
+    "floorPlanName": "Dolphin",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 1032,
+    "minRent": 4185,
+    "maxRent": 6412,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2F10Parent_35C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2023-08-15",
