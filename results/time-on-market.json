@@ -7743,20 +7743,6 @@
   },
   {
     "firstListed": "2020-11-23",
-    "lastListed": "2020-11-23",
-    "available": "2020-11-23",
-    "daysListed": 0,
-    "daysAvailable": 0,
-    "unitName": "626",
-    "floorPlanName": "Maya",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1159,
-    "minRent": 4155,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/2A20Parent_1C_BW-01.jpg"
-  },
-  {
-    "firstListed": "2020-11-23",
     "lastListed": "2020-12-30",
     "available": "2020-11-23",
     "daysListed": 37,
@@ -7768,6 +7754,20 @@
     "sqft": 769,
     "minRent": 2840,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1P10Parent_032B_DIMS_BW-01.jpg"
+  },
+  {
+    "firstListed": "2020-11-23",
+    "lastListed": "2020-11-23",
+    "available": "2020-11-23",
+    "daysListed": 0,
+    "daysAvailable": 0,
+    "unitName": "626",
+    "floorPlanName": "Maya",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1159,
+    "minRent": 4155,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/2A20Parent_1C_BW-01.jpg"
   },
   {
     "firstListed": "2020-09-17",

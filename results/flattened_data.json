@@ -125243,6 +125243,19 @@
   },
   {
     "fetchDate": "2023-08-16",
+    "available": "September 2",
+    "unitName": "481",
+    "floorPlanName": "Brandeis",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 775,
+    "minRent": 3163,
+    "maxRent": 4606,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
+    "status": "no-change"
+  },
+  {
+    "fetchDate": "2023-08-16",
     "available": "September 24",
     "unitName": "485",
     "floorPlanName": "Aquamarine",
@@ -125266,6 +125279,19 @@
     "maxRent": 4770,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1CC10_Aqua_BW_SKETCH_500x500_Edit?qlt=85&fmt=jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2023-08-16",
+    "available": "September 30",
+    "unitName": "633",
+    "floorPlanName": "Robin",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 769,
+    "minRent": 3116,
+    "maxRent": 4537,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1P10Parent_032B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2023-08-16",
@@ -125409,6 +125435,19 @@
     "maxRent": 7155,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2A20Parent_1C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
+  },
+  {
+    "fetchDate": "2023-08-16",
+    "available": "September 30",
+    "unitName": "936",
+    "floorPlanName": "Pacific",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 826,
+    "minRent": 3586,
+    "maxRent": 5222,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1L10Parent_22B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
+    "status": "first-day"
   },
   {
     "fetchDate": "2023-08-16",
