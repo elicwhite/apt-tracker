@@ -125135,7 +125135,7 @@
     "minRent": 3501,
     "maxRent": 5198,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1HH10Parent_56B-2_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2023-08-16",
@@ -125555,19 +125555,6 @@
   },
   {
     "fetchDate": "2023-08-17",
-    "available": "Now",
-    "unitName": "260",
-    "floorPlanName": "Violet",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 846,
-    "minRent": 3501,
-    "maxRent": 5198,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1HH10Parent_56B-2_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2023-08-17",
     "available": "September 2",
     "unitName": "270",
     "floorPlanName": "Capri",
@@ -125663,19 +125650,6 @@
     "unitName": "481",
     "floorPlanName": "Brandeis",
     "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 775,
-    "minRent": 3163,
-    "maxRent": 4606,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2023-08-17",
-    "available": "September 2",
-    "unitName": "481",
-    "floorPlanName": "Brandeis",
-    "bedrooms": 1,
     "bathrooms": 1,
     "sqft": 775,
     "minRent": 3163,
@@ -125783,7 +125757,7 @@
     "bathrooms": 1,
     "sqft": 558,
     "minRent": 2889,
-    "maxRent": 4367,
+    "maxRent": 4347,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/EC10Parent_24A_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   },
@@ -125854,14 +125828,14 @@
   },
   {
     "fetchDate": "2023-08-17",
-    "available": "August 17",
+    "available": "Now",
     "unitName": "910",
     "floorPlanName": "Maya",
     "bedrooms": 2,
     "bathrooms": 2,
     "sqft": 1159,
     "minRent": 4849,
-    "maxRent": 7155,
+    "maxRent": 7125,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2A20Parent_1C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   },
