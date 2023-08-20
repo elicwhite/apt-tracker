@@ -183,20 +183,6 @@
   },
   {
     "firstListed": "2023-07-12",
-    "lastListed": "2023-08-08",
-    "available": "2023-08-26",
-    "daysListed": 27,
-    "daysAvailable": -18,
-    "unitName": "641",
-    "floorPlanName": "Cobalt",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 838,
-    "minRent": 3466,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Cobalt_DIMS_BW_SKETCH_500X500-01?qlt=85&fmt=jpg"
-  },
-  {
-    "firstListed": "2023-07-12",
     "lastListed": "2023-08-03",
     "available": "2023-08-26",
     "daysListed": 22,
@@ -2520,20 +2506,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
-    "firstListed": "2022-09-02",
-    "lastListed": "2022-09-02",
-    "available": "2022-09-02",
-    "daysListed": 0,
-    "daysAvailable": 0,
-    "unitName": "1022",
-    "floorPlanName": "Sapphire Penthouse",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1729,
-    "minRent": 8092,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/32N20_SapphirePenthouse3_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2022-06-30",
     "lastListed": "2022-07-18",
     "available": "2022-09-02",
@@ -2546,6 +2518,20 @@
     "sqft": 759,
     "minRent": 3638,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2022-09-02",
+    "lastListed": "2022-09-02",
+    "available": "2022-09-02",
+    "daysListed": 0,
+    "daysAvailable": 0,
+    "unitName": "1022",
+    "floorPlanName": "Sapphire Penthouse",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1729,
+    "minRent": 8092,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/32N20_SapphirePenthouse3_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2022-09-01",
@@ -3645,20 +3631,6 @@
     "available": "2022-04-25",
     "daysListed": 3,
     "daysAvailable": 3,
-    "unitName": "214",
-    "floorPlanName": "Aegean",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 496,
-    "minRent": 2800,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Aegean_BW_SKETCH_500x500-01.jpg"
-  },
-  {
-    "firstListed": "2022-04-25",
-    "lastListed": "2022-04-28",
-    "available": "2022-04-25",
-    "daysListed": 3,
-    "daysAvailable": 3,
     "unitName": "787",
     "floorPlanName": "Aquamarine",
     "bedrooms": 1,
@@ -3666,6 +3638,20 @@
     "sqft": 759,
     "minRent": 3358,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2022-04-25",
+    "lastListed": "2022-04-28",
+    "available": "2022-04-25",
+    "daysListed": 3,
+    "daysAvailable": 3,
+    "unitName": "214",
+    "floorPlanName": "Aegean",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 496,
+    "minRent": 2800,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Aegean_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2022-04-25",
