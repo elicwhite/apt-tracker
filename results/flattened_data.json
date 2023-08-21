@@ -127232,6 +127232,19 @@
   },
   {
     "fetchDate": "2023-08-21",
+    "available": "October 5",
+    "unitName": "634",
+    "floorPlanName": "Manatee",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 843,
+    "minRent": 3496,
+    "maxRent": 5128,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1K10Parent_21B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2023-08-21",
     "available": "August 26",
     "unitName": "641",
     "floorPlanName": "Cobalt",
