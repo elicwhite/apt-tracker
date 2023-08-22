@@ -127636,6 +127636,19 @@
   {
     "fetchDate": "2023-08-22",
     "available": "Now",
+    "unitName": "715",
+    "floorPlanName": "Aqua",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 815,
+    "minRent": 3506,
+    "maxRent": 5205,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1CC10_Aqua_BW_SKETCH_500x500_Edit?qlt=85&fmt=jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2023-08-22",
+    "available": "Now",
     "unitName": "732",
     "floorPlanName": "Midnight",
     "bedrooms": 2,
