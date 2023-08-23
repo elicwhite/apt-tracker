@@ -109539,17 +109539,6 @@
     },
     {
       "available": "Now",
-      "unitName": "740",
-      "floorPlanName": "Baltic",
-      "bedrooms": 0,
-      "bathrooms": 1,
-      "sqft": 558,
-      "minRent": 2789,
-      "maxRent": 4137,
-      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/EC10Parent_24A_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
-    },
-    {
-      "available": "Now",
       "unitName": "742",
       "floorPlanName": "Smalt",
       "bedrooms": 0,
@@ -109626,18 +109615,7 @@
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_1O10Child_29B-T-01_DIMS_BW_SKETCH_500X500-01?qlt=85&fmt=jpg"
     },
     {
-      "available": "September 30",
-      "unitName": "978",
-      "floorPlanName": "Teal",
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "sqft": 857,
-      "minRent": 3745,
-      "maxRent": 5453,
-      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1CC10Parent_49B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
-    },
-    {
-      "available": "August 23",
+      "available": "Now",
       "unitName": "1044",
       "floorPlanName": "Marine",
       "bedrooms": 2,
