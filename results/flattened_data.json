@@ -130894,7 +130894,7 @@
     "minRent": 4809,
     "maxRent": 7035,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2A20Parent_1C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2023-08-31",
@@ -130976,7 +130976,7 @@
   },
   {
     "fetchDate": "2023-09-01",
-    "available": "September 2",
+    "available": "September 3",
     "unitName": "110",
     "floorPlanName": "Cambridge",
     "bedrooms": 1,
@@ -131022,7 +131022,7 @@
     "bathrooms": 2,
     "sqft": 1351,
     "minRent": 5004,
-    "maxRent": 7320,
+    "maxRent": 7323,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2F20Parent_21C-2_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   },
@@ -131035,7 +131035,7 @@
     "bathrooms": 2,
     "sqft": 1067,
     "minRent": 4209,
-    "maxRent": 6448,
+    "maxRent": 6418,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2J20Parent_45C-G_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   },
@@ -131074,7 +131074,7 @@
     "bathrooms": 1,
     "sqft": 826,
     "minRent": 3606,
-    "maxRent": 5192,
+    "maxRent": 5177,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1L10Parent_22B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   },
@@ -131112,8 +131112,8 @@
     "bedrooms": 1,
     "bathrooms": 1,
     "sqft": 838,
-    "minRent": 3346,
-    "maxRent": 4872,
+    "minRent": 3347,
+    "maxRent": 4874,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Cobalt_DIMS_BW_SKETCH_500X500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   },
@@ -131126,7 +131126,7 @@
     "bathrooms": 1,
     "sqft": 885,
     "minRent": 3754,
-    "maxRent": 5645,
+    "maxRent": 5618,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   },
@@ -131139,13 +131139,13 @@
     "bathrooms": 1,
     "sqft": 759,
     "minRent": 3256,
-    "maxRent": 4741,
+    "maxRent": 4728,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   },
   {
     "fetchDate": "2023-09-01",
-    "available": "September 2",
+    "available": "September 3",
     "unitName": "627",
     "floorPlanName": "Aqua",
     "bedrooms": 1,
@@ -131191,21 +131191,8 @@
     "bathrooms": 2,
     "sqft": 1245,
     "minRent": 4859,
-    "maxRent": 7108,
+    "maxRent": 7111,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2D20_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2023-09-01",
-    "available": "Now",
-    "unitName": "910",
-    "floorPlanName": "Maya",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1159,
-    "minRent": 4809,
-    "maxRent": 7035,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2A20Parent_1C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   },
   {
@@ -131269,7 +131256,7 @@
     "bathrooms": 1,
     "sqft": 552,
     "minRent": 3179,
-    "maxRent": 4726,
+    "maxRent": 4703,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   },
@@ -131282,7 +131269,7 @@
     "bathrooms": 1,
     "sqft": 495,
     "minRent": 2874,
-    "maxRent": 4272,
+    "maxRent": 4252,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/EE10Parent_38A_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   }
