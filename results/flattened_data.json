@@ -131237,6 +131237,19 @@
   {
     "fetchDate": "2023-09-01",
     "available": "Now",
+    "unitName": "1035",
+    "floorPlanName": "Smalt",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 3054,
+    "maxRent": 4495,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1JJ10_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
+    "status": "first-day"
+  },
+  {
+    "fetchDate": "2023-09-01",
+    "available": "Now",
     "unitName": "1044",
     "floorPlanName": "Marine",
     "bedrooms": 2,
