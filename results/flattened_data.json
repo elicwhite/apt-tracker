@@ -131479,7 +131479,7 @@
     "minRent": 3126,
     "maxRent": 4552,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1P10Parent_032B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2023-09-02",
@@ -131583,7 +131583,7 @@
     "minRent": 3179,
     "maxRent": 4711,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
+    "status": "last-day"
   },
   {
     "fetchDate": "2023-09-02",
@@ -131600,7 +131600,7 @@
   },
   {
     "fetchDate": "2023-09-03",
-    "available": "September 3",
+    "available": "Now",
     "unitName": "110",
     "floorPlanName": "Cambridge",
     "bedrooms": 1,
@@ -131691,7 +131691,7 @@
   },
   {
     "fetchDate": "2023-09-03",
-    "available": "September 3",
+    "available": "Now",
     "unitName": "336",
     "floorPlanName": "Pacific",
     "bedrooms": 1,
@@ -131769,7 +131769,7 @@
   },
   {
     "fetchDate": "2023-09-03",
-    "available": "September 3",
+    "available": "Now",
     "unitName": "627",
     "floorPlanName": "Aqua",
     "bedrooms": 1,
@@ -131778,19 +131778,6 @@
     "minRent": 3256,
     "maxRent": 4675,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1CC10_Aqua_BW_SKETCH_500x500_Edit?qlt=85&fmt=jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2023-09-03",
-    "available": "September 30",
-    "unitName": "633",
-    "floorPlanName": "Robin",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 769,
-    "minRent": 3126,
-    "maxRent": 4552,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1P10Parent_032B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   },
   {
@@ -131882,19 +131869,6 @@
     "minRent": 5893,
     "maxRent": 5893,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2H20Parent_26C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
-    "status": "no-change"
-  },
-  {
-    "fetchDate": "2023-09-03",
-    "available": "Now",
-    "unitName": "1076",
-    "floorPlanName": "Turquoise",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 552,
-    "minRent": 3179,
-    "maxRent": 4711,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg",
     "status": "no-change"
   },
   {
