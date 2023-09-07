@@ -1,5 +1,19 @@
 [
   {
+    "firstListed": "2023-08-29",
+    "lastListed": "2023-09-06",
+    "available": "2023-10-13",
+    "daysListed": 8,
+    "daysAvailable": -37,
+    "unitName": "932",
+    "floorPlanName": "Midnight",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1245,
+    "minRent": 4829,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2D20_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
     "firstListed": "2023-08-16",
     "lastListed": "2023-09-02",
     "available": "2023-09-30",
