@@ -114171,6 +114171,17 @@
     },
     {
       "available": "Now",
+      "unitName": "1017",
+      "floorPlanName": "Aqua",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 815,
+      "minRent": 3400,
+      "maxRent": 4853,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1CC10_Aqua_BW_SKETCH_500x500_Edit?qlt=85&fmt=jpg"
+    },
+    {
+      "available": "Now",
       "unitName": "1035",
       "floorPlanName": "Smalt",
       "bedrooms": 0,
