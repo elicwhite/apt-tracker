@@ -1,5 +1,19 @@
 [
   {
+    "firstListed": "2023-09-12",
+    "lastListed": "2023-09-21",
+    "available": "2023-10-27",
+    "daysListed": 9,
+    "daysAvailable": -36,
+    "unitName": "719",
+    "floorPlanName": "Aqua",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 815,
+    "minRent": 3050,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1CC10_Aqua_BW_SKETCH_500x500_Edit?qlt=85&fmt=jpg"
+  },
+  {
     "firstListed": "2023-08-29",
     "lastListed": "2023-09-06",
     "available": "2023-10-13",
@@ -98,6 +112,20 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
+    "firstListed": "2023-08-09",
+    "lastListed": "2023-09-21",
+    "available": "2023-09-23",
+    "daysListed": 43,
+    "daysAvailable": -2,
+    "unitName": "431",
+    "floorPlanName": "Cobalt",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 838,
+    "minRent": 3411,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Cobalt_DIMS_BW_SKETCH_500X500-01?qlt=85&fmt=jpg"
+  },
+  {
     "firstListed": "2023-08-20",
     "lastListed": "2023-08-23",
     "available": "2023-09-23",
@@ -126,6 +154,20 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1CC10Parent_49B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
+    "firstListed": "2023-09-21",
+    "lastListed": "2023-09-21",
+    "available": "2023-09-21",
+    "daysListed": 0,
+    "daysAvailable": 0,
+    "unitName": "446",
+    "floorPlanName": "Cornflower",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 885,
+    "minRent": 3749,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
     "firstListed": "2023-07-30",
     "lastListed": "2023-08-24",
     "available": "2023-09-13",
@@ -138,6 +180,20 @@
     "sqft": 694,
     "minRent": 3259,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_1O10Child_29B-T-01_DIMS_BW_SKETCH_500X500-01?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2023-09-09",
+    "lastListed": "2023-09-21",
+    "available": "2023-09-09",
+    "daysListed": 12,
+    "daysAvailable": 12,
+    "unitName": "1017",
+    "floorPlanName": "Aqua",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 815,
+    "minRent": 3400,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1CC10_Aqua_BW_SKETCH_500x500_Edit?qlt=85&fmt=jpg"
   },
   {
     "firstListed": "2023-07-26",
