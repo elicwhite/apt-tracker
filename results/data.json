@@ -119894,7 +119894,7 @@
       "bathrooms": 2,
       "sqft": 1351,
       "minRent": 4979,
-      "maxRent": 7114,
+      "maxRent": 7120,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2F20Parent_21C-2_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
@@ -119905,8 +119905,19 @@
       "bathrooms": 2,
       "sqft": 1067,
       "minRent": 4184,
-      "maxRent": 5978,
+      "maxRent": 5983,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2J20Parent_45C-G_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
+      "available": "Now",
+      "unitName": "385",
+      "floorPlanName": "Tufts",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1114,
+      "minRent": 4234,
+      "maxRent": 6055,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2I20Parent_37C-P_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
       "available": "Now",
@@ -119931,7 +119942,7 @@
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
     },
     {
-      "available": "November 16",
+      "available": "November 17",
       "unitName": "622",
       "floorPlanName": "Turquoise",
       "bedrooms": 0,
