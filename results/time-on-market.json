@@ -7644,6 +7644,20 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg"
   },
   {
+    "firstListed": "2021-01-03",
+    "lastListed": "2021-01-04",
+    "available": "2021-02-19",
+    "daysListed": 1,
+    "daysAvailable": -46,
+    "unitName": "632",
+    "floorPlanName": "Midnight",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1245,
+    "minRent": 4280,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2D20Parent_15C-P_DIMS_BW-01.jpg"
+  },
+  {
     "firstListed": "2020-12-01",
     "lastListed": "2021-02-21",
     "available": "2021-02-19",
@@ -7670,20 +7684,6 @@
     "sqft": 1245,
     "minRent": 4454,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2D20_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
-    "firstListed": "2021-01-03",
-    "lastListed": "2021-01-04",
-    "available": "2021-02-19",
-    "daysListed": 1,
-    "daysAvailable": -46,
-    "unitName": "632",
-    "floorPlanName": "Midnight",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1245,
-    "minRent": 4280,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2D20Parent_15C-P_DIMS_BW-01.jpg"
   },
   {
     "firstListed": "2020-11-11",
