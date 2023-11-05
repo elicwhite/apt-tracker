@@ -122080,5 +122080,106 @@
       "maxRent": 5037,
       "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1C10Parent_3B_DIMS_BW_SKETCH_500x500-01-1?qlt=85&fmt=jpg"
     }
+  ],
+  "2023-11-05": [
+    {
+      "available": "Now",
+      "unitName": "160",
+      "floorPlanName": "Violet",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 846,
+      "minRent": 3565,
+      "maxRent": 5153,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1HH10Parent_56B-2_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
+      "available": "Now",
+      "unitName": "214",
+      "floorPlanName": "Aegean",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sqft": 496,
+      "minRent": 2923,
+      "maxRent": 4347,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Aegean_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
+      "available": "Now",
+      "unitName": "234",
+      "floorPlanName": "Lavender",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1351,
+      "minRent": 5228,
+      "maxRent": 7520,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2F20Parent_21C-2_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
+      "available": "Now",
+      "unitName": "270",
+      "floorPlanName": "Capri",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1067,
+      "minRent": 4341,
+      "maxRent": 6244,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2J20Parent_45C-G_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
+      "available": "Now",
+      "unitName": "385",
+      "floorPlanName": "Tufts",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1114,
+      "minRent": 4446,
+      "maxRent": 6395,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2I20Parent_37C-P_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
+      "available": "Now",
+      "unitName": "585",
+      "floorPlanName": "Aquamarine",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 759,
+      "minRent": 3359,
+      "maxRent": 4856,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
+      "available": "December 19",
+      "unitName": "632",
+      "floorPlanName": "Midnight",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1245,
+      "minRent": 4908,
+      "maxRent": 7276,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2D20_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+    },
+    {
+      "available": "Now",
+      "unitName": "715",
+      "floorPlanName": "Aqua",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 815,
+      "minRent": 3411,
+      "maxRent": 4931,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1CC10_Aqua_BW_SKETCH_500x500_Edit?qlt=85&fmt=jpg"
+    },
+    {
+      "available": "December 2",
+      "unitName": "914",
+      "floorPlanName": "Cyan",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 735,
+      "minRent": 3368,
+      "maxRent": 5037,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1C10Parent_3B_DIMS_BW_SKETCH_500x500-01-1?qlt=85&fmt=jpg"
+    }
   ]
 }
