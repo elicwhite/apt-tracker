@@ -123421,6 +123421,17 @@
     },
     {
       "available": "Now",
+      "unitName": "815",
+      "floorPlanName": "Aqua",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 815,
+      "minRent": 3331,
+      "maxRent": 4815,
+      "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1CC10_Aqua_BW_SKETCH_500x500_Edit?qlt=85&fmt=jpg"
+    },
+    {
+      "available": "Now",
       "unitName": "885",
       "floorPlanName": "Aquamarine",
       "bedrooms": 1,
