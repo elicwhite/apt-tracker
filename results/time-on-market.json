@@ -1,5 +1,19 @@
 [
   {
+    "firstListed": "2023-11-04",
+    "lastListed": "2023-11-30",
+    "available": "2023-12-19",
+    "daysListed": 26,
+    "daysAvailable": -19,
+    "unitName": "632",
+    "floorPlanName": "Midnight",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1245,
+    "minRent": 4908,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2D20_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
     "firstListed": "2023-11-16",
     "lastListed": "2023-11-19",
     "available": "2023-11-16",
