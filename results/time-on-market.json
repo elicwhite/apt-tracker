@@ -1,5 +1,19 @@
 [
   {
+    "firstListed": "2024-02-03",
+    "lastListed": "2024-02-06",
+    "available": "2024-03-19",
+    "daysListed": 3,
+    "daysAvailable": -42,
+    "unitName": "981",
+    "floorPlanName": "Brandeis",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 775,
+    "minRent": 3391,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
     "firstListed": "2024-01-17",
     "lastListed": "2024-01-21",
     "available": "2024-03-02",
@@ -5068,20 +5082,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1D10Parent_04B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
-    "firstListed": "2021-10-05",
-    "lastListed": "2022-01-05",
-    "available": "2021-12-07",
-    "daysListed": 92,
-    "daysAvailable": 29,
-    "unitName": "1041",
-    "floorPlanName": "Cobalt",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 838,
-    "minRent": 3795,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Cobalt_DIMS_BW_SKETCH_500X500-01.jpg"
-  },
-  {
     "firstListed": "2021-10-06",
     "lastListed": "2021-10-22",
     "available": "2021-12-07",
@@ -5094,6 +5094,20 @@
     "sqft": 775,
     "minRent": 3485,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2021-10-05",
+    "lastListed": "2022-01-05",
+    "available": "2021-12-07",
+    "daysListed": 92,
+    "daysAvailable": 29,
+    "unitName": "1041",
+    "floorPlanName": "Cobalt",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 838,
+    "minRent": 3795,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Cobalt_DIMS_BW_SKETCH_500X500-01.jpg"
   },
   {
     "firstListed": "2021-10-02",
