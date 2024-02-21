@@ -9002,20 +9002,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg"
   },
   {
-    "firstListed": "2020-08-28",
-    "lastListed": "2020-11-24",
-    "available": "2020-10-23",
-    "daysListed": 88,
-    "daysAvailable": 32,
-    "unitName": "473",
-    "floorPlanName": "Ocean",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 754,
-    "minRent": 2758,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1X10Parent_43B_DIMS_BW-01.jpg"
-  },
-  {
     "firstListed": "2020-10-23",
     "lastListed": "2020-10-23",
     "available": "2020-10-23",
@@ -9028,6 +9014,20 @@
     "sqft": 770,
     "minRent": 3220,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1DD10Parent_51B_DIMS_BW-01.jpg"
+  },
+  {
+    "firstListed": "2020-08-28",
+    "lastListed": "2020-11-24",
+    "available": "2020-10-23",
+    "daysListed": 88,
+    "daysAvailable": 32,
+    "unitName": "473",
+    "floorPlanName": "Ocean",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 754,
+    "minRent": 2758,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1X10Parent_43B_DIMS_BW-01.jpg"
   },
   {
     "firstListed": "2020-09-03",
