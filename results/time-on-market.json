@@ -1,5 +1,19 @@
 [
   {
+    "firstListed": "2024-02-13",
+    "lastListed": "2024-02-23",
+    "available": "2024-03-29",
+    "daysListed": 10,
+    "daysAvailable": -35,
+    "unitName": "1015",
+    "floorPlanName": "Aqua",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 815,
+    "minRent": 3481,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1CC10_Aqua_BW_SKETCH_500x500_Edit?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2024-02-04",
     "lastListed": "2024-02-16",
     "available": "2024-03-20",
@@ -68,6 +82,20 @@
     "sqft": 496,
     "minRent": 2414,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Aegean_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-01-24",
+    "lastListed": "2024-02-23",
+    "available": "2024-03-09",
+    "daysListed": 30,
+    "daysAvailable": -15,
+    "unitName": "532",
+    "floorPlanName": "Midnight",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1245,
+    "minRent": 4823,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2D20_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
     "firstListed": "2024-01-17",
@@ -3024,20 +3052,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
-    "firstListed": "2022-07-06",
-    "lastListed": "2022-10-15",
-    "available": "2022-09-17",
-    "daysListed": 101,
-    "daysAvailable": 28,
-    "unitName": "640",
-    "floorPlanName": "Baltic",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 558,
-    "minRent": 3119,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EC10Parent_24A_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2022-07-15",
     "lastListed": "2022-07-28",
     "available": "2022-09-17",
@@ -3050,6 +3064,20 @@
     "sqft": 815,
     "minRent": 4046,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1CC10_Aqua_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2022-07-06",
+    "lastListed": "2022-10-15",
+    "available": "2022-09-17",
+    "daysListed": 101,
+    "daysAvailable": 28,
+    "unitName": "640",
+    "floorPlanName": "Baltic",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 558,
+    "minRent": 3119,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EC10Parent_24A_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2022-07-13",
