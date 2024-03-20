@@ -1,5 +1,19 @@
 [
   {
+    "firstListed": "2024-03-13",
+    "lastListed": "2024-03-19",
+    "available": "2024-04-27",
+    "daysListed": 6,
+    "daysAvailable": -39,
+    "unitName": "842",
+    "floorPlanName": "Smalt",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 3161,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1JJ10_DIMS_BW_SKETCH_500x500-01?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2024-03-12",
     "lastListed": "2024-03-16",
     "available": "2024-04-26",
@@ -40,6 +54,20 @@
     "sqft": 843,
     "minRent": 3427,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1K10Parent_21B_DIMS_BW_SKETCH_500x500-01?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-03-14",
+    "lastListed": "2024-03-19",
+    "available": "2024-04-12",
+    "daysListed": 5,
+    "daysAvailable": -24,
+    "unitName": "208",
+    "floorPlanName": "Zaffre",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 547,
+    "minRent": 2859,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1MM10Parent_64B-2_DIMS_BW_SKETCH_500x500-01?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2024-02-27",
@@ -10010,20 +10038,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg"
   },
   {
-    "firstListed": "2020-08-24",
-    "lastListed": "2020-09-09",
-    "available": "2020-08-30",
-    "daysListed": 16,
-    "daysAvailable": 10,
-    "unitName": "208",
-    "floorPlanName": "Zaffre",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 547,
-    "minRent": 2427,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1MM10Parent_64B-2_BW-01.jpg"
-  },
-  {
     "firstListed": "2020-08-28",
     "lastListed": "2020-08-29",
     "available": "2020-08-30",
@@ -10036,6 +10050,20 @@
     "sqft": 583,
     "minRent": 2818,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg"
+  },
+  {
+    "firstListed": "2020-08-24",
+    "lastListed": "2020-09-09",
+    "available": "2020-08-30",
+    "daysListed": 16,
+    "daysAvailable": 10,
+    "unitName": "208",
+    "floorPlanName": "Zaffre",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 547,
+    "minRent": 2427,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1MM10Parent_64B-2_BW-01.jpg"
   },
   {
     "firstListed": "2020-08-29",
