@@ -1,6 +1,20 @@
 [
   {
     "firstListed": "2024-03-13",
+    "lastListed": "2024-03-20",
+    "available": "2024-04-27",
+    "daysListed": 7,
+    "daysAvailable": -38,
+    "unitName": "517",
+    "floorPlanName": "Aqua",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 815,
+    "minRent": 3091,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1CC10_Aqua_BW_SKETCH_500x500_Edit?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-03-13",
     "lastListed": "2024-03-19",
     "available": "2024-04-27",
     "daysListed": 6,
