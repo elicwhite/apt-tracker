@@ -1,5 +1,47 @@
 [
   {
+    "firstListed": "2024-03-22",
+    "lastListed": "2024-03-26",
+    "available": "2024-05-17",
+    "daysListed": 4,
+    "daysAvailable": -52,
+    "unitName": "1021",
+    "floorPlanName": "Smalt",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 3181,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/03_Indigo_Smalt542_S4A7248?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-03-23",
+    "lastListed": "2024-03-26",
+    "available": "2024-05-11",
+    "daysListed": 3,
+    "daysAvailable": -46,
+    "unitName": "718",
+    "floorPlanName": "Indigo",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 697,
+    "minRent": 3137,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/17_Indigo_Indigo1016_S4A8298?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-03-22",
+    "lastListed": "2024-03-26",
+    "available": "2024-05-11",
+    "daysListed": 4,
+    "daysAvailable": -46,
+    "unitName": "414",
+    "floorPlanName": "Cyan",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 735,
+    "minRent": 3048,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/11_Indigo_Cyan814_S4A7910?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2024-03-20",
     "lastListed": "2024-03-21",
     "available": "2024-05-04",
@@ -82,6 +124,20 @@
     "sqft": 754,
     "minRent": 3143,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1X10Parent_43B_DIMS_BW_SKETCH_500x500-01?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-02-21",
+    "lastListed": "2024-03-26",
+    "available": "2024-04-06",
+    "daysListed": 34,
+    "daysAvailable": -11,
+    "unitName": "977",
+    "floorPlanName": "Oxford",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 770,
+    "minRent": 3262,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1V10Parent_41B_DIMS_BW_SKETCH_500x500-01?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2024-02-21",
