@@ -1,5 +1,33 @@
 [
   {
+    "firstListed": "2024-03-22",
+    "lastListed": "2024-03-30",
+    "available": "2024-06-01",
+    "daysListed": 8,
+    "daysAvailable": -63,
+    "unitName": "737",
+    "floorPlanName": "Smalt",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 2881,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/03_Indigo_Smalt542_S4A7248?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-03-22",
+    "lastListed": "2024-03-30",
+    "available": "2024-05-25",
+    "daysListed": 8,
+    "daysAvailable": -56,
+    "unitName": "946",
+    "floorPlanName": "Cornflower",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 885,
+    "minRent": 4308,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/Cornflower-kitchen-1920x1121?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2024-03-23",
     "lastListed": "2024-03-26",
     "available": "2024-05-11",
