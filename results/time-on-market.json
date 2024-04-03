@@ -28,6 +28,20 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/Cornflower-kitchen-1920x1121?qlt=100&fmt=jpg"
   },
   {
+    "firstListed": "2024-03-22",
+    "lastListed": "2024-04-02",
+    "available": "2024-05-17",
+    "daysListed": 11,
+    "daysAvailable": -45,
+    "unitName": "1021",
+    "floorPlanName": "Smalt",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 3181,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/03_Indigo_Smalt542_S4A7248?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2024-03-23",
     "lastListed": "2024-03-26",
     "available": "2024-05-11",
@@ -54,6 +68,20 @@
     "sqft": 735,
     "minRent": 3048,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/11_Indigo_Cyan814_S4A7910?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-03-22",
+    "lastListed": "2024-04-02",
+    "available": "2024-05-10",
+    "daysListed": 11,
+    "daysAvailable": -38,
+    "unitName": "220",
+    "floorPlanName": "Celadon",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 589,
+    "minRent": 2935,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920x1121_Cobalt_1bed_1bath?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2024-03-22",
@@ -264,6 +292,20 @@
     "sqft": 815,
     "minRent": 3481,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1CC10_Aqua_BW_SKETCH_500x500_Edit?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-02-04",
+    "lastListed": "2024-04-02",
+    "available": "2024-03-20",
+    "daysListed": 58,
+    "daysAvailable": 13,
+    "unitName": "1041",
+    "floorPlanName": "Cobalt",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 838,
+    "minRent": 3830,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Cobalt_DIMS_BW_SKETCH_500X500-01?qlt=85&fmt=jpg"
   },
   {
     "firstListed": "2024-01-31",
