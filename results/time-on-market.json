@@ -1,5 +1,47 @@
 [
   {
+    "firstListed": "2024-03-30",
+    "lastListed": "2024-04-03",
+    "available": "2024-07-06",
+    "daysListed": 4,
+    "daysAvailable": -94,
+    "unitName": "730",
+    "floorPlanName": "Cornflower",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 885,
+    "minRent": 3763,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/Cornflower-kitchen-1920x1121?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-03-31",
+    "lastListed": "2024-04-03",
+    "available": "2024-06-08",
+    "daysListed": 3,
+    "daysAvailable": -66,
+    "unitName": "430",
+    "floorPlanName": "Cornflower",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 885,
+    "minRent": 3683,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/Cornflower-kitchen-1920x1121?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-04-02",
+    "lastListed": "2024-04-03",
+    "available": "2024-06-04",
+    "daysListed": 1,
+    "daysAvailable": -62,
+    "unitName": "483",
+    "floorPlanName": "Lapis",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 495,
+    "minRent": 2583,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920x1121-Indigo-Apartments-cadet-kitchen?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2024-03-22",
     "lastListed": "2024-03-30",
     "available": "2024-06-01",
@@ -124,6 +166,20 @@
     "sqft": 857,
     "minRent": 3605,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920x1121_Cobalt_1bed_1bath?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-03-13",
+    "lastListed": "2024-04-03",
+    "available": "2024-04-27",
+    "daysListed": 21,
+    "daysAvailable": -24,
+    "unitName": "518",
+    "floorPlanName": "Indigo",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 697,
+    "minRent": 3117,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1D10Parent_04B_DIMS_BW_SKETCH_500x500-01?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2024-03-13",
@@ -10010,20 +10066,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1W10Parent_42B_DIMS_BW-01.jpg"
   },
   {
-    "firstListed": "2020-09-03",
-    "lastListed": "2020-10-30",
-    "available": "2020-09-06",
-    "daysListed": 57,
-    "daysAvailable": 54,
-    "unitName": "782",
-    "floorPlanName": "Spindrift",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 770,
-    "minRent": 3281,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1DD10Parent_51B_DIMS_BW-01.jpg"
-  },
-  {
     "firstListed": "2020-09-06",
     "lastListed": "2020-09-06",
     "available": "2020-09-06",
@@ -10036,6 +10078,20 @@
     "sqft": 697,
     "minRent": 2976,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1D10Parent_04B_DIMS_BW-01.jpg"
+  },
+  {
+    "firstListed": "2020-09-03",
+    "lastListed": "2020-10-30",
+    "available": "2020-09-06",
+    "daysListed": 57,
+    "daysAvailable": 54,
+    "unitName": "782",
+    "floorPlanName": "Spindrift",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 770,
+    "minRent": 3281,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1DD10Parent_51B_DIMS_BW-01.jpg"
   },
   {
     "firstListed": "2020-09-04",
