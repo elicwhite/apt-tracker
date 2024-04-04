@@ -57,20 +57,6 @@
   },
   {
     "firstListed": "2024-03-22",
-    "lastListed": "2024-03-30",
-    "available": "2024-05-25",
-    "daysListed": 8,
-    "daysAvailable": -56,
-    "unitName": "946",
-    "floorPlanName": "Cornflower",
-    "bedrooms": 2,
-    "bathrooms": 1,
-    "sqft": 885,
-    "minRent": 4308,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/Cornflower-kitchen-1920x1121?qlt=100&fmt=jpg"
-  },
-  {
-    "firstListed": "2024-03-22",
     "lastListed": "2024-04-02",
     "available": "2024-05-17",
     "daysListed": 11,
@@ -4298,20 +4284,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2H10Parent_44C_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
-    "firstListed": "2022-04-26",
-    "lastListed": "2022-05-09",
-    "available": "2022-06-24",
-    "daysListed": 13,
-    "daysAvailable": -46,
-    "unitName": "773",
-    "floorPlanName": "Ocean",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 754,
-    "minRent": 3280,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1X10Parent_43B_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2022-04-25",
     "lastListed": "2022-05-09",
     "available": "2022-06-24",
@@ -4324,6 +4296,20 @@
     "sqft": 739,
     "minRent": 3535,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1B10Parent_02B_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2022-04-26",
+    "lastListed": "2022-05-09",
+    "available": "2022-06-24",
+    "daysListed": 13,
+    "daysAvailable": -46,
+    "unitName": "773",
+    "floorPlanName": "Ocean",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 754,
+    "minRent": 3280,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1X10Parent_43B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2022-03-12",
