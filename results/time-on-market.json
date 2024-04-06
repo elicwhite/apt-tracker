@@ -98,6 +98,20 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/03_Indigo_Smalt542_S4A7248?qlt=100&fmt=jpg"
   },
   {
+    "firstListed": "2024-03-22",
+    "lastListed": "2024-04-05",
+    "available": "2024-05-24",
+    "daysListed": 14,
+    "daysAvailable": -49,
+    "unitName": "876",
+    "floorPlanName": "Powder",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 684,
+    "minRent": 3197,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920x1121_Cobalt_1bed_1bath?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2024-03-23",
     "lastListed": "2024-03-26",
     "available": "2024-05-11",
@@ -6342,20 +6356,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
-    "firstListed": "2021-06-03",
-    "lastListed": "2021-07-22",
-    "available": "2021-08-06",
-    "daysListed": 49,
-    "daysAvailable": -15,
-    "unitName": "881",
-    "floorPlanName": "Brandeis",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 775,
-    "minRent": 3666,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2021-06-12",
     "lastListed": "2021-06-21",
     "available": "2021-08-06",
@@ -6368,6 +6368,20 @@
     "sqft": 684,
     "minRent": 3624,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1BB10Parent_48B_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2021-06-03",
+    "lastListed": "2021-07-22",
+    "available": "2021-08-06",
+    "daysListed": 49,
+    "daysAvailable": -15,
+    "unitName": "881",
+    "floorPlanName": "Brandeis",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 775,
+    "minRent": 3666,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2021-06-16",
