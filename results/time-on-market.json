@@ -196,20 +196,6 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920x1121_Cobalt_1bed_1bath?qlt=100&fmt=jpg"
   },
   {
-    "firstListed": "2024-03-30",
-    "lastListed": "2024-04-04",
-    "available": "2024-04-27",
-    "daysListed": 5,
-    "daysAvailable": -23,
-    "unitName": "837",
-    "floorPlanName": "Smalt",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 583,
-    "minRent": 2901,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/03_Indigo_Smalt542_S4A7248?qlt=100&fmt=jpg"
-  },
-  {
     "firstListed": "2024-03-13",
     "lastListed": "2024-04-03",
     "available": "2024-04-27",
@@ -9240,20 +9226,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1Z10Parent_46B_DIMS_BW-01.jpg"
   },
   {
-    "firstListed": "2020-10-06",
-    "lastListed": "2020-10-21",
-    "available": "2020-11-04",
-    "daysListed": 15,
-    "daysAvailable": -14,
-    "unitName": "1015",
-    "floorPlanName": "Aqua",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 815,
-    "minRent": 3531,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/1920x1121/interior/750681.jpg"
-  },
-  {
     "firstListed": "2020-09-02",
     "lastListed": "2020-12-13",
     "available": "2020-11-04",
@@ -9266,6 +9238,20 @@
     "sqft": 826,
     "minRent": 3041,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1LL10Parent_61B-2_BW-01.jpg"
+  },
+  {
+    "firstListed": "2020-10-06",
+    "lastListed": "2020-10-21",
+    "available": "2020-11-04",
+    "daysListed": 15,
+    "daysAvailable": -14,
+    "unitName": "1015",
+    "floorPlanName": "Aqua",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 815,
+    "minRent": 3531,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/1920x1121/interior/750681.jpg"
   },
   {
     "firstListed": "2020-08-27",
