@@ -14,6 +14,20 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/Cornflower-kitchen-1920x1121?qlt=100&fmt=jpg"
   },
   {
+    "firstListed": "2024-04-07",
+    "lastListed": "2024-04-09",
+    "available": "2024-06-13",
+    "daysListed": 2,
+    "daysAvailable": -65,
+    "unitName": "108",
+    "floorPlanName": "Cadet",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 495,
+    "minRent": 2685,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920x1121-Indigo-Apartments-cadet-kitchen?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2024-03-31",
     "lastListed": "2024-04-03",
     "available": "2024-06-08",
@@ -82,6 +96,20 @@
     "sqft": 583,
     "minRent": 2881,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/03_Indigo_Smalt542_S4A7248?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-03-22",
+    "lastListed": "2024-04-09",
+    "available": "2024-05-25",
+    "daysListed": 18,
+    "daysAvailable": -46,
+    "unitName": "973",
+    "floorPlanName": "Ocean",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 754,
+    "minRent": 3183,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/05_Indigo_Ocean1073_S4A7367?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2024-04-03",
@@ -334,6 +362,20 @@
     "sqft": 558,
     "minRent": 2837,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/EC10Parent_24A_BW_SKETCH_500x500-01?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-02-14",
+    "lastListed": "2024-04-09",
+    "available": "2024-03-30",
+    "daysListed": 55,
+    "daysAvailable": 10,
+    "unitName": "623",
+    "floorPlanName": "Celeste",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 662,
+    "minRent": 3240,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Celeste_DIMS_BW_SKETCH_500x500-01?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2024-02-14",
