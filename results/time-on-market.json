@@ -42,6 +42,20 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920x1121-Indigo-Apartments-cadet-kitchen?qlt=100&fmt=jpg"
   },
   {
+    "firstListed": "2024-03-24",
+    "lastListed": "2024-04-12",
+    "available": "2024-06-08",
+    "daysListed": 19,
+    "daysAvailable": -57,
+    "unitName": "922",
+    "floorPlanName": "Turquoise",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 552,
+    "minRent": 3123,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/06_Turqoise_Unit1076_I3A6673?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2024-03-31",
     "lastListed": "2024-04-03",
     "available": "2024-06-08",
@@ -68,6 +82,34 @@
     "sqft": 495,
     "minRent": 2583,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920x1121-Indigo-Apartments-cadet-kitchen?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-03-30",
+    "lastListed": "2024-04-12",
+    "available": "2024-06-01",
+    "daysListed": 13,
+    "daysAvailable": -50,
+    "unitName": "787",
+    "floorPlanName": "Aquamarine",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 759,
+    "minRent": 3284,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/16_Indigo_Aquamarine1087_S4A8241-1?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-03-22",
+    "lastListed": "2024-04-12",
+    "available": "2024-06-01",
+    "daysListed": 21,
+    "daysAvailable": -50,
+    "unitName": "373",
+    "floorPlanName": "Ocean",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 754,
+    "minRent": 3203,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/05_Indigo_Ocean1073_S4A7367?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2024-03-31",
