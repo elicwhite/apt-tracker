@@ -239,6 +239,20 @@
   },
   {
     "firstListed": "2024-03-20",
+    "lastListed": "2024-04-13",
+    "available": "2024-05-04",
+    "daysListed": 24,
+    "daysAvailable": -21,
+    "unitName": "250",
+    "floorPlanName": "Turquoise",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 552,
+    "minRent": 2908,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/06_Turqoise_Unit1076_I3A6673?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-03-20",
     "lastListed": "2024-03-28",
     "available": "2024-05-04",
     "daysListed": 8,
