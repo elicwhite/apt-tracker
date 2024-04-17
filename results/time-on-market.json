@@ -2282,6 +2282,20 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/EG10Parent_54A-2_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
+    "firstListed": "2023-04-26",
+    "lastListed": "2023-06-12",
+    "available": "2023-06-10",
+    "daysListed": 47,
+    "daysAvailable": 2,
+    "unitName": "411",
+    "floorPlanName": "Rackley",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1264,
+    "minRent": 4404,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2C20Parent_10C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
     "firstListed": "2023-04-29",
     "lastListed": "2023-06-15",
     "available": "2023-06-10",
@@ -2308,20 +2322,6 @@
     "sqft": 583,
     "minRent": 3095,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1JJ10_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
-  },
-  {
-    "firstListed": "2023-04-26",
-    "lastListed": "2023-06-12",
-    "available": "2023-06-10",
-    "daysListed": 47,
-    "daysAvailable": 2,
-    "unitName": "411",
-    "floorPlanName": "Rackley",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1264,
-    "minRent": 4404,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2C20Parent_10C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
     "firstListed": "2023-04-26",
@@ -4844,6 +4844,20 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1CC10_Aqua_BW_SKETCH_500x500-01.jpg"
   },
   {
+    "firstListed": "2022-03-02",
+    "lastListed": "2022-03-14",
+    "available": "2022-04-29",
+    "daysListed": 12,
+    "daysAvailable": -46,
+    "unitName": "411",
+    "floorPlanName": "Rackley",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1264,
+    "minRent": 4759,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C20Parent_10C_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
     "firstListed": "2022-01-13",
     "lastListed": "2022-02-08",
     "available": "2022-04-29",
@@ -4870,20 +4884,6 @@
     "sqft": 558,
     "minRent": 3090,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EC10Parent_24A_BW_SKETCH_500x500-01.jpg"
-  },
-  {
-    "firstListed": "2022-03-02",
-    "lastListed": "2022-03-14",
-    "available": "2022-04-29",
-    "daysListed": 12,
-    "daysAvailable": -46,
-    "unitName": "411",
-    "floorPlanName": "Rackley",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1264,
-    "minRent": 4759,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C20Parent_10C_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2022-02-24",
@@ -5194,6 +5194,20 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Cobalt_DIMS_BW_SKETCH_500X500-01.jpg"
   },
   {
+    "firstListed": "2022-01-27",
+    "lastListed": "2022-02-15",
+    "available": "2022-04-01",
+    "daysListed": 19,
+    "daysAvailable": -45,
+    "unitName": "339",
+    "floorPlanName": "Tiffany",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 694,
+    "minRent": 3120,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_1O10Child_29B-T-01_DIMS_BW_SKETCH_500X500-01.jpg"
+  },
+  {
     "firstListed": "2022-02-03",
     "lastListed": "2022-02-14",
     "available": "2022-04-01",
@@ -5220,20 +5234,6 @@
     "sqft": 496,
     "minRent": 2685,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Aegean_BW_SKETCH_500x500-01.jpg"
-  },
-  {
-    "firstListed": "2022-01-27",
-    "lastListed": "2022-02-15",
-    "available": "2022-04-01",
-    "daysListed": 19,
-    "daysAvailable": -45,
-    "unitName": "339",
-    "floorPlanName": "Tiffany",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 694,
-    "minRent": 3120,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_1O10Child_29B-T-01_DIMS_BW_SKETCH_500X500-01.jpg"
   },
   {
     "firstListed": "2022-01-29",
