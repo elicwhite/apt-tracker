@@ -42,6 +42,20 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/Pacific_kitchen_2-1?qlt=100&fmt=jpg"
   },
   {
+    "firstListed": "2024-04-07",
+    "lastListed": "2024-04-17",
+    "available": "2024-06-22",
+    "daysListed": 10,
+    "daysAvailable": -66,
+    "unitName": "913",
+    "floorPlanName": "Celeste",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 662,
+    "minRent": 3190,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/01_Celeste_Unit1013_I3A6382?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2024-03-24",
     "lastListed": "2024-04-12",
     "available": "2024-06-08",
@@ -544,6 +558,20 @@
     "sqft": 885,
     "minRent": 4098,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-02-10",
+    "lastListed": "2024-04-17",
+    "available": "2024-03-26",
+    "daysListed": 67,
+    "daysAvailable": 22,
+    "unitName": "734",
+    "floorPlanName": "Manatee",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 843,
+    "minRent": 3567,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1K10Parent_21B_DIMS_BW_SKETCH_500x500-01?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2024-02-04",
@@ -2282,20 +2310,6 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/EG10Parent_54A-2_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
-    "firstListed": "2023-04-26",
-    "lastListed": "2023-06-12",
-    "available": "2023-06-10",
-    "daysListed": 47,
-    "daysAvailable": 2,
-    "unitName": "411",
-    "floorPlanName": "Rackley",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1264,
-    "minRent": 4404,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2C20Parent_10C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
-  },
-  {
     "firstListed": "2023-04-29",
     "lastListed": "2023-06-15",
     "available": "2023-06-10",
@@ -2308,6 +2322,20 @@
     "sqft": 662,
     "minRent": 3276,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Celeste_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2023-04-26",
+    "lastListed": "2023-06-12",
+    "available": "2023-06-10",
+    "daysListed": 47,
+    "daysAvailable": 2,
+    "unitName": "411",
+    "floorPlanName": "Rackley",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1264,
+    "minRent": 4404,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2C20Parent_10C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
     "firstListed": "2023-04-26",
