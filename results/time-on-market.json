@@ -1,5 +1,19 @@
 [
   {
+    "firstListed": "2024-04-17",
+    "lastListed": "2024-04-21",
+    "available": "2024-07-13",
+    "daysListed": 4,
+    "daysAvailable": -83,
+    "unitName": "339",
+    "floorPlanName": "Tiffany",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 694,
+    "minRent": 3172,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920x1121_Cobalt_1bed_1bath?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2024-04-10",
     "lastListed": "2024-04-15",
     "available": "2024-07-13",
@@ -166,6 +180,20 @@
     "sqft": 583,
     "minRent": 2881,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/03_Indigo_Smalt542_S4A7248?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-03-22",
+    "lastListed": "2024-04-21",
+    "available": "2024-05-25",
+    "daysListed": 30,
+    "daysAvailable": -34,
+    "unitName": "348",
+    "floorPlanName": "Water",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 759,
+    "minRent": 3279,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/02_Indigo_Water348_S4A7156?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2024-03-28",
