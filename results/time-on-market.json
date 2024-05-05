@@ -2493,6 +2493,20 @@
   },
   {
     "firstListed": "2023-05-03",
+    "lastListed": "2023-06-07",
+    "available": "2023-06-17",
+    "daysListed": 35,
+    "daysAvailable": -10,
+    "unitName": "413",
+    "floorPlanName": "Celeste",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 662,
+    "minRent": 3211,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Celeste_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2023-05-03",
     "lastListed": "2023-05-29",
     "available": "2023-06-17",
     "daysListed": 26,
@@ -2532,20 +2546,6 @@
     "sqft": 815,
     "minRent": 3508,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1CC10_Aqua_BW_SKETCH_500x500_Edit?qlt=85&fmt=jpg"
-  },
-  {
-    "firstListed": "2023-05-03",
-    "lastListed": "2023-06-07",
-    "available": "2023-06-17",
-    "daysListed": 35,
-    "daysAvailable": -10,
-    "unitName": "413",
-    "floorPlanName": "Celeste",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 662,
-    "minRent": 3211,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Celeste_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
     "firstListed": "2023-04-27",
