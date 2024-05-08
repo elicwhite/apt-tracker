@@ -1,5 +1,19 @@
 [
   {
+    "firstListed": "2024-05-05",
+    "lastListed": "2024-05-07",
+    "available": "2024-08-24",
+    "daysListed": 2,
+    "daysAvailable": -109,
+    "unitName": "413",
+    "floorPlanName": "Celeste",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 662,
+    "minRent": 3160,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/01_Celeste_Unit1013_I3A6382?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2024-05-02",
     "lastListed": "2024-05-04",
     "available": "2024-08-10",
@@ -110,6 +124,20 @@
     "sqft": 662,
     "minRent": 3190,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/01_Celeste_Unit1013_I3A6382?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-03-22",
+    "lastListed": "2024-05-07",
+    "available": "2024-06-21",
+    "daysListed": 46,
+    "daysAvailable": -45,
+    "unitName": "544",
+    "floorPlanName": "Marine",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1554,
+    "minRent": 5893,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/08_Indigo_Marine944_S4A7636?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2024-04-17",
