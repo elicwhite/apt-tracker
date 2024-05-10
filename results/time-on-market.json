@@ -71,6 +71,20 @@
   },
   {
     "firstListed": "2024-04-19",
+    "lastListed": "2024-05-09",
+    "available": "2024-06-29",
+    "daysListed": 20,
+    "daysAvailable": -51,
+    "unitName": "775",
+    "floorPlanName": "Mist",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 906,
+    "minRent": 3645,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/04_Mist_Unit77504_Mist_Unit775_I3A6546?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-04-19",
     "lastListed": "2024-05-05",
     "available": "2024-06-29",
     "daysListed": 16,
@@ -404,6 +418,20 @@
     "sqft": 885,
     "minRent": 4158,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/Cornflower-kitchen-1920x1121?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-03-22",
+    "lastListed": "2024-05-09",
+    "available": "2024-05-11",
+    "daysListed": 48,
+    "daysAvailable": -2,
+    "unitName": "712",
+    "floorPlanName": "Royal",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 739,
+    "minRent": 3309,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/12_Indigo_Royal1012_S4A7945?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2024-03-22",
