@@ -28,6 +28,34 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/05_Indigo_Ocean1073_S4A7367?qlt=100&fmt=jpg"
   },
   {
+    "firstListed": "2024-05-12",
+    "lastListed": "2024-05-14",
+    "available": "2024-08-03",
+    "daysListed": 2,
+    "daysAvailable": -81,
+    "unitName": "723",
+    "floorPlanName": "Celeste",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 662,
+    "minRent": 3485,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/01_Celeste_Unit1013_I3A6382?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-05-11",
+    "lastListed": "2024-05-14",
+    "available": "2024-07-20",
+    "daysListed": 3,
+    "daysAvailable": -67,
+    "unitName": "371",
+    "floorPlanName": "Majorelle",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 1076,
+    "minRent": 4301,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/21_Indigo_Majorelle371_S4A8634?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2024-04-24",
     "lastListed": "2024-05-10",
     "available": "2024-07-13",
@@ -2507,20 +2535,6 @@
   },
   {
     "firstListed": "2023-05-17",
-    "lastListed": "2023-05-28",
-    "available": "2023-07-01",
-    "daysListed": 11,
-    "daysAvailable": -34,
-    "unitName": "577",
-    "floorPlanName": "Oxford",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 770,
-    "minRent": 3308,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1V10Parent_41B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
-  },
-  {
-    "firstListed": "2023-05-17",
     "lastListed": "2023-07-04",
     "available": "2023-07-01",
     "daysListed": 48,
@@ -2532,6 +2546,20 @@
     "sqft": 1076,
     "minRent": 4349,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2H10Parent_44C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2023-05-17",
+    "lastListed": "2023-05-28",
+    "available": "2023-07-01",
+    "daysListed": 11,
+    "daysAvailable": -34,
+    "unitName": "577",
+    "floorPlanName": "Oxford",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 770,
+    "minRent": 3308,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1V10Parent_41B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
     "firstListed": "2023-07-01",
