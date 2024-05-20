@@ -56,6 +56,34 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/01_Celeste_Unit1013_I3A6382?qlt=100&fmt=jpg"
   },
   {
+    "firstListed": "2024-05-17",
+    "lastListed": "2024-05-19",
+    "available": "2024-07-20",
+    "daysListed": 2,
+    "daysAvailable": -62,
+    "unitName": "616",
+    "floorPlanName": "Indigo",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 697,
+    "minRent": 3362,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/17_Indigo_Indigo1016_S4A8298?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-05-15",
+    "lastListed": "2024-05-19",
+    "available": "2024-07-20",
+    "daysListed": 4,
+    "daysAvailable": -62,
+    "unitName": "218",
+    "floorPlanName": "Indigo",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 697,
+    "minRent": 3132,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/17_Indigo_Indigo1016_S4A8298?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2024-05-11",
     "lastListed": "2024-05-14",
     "available": "2024-07-20",
@@ -558,6 +586,20 @@
     "sqft": 885,
     "minRent": 4158,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/Cornflower-kitchen-1920x1121?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-03-22",
+    "lastListed": "2024-05-19",
+    "available": "2024-05-17",
+    "daysListed": 58,
+    "daysAvailable": 2,
+    "unitName": "1021",
+    "floorPlanName": "Smalt",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 3181,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/03_Indigo_Smalt542_S4A7248?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2024-04-17",
@@ -7477,20 +7519,6 @@
   },
   {
     "firstListed": "2021-04-08",
-    "lastListed": "2021-05-07",
-    "available": "2021-07-02",
-    "daysListed": 29,
-    "daysAvailable": -56,
-    "unitName": "685",
-    "floorPlanName": "Aquamarine",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 759,
-    "minRent": 3254,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
-    "firstListed": "2021-04-08",
     "lastListed": "2021-05-17",
     "available": "2021-07-02",
     "daysListed": 39,
@@ -7502,6 +7530,20 @@
     "sqft": 697,
     "minRent": 3145,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1D10Parent_04B_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2021-04-08",
+    "lastListed": "2021-05-07",
+    "available": "2021-07-02",
+    "daysListed": 29,
+    "daysAvailable": -56,
+    "unitName": "685",
+    "floorPlanName": "Aquamarine",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 759,
+    "minRent": 3254,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2021-04-12",
