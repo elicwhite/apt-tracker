@@ -112,20 +112,6 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/21_Indigo_Majorelle371_S4A8634?qlt=100&fmt=jpg"
   },
   {
-    "firstListed": "2024-04-24",
-    "lastListed": "2024-05-10",
-    "available": "2024-07-13",
-    "daysListed": 16,
-    "daysAvailable": -64,
-    "unitName": "924",
-    "floorPlanName": "Turquoise",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 552,
-    "minRent": 3168,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/06_Turqoise_Unit1076_I3A6673?qlt=100&fmt=jpg"
-  },
-  {
     "firstListed": "2024-05-03",
     "lastListed": "2024-05-08",
     "available": "2024-07-09",
@@ -460,20 +446,6 @@
     "sqft": 1084,
     "minRent": 4615,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/maya-kitchen-1920x1121?qlt=100&fmt=jpg"
-  },
-  {
-    "firstListed": "2024-04-11",
-    "lastListed": "2024-05-13",
-    "available": "2024-05-29",
-    "daysListed": 32,
-    "daysAvailable": -16,
-    "unitName": "306",
-    "floorPlanName": "Frost",
-    "bedrooms": 2,
-    "bathrooms": 1,
-    "sqft": 791,
-    "minRent": 3838,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/Cornflower-kitchen-1920x1121?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2024-03-22",
@@ -5559,6 +5531,20 @@
   },
   {
     "firstListed": "2022-04-25",
+    "lastListed": "2022-04-26",
+    "available": "2022-04-25",
+    "daysListed": 1,
+    "daysAvailable": 1,
+    "unitName": "940",
+    "floorPlanName": "Baltic",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 558,
+    "minRent": 3155,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EC10Parent_24A_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2022-04-25",
     "lastListed": "2022-04-28",
     "available": "2022-04-25",
     "daysListed": 3,
@@ -5598,20 +5584,6 @@
     "sqft": 552,
     "minRent": 2815,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
-    "firstListed": "2022-04-25",
-    "lastListed": "2022-04-26",
-    "available": "2022-04-25",
-    "daysListed": 1,
-    "daysAvailable": 1,
-    "unitName": "940",
-    "floorPlanName": "Baltic",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 558,
-    "minRent": 3155,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EC10Parent_24A_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2022-04-24",
@@ -8722,20 +8694,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1K10Parent_21B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
-    "firstListed": "2021-03-17",
-    "lastListed": "2021-03-31",
-    "available": "2021-03-17",
-    "daysListed": 14,
-    "daysAvailable": 14,
-    "unitName": "646",
-    "floorPlanName": "Cornflower",
-    "bedrooms": 2,
-    "bathrooms": 1,
-    "sqft": 885,
-    "minRent": 3750,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2020-12-30",
     "lastListed": "2021-03-31",
     "available": "2021-03-17",
@@ -8748,6 +8706,20 @@
     "sqft": 558,
     "minRent": 2609,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EC10Parent_24A_BW-01.jpg"
+  },
+  {
+    "firstListed": "2021-03-17",
+    "lastListed": "2021-03-31",
+    "available": "2021-03-17",
+    "daysListed": 14,
+    "daysAvailable": 14,
+    "unitName": "646",
+    "floorPlanName": "Cornflower",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 885,
+    "minRent": 3750,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2021-01-14",
