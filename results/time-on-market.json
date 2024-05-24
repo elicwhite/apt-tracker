@@ -7630,20 +7630,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
-    "firstListed": "2021-04-24",
-    "lastListed": "2021-08-13",
-    "available": "2021-06-25",
-    "daysListed": 111,
-    "daysAvailable": 49,
-    "unitName": "162",
-    "floorPlanName": "Iris",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 762,
-    "minRent": 3292,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1EE10Parent_54A-G_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2021-04-20",
     "lastListed": "2021-05-10",
     "available": "2021-06-25",
@@ -7656,6 +7642,20 @@
     "sqft": 1076,
     "minRent": 3905,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2H10Parent_44C_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2021-04-24",
+    "lastListed": "2021-08-13",
+    "available": "2021-06-25",
+    "daysListed": 111,
+    "daysAvailable": 49,
+    "unitName": "162",
+    "floorPlanName": "Iris",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 762,
+    "minRent": 3292,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1EE10Parent_54A-G_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2021-03-17",
