@@ -28,20 +28,6 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/05_Indigo_Ocean1073_S4A7367?qlt=100&fmt=jpg"
   },
   {
-    "firstListed": "2024-05-15",
-    "lastListed": "2024-05-16",
-    "available": "2024-08-03",
-    "daysListed": 1,
-    "daysAvailable": -79,
-    "unitName": "475",
-    "floorPlanName": "Mist",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 906,
-    "minRent": 3680,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/04_Mist_Unit77504_Mist_Unit775_I3A6546?qlt=100&fmt=jpg"
-  },
-  {
     "firstListed": "2024-05-12",
     "lastListed": "2024-05-14",
     "available": "2024-08-03",
@@ -9647,20 +9633,6 @@
   },
   {
     "firstListed": "2020-12-11",
-    "lastListed": "2021-02-01",
-    "available": "2020-12-11",
-    "daysListed": 52,
-    "daysAvailable": 52,
-    "unitName": "732",
-    "floorPlanName": "Midnight",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1245,
-    "minRent": 4322,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2D20Parent_15C-P_DIMS_BW-01.jpg"
-  },
-  {
-    "firstListed": "2020-12-11",
     "lastListed": "2020-12-11",
     "available": "2020-12-11",
     "daysListed": 0,
@@ -9672,6 +9644,20 @@
     "sqft": 1554,
     "minRent": 5948,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2H20Parent_26C_DIMS_BW-01.jpg"
+  },
+  {
+    "firstListed": "2020-12-11",
+    "lastListed": "2021-02-01",
+    "available": "2020-12-11",
+    "daysListed": 52,
+    "daysAvailable": 52,
+    "unitName": "732",
+    "floorPlanName": "Midnight",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1245,
+    "minRent": 4322,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2D20Parent_15C-P_DIMS_BW-01.jpg"
   },
   {
     "firstListed": "2020-12-10",
