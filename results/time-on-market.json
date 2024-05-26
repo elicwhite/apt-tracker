@@ -113,6 +113,20 @@
   },
   {
     "firstListed": "2024-05-01",
+    "lastListed": "2024-05-25",
+    "available": "2024-07-06",
+    "daysListed": 24,
+    "daysAvailable": -42,
+    "unitName": "380",
+    "floorPlanName": "Turquoise",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 552,
+    "minRent": 2978,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/06_Turqoise_Unit1076_I3A6673?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-05-01",
     "lastListed": "2024-05-18",
     "available": "2024-07-01",
     "daysListed": 17,
@@ -5012,6 +5026,20 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
+    "firstListed": "2022-05-06",
+    "lastListed": "2022-05-17",
+    "available": "2022-07-01",
+    "daysListed": 11,
+    "daysAvailable": -45,
+    "unitName": "380",
+    "floorPlanName": "Turquoise",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 552,
+    "minRent": 2870,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
     "firstListed": "2022-04-26",
     "lastListed": "2022-07-25",
     "available": "2022-07-01",
@@ -5038,20 +5066,6 @@
     "sqft": 1481,
     "minRent": 6290,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
-  },
-  {
-    "firstListed": "2022-05-06",
-    "lastListed": "2022-05-17",
-    "available": "2022-07-01",
-    "daysListed": 11,
-    "daysAvailable": -45,
-    "unitName": "380",
-    "floorPlanName": "Turquoise",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 552,
-    "minRent": 2870,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2022-03-12",
