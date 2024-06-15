@@ -84,6 +84,20 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/Cornflower-kitchen-1920x1121?qlt=100&fmt=jpg"
   },
   {
+    "firstListed": "2024-05-15",
+    "lastListed": "2024-06-14",
+    "available": "2024-08-03",
+    "daysListed": 30,
+    "daysAvailable": -50,
+    "unitName": "475",
+    "floorPlanName": "Mist",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 906,
+    "minRent": 3680,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/04_Mist_Unit77504_Mist_Unit775_I3A6546?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2024-06-01",
     "lastListed": "2024-06-02",
     "available": "2024-08-03",
@@ -8526,20 +8540,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EE10Parent_38A_BW_SKETCH_500x500-01.jpg"
   },
   {
-    "firstListed": "2021-02-04",
-    "lastListed": "2021-03-08",
-    "available": "2021-04-23",
-    "daysListed": 32,
-    "daysAvailable": -46,
-    "unitName": "389",
-    "floorPlanName": "Dolphin",
-    "bedrooms": 2,
-    "bathrooms": 1,
-    "sqft": 1032,
-    "minRent": 4340,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2F10Parent_35C_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2021-02-13",
     "lastListed": "2021-02-23",
     "available": "2021-04-23",
@@ -8552,6 +8552,20 @@
     "sqft": 906,
     "minRent": 3599,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1W10Parent_42B_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2021-02-04",
+    "lastListed": "2021-03-08",
+    "available": "2021-04-23",
+    "daysListed": 32,
+    "daysAvailable": -46,
+    "unitName": "389",
+    "floorPlanName": "Dolphin",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 1032,
+    "minRent": 4340,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2F10Parent_35C_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2021-02-20",
