@@ -84,6 +84,20 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/Cornflower-kitchen-1920x1121?qlt=100&fmt=jpg"
   },
   {
+    "firstListed": "2024-06-01",
+    "lastListed": "2024-06-18",
+    "available": "2024-08-03",
+    "daysListed": 17,
+    "daysAvailable": -46,
+    "unitName": "826",
+    "floorPlanName": "Maya",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1159,
+    "minRent": 4884,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/maya-kitchen-1920x1121?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2024-05-15",
     "lastListed": "2024-06-14",
     "available": "2024-08-03",
@@ -292,6 +306,20 @@
     "sqft": 552,
     "minRent": 3203,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/06_Turqoise_Unit1076_I3A6673?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-05-04",
+    "lastListed": "2024-06-18",
+    "available": "2024-07-06",
+    "daysListed": 45,
+    "daysAvailable": -18,
+    "unitName": "515",
+    "floorPlanName": "Aqua",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 815,
+    "minRent": 3396,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/750681?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2024-06-07",
@@ -530,6 +558,20 @@
     "sqft": 842,
     "minRent": 3532,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/10_Indigo_Admiral820_S4A7814?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-06-18",
+    "lastListed": "2024-06-18",
+    "available": "2024-06-18",
+    "daysListed": 0,
+    "daysAvailable": 0,
+    "unitName": "881",
+    "floorPlanName": "Brandeis",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 775,
+    "minRent": 3606,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/13_Indigo_Brandeis381_S4A8006?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2024-04-13",
@@ -7308,20 +7350,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg"
   },
   {
-    "firstListed": "2021-06-12",
-    "lastListed": "2021-06-21",
-    "available": "2021-08-06",
-    "daysListed": 9,
-    "daysAvailable": -46,
-    "unitName": "876",
-    "floorPlanName": "Powder",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 684,
-    "minRent": 3624,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1BB10Parent_48B_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2021-06-03",
     "lastListed": "2021-07-22",
     "available": "2021-08-06",
@@ -7334,6 +7362,20 @@
     "sqft": 775,
     "minRent": 3666,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2021-06-12",
+    "lastListed": "2021-06-21",
+    "available": "2021-08-06",
+    "daysListed": 9,
+    "daysAvailable": -46,
+    "unitName": "876",
+    "floorPlanName": "Powder",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 684,
+    "minRent": 3624,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1BB10Parent_48B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2021-06-16",
