@@ -280,20 +280,6 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/17_Indigo_Indigo1016_S4A8298?qlt=100&fmt=jpg"
   },
   {
-    "firstListed": "2024-05-15",
-    "lastListed": "2024-05-19",
-    "available": "2024-07-20",
-    "daysListed": 4,
-    "daysAvailable": -62,
-    "unitName": "218",
-    "floorPlanName": "Indigo",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 697,
-    "minRent": 3132,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/17_Indigo_Indigo1016_S4A8298?qlt=100&fmt=jpg"
-  },
-  {
     "firstListed": "2024-05-11",
     "lastListed": "2024-05-14",
     "available": "2024-07-20",
@@ -7897,20 +7883,6 @@
   },
   {
     "firstListed": "2021-04-08",
-    "lastListed": "2021-05-07",
-    "available": "2021-07-02",
-    "daysListed": 29,
-    "daysAvailable": -56,
-    "unitName": "685",
-    "floorPlanName": "Aquamarine",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 759,
-    "minRent": 3254,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
-    "firstListed": "2021-04-08",
     "lastListed": "2021-05-17",
     "available": "2021-07-02",
     "daysListed": 39,
@@ -7922,6 +7894,20 @@
     "sqft": 697,
     "minRent": 3145,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1D10Parent_04B_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2021-04-08",
+    "lastListed": "2021-05-07",
+    "available": "2021-07-02",
+    "daysListed": 29,
+    "daysAvailable": -56,
+    "unitName": "685",
+    "floorPlanName": "Aquamarine",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 759,
+    "minRent": 3254,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2021-04-12",
