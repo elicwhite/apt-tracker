@@ -672,20 +672,6 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/01_Celeste_Unit1013_I3A6382?qlt=100&fmt=jpg"
   },
   {
-    "firstListed": "2024-04-19",
-    "lastListed": "2024-06-27",
-    "available": "2024-06-21",
-    "daysListed": 69,
-    "daysAvailable": 6,
-    "unitName": "240",
-    "floorPlanName": "Smalt",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 583,
-    "minRent": 3096,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/03_Indigo_Smalt542_S4A7248?qlt=100&fmt=jpg"
-  },
-  {
     "firstListed": "2024-03-22",
     "lastListed": "2024-05-07",
     "available": "2024-06-21",
@@ -9203,6 +9189,20 @@
     "available": "2021-03-15",
     "daysListed": 0,
     "daysAvailable": 0,
+    "unitName": "781",
+    "floorPlanName": "Brandeis",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 775,
+    "minRent": 2759,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2021-03-15",
+    "lastListed": "2021-03-15",
+    "available": "2021-03-15",
+    "daysListed": 0,
+    "daysAvailable": 0,
     "unitName": "110",
     "floorPlanName": "Cambridge",
     "bedrooms": 1,
@@ -9224,20 +9224,6 @@
     "sqft": 1554,
     "minRent": 5845,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/1920x1121/interior/marine/08_Indigo_Marine944_S4A7636.jpg"
-  },
-  {
-    "firstListed": "2021-03-15",
-    "lastListed": "2021-03-15",
-    "available": "2021-03-15",
-    "daysListed": 0,
-    "daysAvailable": 0,
-    "unitName": "781",
-    "floorPlanName": "Brandeis",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 775,
-    "minRent": 2759,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2020-12-11",
@@ -9885,6 +9871,20 @@
   },
   {
     "firstListed": "2020-12-31",
+    "lastListed": "2020-12-31",
+    "available": "2020-12-31",
+    "daysListed": 0,
+    "daysAvailable": 0,
+    "unitName": "781",
+    "floorPlanName": "Brandeis",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 775,
+    "minRent": 2870,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1T10Parent_039B_DIMS_BW-01.jpg"
+  },
+  {
+    "firstListed": "2020-12-31",
     "lastListed": "2021-01-07",
     "available": "2020-12-31",
     "daysListed": 7,
@@ -9924,20 +9924,6 @@
     "sqft": 559,
     "minRent": 2487,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/ED10Parent_28A-P_BW-01.jpg"
-  },
-  {
-    "firstListed": "2020-12-31",
-    "lastListed": "2020-12-31",
-    "available": "2020-12-31",
-    "daysListed": 0,
-    "daysAvailable": 0,
-    "unitName": "781",
-    "floorPlanName": "Brandeis",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 775,
-    "minRent": 2870,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1T10Parent_039B_DIMS_BW-01.jpg"
   },
   {
     "firstListed": "2020-12-31",
