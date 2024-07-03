@@ -14,20 +14,6 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/Cornflower-kitchen-1920x1121?qlt=100&fmt=jpg"
   },
   {
-    "firstListed": "2024-06-21",
-    "lastListed": "2024-06-26",
-    "available": "2024-08-31",
-    "daysListed": 5,
-    "daysAvailable": -66,
-    "unitName": "1076",
-    "floorPlanName": "Turquoise",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 552,
-    "minRent": 3553,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/06_Turqoise_Unit1076_I3A6673?qlt=100&fmt=jpg"
-  },
-  {
     "firstListed": "2024-06-05",
     "lastListed": "2024-06-22",
     "available": "2024-08-24",
@@ -10361,20 +10347,6 @@
   },
   {
     "firstListed": "2020-11-06",
-    "lastListed": "2020-11-11",
-    "available": "2020-11-06",
-    "daysListed": 5,
-    "daysAvailable": 5,
-    "unitName": "372",
-    "floorPlanName": "Sea",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 833,
-    "minRent": 3040,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1Z10Parent_46B_DIMS_BW-01.jpg"
-  },
-  {
-    "firstListed": "2020-11-06",
     "lastListed": "2020-12-09",
     "available": "2020-11-06",
     "daysListed": 33,
@@ -10386,6 +10358,20 @@
     "sqft": 801,
     "minRent": 2972,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1AA10Parent_47B_DIMS_BW-01.jpg"
+  },
+  {
+    "firstListed": "2020-11-06",
+    "lastListed": "2020-11-11",
+    "available": "2020-11-06",
+    "daysListed": 5,
+    "daysAvailable": 5,
+    "unitName": "372",
+    "floorPlanName": "Sea",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 833,
+    "minRent": 3040,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1Z10Parent_46B_DIMS_BW-01.jpg"
   },
   {
     "firstListed": "2020-09-05",
