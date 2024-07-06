@@ -6104,6 +6104,20 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
   },
   {
+    "firstListed": "2022-02-18",
+    "lastListed": "2022-03-01",
+    "available": "2022-04-22",
+    "daysListed": 11,
+    "daysAvailable": -52,
+    "unitName": "611",
+    "floorPlanName": "Rackley",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1264,
+    "minRent": 4880,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C20Parent_10C_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
     "firstListed": "2022-02-09",
     "lastListed": "2022-02-13",
     "available": "2022-04-22",
@@ -6130,20 +6144,6 @@
     "sqft": 815,
     "minRent": 3430,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1CC10_Aqua_BW_SKETCH_500x500-01.jpg"
-  },
-  {
-    "firstListed": "2022-02-18",
-    "lastListed": "2022-03-01",
-    "available": "2022-04-22",
-    "daysListed": 11,
-    "daysAvailable": -52,
-    "unitName": "611",
-    "floorPlanName": "Rackley",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1264,
-    "minRent": 4880,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C20Parent_10C_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2022-02-04",
