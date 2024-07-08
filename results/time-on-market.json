@@ -6426,20 +6426,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Celeste_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
-    "firstListed": "2022-01-08",
-    "lastListed": "2022-01-26",
-    "available": "2022-03-11",
-    "daysListed": 18,
-    "daysAvailable": -44,
-    "unitName": "220",
-    "floorPlanName": "Celadon",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 589,
-    "minRent": 2970,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1E10Parent_6B-2_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2022-03-11",
     "lastListed": "2022-03-18",
     "available": "2022-03-11",
@@ -6466,6 +6452,20 @@
     "sqft": 833,
     "minRent": 3585,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1Z10Parent_46B_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2022-01-08",
+    "lastListed": "2022-01-26",
+    "available": "2022-03-11",
+    "daysListed": 18,
+    "daysAvailable": -44,
+    "unitName": "220",
+    "floorPlanName": "Celadon",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 589,
+    "minRent": 2970,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1E10Parent_6B-2_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2022-01-08",
@@ -10813,6 +10813,20 @@
     "available": "2020-10-06",
     "daysListed": 45,
     "daysAvailable": -1,
+    "unitName": "872",
+    "floorPlanName": "Sea",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 833,
+    "minRent": 3351,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1Z10Parent_46B_DIMS_BW-01.jpg"
+  },
+  {
+    "firstListed": "2020-08-21",
+    "lastListed": "2020-10-05",
+    "available": "2020-10-06",
+    "daysListed": 45,
+    "daysAvailable": -1,
     "unitName": "627",
     "floorPlanName": "Aqua",
     "bedrooms": 1,
@@ -10848,20 +10862,6 @@
     "sqft": 662,
     "minRent": 3370,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1I10Parent_13B_DIMS_BW-01.jpg"
-  },
-  {
-    "firstListed": "2020-08-21",
-    "lastListed": "2020-10-05",
-    "available": "2020-10-06",
-    "daysListed": 45,
-    "daysAvailable": -1,
-    "unitName": "872",
-    "floorPlanName": "Sea",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 833,
-    "minRent": 3351,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1Z10Parent_46B_DIMS_BW-01.jpg"
   },
   {
     "firstListed": "2020-09-13",
