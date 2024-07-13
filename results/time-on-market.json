@@ -28,6 +28,20 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/05_675BradfordStreet_2036_Aimco1920x1121_1920x1121?qlt=100&fmt=jpg"
   },
   {
+    "firstListed": "2024-07-02",
+    "lastListed": "2024-07-12",
+    "available": "2024-08-31",
+    "daysListed": 10,
+    "daysAvailable": -50,
+    "unitName": "781",
+    "floorPlanName": "Brandeis",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 775,
+    "minRent": 3606,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/13_Indigo_Brandeis381_S4A8006?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2024-06-28",
     "lastListed": "2024-07-07",
     "available": "2024-08-31",
@@ -152,6 +166,20 @@
     "sqft": 885,
     "minRent": 3791,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/Cornflower-kitchen-1920x1121?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-06-05",
+    "lastListed": "2024-07-12",
+    "available": "2024-08-05",
+    "daysListed": 37,
+    "daysAvailable": -24,
+    "unitName": "880",
+    "floorPlanName": "Turquoise",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 552,
+    "minRent": 3173,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/06_Turqoise_Unit1076_I3A6673?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2024-05-30",
