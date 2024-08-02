@@ -295,6 +295,20 @@
   },
   {
     "firstListed": "2024-06-02",
+    "lastListed": "2024-08-01",
+    "available": "2024-08-04",
+    "daysListed": 60,
+    "daysAvailable": -3,
+    "unitName": "875",
+    "floorPlanName": "Mist",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 906,
+    "minRent": 3820,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/04_Mist_Unit77504_Mist_Unit775_I3A6546?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-06-02",
     "lastListed": "2024-07-24",
     "available": "2024-08-04",
     "daysListed": 52,
