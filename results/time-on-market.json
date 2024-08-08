@@ -10165,6 +10165,20 @@
   },
   {
     "firstListed": "2020-12-31",
+    "lastListed": "2021-01-13",
+    "available": "2020-12-31",
+    "daysListed": 13,
+    "daysAvailable": 13,
+    "unitName": "537",
+    "floorPlanName": "Smalt",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 2461,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg"
+  },
+  {
+    "firstListed": "2020-12-31",
     "lastListed": "2020-12-31",
     "available": "2020-12-31",
     "daysListed": 0,
@@ -10260,20 +10274,6 @@
     "sqft": 1778,
     "minRent": 8239,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/2O20_TopazPenthouse2_BW-01.jpg"
-  },
-  {
-    "firstListed": "2020-12-31",
-    "lastListed": "2021-01-13",
-    "available": "2020-12-31",
-    "daysListed": 13,
-    "daysAvailable": 13,
-    "unitName": "537",
-    "floorPlanName": "Smalt",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 583,
-    "minRent": 2461,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg"
   },
   {
     "firstListed": "2020-12-30",
