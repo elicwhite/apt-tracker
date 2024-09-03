@@ -3109,20 +3109,6 @@
   },
   {
     "firstListed": "2023-06-07",
-    "lastListed": "2023-07-29",
-    "available": "2023-07-22",
-    "daysListed": 52,
-    "daysAvailable": 7,
-    "unitName": "210",
-    "floorPlanName": "Cambridge",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 850,
-    "minRent": 3658,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1A10Parent_1B-2_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
-  },
-  {
-    "firstListed": "2023-06-07",
     "lastListed": "2023-06-10",
     "available": "2023-07-22",
     "daysListed": 3,
@@ -3134,6 +3120,20 @@
     "sqft": 496,
     "minRent": 2520,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Aegean_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2023-06-07",
+    "lastListed": "2023-07-29",
+    "available": "2023-07-22",
+    "daysListed": 52,
+    "daysAvailable": 7,
+    "unitName": "210",
+    "floorPlanName": "Cambridge",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 850,
+    "minRent": 3658,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1A10Parent_1B-2_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
     "firstListed": "2023-06-07",
@@ -5768,6 +5768,20 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
+    "firstListed": "2022-03-12",
+    "lastListed": "2022-07-03",
+    "available": "2022-07-01",
+    "daysListed": 113,
+    "daysAvailable": 2,
+    "unitName": "114",
+    "floorPlanName": "Aegean",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 496,
+    "minRent": 2495,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Aegean_BW_SKETCH_500x500-01.jpg"
+  },
+  {
     "firstListed": "2022-04-26",
     "lastListed": "2022-07-25",
     "available": "2022-07-01",
@@ -5808,20 +5822,6 @@
     "sqft": 1481,
     "minRent": 6290,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
-  },
-  {
-    "firstListed": "2022-03-12",
-    "lastListed": "2022-07-03",
-    "available": "2022-07-01",
-    "daysListed": 113,
-    "daysAvailable": 2,
-    "unitName": "114",
-    "floorPlanName": "Aegean",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 496,
-    "minRent": 2495,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Aegean_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2022-04-26",
@@ -10654,20 +10654,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EC10Parent_24A_BW-01.jpg"
   },
   {
-    "firstListed": "2020-08-24",
-    "lastListed": "2020-12-31",
-    "available": "2020-11-08",
-    "daysListed": 129,
-    "daysAvailable": 53,
-    "unitName": "614",
-    "floorPlanName": "Cyan",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 735,
-    "minRent": 3218,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1C10Parent_3B_DIMS_BW-01.jpg"
-  },
-  {
     "firstListed": "2020-09-21",
     "lastListed": "2020-12-31",
     "available": "2020-11-08",
@@ -10680,6 +10666,20 @@
     "sqft": 496,
     "minRent": 2508,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EA10Parent_3A-2_BW-01.jpg"
+  },
+  {
+    "firstListed": "2020-08-24",
+    "lastListed": "2020-12-31",
+    "available": "2020-11-08",
+    "daysListed": 129,
+    "daysAvailable": 53,
+    "unitName": "614",
+    "floorPlanName": "Cyan",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 735,
+    "minRent": 3218,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1C10Parent_3B_DIMS_BW-01.jpg"
   },
   {
     "firstListed": "2020-11-07",
