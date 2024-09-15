@@ -1,5 +1,19 @@
 [
   {
+    "firstListed": "2024-09-11",
+    "lastListed": "2024-09-14",
+    "available": "2024-11-09",
+    "daysListed": 3,
+    "daysAvailable": -56,
+    "unitName": "1029",
+    "floorPlanName": "Rackley",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1264,
+    "minRent": 5040,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/18_Indigo_Rackley511_S4A8391?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2024-08-21",
     "lastListed": "2024-09-06",
     "available": "2024-10-25",
@@ -54,6 +68,20 @@
     "sqft": 906,
     "minRent": 3850,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/04_Mist_Unit77504_Mist_Unit775_I3A6546?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-07-08",
+    "lastListed": "2024-09-14",
+    "available": "2024-09-14",
+    "daysListed": 68,
+    "daysAvailable": 0,
+    "unitName": "872",
+    "floorPlanName": "Sea",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 833,
+    "minRent": 3595,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/05_Sea_Unit872_I3A6583?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2024-06-27",
@@ -264,6 +292,20 @@
     "sqft": 662,
     "minRent": 3160,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/01_Celeste_Unit1013_I3A6382?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-06-07",
+    "lastListed": "2024-09-14",
+    "available": "2024-08-17",
+    "daysListed": 99,
+    "daysAvailable": 28,
+    "unitName": "379",
+    "floorPlanName": "Moonstone",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 814,
+    "minRent": 3615,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920x1121_Cobalt_1bed_1bath?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2024-08-16",
@@ -11149,20 +11191,6 @@
     "available": "2020-10-06",
     "daysListed": 45,
     "daysAvailable": -1,
-    "unitName": "627",
-    "floorPlanName": "Aqua",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 815,
-    "minRent": 3151,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/1920x1121/interior/750681.jpg"
-  },
-  {
-    "firstListed": "2020-08-21",
-    "lastListed": "2020-10-05",
-    "available": "2020-10-06",
-    "daysListed": 45,
-    "daysAvailable": -1,
     "unitName": "872",
     "floorPlanName": "Sea",
     "bedrooms": 1,
@@ -11170,6 +11198,20 @@
     "sqft": 833,
     "minRent": 3351,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1Z10Parent_46B_DIMS_BW-01.jpg"
+  },
+  {
+    "firstListed": "2020-08-21",
+    "lastListed": "2020-10-05",
+    "available": "2020-10-06",
+    "daysListed": 45,
+    "daysAvailable": -1,
+    "unitName": "627",
+    "floorPlanName": "Aqua",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 815,
+    "minRent": 3151,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/1920x1121/interior/750681.jpg"
   },
   {
     "firstListed": "2020-08-27",
