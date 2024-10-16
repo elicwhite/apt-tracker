@@ -4229,6 +4229,20 @@
   },
   {
     "firstListed": "2023-03-22",
+    "lastListed": "2023-03-31",
+    "available": "2023-05-06",
+    "daysListed": 9,
+    "daysAvailable": -36,
+    "unitName": "546",
+    "floorPlanName": "Cornflower",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 885,
+    "minRent": 4039,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2023-03-22",
     "lastListed": "2023-05-10",
     "available": "2023-05-06",
     "daysListed": 49,
@@ -4254,20 +4268,6 @@
     "sqft": 754,
     "minRent": 3203,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1X10Parent_43B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
-  },
-  {
-    "firstListed": "2023-03-22",
-    "lastListed": "2023-03-31",
-    "available": "2023-05-06",
-    "daysListed": 9,
-    "daysAvailable": -36,
-    "unitName": "546",
-    "floorPlanName": "Cornflower",
-    "bedrooms": 2,
-    "bathrooms": 1,
-    "sqft": 885,
-    "minRent": 4039,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
     "firstListed": "2023-03-22",
