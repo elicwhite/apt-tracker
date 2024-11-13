@@ -1,5 +1,19 @@
 [
   {
+    "firstListed": "2024-11-12",
+    "lastListed": "2024-11-12",
+    "available": "2024-11-12",
+    "daysListed": 0,
+    "daysAvailable": 0,
+    "unitName": "210",
+    "floorPlanName": "Cambridge",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 850,
+    "minRent": 3880,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920_Cambridge_Unit210_Kitchen01?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2024-09-11",
     "lastListed": "2024-09-14",
     "available": "2024-11-09",
@@ -3290,6 +3304,20 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1II10Parent_57A-2_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
+    "firstListed": "2023-06-07",
+    "lastListed": "2023-07-29",
+    "available": "2023-07-22",
+    "daysListed": 52,
+    "daysAvailable": 7,
+    "unitName": "210",
+    "floorPlanName": "Cambridge",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 850,
+    "minRent": 3658,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1A10Parent_1B-2_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
     "firstListed": "2023-07-09",
     "lastListed": "2023-07-14",
     "available": "2023-07-22",
@@ -3316,20 +3344,6 @@
     "sqft": 496,
     "minRent": 2520,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Aegean_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
-  },
-  {
-    "firstListed": "2023-06-07",
-    "lastListed": "2023-07-29",
-    "available": "2023-07-22",
-    "daysListed": 52,
-    "daysAvailable": 7,
-    "unitName": "210",
-    "floorPlanName": "Cambridge",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 850,
-    "minRent": 3658,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1A10Parent_1B-2_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
     "firstListed": "2023-06-07",
