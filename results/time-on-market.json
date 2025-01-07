@@ -14,6 +14,20 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/17_Indigo_Indigo1016_S4A8298?qlt=100&fmt=jpg"
   },
   {
+    "firstListed": "2025-01-06",
+    "lastListed": "2025-01-06",
+    "available": "2025-01-06",
+    "daysListed": 0,
+    "daysAvailable": 0,
+    "unitName": "234",
+    "floorPlanName": "Lavender",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1351,
+    "minRent": 5300,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920_Indigo_Lavender_Unit234_Kitchen03?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2024-11-01",
     "lastListed": "2024-12-21",
     "available": "2025-01-02",
@@ -2427,20 +2441,6 @@
     "available": "2023-12-20",
     "daysListed": 0,
     "daysAvailable": 0,
-    "unitName": "385",
-    "floorPlanName": "Tufts",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1114,
-    "minRent": 4396,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2I20Parent_37C-P_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
-  },
-  {
-    "firstListed": "2023-12-20",
-    "lastListed": "2023-12-20",
-    "available": "2023-12-20",
-    "daysListed": 0,
-    "daysAvailable": 0,
     "unitName": "234",
     "floorPlanName": "Lavender",
     "bedrooms": 2,
@@ -2448,6 +2448,20 @@
     "sqft": 1351,
     "minRent": 5178,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2F20Parent_21C-2_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2023-12-20",
+    "lastListed": "2023-12-20",
+    "available": "2023-12-20",
+    "daysListed": 0,
+    "daysAvailable": 0,
+    "unitName": "385",
+    "floorPlanName": "Tufts",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1114,
+    "minRent": 4396,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2I20Parent_37C-P_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
     "firstListed": "2023-11-04",
