@@ -1,5 +1,19 @@
 [
   {
+    "firstListed": "2025-01-09",
+    "lastListed": "2025-01-24",
+    "available": "2025-03-14",
+    "daysListed": 15,
+    "daysAvailable": -49,
+    "unitName": "330",
+    "floorPlanName": "Denim",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 670,
+    "minRent": 3271,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920x1121_Cobalt_1bed_1bath?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2025-01-20",
     "lastListed": "2025-01-20",
     "available": "2025-03-06",
