@@ -1330,20 +1330,6 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/09_Indigo_Midnight832_S4A7735?qlt=100&fmt=jpg"
   },
   {
-    "firstListed": "2024-04-25",
-    "lastListed": "2024-06-11",
-    "available": "2024-06-22",
-    "daysListed": 47,
-    "daysAvailable": -11,
-    "unitName": "248",
-    "floorPlanName": "Water",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 759,
-    "minRent": 3394,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/02_Indigo_Water348_S4A7156?qlt=100&fmt=jpg"
-  },
-  {
     "firstListed": "2024-04-07",
     "lastListed": "2024-05-24",
     "available": "2024-06-22",
@@ -1356,6 +1342,20 @@
     "sqft": 759,
     "minRent": 3334,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/16_Indigo_Aquamarine1087_S4A8241-1?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-04-25",
+    "lastListed": "2024-06-11",
+    "available": "2024-06-22",
+    "daysListed": 47,
+    "daysAvailable": -11,
+    "unitName": "248",
+    "floorPlanName": "Water",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 759,
+    "minRent": 3394,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/02_Indigo_Water348_S4A7156?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2024-04-03",
@@ -8695,20 +8695,6 @@
   },
   {
     "firstListed": "2021-04-08",
-    "lastListed": "2021-05-17",
-    "available": "2021-07-02",
-    "daysListed": 39,
-    "daysAvailable": -46,
-    "unitName": "218",
-    "floorPlanName": "Indigo",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 697,
-    "minRent": 3145,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1D10Parent_04B_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
-    "firstListed": "2021-04-08",
     "lastListed": "2021-05-07",
     "available": "2021-07-02",
     "daysListed": 29,
@@ -8720,6 +8706,20 @@
     "sqft": 759,
     "minRent": 3254,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2021-04-08",
+    "lastListed": "2021-05-17",
+    "available": "2021-07-02",
+    "daysListed": 39,
+    "daysAvailable": -46,
+    "unitName": "218",
+    "floorPlanName": "Indigo",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 697,
+    "minRent": 3145,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1D10Parent_04B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2021-04-12",
