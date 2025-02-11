@@ -1,5 +1,33 @@
 [
   {
+    "firstListed": "2025-01-25",
+    "lastListed": "2025-02-10",
+    "available": "2025-06-20",
+    "daysListed": 16,
+    "daysAvailable": -130,
+    "unitName": "244",
+    "floorPlanName": "Marine",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1554,
+    "minRent": 5893,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/08_Indigo_Marine944_S4A7636?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2025-02-06",
+    "lastListed": "2025-02-10",
+    "available": "2025-04-08",
+    "daysListed": 4,
+    "daysAvailable": -57,
+    "unitName": "685",
+    "floorPlanName": "Aquamarine",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 759,
+    "minRent": 3736,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/16_Indigo_Aquamarine1087_S4A8241-1?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2025-01-24",
     "lastListed": "2025-02-05",
     "available": "2025-03-28",
