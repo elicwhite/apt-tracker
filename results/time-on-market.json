@@ -9828,20 +9828,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C20Parent_10C_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
-    "firstListed": "2021-03-19",
-    "lastListed": "2021-05-18",
-    "available": "2021-03-19",
-    "daysListed": 60,
-    "daysAvailable": 60,
-    "unitName": "722",
-    "floorPlanName": "Turquoise",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 552,
-    "minRent": 2309,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2021-01-08",
     "lastListed": "2021-01-30",
     "available": "2021-03-19",
@@ -9854,6 +9840,20 @@
     "sqft": 697,
     "minRent": 3804,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1D10Parent_04B_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2021-03-19",
+    "lastListed": "2021-05-18",
+    "available": "2021-03-19",
+    "daysListed": 60,
+    "daysAvailable": 60,
+    "unitName": "722",
+    "floorPlanName": "Turquoise",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 552,
+    "minRent": 2309,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2021-01-26",
@@ -12405,20 +12405,6 @@
   },
   {
     "firstListed": "2020-08-22",
-    "lastListed": "2020-09-12",
-    "available": "2020-08-22",
-    "daysListed": 21,
-    "daysAvailable": 21,
-    "unitName": "224",
-    "floorPlanName": "Turquoise",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 552,
-    "minRent": 2552,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_EB10Parent_50A_DIMS_BW-01.jpg"
-  },
-  {
-    "firstListed": "2020-08-22",
     "lastListed": "2020-09-05",
     "available": "2020-08-22",
     "daysListed": 14,
@@ -12430,6 +12416,20 @@
     "sqft": 1481,
     "minRent": 5215,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
+  },
+  {
+    "firstListed": "2020-08-22",
+    "lastListed": "2020-09-12",
+    "available": "2020-08-22",
+    "daysListed": 21,
+    "daysAvailable": 21,
+    "unitName": "224",
+    "floorPlanName": "Turquoise",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 552,
+    "minRent": 2552,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_EB10Parent_50A_DIMS_BW-01.jpg"
   },
   {
     "firstListed": "2020-08-21",
