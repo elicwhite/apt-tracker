@@ -14,6 +14,34 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/08_Indigo_Marine944_S4A7636?qlt=100&fmt=jpg"
   },
   {
+    "firstListed": "2025-02-09",
+    "lastListed": "2025-02-13",
+    "available": "2025-05-10",
+    "daysListed": 4,
+    "daysAvailable": -86,
+    "unitName": "444",
+    "floorPlanName": "Marine",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1554,
+    "minRent": 5893,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/08_Indigo_Marine944_S4A7636?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2025-01-05",
+    "lastListed": "2025-02-13",
+    "available": "2025-04-11",
+    "daysListed": 39,
+    "daysAvailable": -57,
+    "unitName": "731",
+    "floorPlanName": "Cobalt",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 838,
+    "minRent": 3810,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920x1121_Cobalt_1bed_1bath?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2025-02-06",
     "lastListed": "2025-02-10",
     "available": "2025-04-08",
@@ -9520,20 +9548,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EE10Parent_38A_BW_SKETCH_500x500-01.jpg"
   },
   {
-    "firstListed": "2021-02-20",
-    "lastListed": "2021-08-20",
-    "available": "2021-04-23",
-    "daysListed": 181,
-    "daysAvailable": 119,
-    "unitName": "1085",
-    "floorPlanName": "Aquamarine",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 759,
-    "minRent": 3601,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2021-01-27",
     "lastListed": "2021-04-28",
     "available": "2021-04-23",
@@ -9546,6 +9560,20 @@
     "sqft": 838,
     "minRent": 3400,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1NN10Parent_66B-2_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2021-02-20",
+    "lastListed": "2021-08-20",
+    "available": "2021-04-23",
+    "daysListed": 181,
+    "daysAvailable": 119,
+    "unitName": "1085",
+    "floorPlanName": "Aquamarine",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 759,
+    "minRent": 3601,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2021-02-13",
