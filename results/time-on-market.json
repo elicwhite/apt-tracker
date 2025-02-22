@@ -4271,6 +4271,20 @@
   },
   {
     "firstListed": "2023-04-12",
+    "lastListed": "2023-04-13",
+    "available": "2023-05-27",
+    "daysListed": 1,
+    "daysAvailable": -44,
+    "unitName": "915",
+    "floorPlanName": "Aqua",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 815,
+    "minRent": 3778,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1CC10_Aqua_BW_SKETCH_500x500_Edit?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2023-04-12",
     "lastListed": "2023-05-24",
     "available": "2023-05-27",
     "daysListed": 42,
@@ -4310,20 +4324,6 @@
     "sqft": 583,
     "minRent": 2750,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1JJ10_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
-  },
-  {
-    "firstListed": "2023-04-12",
-    "lastListed": "2023-04-13",
-    "available": "2023-05-27",
-    "daysListed": 1,
-    "daysAvailable": -44,
-    "unitName": "915",
-    "floorPlanName": "Aqua",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 815,
-    "minRent": 3778,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1CC10_Aqua_BW_SKETCH_500x500_Edit?qlt=85&fmt=jpg"
   },
   {
     "firstListed": "2023-04-12",
@@ -7112,20 +7112,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
-    "firstListed": "2022-01-04",
-    "lastListed": "2022-05-15",
-    "available": "2022-03-12",
-    "daysListed": 131,
-    "daysAvailable": 64,
-    "unitName": "312",
-    "floorPlanName": "Royal",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 739,
-    "minRent": 3520,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1B10Parent_02B_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2022-01-12",
     "lastListed": "2022-01-12",
     "available": "2022-03-12",
@@ -7138,6 +7124,20 @@
     "sqft": 662,
     "minRent": 3065,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Celeste_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2022-01-04",
+    "lastListed": "2022-05-15",
+    "available": "2022-03-12",
+    "daysListed": 131,
+    "daysAvailable": 64,
+    "unitName": "312",
+    "floorPlanName": "Royal",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 739,
+    "minRent": 3520,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1B10Parent_02B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2022-03-11",
@@ -8554,6 +8554,20 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
+    "firstListed": "2021-07-17",
+    "lastListed": "2021-07-25",
+    "available": "2021-07-17",
+    "daysListed": 8,
+    "daysAvailable": 8,
+    "unitName": "915",
+    "floorPlanName": "Aqua",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 815,
+    "minRent": 3545,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg"
+  },
+  {
     "firstListed": "2021-05-15",
     "lastListed": "2021-05-25",
     "available": "2021-07-17",
@@ -8580,20 +8594,6 @@
     "sqft": 759,
     "minRent": 3223,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1S10Parent_36B_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
-    "firstListed": "2021-07-17",
-    "lastListed": "2021-07-25",
-    "available": "2021-07-17",
-    "daysListed": 8,
-    "daysAvailable": 8,
-    "unitName": "915",
-    "floorPlanName": "Aqua",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 815,
-    "minRent": 3545,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg"
   },
   {
     "firstListed": "2021-05-18",
@@ -9016,20 +9016,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1L10Parent_22B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
-    "firstListed": "2021-04-06",
-    "lastListed": "2021-04-08",
-    "available": "2021-05-28",
-    "daysListed": 2,
-    "daysAvailable": -50,
-    "unitName": "824",
-    "floorPlanName": "Turquoise",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 552,
-    "minRent": 2912,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2021-04-10",
     "lastListed": "2021-04-12",
     "available": "2021-05-28",
@@ -9042,6 +9028,20 @@
     "sqft": 815,
     "minRent": 3246,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg"
+  },
+  {
+    "firstListed": "2021-04-06",
+    "lastListed": "2021-04-08",
+    "available": "2021-05-28",
+    "daysListed": 2,
+    "daysAvailable": -50,
+    "unitName": "824",
+    "floorPlanName": "Turquoise",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 552,
+    "minRent": 2912,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2021-05-28",
