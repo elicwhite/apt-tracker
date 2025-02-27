@@ -28,6 +28,20 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/17_Indigo_Indigo1016_S4A8298?qlt=100&fmt=jpg"
   },
   {
+    "firstListed": "2025-01-29",
+    "lastListed": "2025-02-26",
+    "available": "2025-05-02",
+    "daysListed": 28,
+    "daysAvailable": -65,
+    "unitName": "981",
+    "floorPlanName": "Brandeis",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 775,
+    "minRent": 3813,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/13_Indigo_Brandeis381_S4A8006?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2025-01-05",
     "lastListed": "2025-02-13",
     "available": "2025-04-11",
@@ -7532,20 +7546,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1D10Parent_04B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
-    "firstListed": "2021-10-05",
-    "lastListed": "2022-01-05",
-    "available": "2021-12-07",
-    "daysListed": 92,
-    "daysAvailable": 29,
-    "unitName": "1041",
-    "floorPlanName": "Cobalt",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 838,
-    "minRent": 3795,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Cobalt_DIMS_BW_SKETCH_500X500-01.jpg"
-  },
-  {
     "firstListed": "2021-10-06",
     "lastListed": "2021-10-22",
     "available": "2021-12-07",
@@ -7558,6 +7558,20 @@
     "sqft": 775,
     "minRent": 3485,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2021-10-05",
+    "lastListed": "2022-01-05",
+    "available": "2021-12-07",
+    "daysListed": 92,
+    "daysAvailable": 29,
+    "unitName": "1041",
+    "floorPlanName": "Cobalt",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 838,
+    "minRent": 3795,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Cobalt_DIMS_BW_SKETCH_500X500-01.jpg"
   },
   {
     "firstListed": "2021-10-02",
