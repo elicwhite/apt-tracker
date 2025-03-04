@@ -1891,6 +1891,20 @@
   },
   {
     "firstListed": "2024-03-22",
+    "lastListed": "2024-04-11",
+    "available": "2024-05-11",
+    "daysListed": 20,
+    "daysAvailable": -30,
+    "unitName": "333",
+    "floorPlanName": "Robin",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 769,
+    "minRent": 3212,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/14_Indigo_Robin633_S4A8080?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-03-22",
     "lastListed": "2024-03-26",
     "available": "2024-05-11",
     "daysListed": 4,
@@ -1916,20 +1930,6 @@
     "sqft": 739,
     "minRent": 3309,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/12_Indigo_Royal1012_S4A7945?qlt=100&fmt=jpg"
-  },
-  {
-    "firstListed": "2024-03-22",
-    "lastListed": "2024-04-11",
-    "available": "2024-05-11",
-    "daysListed": 20,
-    "daysAvailable": -30,
-    "unitName": "333",
-    "floorPlanName": "Robin",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 769,
-    "minRent": 3212,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/14_Indigo_Robin633_S4A8080?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2024-03-23",
@@ -9212,6 +9212,20 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
+    "firstListed": "2021-03-18",
+    "lastListed": "2021-05-03",
+    "available": "2021-05-21",
+    "daysListed": 46,
+    "daysAvailable": -18,
+    "unitName": "333",
+    "floorPlanName": "Robin",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 769,
+    "minRent": 3289,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1P10Parent_032B_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
     "firstListed": "2021-03-19",
     "lastListed": "2021-04-05",
     "available": "2021-05-21",
@@ -9252,20 +9266,6 @@
     "sqft": 495,
     "minRent": 2459,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/EG10Parent_54A-2_BW_SKETCH_500x500-01.jpg"
-  },
-  {
-    "firstListed": "2021-03-18",
-    "lastListed": "2021-05-03",
-    "available": "2021-05-21",
-    "daysListed": 46,
-    "daysAvailable": -18,
-    "unitName": "333",
-    "floorPlanName": "Robin",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 769,
-    "minRent": 3289,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1P10Parent_032B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2021-01-14",
