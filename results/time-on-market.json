@@ -56,6 +56,20 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/17_Indigo_Indigo1016_S4A8298?qlt=100&fmt=jpg"
   },
   {
+    "firstListed": "2025-02-28",
+    "lastListed": "2025-03-15",
+    "available": "2025-05-02",
+    "daysListed": 15,
+    "daysAvailable": -48,
+    "unitName": "337",
+    "floorPlanName": "Smalt",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 3131,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/03_Indigo_Smalt542_S4A7248?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2025-01-29",
     "lastListed": "2025-02-26",
     "available": "2025-05-02",
@@ -10319,20 +10333,6 @@
   },
   {
     "firstListed": "2021-02-26",
-    "lastListed": "2021-03-18",
-    "available": "2021-02-26",
-    "daysListed": 20,
-    "daysAvailable": 20,
-    "unitName": "252",
-    "floorPlanName": "Palatinate",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 638,
-    "minRent": 2449,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1LL10Parent_61B-2_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
-    "firstListed": "2021-02-26",
     "lastListed": "2021-06-01",
     "available": "2021-02-26",
     "daysListed": 95,
@@ -10344,6 +10344,20 @@
     "sqft": 583,
     "minRent": 2407,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2021-02-26",
+    "lastListed": "2021-03-18",
+    "available": "2021-02-26",
+    "daysListed": 20,
+    "daysAvailable": 20,
+    "unitName": "252",
+    "floorPlanName": "Palatinate",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 638,
+    "minRent": 2449,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1LL10Parent_61B-2_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2021-01-08",
