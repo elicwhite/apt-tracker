@@ -1,19 +1,5 @@
 [
   {
-    "firstListed": "2025-01-25",
-    "lastListed": "2025-02-10",
-    "available": "2025-06-20",
-    "daysListed": 16,
-    "daysAvailable": -130,
-    "unitName": "244",
-    "floorPlanName": "Marine",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1554,
-    "minRent": 5893,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/08_Indigo_Marine944_S4A7636?qlt=100&fmt=jpg"
-  },
-  {
     "firstListed": "2025-03-04",
     "lastListed": "2025-03-11",
     "available": "2025-05-17",
@@ -4383,20 +4369,6 @@
   },
   {
     "firstListed": "2023-04-12",
-    "lastListed": "2023-04-13",
-    "available": "2023-05-27",
-    "daysListed": 1,
-    "daysAvailable": -44,
-    "unitName": "915",
-    "floorPlanName": "Aqua",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 815,
-    "minRent": 3778,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1CC10_Aqua_BW_SKETCH_500x500_Edit?qlt=85&fmt=jpg"
-  },
-  {
-    "firstListed": "2023-04-12",
     "lastListed": "2023-05-24",
     "available": "2023-05-27",
     "daysListed": 42,
@@ -4408,6 +4380,20 @@
     "sqft": 1554,
     "minRent": 5893,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo2H20Parent_26C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2023-04-12",
+    "lastListed": "2023-04-13",
+    "available": "2023-05-27",
+    "daysListed": 1,
+    "daysAvailable": -44,
+    "unitName": "915",
+    "floorPlanName": "Aqua",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 815,
+    "minRent": 3778,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1CC10_Aqua_BW_SKETCH_500x500_Edit?qlt=85&fmt=jpg"
   },
   {
     "firstListed": "2023-04-12",
