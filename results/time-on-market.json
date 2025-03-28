@@ -11284,20 +11284,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1Z10Parent_46B_DIMS_BW-01.jpg"
   },
   {
-    "firstListed": "2020-09-05",
-    "lastListed": "2021-02-11",
-    "available": "2020-11-05",
-    "daysListed": 159,
-    "daysAvailable": 98,
-    "unitName": "371",
-    "floorPlanName": "Majorelle",
-    "bedrooms": 2,
-    "bathrooms": 1,
-    "sqft": 1076,
-    "minRent": 3758,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2H10Parent_44C_DIMS_BW-01.jpg"
-  },
-  {
     "firstListed": "2020-11-05",
     "lastListed": "2021-01-24",
     "available": "2020-11-05",
@@ -11310,6 +11296,20 @@
     "sqft": 833,
     "minRent": 2960,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1Z10Parent_46B_DIMS_BW-01.jpg"
+  },
+  {
+    "firstListed": "2020-09-05",
+    "lastListed": "2021-02-11",
+    "available": "2020-11-05",
+    "daysListed": 159,
+    "daysAvailable": 98,
+    "unitName": "371",
+    "floorPlanName": "Majorelle",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 1076,
+    "minRent": 3758,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2H10Parent_44C_DIMS_BW-01.jpg"
   },
   {
     "firstListed": "2020-09-02",
