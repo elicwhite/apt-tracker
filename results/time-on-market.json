@@ -714,20 +714,6 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/11_Indigo_Cyan814_S4A7910?qlt=100&fmt=jpg"
   },
   {
-    "firstListed": "2024-06-23",
-    "lastListed": "2024-07-09",
-    "available": "2024-08-24",
-    "daysListed": 16,
-    "daysAvailable": -46,
-    "unitName": "814",
-    "floorPlanName": "Cyan",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 735,
-    "minRent": 3483,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/11_Indigo_Cyan814_S4A7910?qlt=100&fmt=jpg"
-  },
-  {
     "firstListed": "2024-06-05",
     "lastListed": "2024-06-22",
     "available": "2024-08-24",
@@ -740,6 +726,20 @@
     "sqft": 583,
     "minRent": 3071,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/03_Indigo_Smalt542_S4A7248?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-06-23",
+    "lastListed": "2024-07-09",
+    "available": "2024-08-24",
+    "daysListed": 16,
+    "daysAvailable": -46,
+    "unitName": "814",
+    "floorPlanName": "Cyan",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 735,
+    "minRent": 3483,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/11_Indigo_Cyan814_S4A7910?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2024-05-05",
@@ -11257,20 +11257,6 @@
   },
   {
     "firstListed": "2020-11-06",
-    "lastListed": "2020-12-09",
-    "available": "2020-11-06",
-    "daysListed": 33,
-    "daysAvailable": 33,
-    "unitName": "874",
-    "floorPlanName": "Sky",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 801,
-    "minRent": 2972,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1AA10Parent_47B_DIMS_BW-01.jpg"
-  },
-  {
-    "firstListed": "2020-11-06",
     "lastListed": "2020-11-11",
     "available": "2020-11-06",
     "daysListed": 5,
@@ -11282,6 +11268,20 @@
     "sqft": 833,
     "minRent": 3040,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1Z10Parent_46B_DIMS_BW-01.jpg"
+  },
+  {
+    "firstListed": "2020-11-06",
+    "lastListed": "2020-12-09",
+    "available": "2020-11-06",
+    "daysListed": 33,
+    "daysAvailable": 33,
+    "unitName": "874",
+    "floorPlanName": "Sky",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 801,
+    "minRent": 2972,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1AA10Parent_47B_DIMS_BW-01.jpg"
   },
   {
     "firstListed": "2020-11-05",
@@ -12348,20 +12348,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg"
   },
   {
-    "firstListed": "2020-08-24",
-    "lastListed": "2020-09-09",
-    "available": "2020-08-30",
-    "daysListed": 16,
-    "daysAvailable": 10,
-    "unitName": "208",
-    "floorPlanName": "Zaffre",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 547,
-    "minRent": 2427,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1MM10Parent_64B-2_BW-01.jpg"
-  },
-  {
     "firstListed": "2020-08-30",
     "lastListed": "2020-10-15",
     "available": "2020-08-30",
@@ -12373,20 +12359,6 @@
     "bathrooms": 1,
     "sqft": 583,
     "minRent": 2597,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg"
-  },
-  {
-    "firstListed": "2020-08-28",
-    "lastListed": "2020-08-29",
-    "available": "2020-08-30",
-    "daysListed": 1,
-    "daysAvailable": -1,
-    "unitName": "842",
-    "floorPlanName": "Smalt",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 583,
-    "minRent": 2818,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg"
   },
   {
@@ -12402,6 +12374,34 @@
     "sqft": 833,
     "minRent": 3240,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1Z10Parent_46B_DIMS_BW-01.jpg"
+  },
+  {
+    "firstListed": "2020-08-24",
+    "lastListed": "2020-09-09",
+    "available": "2020-08-30",
+    "daysListed": 16,
+    "daysAvailable": 10,
+    "unitName": "208",
+    "floorPlanName": "Zaffre",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 547,
+    "minRent": 2427,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1MM10Parent_64B-2_BW-01.jpg"
+  },
+  {
+    "firstListed": "2020-08-28",
+    "lastListed": "2020-08-29",
+    "available": "2020-08-30",
+    "daysListed": 1,
+    "daysAvailable": -1,
+    "unitName": "842",
+    "floorPlanName": "Smalt",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 2818,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg"
   },
   {
     "firstListed": "2020-08-25",
