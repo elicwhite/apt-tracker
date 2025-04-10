@@ -7001,20 +7001,6 @@
   },
   {
     "firstListed": "2022-04-24",
-    "lastListed": "2022-04-24",
-    "available": "2022-04-24",
-    "daysListed": 0,
-    "daysAvailable": 0,
-    "unitName": "260",
-    "floorPlanName": "Violet",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 846,
-    "minRent": 3665,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1HH10Parent_56B-2_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
-    "firstListed": "2022-04-24",
     "lastListed": "2022-06-28",
     "available": "2022-04-24",
     "daysListed": 65,
@@ -7026,6 +7012,20 @@
     "sqft": 1481,
     "minRent": 6380,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
+  },
+  {
+    "firstListed": "2022-04-24",
+    "lastListed": "2022-04-24",
+    "available": "2022-04-24",
+    "daysListed": 0,
+    "daysAvailable": 0,
+    "unitName": "260",
+    "floorPlanName": "Violet",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 846,
+    "minRent": 3665,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1HH10Parent_56B-2_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2022-02-15",
