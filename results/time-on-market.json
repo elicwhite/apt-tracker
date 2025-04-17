@@ -42,6 +42,20 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/03_Indigo_Smalt542_S4A7248?qlt=100&fmt=jpg"
   },
   {
+    "firstListed": "2025-04-13",
+    "lastListed": "2025-04-16",
+    "available": "2025-05-30",
+    "daysListed": 3,
+    "daysAvailable": -44,
+    "unitName": "939",
+    "floorPlanName": "Tiffany",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 694,
+    "minRent": 3689,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920x1121_Cobalt_1bed_1bath?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2025-04-04",
     "lastListed": "2025-04-10",
     "available": "2025-05-24",
@@ -235,6 +249,20 @@
     "bathrooms": 1,
     "sqft": 552,
     "minRent": 3083,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920_Indigo_Turquoise_Kitchen01?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2025-01-23",
+    "lastListed": "2025-04-16",
+    "available": "2025-03-27",
+    "daysListed": 83,
+    "daysAvailable": 20,
+    "unitName": "324",
+    "floorPlanName": "Turquoise",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 552,
+    "minRent": 3133,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920_Indigo_Turquoise_Kitchen01?qlt=100&fmt=jpg"
   },
   {
