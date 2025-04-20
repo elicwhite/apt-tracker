@@ -6818,6 +6818,20 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1LL10Parent_61B-2_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
+    "firstListed": "2022-05-06",
+    "lastListed": "2022-05-10",
+    "available": "2022-05-06",
+    "daysListed": 4,
+    "daysAvailable": 4,
+    "unitName": "531",
+    "floorPlanName": "Cobalt",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 838,
+    "minRent": 3430,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Cobalt_DIMS_BW_SKETCH_500X500-01.jpg"
+  },
+  {
     "firstListed": "2022-02-15",
     "lastListed": "2022-03-22",
     "available": "2022-05-06",
@@ -6844,20 +6858,6 @@
     "sqft": 662,
     "minRent": 3380,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Celeste_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
-    "firstListed": "2022-05-06",
-    "lastListed": "2022-05-10",
-    "available": "2022-05-06",
-    "daysListed": 4,
-    "daysAvailable": 4,
-    "unitName": "531",
-    "floorPlanName": "Cobalt",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 838,
-    "minRent": 3430,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Cobalt_DIMS_BW_SKETCH_500X500-01.jpg"
   },
   {
     "firstListed": "2022-03-09",
@@ -11522,20 +11522,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1DD10Parent_51B_DIMS_BW-01.jpg"
   },
   {
-    "firstListed": "2020-10-02",
-    "lastListed": "2020-12-31",
-    "available": "2020-10-30",
-    "daysListed": 90,
-    "daysAvailable": 62,
-    "unitName": "385",
-    "floorPlanName": "Tufts",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1114,
-    "minRent": 4025,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/2I20Parent_37C-P_BW-01.jpg"
-  },
-  {
     "firstListed": "2020-08-28",
     "lastListed": "2020-12-01",
     "available": "2020-10-30",
@@ -11548,6 +11534,20 @@
     "sqft": 838,
     "minRent": 2911,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1N10Parent_28B_DIMS_BW-01.jpg"
+  },
+  {
+    "firstListed": "2020-10-02",
+    "lastListed": "2020-12-31",
+    "available": "2020-10-30",
+    "daysListed": 90,
+    "daysAvailable": 62,
+    "unitName": "385",
+    "floorPlanName": "Tufts",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1114,
+    "minRent": 4025,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/2I20Parent_37C-P_BW-01.jpg"
   },
   {
     "firstListed": "2020-09-01",
