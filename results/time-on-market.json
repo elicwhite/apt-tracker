@@ -1,5 +1,47 @@
 [
   {
+    "firstListed": "2025-04-23",
+    "lastListed": "2025-04-30",
+    "available": "2025-07-12",
+    "daysListed": 7,
+    "daysAvailable": -73,
+    "unitName": "1083",
+    "floorPlanName": "Lapis",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 495,
+    "minRent": 3283,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920x1121-Indigo-Apartments-cadet-kitchen?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2025-04-23",
+    "lastListed": "2025-04-30",
+    "available": "2025-06-28",
+    "daysListed": 7,
+    "daysAvailable": -59,
+    "unitName": "1082",
+    "floorPlanName": "Azure Penthouse",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1635,
+    "minRent": 8532,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920x1121_03_PenthouseUnit1082_I3A0655?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2025-04-24",
+    "lastListed": "2025-04-30",
+    "available": "2025-06-28",
+    "daysListed": 6,
+    "daysAvailable": -59,
+    "unitName": "535",
+    "floorPlanName": "Smalt",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 3111,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/03_Indigo_Smalt542_S4A7248?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2025-04-17",
     "lastListed": "2025-04-21",
     "available": "2025-06-28",
