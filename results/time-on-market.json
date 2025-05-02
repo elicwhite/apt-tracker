@@ -2,20 +2,6 @@
   {
     "firstListed": "2025-04-23",
     "lastListed": "2025-04-30",
-    "available": "2025-07-12",
-    "daysListed": 7,
-    "daysAvailable": -73,
-    "unitName": "1083",
-    "floorPlanName": "Lapis",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 495,
-    "minRent": 3283,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920x1121-Indigo-Apartments-cadet-kitchen?qlt=100&fmt=jpg"
-  },
-  {
-    "firstListed": "2025-04-23",
-    "lastListed": "2025-04-30",
     "available": "2025-06-28",
     "daysListed": 7,
     "daysAvailable": -59,
@@ -1666,6 +1652,20 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/01_Indigo_Storm341_S4A7123?qlt=100&fmt=jpg"
   },
   {
+    "firstListed": "2024-04-25",
+    "lastListed": "2024-06-06",
+    "available": "2024-06-29",
+    "daysListed": 42,
+    "daysAvailable": -23,
+    "unitName": "412",
+    "floorPlanName": "Royal",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 739,
+    "minRent": 3239,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/12_Indigo_Royal1012_S4A7945?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2024-04-05",
     "lastListed": "2024-04-23",
     "available": "2024-06-29",
@@ -1692,20 +1692,6 @@
     "sqft": 906,
     "minRent": 3645,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/04_Mist_Unit77504_Mist_Unit775_I3A6546?qlt=100&fmt=jpg"
-  },
-  {
-    "firstListed": "2024-04-25",
-    "lastListed": "2024-06-06",
-    "available": "2024-06-29",
-    "daysListed": 42,
-    "daysAvailable": -23,
-    "unitName": "412",
-    "floorPlanName": "Royal",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 739,
-    "minRent": 3239,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/12_Indigo_Royal1012_S4A7945?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2024-04-25",
@@ -5769,20 +5755,6 @@
   },
   {
     "firstListed": "2022-09-22",
-    "lastListed": "2022-10-05",
-    "available": "2022-09-22",
-    "daysListed": 13,
-    "daysAvailable": 13,
-    "unitName": "1077",
-    "floorPlanName": "Oxford",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 770,
-    "minRent": 3613,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1V10Parent_41B_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
-    "firstListed": "2022-09-22",
     "lastListed": "2022-10-03",
     "available": "2022-09-22",
     "daysListed": 11,
@@ -5794,6 +5766,20 @@
     "sqft": 1032,
     "minRent": 4674,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2F10Parent_35C_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2022-09-22",
+    "lastListed": "2022-10-05",
+    "available": "2022-09-22",
+    "daysListed": 13,
+    "daysAvailable": 13,
+    "unitName": "1077",
+    "floorPlanName": "Oxford",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 770,
+    "minRent": 3613,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1V10Parent_41B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2022-06-30",
@@ -12306,6 +12292,20 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1I10Parent_13B_DIMS_BW-01.jpg"
   },
   {
+    "firstListed": "2020-09-03",
+    "lastListed": "2020-09-24",
+    "available": "2020-09-20",
+    "daysListed": 21,
+    "daysAvailable": 4,
+    "unitName": "434",
+    "floorPlanName": "Manatee",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 843,
+    "minRent": 3071,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1K10Parent_21B_DIMS_BW-01.jpg"
+  },
+  {
     "firstListed": "2020-09-20",
     "lastListed": "2020-09-20",
     "available": "2020-09-20",
@@ -12332,20 +12332,6 @@
     "sqft": 906,
     "minRent": 3346,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1W10Parent_42B_DIMS_BW-01.jpg"
-  },
-  {
-    "firstListed": "2020-09-03",
-    "lastListed": "2020-09-24",
-    "available": "2020-09-20",
-    "daysListed": 21,
-    "daysAvailable": 4,
-    "unitName": "434",
-    "floorPlanName": "Manatee",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 843,
-    "minRent": 3071,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1K10Parent_21B_DIMS_BW-01.jpg"
   },
   {
     "firstListed": "2020-08-31",
