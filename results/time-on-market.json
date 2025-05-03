@@ -1,5 +1,19 @@
 [
   {
+    "firstListed": "2025-04-16",
+    "lastListed": "2025-05-02",
+    "available": "2025-06-28",
+    "daysListed": 16,
+    "daysAvailable": -57,
+    "unitName": "814",
+    "floorPlanName": "Cyan",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 735,
+    "minRent": 3720,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/11_Indigo_Cyan814_S4A7910?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2025-04-23",
     "lastListed": "2025-04-30",
     "available": "2025-06-28",
@@ -40,6 +54,20 @@
     "sqft": 770,
     "minRent": 3842,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/06_Indigo_Spindrift882_S4A7454?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2025-04-19",
+    "lastListed": "2025-05-02",
+    "available": "2025-06-14",
+    "daysListed": 13,
+    "daysAvailable": -43,
+    "unitName": "724",
+    "floorPlanName": "Turquoise",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 552,
+    "minRent": 3193,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920_Indigo_Turquoise_Kitchen01?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2025-04-11",
@@ -137,6 +165,20 @@
     "bathrooms": 1,
     "sqft": 885,
     "minRent": 4511,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/Cornflower-kitchen-1920x1121?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2025-03-14",
+    "lastListed": "2025-05-02",
+    "available": "2025-05-17",
+    "daysListed": 49,
+    "daysAvailable": -15,
+    "unitName": "308",
+    "floorPlanName": "Frost",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 791,
+    "minRent": 4096,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/Cornflower-kitchen-1920x1121?qlt=100&fmt=jpg"
   },
   {
