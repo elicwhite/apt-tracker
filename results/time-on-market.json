@@ -42,20 +42,6 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/09_Indigo_Midnight832_S4A7735?qlt=100&fmt=jpg"
   },
   {
-    "firstListed": "2025-04-16",
-    "lastListed": "2025-05-02",
-    "available": "2025-06-28",
-    "daysListed": 16,
-    "daysAvailable": -57,
-    "unitName": "814",
-    "floorPlanName": "Cyan",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 735,
-    "minRent": 3720,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/11_Indigo_Cyan814_S4A7910?qlt=100&fmt=jpg"
-  },
-  {
     "firstListed": "2025-04-23",
     "lastListed": "2025-04-30",
     "available": "2025-06-28",
@@ -1162,20 +1148,6 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/11_Indigo_Cyan814_S4A7910?qlt=100&fmt=jpg"
   },
   {
-    "firstListed": "2024-06-05",
-    "lastListed": "2024-06-22",
-    "available": "2024-08-24",
-    "daysListed": 17,
-    "daysAvailable": -63,
-    "unitName": "542",
-    "floorPlanName": "Smalt",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 583,
-    "minRent": 3071,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/03_Indigo_Smalt542_S4A7248?qlt=100&fmt=jpg"
-  },
-  {
     "firstListed": "2024-06-23",
     "lastListed": "2024-07-09",
     "available": "2024-08-24",
@@ -1188,6 +1160,20 @@
     "sqft": 735,
     "minRent": 3483,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/11_Indigo_Cyan814_S4A7910?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-06-05",
+    "lastListed": "2024-06-22",
+    "available": "2024-08-24",
+    "daysListed": 17,
+    "daysAvailable": -63,
+    "unitName": "542",
+    "floorPlanName": "Smalt",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 3071,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/03_Indigo_Smalt542_S4A7248?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2024-05-05",
