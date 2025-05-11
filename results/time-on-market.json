@@ -308,6 +308,34 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/14_Indigo_Robin633_S4A8080?qlt=100&fmt=jpg"
   },
   {
+    "firstListed": "2025-05-10",
+    "lastListed": "2025-05-10",
+    "available": "2025-05-10",
+    "daysListed": 0,
+    "daysAvailable": 0,
+    "unitName": "1041",
+    "floorPlanName": "Cobalt",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 838,
+    "minRent": 4307,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920x1121_Cobalt_1bed_1bath?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2025-05-10",
+    "lastListed": "2025-05-10",
+    "available": "2025-05-10",
+    "daysListed": 0,
+    "daysAvailable": 0,
+    "unitName": "586",
+    "floorPlanName": "Ultramarine",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "sqft": 1481,
+    "minRent": 6453,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/a15_675BradfordStreet_2086_Aimco1920x1121_1920x1121?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2025-03-15",
     "lastListed": "2025-03-27",
     "available": "2025-05-10",
@@ -8092,20 +8120,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1D10Parent_04B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
-    "firstListed": "2021-10-06",
-    "lastListed": "2021-10-22",
-    "available": "2021-12-07",
-    "daysListed": 16,
-    "daysAvailable": -46,
-    "unitName": "981",
-    "floorPlanName": "Brandeis",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 775,
-    "minRent": 3485,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2021-10-05",
     "lastListed": "2022-01-05",
     "available": "2021-12-07",
@@ -8118,6 +8132,20 @@
     "sqft": 838,
     "minRent": 3795,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Cobalt_DIMS_BW_SKETCH_500X500-01.jpg"
+  },
+  {
+    "firstListed": "2021-10-06",
+    "lastListed": "2021-10-22",
+    "available": "2021-12-07",
+    "daysListed": 16,
+    "daysAvailable": -46,
+    "unitName": "981",
+    "floorPlanName": "Brandeis",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 775,
+    "minRent": 3485,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2021-10-02",
@@ -13007,20 +13035,6 @@
   },
   {
     "firstListed": "2020-08-22",
-    "lastListed": "2020-09-12",
-    "available": "2020-08-22",
-    "daysListed": 21,
-    "daysAvailable": 21,
-    "unitName": "224",
-    "floorPlanName": "Turquoise",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 552,
-    "minRent": 2552,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_EB10Parent_50A_DIMS_BW-01.jpg"
-  },
-  {
-    "firstListed": "2020-08-22",
     "lastListed": "2020-09-05",
     "available": "2020-08-22",
     "daysListed": 14,
@@ -13032,6 +13046,20 @@
     "sqft": 1481,
     "minRent": 5215,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
+  },
+  {
+    "firstListed": "2020-08-22",
+    "lastListed": "2020-09-12",
+    "available": "2020-08-22",
+    "daysListed": 21,
+    "daysAvailable": 21,
+    "unitName": "224",
+    "floorPlanName": "Turquoise",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 552,
+    "minRent": 2552,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_EB10Parent_50A_DIMS_BW-01.jpg"
   },
   {
     "firstListed": "2020-08-21",
