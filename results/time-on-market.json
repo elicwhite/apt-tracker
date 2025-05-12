@@ -7700,20 +7700,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Cobalt_DIMS_BW_SKETCH_500X500-01.jpg"
   },
   {
-    "firstListed": "2022-01-16",
-    "lastListed": "2022-04-08",
-    "available": "2022-03-18",
-    "daysListed": 82,
-    "daysAvailable": 21,
-    "unitName": "746",
-    "floorPlanName": "Cornflower",
-    "bedrooms": 2,
-    "bathrooms": 1,
-    "sqft": 885,
-    "minRent": 4020,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2022-01-15",
     "lastListed": "2022-02-02",
     "available": "2022-03-18",
@@ -7726,6 +7712,20 @@
     "sqft": 583,
     "minRent": 2770,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2022-01-16",
+    "lastListed": "2022-04-08",
+    "available": "2022-03-18",
+    "daysListed": 82,
+    "daysAvailable": 21,
+    "unitName": "746",
+    "floorPlanName": "Cornflower",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 885,
+    "minRent": 4020,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2022-01-12",
@@ -12811,20 +12811,6 @@
   },
   {
     "firstListed": "2020-08-31",
-    "lastListed": "2020-08-31",
-    "available": "2020-08-31",
-    "daysListed": 0,
-    "daysAvailable": 0,
-    "unitName": "670",
-    "floorPlanName": "Ultramarine",
-    "bedrooms": 3,
-    "bathrooms": 2,
-    "sqft": 1481,
-    "minRent": 5027,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
-  },
-  {
-    "firstListed": "2020-08-31",
     "lastListed": "2020-09-13",
     "available": "2020-08-31",
     "daysListed": 13,
@@ -12836,6 +12822,20 @@
     "sqft": 583,
     "minRent": 2577,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg"
+  },
+  {
+    "firstListed": "2020-08-31",
+    "lastListed": "2020-08-31",
+    "available": "2020-08-31",
+    "daysListed": 0,
+    "daysAvailable": 0,
+    "unitName": "670",
+    "floorPlanName": "Ultramarine",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "sqft": 1481,
+    "minRent": 5027,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
   },
   {
     "firstListed": "2020-08-30",
