@@ -84,20 +84,6 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920_Indigo_Turquoise_Kitchen01?qlt=100&fmt=jpg"
   },
   {
-    "firstListed": "2025-03-26",
-    "lastListed": "2025-05-07",
-    "available": "2025-06-28",
-    "daysListed": 42,
-    "daysAvailable": -52,
-    "unitName": "942",
-    "floorPlanName": "Smalt",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 583,
-    "minRent": 3416,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/03_Indigo_Smalt542_S4A7248?qlt=100&fmt=jpg"
-  },
-  {
     "firstListed": "2025-04-19",
     "lastListed": "2025-05-06",
     "available": "2025-06-28",
@@ -11200,6 +11186,20 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg"
   },
   {
+    "firstListed": "2020-10-22",
+    "lastListed": "2021-02-23",
+    "available": "2021-01-15",
+    "daysListed": 124,
+    "daysAvailable": 39,
+    "unitName": "477",
+    "floorPlanName": "Oxford",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 770,
+    "minRent": 2942,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1V10Parent_41B_DIMS_BW-01.jpg"
+  },
+  {
     "firstListed": "2020-10-23",
     "lastListed": "2020-12-01",
     "available": "2021-01-15",
@@ -11268,20 +11268,6 @@
     "sqft": 801,
     "minRent": 3072,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1AA10Parent_47B_DIMS_BW-01.jpg"
-  },
-  {
-    "firstListed": "2020-10-22",
-    "lastListed": "2021-02-23",
-    "available": "2021-01-15",
-    "daysListed": 124,
-    "daysAvailable": 39,
-    "unitName": "477",
-    "floorPlanName": "Oxford",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 770,
-    "minRent": 2942,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1V10Parent_41B_DIMS_BW-01.jpg"
   },
   {
     "firstListed": "2020-11-13",
