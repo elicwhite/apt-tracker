@@ -1,5 +1,19 @@
 [
   {
+    "firstListed": "2025-05-02",
+    "lastListed": "2025-05-21",
+    "available": "2025-08-02",
+    "daysListed": 19,
+    "daysAvailable": -73,
+    "unitName": "789",
+    "floorPlanName": "Dolphin",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 1032,
+    "minRent": 4732,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/01_675BradfordStreet_2001_Aimco1920x1121_1920x1121?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2025-05-03",
     "lastListed": "2025-05-13",
     "available": "2025-07-26",
