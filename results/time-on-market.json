@@ -6944,20 +6944,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1F10Parent_6B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
-    "firstListed": "2022-03-19",
-    "lastListed": "2022-04-20",
-    "available": "2022-07-02",
-    "daysListed": 32,
-    "daysAvailable": -73,
-    "unitName": "240",
-    "floorPlanName": "Smalt",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 583,
-    "minRent": 2966,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2022-07-02",
     "lastListed": "2022-07-06",
     "available": "2022-07-02",
@@ -6970,6 +6956,20 @@
     "sqft": 552,
     "minRent": 3209,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2022-03-19",
+    "lastListed": "2022-04-20",
+    "available": "2022-07-02",
+    "daysListed": 32,
+    "daysAvailable": -73,
+    "unitName": "240",
+    "floorPlanName": "Smalt",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 2966,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2022-07-01",
@@ -9926,6 +9926,20 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
+    "firstListed": "2021-03-19",
+    "lastListed": "2021-04-05",
+    "available": "2021-05-21",
+    "daysListed": 17,
+    "daysAvailable": -46,
+    "unitName": "924",
+    "floorPlanName": "Turquoise",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 552,
+    "minRent": 2957,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
     "firstListed": "2021-01-14",
     "lastListed": "2021-01-22",
     "available": "2021-05-21",
@@ -9952,20 +9966,6 @@
     "sqft": 769,
     "minRent": 3289,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1P10Parent_032B_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
-    "firstListed": "2021-03-19",
-    "lastListed": "2021-04-05",
-    "available": "2021-05-21",
-    "daysListed": 17,
-    "daysAvailable": -46,
-    "unitName": "924",
-    "floorPlanName": "Turquoise",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 552,
-    "minRent": 2957,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2021-03-24",
@@ -10318,6 +10318,20 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
+    "firstListed": "2021-02-04",
+    "lastListed": "2021-03-08",
+    "available": "2021-04-23",
+    "daysListed": 32,
+    "daysAvailable": -46,
+    "unitName": "389",
+    "floorPlanName": "Dolphin",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 1032,
+    "minRent": 4340,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2F10Parent_35C_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
     "firstListed": "2021-02-15",
     "lastListed": "2021-05-21",
     "available": "2021-04-23",
@@ -10372,20 +10386,6 @@
     "sqft": 906,
     "minRent": 3599,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1W10Parent_42B_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
-    "firstListed": "2021-02-04",
-    "lastListed": "2021-03-08",
-    "available": "2021-04-23",
-    "daysListed": 32,
-    "daysAvailable": -46,
-    "unitName": "389",
-    "floorPlanName": "Dolphin",
-    "bedrooms": 2,
-    "bathrooms": 1,
-    "sqft": 1032,
-    "minRent": 4340,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2F10Parent_35C_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2021-02-20",
