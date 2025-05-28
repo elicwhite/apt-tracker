@@ -28,20 +28,6 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/01_675BradfordStreet_2001_Aimco1920x1121_1920x1121?qlt=100&fmt=jpg"
   },
   {
-    "firstListed": "2025-05-03",
-    "lastListed": "2025-05-13",
-    "available": "2025-07-26",
-    "daysListed": 10,
-    "daysAvailable": -74,
-    "unitName": "585",
-    "floorPlanName": "Aquamarine",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 759,
-    "minRent": 3776,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/16_Indigo_Aquamarine1087_S4A8241-1?qlt=100&fmt=jpg"
-  },
-  {
     "firstListed": "2025-05-12",
     "lastListed": "2025-05-16",
     "available": "2025-07-19",
@@ -124,20 +110,6 @@
     "sqft": 842,
     "minRent": 3929,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/10_Indigo_Admiral820_S4A7814?qlt=100&fmt=jpg"
-  },
-  {
-    "firstListed": "2025-05-08",
-    "lastListed": "2025-05-11",
-    "available": "2025-07-10",
-    "daysListed": 3,
-    "daysAvailable": -60,
-    "unitName": "242",
-    "floorPlanName": "Smalt",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 583,
-    "minRent": 3336,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/03_Indigo_Smalt542_S4A7248?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2025-05-03",
@@ -3921,6 +3893,20 @@
   },
   {
     "firstListed": "2023-07-19",
+    "lastListed": "2023-08-28",
+    "available": "2023-09-02",
+    "daysListed": 40,
+    "daysAvailable": -5,
+    "unitName": "242",
+    "floorPlanName": "Smalt",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 3009,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1JJ10_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2023-07-19",
     "lastListed": "2023-09-07",
     "available": "2023-09-02",
     "daysListed": 50,
@@ -3974,20 +3960,6 @@
     "sqft": 547,
     "minRent": 2949,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1MM10Parent_64B-2_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
-  },
-  {
-    "firstListed": "2023-07-19",
-    "lastListed": "2023-08-28",
-    "available": "2023-09-02",
-    "daysListed": 40,
-    "daysAvailable": -5,
-    "unitName": "242",
-    "floorPlanName": "Smalt",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 583,
-    "minRent": 3009,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1JJ10_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
     "firstListed": "2023-07-19",
@@ -8806,6 +8778,20 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
+    "firstListed": "2021-06-26",
+    "lastListed": "2021-07-06",
+    "available": "2021-09-24",
+    "daysListed": 10,
+    "daysAvailable": -80,
+    "unitName": "917",
+    "floorPlanName": "Aqua",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 815,
+    "minRent": 3525,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg"
+  },
+  {
     "firstListed": "2021-07-23",
     "lastListed": "2021-07-26",
     "available": "2021-09-24",
@@ -8832,20 +8818,6 @@
     "sqft": 857,
     "minRent": 3645,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1CC10Parent_49B_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
-    "firstListed": "2021-06-26",
-    "lastListed": "2021-07-06",
-    "available": "2021-09-24",
-    "daysListed": 10,
-    "daysAvailable": -80,
-    "unitName": "917",
-    "floorPlanName": "Aqua",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 815,
-    "minRent": 3525,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg"
   },
   {
     "firstListed": "2021-07-23",
