@@ -126,6 +126,20 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/10_Indigo_Admiral820_S4A7814?qlt=100&fmt=jpg"
   },
   {
+    "firstListed": "2025-05-08",
+    "lastListed": "2025-06-03",
+    "available": "2025-07-10",
+    "daysListed": 26,
+    "daysAvailable": -37,
+    "unitName": "242",
+    "floorPlanName": "Smalt",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 3336,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/03_Indigo_Smalt542_S4A7248?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2025-05-03",
     "lastListed": "2025-05-27",
     "available": "2025-07-06",
@@ -362,6 +376,20 @@
     "sqft": 495,
     "minRent": 2873,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920x1121-Indigo-Apartments-cadet-kitchen?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2025-04-12",
+    "lastListed": "2025-06-03",
+    "available": "2025-06-14",
+    "daysListed": 52,
+    "daysAvailable": -11,
+    "unitName": "1016",
+    "floorPlanName": "Indigo",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 697,
+    "minRent": 3889,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/17_Indigo_Indigo1016_S4A8298?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2025-04-12",
@@ -6468,20 +6496,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1U10Parent_40B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
-    "firstListed": "2022-07-14",
-    "lastListed": "2022-07-15",
-    "available": "2022-09-03",
-    "daysListed": 1,
-    "daysAvailable": -50,
-    "unitName": "626",
-    "floorPlanName": "Maya",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1159,
-    "minRent": 4745,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2A20Parent_1C_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2022-06-18",
     "lastListed": "2022-07-19",
     "available": "2022-09-03",
@@ -6494,6 +6508,20 @@
     "sqft": 697,
     "minRent": 4065,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1D10Parent_04B_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2022-07-14",
+    "lastListed": "2022-07-15",
+    "available": "2022-09-03",
+    "daysListed": 1,
+    "daysAvailable": -50,
+    "unitName": "626",
+    "floorPlanName": "Maya",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1159,
+    "minRent": 4745,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2A20Parent_1C_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2022-06-25",
@@ -11579,20 +11607,6 @@
   },
   {
     "firstListed": "2020-12-31",
-    "lastListed": "2020-12-31",
-    "available": "2020-12-31",
-    "daysListed": 0,
-    "daysAvailable": 0,
-    "unitName": "341",
-    "floorPlanName": "Storm",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 559,
-    "minRent": 2487,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/ED10Parent_28A-P_BW-01.jpg"
-  },
-  {
-    "firstListed": "2020-12-31",
     "lastListed": "2021-04-02",
     "available": "2020-12-31",
     "daysListed": 92,
@@ -11604,6 +11618,20 @@
     "sqft": 697,
     "minRent": 3287,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1D10Parent_04B_DIMS_BW-01.jpg"
+  },
+  {
+    "firstListed": "2020-12-31",
+    "lastListed": "2020-12-31",
+    "available": "2020-12-31",
+    "daysListed": 0,
+    "daysAvailable": 0,
+    "unitName": "341",
+    "floorPlanName": "Storm",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 559,
+    "minRent": 2487,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/ED10Parent_28A-P_BW-01.jpg"
   },
   {
     "firstListed": "2020-12-31",
