@@ -98,34 +98,6 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920x1121-Indigo-Apartments-cadet-kitchen?qlt=100&fmt=jpg"
   },
   {
-    "firstListed": "2025-04-23",
-    "lastListed": "2025-05-27",
-    "available": "2025-07-12",
-    "daysListed": 34,
-    "daysAvailable": -46,
-    "unitName": "1083",
-    "floorPlanName": "Lapis",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 495,
-    "minRent": 3283,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920x1121-Indigo-Apartments-cadet-kitchen?qlt=100&fmt=jpg"
-  },
-  {
-    "firstListed": "2025-04-09",
-    "lastListed": "2025-05-16",
-    "available": "2025-07-12",
-    "daysListed": 37,
-    "daysAvailable": -57,
-    "unitName": "341",
-    "floorPlanName": "Storm",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 559,
-    "minRent": 3087,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/01_Indigo_Storm341_S4A7116?qlt=100&fmt=jpg"
-  },
-  {
     "firstListed": "2025-05-01",
     "lastListed": "2025-05-06",
     "available": "2025-07-12",
@@ -3977,20 +3949,6 @@
   },
   {
     "firstListed": "2023-07-19",
-    "lastListed": "2023-08-28",
-    "available": "2023-09-02",
-    "daysListed": 40,
-    "daysAvailable": -5,
-    "unitName": "242",
-    "floorPlanName": "Smalt",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 583,
-    "minRent": 3009,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1JJ10_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
-  },
-  {
-    "firstListed": "2023-07-19",
     "lastListed": "2023-09-07",
     "available": "2023-09-02",
     "daysListed": 50,
@@ -4004,18 +3962,18 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/EE10Parent_38A_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
-    "firstListed": "2023-07-19",
-    "lastListed": "2023-09-08",
+    "firstListed": "2023-07-20",
+    "lastListed": "2023-08-20",
     "available": "2023-09-02",
-    "daysListed": 51,
-    "daysAvailable": 6,
-    "unitName": "627",
-    "floorPlanName": "Aqua",
-    "bedrooms": 1,
+    "daysListed": 31,
+    "daysAvailable": -13,
+    "unitName": "481",
+    "floorPlanName": "Brandeis",
+    "bedrooms": 0,
     "bathrooms": 1,
-    "sqft": 815,
-    "minRent": 3351,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1CC10_Aqua_BW_SKETCH_500x500_Edit?qlt=85&fmt=jpg"
+    "sqft": 775,
+    "minRent": 3238,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
     "firstListed": "2023-07-19",
@@ -4030,6 +3988,34 @@
     "sqft": 559,
     "minRent": 2824,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/ED10Parent_28A-P_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2023-07-19",
+    "lastListed": "2023-08-28",
+    "available": "2023-09-02",
+    "daysListed": 40,
+    "daysAvailable": -5,
+    "unitName": "242",
+    "floorPlanName": "Smalt",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 3009,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1JJ10_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2023-07-19",
+    "lastListed": "2023-09-08",
+    "available": "2023-09-02",
+    "daysListed": 51,
+    "daysAvailable": 6,
+    "unitName": "627",
+    "floorPlanName": "Aqua",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 815,
+    "minRent": 3351,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1CC10_Aqua_BW_SKETCH_500x500_Edit?qlt=85&fmt=jpg"
   },
   {
     "firstListed": "2023-07-19",
@@ -4086,20 +4072,6 @@
     "sqft": 826,
     "minRent": 3671,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1L10Parent_22B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
-  },
-  {
-    "firstListed": "2023-07-20",
-    "lastListed": "2023-08-20",
-    "available": "2023-09-02",
-    "daysListed": 31,
-    "daysAvailable": -13,
-    "unitName": "481",
-    "floorPlanName": "Brandeis",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 775,
-    "minRent": 3238,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1T10Parent_039B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
     "firstListed": "2023-07-19",
@@ -4719,6 +4691,20 @@
   },
   {
     "firstListed": "2023-05-24",
+    "lastListed": "2023-06-06",
+    "available": "2023-07-08",
+    "daysListed": 13,
+    "daysAvailable": -32,
+    "unitName": "774",
+    "floorPlanName": "Sky",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 801,
+    "minRent": 3628,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1AA10Parent_47B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2023-05-24",
     "lastListed": "2023-07-15",
     "available": "2023-07-08",
     "daysListed": 52,
@@ -4786,20 +4772,6 @@
     "sqft": 495,
     "minRent": 2775,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/EG10Parent_54A-2_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
-  },
-  {
-    "firstListed": "2023-05-24",
-    "lastListed": "2023-06-06",
-    "available": "2023-07-08",
-    "daysListed": 13,
-    "daysAvailable": -32,
-    "unitName": "774",
-    "floorPlanName": "Sky",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 801,
-    "minRent": 3628,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1AA10Parent_47B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
     "firstListed": "2023-05-23",
@@ -10682,6 +10654,20 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1NN10Parent_66B-2_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
+    "firstListed": "2021-04-09",
+    "lastListed": "2021-04-12",
+    "available": "2021-04-09",
+    "daysListed": 3,
+    "daysAvailable": 3,
+    "unitName": "726",
+    "floorPlanName": "Maya",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1159,
+    "minRent": 4596,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2A20Parent_1C_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
     "firstListed": "2021-01-29",
     "lastListed": "2021-04-09",
     "available": "2021-04-09",
@@ -10750,20 +10736,6 @@
     "sqft": 1076,
     "minRent": 4021,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2H10Parent_44C_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
-    "firstListed": "2021-04-09",
-    "lastListed": "2021-04-12",
-    "available": "2021-04-09",
-    "daysListed": 3,
-    "daysAvailable": 3,
-    "unitName": "726",
-    "floorPlanName": "Maya",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1159,
-    "minRent": 4596,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/2A20Parent_1C_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2021-02-20",
@@ -11649,20 +11621,6 @@
   },
   {
     "firstListed": "2020-12-31",
-    "lastListed": "2021-04-02",
-    "available": "2020-12-31",
-    "daysListed": 92,
-    "daysAvailable": 92,
-    "unitName": "1016",
-    "floorPlanName": "Indigo",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 697,
-    "minRent": 3287,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1D10Parent_04B_DIMS_BW-01.jpg"
-  },
-  {
-    "firstListed": "2020-12-31",
     "lastListed": "2020-12-31",
     "available": "2020-12-31",
     "daysListed": 0,
@@ -11674,6 +11632,20 @@
     "sqft": 559,
     "minRent": 2487,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/ED10Parent_28A-P_BW-01.jpg"
+  },
+  {
+    "firstListed": "2020-12-31",
+    "lastListed": "2021-04-02",
+    "available": "2020-12-31",
+    "daysListed": 92,
+    "daysAvailable": 92,
+    "unitName": "1016",
+    "floorPlanName": "Indigo",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 697,
+    "minRent": 3287,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1D10Parent_04B_DIMS_BW-01.jpg"
   },
   {
     "firstListed": "2020-12-31",
