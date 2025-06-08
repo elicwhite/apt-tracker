@@ -1,5 +1,47 @@
 [
   {
+    "firstListed": "2025-06-04",
+    "lastListed": "2025-06-07",
+    "available": "2025-08-23",
+    "daysListed": 3,
+    "daysAvailable": -77,
+    "unitName": "937",
+    "floorPlanName": "Smalt",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 3271,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/03_Indigo_Smalt542_S4A7248?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2025-05-29",
+    "lastListed": "2025-06-07",
+    "available": "2025-08-16",
+    "daysListed": 9,
+    "daysAvailable": -70,
+    "unitName": "844",
+    "floorPlanName": "Marine",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1554,
+    "minRent": 6605,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/08_Indigo_Marine944_S4A7636?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2025-05-23",
+    "lastListed": "2025-06-07",
+    "available": "2025-08-16",
+    "daysListed": 15,
+    "daysAvailable": -70,
+    "unitName": "389",
+    "floorPlanName": "Dolphin",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 1032,
+    "minRent": 4572,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/01_675BradfordStreet_2001_Aimco1920x1121_1920x1121?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2025-05-29",
     "lastListed": "2025-06-04",
     "available": "2025-08-09",
@@ -208,6 +250,20 @@
     "sqft": 815,
     "minRent": 3598,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/750681?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2025-04-16",
+    "lastListed": "2025-06-07",
+    "available": "2025-06-28",
+    "daysListed": 52,
+    "daysAvailable": -21,
+    "unitName": "814",
+    "floorPlanName": "Cyan",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 735,
+    "minRent": 3720,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/11_Indigo_Cyan814_S4A7910?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2025-04-26",
