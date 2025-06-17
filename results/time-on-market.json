@@ -924,6 +924,20 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/10_Indigo_Admiral820_S4A7814?qlt=100&fmt=jpg"
   },
   {
+    "firstListed": "2025-02-28",
+    "lastListed": "2025-06-16",
+    "available": "2025-05-02",
+    "daysListed": 108,
+    "daysAvailable": 45,
+    "unitName": "337",
+    "floorPlanName": "Smalt",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 3131,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/03_Indigo_Smalt542_S4A7248?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2025-01-29",
     "lastListed": "2025-02-26",
     "available": "2025-05-02",
@@ -13146,6 +13160,20 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1W10Parent_42B_DIMS_BW-01.jpg"
   },
   {
+    "firstListed": "2020-08-30",
+    "lastListed": "2020-09-05",
+    "available": "2020-09-06",
+    "daysListed": 6,
+    "daysAvailable": -1,
+    "unitName": "337",
+    "floorPlanName": "Smalt",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 2780,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg"
+  },
+  {
     "firstListed": "2020-08-22",
     "lastListed": "2020-09-05",
     "available": "2020-09-06",
@@ -13172,20 +13200,6 @@
     "sqft": 697,
     "minRent": 2976,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1D10Parent_04B_DIMS_BW-01.jpg"
-  },
-  {
-    "firstListed": "2020-08-30",
-    "lastListed": "2020-09-05",
-    "available": "2020-09-06",
-    "daysListed": 6,
-    "daysAvailable": -1,
-    "unitName": "337",
-    "floorPlanName": "Smalt",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 583,
-    "minRent": 2780,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1J10Parent_14A_DIMS_BW-01.jpg"
   },
   {
     "firstListed": "2020-09-03",
