@@ -42,6 +42,20 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/01_675BradfordStreet_2001_Aimco1920x1121_1920x1121?qlt=100&fmt=jpg"
   },
   {
+    "firstListed": "2025-05-29",
+    "lastListed": "2025-06-19",
+    "available": "2025-08-09",
+    "daysListed": 21,
+    "daysAvailable": -51,
+    "unitName": "1074",
+    "floorPlanName": "Sky",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 801,
+    "minRent": 4307,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/03_Sky_Unit67403_Sky_Unit674_I3A6507?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2025-06-08",
     "lastListed": "2025-06-12",
     "available": "2025-08-09",
@@ -124,6 +138,20 @@
     "sqft": 583,
     "minRent": 3111,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/03_Indigo_Smalt542_S4A7248?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2025-05-15",
+    "lastListed": "2025-06-19",
+    "available": "2025-07-19",
+    "daysListed": 35,
+    "daysAvailable": -30,
+    "unitName": "1046",
+    "floorPlanName": "Cornflower",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 885,
+    "minRent": 4911,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/Cornflower-kitchen-1920x1121?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2025-05-17",
@@ -516,6 +544,20 @@
     "sqft": 1264,
     "minRent": 4810,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/18_Indigo_Rackley511_S4A8391?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2025-06-19",
+    "lastListed": "2025-06-19",
+    "available": "2025-06-19",
+    "daysListed": 0,
+    "daysAvailable": 0,
+    "unitName": "244",
+    "floorPlanName": "Marine",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1554,
+    "minRent": 6600,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/08_Indigo_Marine944_S4A7636?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2025-06-17",
@@ -9240,20 +9282,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
-    "firstListed": "2021-06-17",
-    "lastListed": "2021-10-05",
-    "available": "2021-08-21",
-    "daysListed": 110,
-    "daysAvailable": 45,
-    "unitName": "680",
-    "floorPlanName": "Turquoise",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 552,
-    "minRent": 3035,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2021-08-21",
     "lastListed": "2021-08-25",
     "available": "2021-08-21",
@@ -9266,6 +9294,20 @@
     "sqft": 1554,
     "minRent": 5893,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2H20Parent_26C_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2021-06-17",
+    "lastListed": "2021-10-05",
+    "available": "2021-08-21",
+    "daysListed": 110,
+    "daysAvailable": 45,
+    "unitName": "680",
+    "floorPlanName": "Turquoise",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 552,
+    "minRent": 3035,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2021-06-09",
@@ -13301,20 +13343,6 @@
   },
   {
     "firstListed": "2020-09-05",
-    "lastListed": "2021-02-01",
-    "available": "2020-09-05",
-    "daysListed": 149,
-    "daysAvailable": 149,
-    "unitName": "840",
-    "floorPlanName": "Baltic",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 558,
-    "minRent": 2722,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EC10Parent_24A_BW-01.jpg"
-  },
-  {
-    "firstListed": "2020-09-05",
     "lastListed": "2020-09-05",
     "available": "2020-09-05",
     "daysListed": 0,
@@ -13326,6 +13354,20 @@
     "sqft": 885,
     "minRent": 4176,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2C20Parent_10C_DIMS_BW-01.jpg"
+  },
+  {
+    "firstListed": "2020-09-05",
+    "lastListed": "2021-02-01",
+    "available": "2020-09-05",
+    "daysListed": 149,
+    "daysAvailable": 149,
+    "unitName": "840",
+    "floorPlanName": "Baltic",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 558,
+    "minRent": 2722,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/EC10Parent_24A_BW-01.jpg"
   },
   {
     "firstListed": "2020-08-31",
