@@ -322,20 +322,6 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920x1121-Indigo-Apartments-cadet-kitchen?qlt=100&fmt=jpg"
   },
   {
-    "firstListed": "2025-05-01",
-    "lastListed": "2025-05-06",
-    "available": "2025-07-12",
-    "daysListed": 5,
-    "daysAvailable": -67,
-    "unitName": "228",
-    "floorPlanName": "Federal",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1084,
-    "minRent": 4945,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/maya-kitchen-1920x1121?qlt=100&fmt=jpg"
-  },
-  {
     "firstListed": "2025-05-17",
     "lastListed": "2025-05-23",
     "available": "2025-07-11",
@@ -5265,20 +5251,6 @@
   },
   {
     "firstListed": "2023-05-03",
-    "lastListed": "2023-06-07",
-    "available": "2023-06-17",
-    "daysListed": 35,
-    "daysAvailable": -10,
-    "unitName": "413",
-    "floorPlanName": "Celeste",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 662,
-    "minRent": 3211,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Celeste_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
-  },
-  {
-    "firstListed": "2023-05-03",
     "lastListed": "2023-05-29",
     "available": "2023-06-17",
     "daysListed": 26,
@@ -5290,6 +5262,20 @@
     "sqft": 815,
     "minRent": 3278,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1CC10_Aqua_BW_SKETCH_500x500_Edit?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2023-05-03",
+    "lastListed": "2023-06-07",
+    "available": "2023-06-17",
+    "daysListed": 35,
+    "daysAvailable": -10,
+    "unitName": "413",
+    "floorPlanName": "Celeste",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 662,
+    "minRent": 3211,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Celeste_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
     "firstListed": "2023-05-03",
