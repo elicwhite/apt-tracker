@@ -84,6 +84,20 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/03_Indigo_Smalt542_S4A7248?qlt=100&fmt=jpg"
   },
   {
+    "firstListed": "2025-05-29",
+    "lastListed": "2025-06-25",
+    "available": "2025-08-02",
+    "daysListed": 27,
+    "daysAvailable": -38,
+    "unitName": "422",
+    "floorPlanName": "Turquoise",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 552,
+    "minRent": 3123,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920_Indigo_Turquoise_Kitchen01?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2025-05-14",
     "lastListed": "2025-06-24",
     "available": "2025-08-02",
@@ -252,6 +266,20 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/09_Indigo_Midnight832_S4A7735?qlt=100&fmt=jpg"
   },
   {
+    "firstListed": "2025-05-02",
+    "lastListed": "2025-06-25",
+    "available": "2025-07-12",
+    "daysListed": 54,
+    "daysAvailable": -17,
+    "unitName": "434",
+    "floorPlanName": "Manatee",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 843,
+    "minRent": 3914,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920x1121_Cobalt_1bed_1bath?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2025-06-20",
     "lastListed": "2025-06-20",
     "available": "2025-07-12",
@@ -334,6 +362,20 @@
     "sqft": 906,
     "minRent": 4017,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/04_Mist_Unit77504_Mist_Unit775_I3A6546?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2025-06-25",
+    "lastListed": "2025-06-25",
+    "available": "2025-07-06",
+    "daysListed": 0,
+    "daysAvailable": -11,
+    "unitName": "110",
+    "floorPlanName": "Cambridge",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 850,
+    "minRent": 3907,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920_Cambridge_Unit210_Kitchen01?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2025-05-03",
@@ -11901,6 +11943,20 @@
   },
   {
     "firstListed": "2020-12-31",
+    "lastListed": "2020-12-31",
+    "available": "2020-12-31",
+    "daysListed": 0,
+    "daysAvailable": 0,
+    "unitName": "110",
+    "floorPlanName": "Cambridge",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 850,
+    "minRent": 3233,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1A10Parent_1B-2_DIMS_BW-01.jpg"
+  },
+  {
+    "firstListed": "2020-12-31",
     "lastListed": "2021-04-02",
     "available": "2020-12-31",
     "daysListed": 92,
@@ -11926,20 +11982,6 @@
     "sqft": 559,
     "minRent": 2487,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/ED10Parent_28A-P_BW-01.jpg"
-  },
-  {
-    "firstListed": "2020-12-31",
-    "lastListed": "2020-12-31",
-    "available": "2020-12-31",
-    "daysListed": 0,
-    "daysAvailable": 0,
-    "unitName": "110",
-    "floorPlanName": "Cambridge",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 850,
-    "minRent": 3233,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1A10Parent_1B-2_DIMS_BW-01.jpg"
   },
   {
     "firstListed": "2020-12-31",
