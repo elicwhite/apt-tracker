@@ -686,20 +686,6 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/03_Indigo_Smalt542_S4A7248?qlt=100&fmt=jpg"
   },
   {
-    "firstListed": "2025-04-12",
-    "lastListed": "2025-06-26",
-    "available": "2025-06-14",
-    "daysListed": 75,
-    "daysAvailable": 12,
-    "unitName": "970",
-    "floorPlanName": "Ultramarine",
-    "bedrooms": 3,
-    "bathrooms": 2,
-    "sqft": 1481,
-    "minRent": 6493,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/a15_675BradfordStreet_2086_Aimco1920x1121_1920x1121?qlt=100&fmt=jpg"
-  },
-  {
     "firstListed": "2025-04-27",
     "lastListed": "2025-05-20",
     "available": "2025-06-14",
@@ -10654,20 +10640,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1W10Parent_42B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
-    "firstListed": "2021-05-11",
-    "lastListed": "2021-05-16",
-    "available": "2021-05-11",
-    "daysListed": 5,
-    "daysAvailable": 5,
-    "unitName": "724",
-    "floorPlanName": "Turquoise",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 552,
-    "minRent": 2419,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2021-03-25",
     "lastListed": "2021-06-12",
     "available": "2021-05-11",
@@ -10680,6 +10652,20 @@
     "sqft": 662,
     "minRent": 3199,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/update-/043315_Celeste_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2021-05-11",
+    "lastListed": "2021-05-16",
+    "available": "2021-05-11",
+    "daysListed": 5,
+    "daysAvailable": 5,
+    "unitName": "724",
+    "floorPlanName": "Turquoise",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 552,
+    "minRent": 2419,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2021-05-11",
