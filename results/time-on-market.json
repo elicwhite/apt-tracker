@@ -280,6 +280,20 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/09_Indigo_Midnight832_S4A7735?qlt=100&fmt=jpg"
   },
   {
+    "firstListed": "2025-05-02",
+    "lastListed": "2025-07-01",
+    "available": "2025-07-12",
+    "daysListed": 60,
+    "daysAvailable": -11,
+    "unitName": "434",
+    "floorPlanName": "Manatee",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 843,
+    "minRent": 3914,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920x1121_Cobalt_1bed_1bath?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2025-04-09",
     "lastListed": "2025-06-29",
     "available": "2025-07-12",
@@ -348,6 +362,20 @@
     "sqft": 842,
     "minRent": 3929,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/10_Indigo_Admiral820_S4A7814?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2025-05-08",
+    "lastListed": "2025-07-01",
+    "available": "2025-07-10",
+    "daysListed": 54,
+    "daysAvailable": -9,
+    "unitName": "242",
+    "floorPlanName": "Smalt",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 3336,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/03_Indigo_Smalt542_S4A7248?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2025-06-09",
@@ -4285,20 +4313,6 @@
   },
   {
     "firstListed": "2023-07-19",
-    "lastListed": "2023-07-28",
-    "available": "2023-09-02",
-    "daysListed": 9,
-    "daysAvailable": -36,
-    "unitName": "341",
-    "floorPlanName": "Storm",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 559,
-    "minRent": 2824,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/ED10Parent_28A-P_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
-  },
-  {
-    "firstListed": "2023-07-19",
     "lastListed": "2023-08-28",
     "available": "2023-09-02",
     "daysListed": 40,
@@ -4310,6 +4324,20 @@
     "sqft": 583,
     "minRent": 3009,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1JJ10_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2023-07-19",
+    "lastListed": "2023-07-28",
+    "available": "2023-09-02",
+    "daysListed": 9,
+    "daysAvailable": -36,
+    "unitName": "341",
+    "floorPlanName": "Storm",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 559,
+    "minRent": 2824,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/ED10Parent_28A-P_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
     "firstListed": "2023-07-19",
