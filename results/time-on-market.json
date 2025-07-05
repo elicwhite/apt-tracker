@@ -420,20 +420,6 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/04_Indigo_Baltic840_S4A7315?qlt=100&fmt=jpg"
   },
   {
-    "firstListed": "2025-04-30",
-    "lastListed": "2025-05-27",
-    "available": "2025-07-05",
-    "daysListed": 27,
-    "daysAvailable": -39,
-    "unitName": "946",
-    "floorPlanName": "Cornflower",
-    "bedrooms": 2,
-    "bathrooms": 1,
-    "sqft": 885,
-    "minRent": 4661,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/Cornflower-kitchen-1920x1121?qlt=100&fmt=jpg"
-  },
-  {
     "firstListed": "2025-05-02",
     "lastListed": "2025-05-13",
     "available": "2025-07-05",
@@ -2997,20 +2983,6 @@
   },
   {
     "firstListed": "2024-03-22",
-    "lastListed": "2024-04-21",
-    "available": "2024-05-25",
-    "daysListed": 30,
-    "daysAvailable": -34,
-    "unitName": "348",
-    "floorPlanName": "Water",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 759,
-    "minRent": 3279,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/02_Indigo_Water348_S4A7156?qlt=100&fmt=jpg"
-  },
-  {
-    "firstListed": "2024-03-22",
     "lastListed": "2024-04-24",
     "available": "2024-05-25",
     "daysListed": 33,
@@ -3022,6 +2994,20 @@
     "sqft": 885,
     "minRent": 4308,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/Cornflower-kitchen-1920x1121?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-03-22",
+    "lastListed": "2024-04-21",
+    "available": "2024-05-25",
+    "daysListed": 30,
+    "daysAvailable": -34,
+    "unitName": "348",
+    "floorPlanName": "Water",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 759,
+    "minRent": 3279,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/02_Indigo_Water348_S4A7156?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2024-03-28",
@@ -11130,20 +11116,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
   },
   {
-    "firstListed": "2021-01-22",
-    "lastListed": "2021-02-15",
-    "available": "2021-04-02",
-    "daysListed": 24,
-    "daysAvailable": -46,
-    "unitName": "838",
-    "floorPlanName": "Carolina",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 813,
-    "minRent": 3199,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1M10Parent_23A_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2021-01-28",
     "lastListed": "2021-05-05",
     "available": "2021-04-02",
@@ -11156,6 +11128,20 @@
     "sqft": 885,
     "minRent": 3802,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2C10Parent_34C_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2021-01-22",
+    "lastListed": "2021-02-15",
+    "available": "2021-04-02",
+    "daysListed": 24,
+    "daysAvailable": -46,
+    "unitName": "838",
+    "floorPlanName": "Carolina",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 813,
+    "minRent": 3199,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1M10Parent_23A_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2021-01-27",
