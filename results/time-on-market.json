@@ -1,5 +1,19 @@
 [
   {
+    "firstListed": "2025-06-16",
+    "lastListed": "2025-07-04",
+    "available": "2025-08-18",
+    "daysListed": 18,
+    "daysAvailable": -45,
+    "unitName": "610",
+    "floorPlanName": "Maya",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1159,
+    "minRent": 5229,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/maya-kitchen-1920x1121?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2025-05-29",
     "lastListed": "2025-06-28",
     "available": "2025-08-16",
