@@ -1,5 +1,19 @@
 [
   {
+    "firstListed": "2025-06-26",
+    "lastListed": "2025-07-05",
+    "available": "2025-08-30",
+    "daysListed": 9,
+    "daysAvailable": -56,
+    "unitName": "519",
+    "floorPlanName": "Aqua",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 815,
+    "minRent": 3423,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/750681?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2025-06-16",
     "lastListed": "2025-07-04",
     "available": "2025-08-18",
@@ -180,6 +194,20 @@
     "sqft": 1032,
     "minRent": 4732,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/01_675BradfordStreet_2001_Aimco1920x1121_1920x1121?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2025-05-16",
+    "lastListed": "2025-07-05",
+    "available": "2025-07-26",
+    "daysListed": 50,
+    "daysAvailable": -21,
+    "unitName": "916",
+    "floorPlanName": "Indigo",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 697,
+    "minRent": 3794,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/17_Indigo_Indigo1016_S4A8298?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2025-05-17",
@@ -5041,20 +5069,6 @@
   },
   {
     "firstListed": "2023-05-24",
-    "lastListed": "2023-06-06",
-    "available": "2023-07-08",
-    "daysListed": 13,
-    "daysAvailable": -32,
-    "unitName": "774",
-    "floorPlanName": "Sky",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 801,
-    "minRent": 3628,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1AA10Parent_47B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
-  },
-  {
-    "firstListed": "2023-05-24",
     "lastListed": "2023-07-15",
     "available": "2023-07-08",
     "daysListed": 52,
@@ -5066,6 +5080,20 @@
     "sqft": 697,
     "minRent": 3476,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1D10Parent_04B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2023-05-24",
+    "lastListed": "2023-06-06",
+    "available": "2023-07-08",
+    "daysListed": 13,
+    "daysAvailable": -32,
+    "unitName": "774",
+    "floorPlanName": "Sky",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 801,
+    "minRent": 3628,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1AA10Parent_47B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
     "firstListed": "2023-06-03",
