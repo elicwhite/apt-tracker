@@ -1,5 +1,19 @@
 [
   {
+    "firstListed": "2025-07-05",
+    "lastListed": "2025-07-06",
+    "available": "2025-09-06",
+    "daysListed": 1,
+    "daysAvailable": -62,
+    "unitName": "630",
+    "floorPlanName": "Cornflower",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 885,
+    "minRent": 4096,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/Cornflower-kitchen-1920x1121?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2025-06-26",
     "lastListed": "2025-07-05",
     "available": "2025-08-30",
@@ -726,6 +740,20 @@
     "sqft": 495,
     "minRent": 2873,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920x1121-Indigo-Apartments-cadet-kitchen?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2025-04-12",
+    "lastListed": "2025-07-06",
+    "available": "2025-06-14",
+    "daysListed": 85,
+    "daysAvailable": 22,
+    "unitName": "970",
+    "floorPlanName": "Ultramarine",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "sqft": 1481,
+    "minRent": 6493,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/a15_675BradfordStreet_2086_Aimco1920x1121_1920x1121?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2025-05-03",
