@@ -336,20 +336,6 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/06_Indigo_Spindrift882_S4A7454?qlt=100&fmt=jpg"
   },
   {
-    "firstListed": "2025-04-17",
-    "lastListed": "2025-05-13",
-    "available": "2025-07-19",
-    "daysListed": 26,
-    "daysAvailable": -67,
-    "unitName": "932",
-    "floorPlanName": "Midnight",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1245,
-    "minRent": 5548,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/09_Indigo_Midnight832_S4A7735?qlt=100&fmt=jpg"
-  },
-  {
     "firstListed": "2025-05-02",
     "lastListed": "2025-07-01",
     "available": "2025-07-12",
@@ -7378,6 +7364,20 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1MM10Parent_64B-2_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
+    "firstListed": "2022-07-23",
+    "lastListed": "2022-08-19",
+    "available": "2022-07-23",
+    "daysListed": 27,
+    "daysAvailable": 27,
+    "unitName": "984",
+    "floorPlanName": "Turquoise",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 552,
+    "minRent": 3519,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
     "firstListed": "2022-05-16",
     "lastListed": "2022-06-01",
     "available": "2022-07-23",
@@ -7404,20 +7404,6 @@
     "sqft": 1076,
     "minRent": 4140,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo2H10Parent_44C_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
-    "firstListed": "2022-07-23",
-    "lastListed": "2022-08-19",
-    "available": "2022-07-23",
-    "daysListed": 27,
-    "daysAvailable": 27,
-    "unitName": "984",
-    "floorPlanName": "Turquoise",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 552,
-    "minRent": 3519,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2022-05-01",
@@ -13762,20 +13748,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/1EE10Parent_54A-G_BW-01.jpg"
   },
   {
-    "firstListed": "2020-08-23",
-    "lastListed": "2020-08-29",
-    "available": "2020-08-23",
-    "daysListed": 6,
-    "daysAvailable": 6,
-    "unitName": "834",
-    "floorPlanName": "Manatee",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 843,
-    "minRent": 3271,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1K10Parent_21B_DIMS_BW-01.jpg"
-  },
-  {
     "firstListed": "2020-08-21",
     "lastListed": "2020-08-21",
     "available": "2020-08-23",
@@ -13788,6 +13760,20 @@
     "sqft": 552,
     "minRent": 2944,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_EB10Parent_50A_DIMS_BW-01.jpg"
+  },
+  {
+    "firstListed": "2020-08-23",
+    "lastListed": "2020-08-29",
+    "available": "2020-08-23",
+    "daysListed": 6,
+    "daysAvailable": 6,
+    "unitName": "834",
+    "floorPlanName": "Manatee",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 843,
+    "minRent": 3271,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1K10Parent_21B_DIMS_BW-01.jpg"
   },
   {
     "firstListed": "2020-08-21",
