@@ -253,20 +253,6 @@
   },
   {
     "firstListed": "2025-05-17",
-    "lastListed": "2025-06-24",
-    "available": "2025-07-26",
-    "daysListed": 38,
-    "daysAvailable": -32,
-    "unitName": "841",
-    "floorPlanName": "Cobalt",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 838,
-    "minRent": 3967,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920x1121_Cobalt_1bed_1bath?qlt=100&fmt=jpg"
-  },
-  {
-    "firstListed": "2025-05-17",
     "lastListed": "2025-06-14",
     "available": "2025-07-26",
     "daysListed": 28,
@@ -1918,6 +1904,20 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/05_675BradfordStreet_2036_Aimco1920x1121_1920x1121?qlt=100&fmt=jpg"
   },
   {
+    "firstListed": "2024-07-19",
+    "lastListed": "2024-07-31",
+    "available": "2024-08-31",
+    "daysListed": 12,
+    "daysAvailable": -31,
+    "unitName": "879",
+    "floorPlanName": "Moonstone",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 814,
+    "minRent": 3675,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920x1121_Cobalt_1bed_1bath?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2024-06-30",
     "lastListed": "2024-07-18",
     "available": "2024-08-31",
@@ -1944,20 +1944,6 @@
     "sqft": 552,
     "minRent": 3553,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/06_Turqoise_Unit1076_I3A6673?qlt=100&fmt=jpg"
-  },
-  {
-    "firstListed": "2024-07-19",
-    "lastListed": "2024-07-31",
-    "available": "2024-08-31",
-    "daysListed": 12,
-    "daysAvailable": -31,
-    "unitName": "879",
-    "floorPlanName": "Moonstone",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 814,
-    "minRent": 3675,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920x1121_Cobalt_1bed_1bath?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2024-07-02",
