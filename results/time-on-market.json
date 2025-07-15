@@ -112,6 +112,20 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/01_675BradfordStreet_2001_Aimco1920x1121_1920x1121?qlt=100&fmt=jpg"
   },
   {
+    "firstListed": "2025-06-11",
+    "lastListed": "2025-07-14",
+    "available": "2025-08-09",
+    "daysListed": 33,
+    "daysAvailable": -26,
+    "unitName": "431",
+    "floorPlanName": "Cobalt",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 838,
+    "minRent": 3892,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920x1121_Cobalt_1bed_1bath?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2025-06-05",
     "lastListed": "2025-06-24",
     "available": "2025-08-09",
@@ -1104,6 +1118,20 @@
     "sqft": 843,
     "minRent": 4134,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920x1121_Cobalt_1bed_1bath?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2025-05-10",
+    "lastListed": "2025-07-14",
+    "available": "2025-05-10",
+    "daysListed": 65,
+    "daysAvailable": 65,
+    "unitName": "586",
+    "floorPlanName": "Ultramarine",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "sqft": 1481,
+    "minRent": 6453,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/a15_675BradfordStreet_2086_Aimco1920x1121_1920x1121?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2025-05-10",
