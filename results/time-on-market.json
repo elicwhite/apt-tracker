@@ -7448,20 +7448,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1F10Parent_6B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
-    "firstListed": "2022-05-16",
-    "lastListed": "2022-06-14",
-    "available": "2022-07-30",
-    "daysListed": 29,
-    "daysAvailable": -46,
-    "unitName": "252",
-    "floorPlanName": "Palatinate",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 638,
-    "minRent": 3145,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1LL10Parent_61B-2_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2022-05-27",
     "lastListed": "2022-06-11",
     "available": "2022-07-30",
@@ -7474,6 +7460,20 @@
     "sqft": 583,
     "minRent": 3250,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2022-05-16",
+    "lastListed": "2022-06-14",
+    "available": "2022-07-30",
+    "daysListed": 29,
+    "daysAvailable": -46,
+    "unitName": "252",
+    "floorPlanName": "Palatinate",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 638,
+    "minRent": 3145,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1LL10Parent_61B-2_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2022-05-27",
