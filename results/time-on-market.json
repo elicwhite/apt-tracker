@@ -574,6 +574,20 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/04_Mist_Unit77504_Mist_Unit775_I3A6546?qlt=100&fmt=jpg"
   },
   {
+    "firstListed": "2025-06-25",
+    "lastListed": "2025-07-31",
+    "available": "2025-07-06",
+    "daysListed": 36,
+    "daysAvailable": 25,
+    "unitName": "110",
+    "floorPlanName": "Cambridge",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 850,
+    "minRent": 3907,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920_Cambridge_Unit210_Kitchen01?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2025-05-03",
     "lastListed": "2025-05-27",
     "available": "2025-07-06",
@@ -12237,20 +12251,6 @@
   },
   {
     "firstListed": "2020-12-31",
-    "lastListed": "2021-04-02",
-    "available": "2020-12-31",
-    "daysListed": 92,
-    "daysAvailable": 92,
-    "unitName": "1016",
-    "floorPlanName": "Indigo",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 697,
-    "minRent": 3287,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1D10Parent_04B_DIMS_BW-01.jpg"
-  },
-  {
-    "firstListed": "2020-12-31",
     "lastListed": "2020-12-31",
     "available": "2020-12-31",
     "daysListed": 0,
@@ -12262,6 +12262,20 @@
     "sqft": 850,
     "minRent": 3233,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1A10Parent_1B-2_DIMS_BW-01.jpg"
+  },
+  {
+    "firstListed": "2020-12-31",
+    "lastListed": "2021-04-02",
+    "available": "2020-12-31",
+    "daysListed": 92,
+    "daysAvailable": 92,
+    "unitName": "1016",
+    "floorPlanName": "Indigo",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 697,
+    "minRent": 3287,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1D10Parent_04B_DIMS_BW-01.jpg"
   },
   {
     "firstListed": "2020-12-31",
