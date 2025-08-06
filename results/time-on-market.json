@@ -1,6 +1,20 @@
 [
   {
     "firstListed": "2025-07-13",
+    "lastListed": "2025-08-05",
+    "available": "2025-09-16",
+    "daysListed": 23,
+    "daysAvailable": -42,
+    "unitName": "313",
+    "floorPlanName": "Celeste",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 662,
+    "minRent": 3632,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/01_Celeste_Unit1013_I3A6382?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2025-07-13",
     "lastListed": "2025-07-20",
     "available": "2025-09-06",
     "daysListed": 7,
