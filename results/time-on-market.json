@@ -84,6 +84,34 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/Cornflower-kitchen-1920x1121?qlt=100&fmt=jpg"
   },
   {
+    "firstListed": "2025-08-30",
+    "lastListed": "2025-08-30",
+    "available": "2025-08-30",
+    "daysListed": 0,
+    "daysAvailable": 0,
+    "unitName": "1079",
+    "floorPlanName": "Moonstone",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 814,
+    "minRent": 4145,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920x1121_Cobalt_1bed_1bath?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2025-08-30",
+    "lastListed": "2025-08-30",
+    "available": "2025-08-30",
+    "daysListed": 0,
+    "daysAvailable": 0,
+    "unitName": "711",
+    "floorPlanName": "Rackley",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1264,
+    "minRent": 5200,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/18_Indigo_Rackley511_S4A8391?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2025-06-26",
     "lastListed": "2025-07-05",
     "available": "2025-08-30",
@@ -9520,20 +9548,6 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1CC10Parent_49B_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
-    "firstListed": "2021-08-10",
-    "lastListed": "2021-08-17",
-    "available": "2021-10-02",
-    "daysListed": 7,
-    "daysAvailable": -46,
-    "unitName": "521",
-    "floorPlanName": "Smalt",
-    "bedrooms": 0,
-    "bathrooms": 1,
-    "sqft": 583,
-    "minRent": 3229,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
     "firstListed": "2021-05-23",
     "lastListed": "2021-05-24",
     "available": "2021-10-02",
@@ -9546,6 +9560,20 @@
     "sqft": 814,
     "minRent": 3375,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_Indigo1U10Parent_40B_DIMS_BW_SKETCH_500x500-01.jpg"
+  },
+  {
+    "firstListed": "2021-08-10",
+    "lastListed": "2021-08-17",
+    "available": "2021-10-02",
+    "daysListed": 7,
+    "daysAvailable": -46,
+    "unitName": "521",
+    "floorPlanName": "Smalt",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 3229,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/1JJ10_DIMS_BW_SKETCH_500x500-01.jpg"
   },
   {
     "firstListed": "2021-07-30",
