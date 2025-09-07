@@ -1,5 +1,19 @@
 [
   {
+    "firstListed": "2025-08-22",
+    "lastListed": "2025-09-06",
+    "available": "2025-10-17",
+    "daysListed": 15,
+    "daysAvailable": -41,
+    "unitName": "814",
+    "floorPlanName": "Cyan",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 735,
+    "minRent": 3810,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/11_Indigo_Cyan814_S4A7910?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2025-08-21",
     "lastListed": "2025-08-26",
     "available": "2025-10-17",
@@ -26,6 +40,34 @@
     "sqft": 833,
     "minRent": 3672,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/05_Sea_Unit872_I3A6583?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2025-08-03",
+    "lastListed": "2025-09-06",
+    "available": "2025-10-07",
+    "daysListed": 34,
+    "daysAvailable": -31,
+    "unitName": "1086",
+    "floorPlanName": "Ultramarine",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "sqft": 1481,
+    "minRent": 6868,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/a15_675BradfordStreet_2086_Aimco1920x1121_1920x1121?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2025-09-06",
+    "lastListed": "2025-09-06",
+    "available": "2025-09-27",
+    "daysListed": 0,
+    "daysAvailable": -21,
+    "unitName": "336",
+    "floorPlanName": "Pacific",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 826,
+    "minRent": 4107,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/Pacific_kitchen_2-1?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2025-06-14",
@@ -4718,6 +4760,20 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/2A20Parent_1C_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
+    "firstListed": "2023-07-19",
+    "lastListed": "2023-10-14",
+    "available": "2023-09-02",
+    "daysListed": 87,
+    "daysAvailable": 42,
+    "unitName": "336",
+    "floorPlanName": "Pacific",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 826,
+    "minRent": 3671,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1L10Parent_22B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
+  },
+  {
     "firstListed": "2023-07-20",
     "lastListed": "2023-08-20",
     "available": "2023-09-02",
@@ -4772,20 +4828,6 @@
     "sqft": 559,
     "minRent": 2824,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/ED10Parent_28A-P_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
-  },
-  {
-    "firstListed": "2023-07-19",
-    "lastListed": "2023-10-14",
-    "available": "2023-09-02",
-    "daysListed": 87,
-    "daysAvailable": 42,
-    "unitName": "336",
-    "floorPlanName": "Pacific",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 826,
-    "minRent": 3671,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1L10Parent_22B_DIMS_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
   },
   {
     "firstListed": "2023-07-19",
