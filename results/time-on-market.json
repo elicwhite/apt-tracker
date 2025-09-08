@@ -3836,20 +3836,6 @@
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Cobalt_DIMS_BW_SKETCH_500X500-01?qlt=100&fmt=jpg"
   },
   {
-    "firstListed": "2024-03-17",
-    "lastListed": "2024-03-29",
-    "available": "2024-04-20",
-    "daysListed": 12,
-    "daysAvailable": -22,
-    "unitName": "541",
-    "floorPlanName": "Cobalt",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 838,
-    "minRent": 3380,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Cobalt_DIMS_BW_SKETCH_500X500-01?qlt=100&fmt=jpg"
-  },
-  {
     "firstListed": "2024-03-06",
     "lastListed": "2024-03-12",
     "available": "2024-04-20",
@@ -3862,6 +3848,20 @@
     "sqft": 801,
     "minRent": 3400,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Indigo1AA10Parent_47B_DIMS_BW_SKETCH_500x500-01?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2024-03-17",
+    "lastListed": "2024-03-29",
+    "available": "2024-04-20",
+    "daysListed": 12,
+    "daysAvailable": -22,
+    "unitName": "541",
+    "floorPlanName": "Cobalt",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 838,
+    "minRent": 3380,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/043315_Cobalt_DIMS_BW_SKETCH_500X500-01?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2024-02-28",
@@ -12278,6 +12278,20 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/800x533/interior/Aqua/750571.jpg"
   },
   {
+    "firstListed": "2020-10-16",
+    "lastListed": "2020-11-30",
+    "available": "2021-01-15",
+    "daysListed": 45,
+    "daysAvailable": -46,
+    "unitName": "674",
+    "floorPlanName": "Sky",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 801,
+    "minRent": 3072,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1AA10Parent_47B_DIMS_BW-01.jpg"
+  },
+  {
     "firstListed": "2020-10-22",
     "lastListed": "2021-02-23",
     "available": "2021-01-15",
@@ -12346,20 +12360,6 @@
     "sqft": 838,
     "minRent": 3041,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1N10Parent_28B_DIMS_BW-01.jpg"
-  },
-  {
-    "firstListed": "2020-10-16",
-    "lastListed": "2020-11-30",
-    "available": "2021-01-15",
-    "daysListed": 45,
-    "daysAvailable": -46,
-    "unitName": "674",
-    "floorPlanName": "Sky",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "sqft": 801,
-    "minRent": 3072,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1AA10Parent_47B_DIMS_BW-01.jpg"
   },
   {
     "firstListed": "2020-11-13",
