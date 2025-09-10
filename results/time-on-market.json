@@ -1,5 +1,19 @@
 [
   {
+    "firstListed": "2025-09-08",
+    "lastListed": "2025-09-09",
+    "available": "2025-11-20",
+    "daysListed": 1,
+    "daysAvailable": -72,
+    "unitName": "674",
+    "floorPlanName": "Sky",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 801,
+    "minRent": 3763,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/03_Sky_Unit67403_Sky_Unit674_I3A6507?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2025-08-22",
     "lastListed": "2025-09-06",
     "available": "2025-10-17",
@@ -96,6 +110,20 @@
     "sqft": 662,
     "minRent": 3632,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/01_Celeste_Unit1013_I3A6382?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2025-09-09",
+    "lastListed": "2025-09-09",
+    "available": "2025-09-09",
+    "daysListed": 0,
+    "daysAvailable": 0,
+    "unitName": "815",
+    "floorPlanName": "Aqua",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 815,
+    "minRent": 3828,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/750681?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2025-08-07",
