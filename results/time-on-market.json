@@ -1,5 +1,19 @@
 [
   {
+    "firstListed": "2025-09-11",
+    "lastListed": "2025-09-20",
+    "available": "2025-11-27",
+    "daysListed": 9,
+    "daysAvailable": -68,
+    "unitName": "780",
+    "floorPlanName": "Turquoise",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 552,
+    "minRent": 3417,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/1920_Indigo_Turquoise_Kitchen01?qlt=100&fmt=jpg"
+  },
+  {
     "firstListed": "2025-09-08",
     "lastListed": "2025-09-09",
     "available": "2025-11-20",
@@ -12,6 +26,20 @@
     "sqft": 801,
     "minRent": 3763,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/03_Sky_Unit67403_Sky_Unit674_I3A6507?qlt=100&fmt=jpg"
+  },
+  {
+    "firstListed": "2025-08-14",
+    "lastListed": "2025-09-20",
+    "available": "2025-10-17",
+    "daysListed": 37,
+    "daysAvailable": -27,
+    "unitName": "742",
+    "floorPlanName": "Smalt Jr. 1-Bed",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 583,
+    "minRent": 3301,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/03_Indigo_Smalt542_S4A7248?qlt=100&fmt=jpg"
   },
   {
     "firstListed": "2025-08-22",
