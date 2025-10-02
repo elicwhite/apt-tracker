@@ -13613,20 +13613,6 @@
     "available": "2020-09-25",
     "daysListed": 0,
     "daysAvailable": 0,
-    "unitName": "732",
-    "floorPlanName": "Midnight",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "sqft": 1245,
-    "minRent": 4385,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2D20Parent_15C-P_DIMS_BW-01.jpg"
-  },
-  {
-    "firstListed": "2020-09-25",
-    "lastListed": "2020-09-25",
-    "available": "2020-09-25",
-    "daysListed": 0,
-    "daysAvailable": 0,
     "unitName": "777",
     "floorPlanName": "Oxford",
     "bedrooms": 1,
@@ -13634,6 +13620,20 @@
     "sqft": 770,
     "minRent": 2949,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1V10Parent_41B_DIMS_BW-01.jpg"
+  },
+  {
+    "firstListed": "2020-09-25",
+    "lastListed": "2020-09-25",
+    "available": "2020-09-25",
+    "daysListed": 0,
+    "daysAvailable": 0,
+    "unitName": "732",
+    "floorPlanName": "Midnight",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1245,
+    "minRent": 4385,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_2D20Parent_15C-P_DIMS_BW-01.jpg"
   },
   {
     "firstListed": "2020-09-23",
