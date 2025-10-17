@@ -5251,6 +5251,20 @@
   },
   {
     "firstListed": "2023-06-21",
+    "lastListed": "2023-07-16",
+    "available": "2023-08-05",
+    "daysListed": 25,
+    "daysAvailable": -20,
+    "unitName": "770",
+    "floorPlanName": "Ultramarine",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "sqft": 1481,
+    "minRent": 5559,
+    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/3A20Parent_45D_BW-01?qlt=85&fmt=jpg"
+  },
+  {
+    "firstListed": "2023-06-21",
     "lastListed": "2023-07-08",
     "available": "2023-08-05",
     "daysListed": 17,
@@ -5290,20 +5304,6 @@
     "sqft": 682,
     "minRent": 2854,
     "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/EG10Parent_54A-2_BW_SKETCH_500x500-01?qlt=85&fmt=jpg"
-  },
-  {
-    "firstListed": "2023-06-21",
-    "lastListed": "2023-07-16",
-    "available": "2023-08-05",
-    "daysListed": 25,
-    "daysAvailable": -20,
-    "unitName": "770",
-    "floorPlanName": "Ultramarine",
-    "bedrooms": 3,
-    "bathrooms": 2,
-    "sqft": 1481,
-    "minRent": 5559,
-    "diagrams": "https:/www.indigoapthomes.com/https:/s7d9.scene7.com/is/image/aimcoprod/3A20Parent_45D_BW-01?qlt=85&fmt=jpg"
   },
   {
     "firstListed": "2023-06-21",
@@ -7588,6 +7588,20 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
   },
   {
+    "firstListed": "2022-08-20",
+    "lastListed": "2022-08-25",
+    "available": "2022-08-20",
+    "daysListed": 5,
+    "daysAvailable": 5,
+    "unitName": "770",
+    "floorPlanName": "Ultramarine",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "sqft": 1481,
+    "minRent": 5925,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
+  },
+  {
     "firstListed": "2022-06-23",
     "lastListed": "2022-06-29",
     "available": "2022-08-20",
@@ -7614,20 +7628,6 @@
     "sqft": 552,
     "minRent": 2990,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/sketch/unfurnished/jpgs/043315_IndigoEB10Parent_50A_DIMS_BW_SKETCH_500x500-01.jpg"
-  },
-  {
-    "firstListed": "2022-08-20",
-    "lastListed": "2022-08-25",
-    "available": "2022-08-20",
-    "daysListed": 5,
-    "daysAvailable": 5,
-    "unitName": "770",
-    "floorPlanName": "Ultramarine",
-    "bedrooms": 3,
-    "bathrooms": 2,
-    "sqft": 1481,
-    "minRent": 5925,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
   },
   {
     "firstListed": "2022-06-15",
@@ -13916,6 +13916,20 @@
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1W10Parent_42B_DIMS_BW-01.jpg"
   },
   {
+    "firstListed": "2020-08-23",
+    "lastListed": "2020-09-25",
+    "available": "2020-09-06",
+    "daysListed": 33,
+    "daysAvailable": 19,
+    "unitName": "770",
+    "floorPlanName": "Ultramarine",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "sqft": 1481,
+    "minRent": 5227,
+    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
+  },
+  {
     "firstListed": "2020-09-06",
     "lastListed": "2020-09-06",
     "available": "2020-09-06",
@@ -13984,20 +13998,6 @@
     "sqft": 843,
     "minRent": 3181,
     "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/043315_Indigo_1K10Parent_21B_DIMS_BW-01.jpg"
-  },
-  {
-    "firstListed": "2020-08-23",
-    "lastListed": "2020-09-25",
-    "available": "2020-09-06",
-    "daysListed": 33,
-    "daysAvailable": 19,
-    "unitName": "770",
-    "floorPlanName": "Ultramarine",
-    "bedrooms": 3,
-    "bathrooms": 2,
-    "sqft": 1481,
-    "minRent": 5227,
-    "diagrams": "https:/www.indigoapthomes.com/content/dam/aimco-properties/043315/floor_plan_diagrams/updated_2d/jpgs/3A20Parent_45D_BW-01.jpg"
   },
   {
     "firstListed": "2020-08-23",
